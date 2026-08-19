@@ -2,6 +2,7 @@
 const TEMAS = [
   {
     "id": "tema-1",
+    "bloque": "Bloque I. Derecho Constitucional y de la Unión Europea",
     "titulo": "Tema 1. La Unión Europea: instituciones y organismos",
     "preguntas": [
       {
@@ -308,6 +309,7 @@ const TEMAS = [
   },
   {
     "id": "tema-2",
+    "bloque": "Bloque I. Derecho Constitucional y de la Unión Europea",
     "titulo": "Tema 2. La constitución española de 1978",
     "preguntas": [
       {
@@ -614,6 +616,7 @@ const TEMAS = [
   },
   {
     "id": "tema-3",
+    "bloque": "Bloque I. Derecho Constitucional y de la Unión Europea",
     "titulo": "Tema 3. Las Cortes Generales.",
     "preguntas": [
       {
@@ -920,6 +923,7 @@ const TEMAS = [
   },
   {
     "id": "tema-4",
+    "bloque": "Bloque I. Derecho Constitucional y de la Unión Europea",
     "titulo": "Tema 4. La Corona. El Rey. El Tribunal Constitucional",
     "preguntas": [
       {
@@ -1166,6 +1170,7 @@ const TEMAS = [
   },
   {
     "id": "tema-5",
+    "bloque": "Bloque I. Derecho Constitucional y de la Unión Europea",
     "titulo": "Tema 5. El Gobierno.",
     "preguntas": [
       {
@@ -1472,6 +1477,7 @@ const TEMAS = [
   },
   {
     "id": "tema-6",
+    "bloque": "Bloque I. Derecho Constitucional y de la Unión Europea",
     "titulo": "Tema 6. El Poder Judicial. Los derechos y libertades públicas.",
     "preguntas": [
       {
@@ -1778,6 +1784,7 @@ const TEMAS = [
   },
   {
     "id": "tema-7",
+    "bloque": "Bloque I. Derecho Constitucional y de la Unión Europea",
     "titulo": "Tema 7. Derechos y deberes constitucionales.",
     "preguntas": [
       {
@@ -2019,6 +2026,2877 @@ const TEMAS = [
         "correcta": 1,
         "explicacion": "El texto señala que se establece un fuero especial para el Defensor del Pueblo, atribuyendo la instrucción y el enjuiciamiento a la Sala de lo Penal del Tribunal Supremo.",
         "id": "tema-7-q20"
+      }
+    ]
+  },
+  {
+    "id": "tema-8",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 8. La Administración Pública y el Derecho Administrativo",
+    "preguntas": [
+      {
+        "enunciado": "Según el texto, ¿qué norma reconoce actualmente la personalidad jurídica de la Administración Pública del Estado, sustituyendo a la antigua LOFAGE?",
+        "opciones": [
+          "La Ley 39/2015, del Procedimiento Administrativo Común",
+          "La Ley 40/2015, de Régimen Jurídico del Sector Público",
+          "La Ley 29/1998, reguladora de la Jurisdicción Contencioso-Administrativa",
+          "La Constitución Española de 1978"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto indica que la personalidad jurídica de la AP del Estado 'se reconoce en la Ley 40/2015 de Régimen Jurídico del Sector Público, que sustituye a la antigua LOFAGE (Ley 6/1997, de 14 de abril)'.",
+        "id": "tema-8-q1"
+      },
+      {
+        "enunciado": "Según el artículo 3.4 de la Ley 40/2015 citado en el texto, cada una de las Administraciones Públicas del artículo 2 actúa para el cumplimiento de sus fines con:",
+        "opciones": [
+          "Personalidad jurídica delegada del Estado",
+          "Personalidad jurídica única",
+          "Personalidad jurídica plural según cada órgano",
+          "Autonomía política plena"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto reproduce literalmente el art. 3.4: 'Cada una de las Administraciones Públicas del artículo 2 actúa para el cumplimiento de sus fines con personalidad jurídica única'.",
+        "id": "tema-8-q2"
+      },
+      {
+        "enunciado": "¿A qué origen atribuye el texto el concepto de personalidad jurídica aplicado a la Administración Pública?",
+        "opciones": [
+          "A la doctrina francesa del siglo XVIII",
+          "A una ficción de creación dogmática de profesores alemanes de la segunda mitad del siglo XIX",
+          "A la doctrina italiana de relevancia constitucional",
+          "A los iuspublicistas alemanes de la tercera década del siglo XX"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto señala que la personalidad jurídica 'es una mera ficción de creación dogmática de creación dogmática (2ª mitad del siglo XIX por profesores Alemanes)'.",
+        "id": "tema-8-q3"
+      },
+      {
+        "enunciado": "Según el texto, Montesquieu definió a la Administración Pública, en el marco de la división de poderes, como:",
+        "opciones": [
+          "'El conjunto de órganos y entes públicos con personalidad jurídica'",
+          "'El brazo ejecutor de los fines del Estado, dentro de un sistema de división de poderes'",
+          "'Un colectivo formado por órganos, subordinado al Gobierno'",
+          "'El Derecho propio y peculiar de las Administraciones Públicas'"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto cita literalmente: 'En palabras de Montesquieu es el brazo ejecutor de los fines del Estado, dentro de un sistema de división de poderes'.",
+        "id": "tema-8-q4"
+      },
+      {
+        "enunciado": "La teoría que sostiene que lo determinante del Derecho Administrativo es el sujeto (la Administración como organización, institución o persona jurídica), con independencia del tipo de función que realice, se denomina en el texto:",
+        "opciones": [
+          "Teoría objetiva o funcional",
+          "Teoría orgánica-subjetiva",
+          "Teoría de la doble personalidad",
+          "Teoría de las inmunidades del poder"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto explica que 'la concepción orgánica-subjetiva entiende que la clave es el sujeto... Sólo lo que realice este sujeto es propiamente Derecho Administrativo'.",
+        "id": "tema-8-q5"
+      },
+      {
+        "enunciado": "Dentro de la clasificación de Administraciones Territoriales que ofrece el texto, ¿cuál de las siguientes NO se incluye en dicho grupo?",
+        "opciones": [
+          "La Administración del Estado",
+          "Las Comunidades Autónomas",
+          "Los Entes Locales (Municipios, Provincias e Islas)",
+          "El Consejo de Estado"
+        ],
+        "correcta": 3,
+        "explicacion": "El Consejo de Estado aparece en el texto dentro de las Administraciones no territoriales, como Administración Consultiva, no entre las territoriales.",
+        "id": "tema-8-q6"
+      },
+      {
+        "enunciado": "Según la clasificación del texto, el Tribunal de Cuentas se encuadra dentro de las Administraciones no territoriales como Administración de:",
+        "opciones": [
+          "Tipo Consultivo",
+          "Tipo Control",
+          "Tipo Institucional",
+          "Tipo Corporativo"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto clasifica expresamente al 'Tribunal de Cuentas' dentro de la 'Administración de Control'.",
+        "id": "tema-8-q7"
+      },
+      {
+        "enunciado": "El Colegio de Abogados y la Cámara de Comercio son ejemplos, según el texto, de Administración no territorial de tipo:",
+        "opciones": [
+          "Consultivo",
+          "Institucional",
+          "Corporativo",
+          "De control"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto los sitúa dentro de 'Corporativa: Colegio de Abogados, Cámara de Comercio'.",
+        "id": "tema-8-q8"
+      },
+      {
+        "enunciado": "Según explica el texto respecto del artículo 2.3 de la Ley 39/2015, ¿cuál de las siguientes entidades queda fuera del concepto de Administración Pública?",
+        "opciones": [
+          "La Administración General del Estado",
+          "Las Administraciones de las Comunidades Autónomas",
+          "Las Entidades que integran la Administración Local",
+          "Los denominados órganos constitucionales"
+        ],
+        "correcta": 3,
+        "explicacion": "El texto afirma literalmente que 'quedan fuera del concepto de AP los denominados órganos constitucionales cuya existencia responde a una finalidad específica diseñada constitucionalmente'.",
+        "id": "tema-8-q9"
+      },
+      {
+        "enunciado": "Las Entidades/Organismos de Derecho Público con personalidad jurídica propia, vinculadas o dependientes de las Administraciones Públicas (Sector Público Institucional), sujetan su actividad a la Ley 39/2015:",
+        "opciones": [
+          "En todo caso y para toda su actividad",
+          "Únicamente cuando ejerzan potestades administrativas",
+          "Solo si tienen naturaleza territorial",
+          "Nunca, quedan excluidas de dicha Ley"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto indica que 'sujetarán su actividad a la presente Ley cuando ejerzan potestades administrativas, sometiéndose en el resto de su actividad a lo que dispongan sus normas de creación'.",
+        "id": "tema-8-q10"
+      },
+      {
+        "enunciado": "Según el texto, ¿cuáles son los órganos constitucionales en sentido estricto en la Constitución Española de 1978?",
+        "opciones": [
+          "La Corona, las Cortes Generales, el Gobierno, el Tribunal Constitucional y el Consejo General del Poder Judicial",
+          "La Corona, el Tribunal de Cuentas, el Defensor del Pueblo y el Gobierno",
+          "Las Cortes Generales, el Consejo de Estado y el Tribunal Constitucional",
+          "El Gobierno, el Tribunal de Cuentas y las Asambleas Legislativas autonómicas"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto los enumera: 'la Corona... (Título II), las Cortes Generales (Título III), el Gobierno (Título IV), el Tribunal Constitucional (Título IX), el Consejo General del Poder Judicial (art. 122)'.",
+        "id": "tema-8-q11"
+      },
+      {
+        "enunciado": "La Constitución de 1978 regula el Gobierno y la Administración (civil y militar) en:",
+        "opciones": [
+          "El Título II, artículos 56 y siguientes",
+          "El Título IV, artículos 97 y siguientes",
+          "El Título IX, artículo 122",
+          "El Título III, artículos 66 y siguientes"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto señala que 'Nuestra Constitución de 1978 regula el Gobierno y la Administración (civil y militar) en el título IV (art. 97 y ss.)'.",
+        "id": "tema-8-q12"
+      },
+      {
+        "enunciado": "La frase 'el Gobierno cambia y la Administración Pública permanece' se atribuye en el texto a:",
+        "opciones": [
+          "Javier Pérez Royo",
+          "Miguel Artola",
+          "Otto Mayer",
+          "Forsthoff"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto cita esta idea entre paréntesis atribuyéndola a Miguel Artola.",
+        "id": "tema-8-q13"
+      },
+      {
+        "enunciado": "Según el artículo 2 de la Ley 29/1998, de la Jurisdicción Contencioso-Administrativa, citado en el texto, ¿cuál de las siguientes NO es una de las materias por las que las decisiones políticas del Gobierno quedan sometidas al Derecho Administrativo?",
+        "opciones": [
+          "La protección jurisdiccional de los derechos fundamentales",
+          "Los elementos reglados",
+          "La determinación de las indemnizaciones que fueran procedentes",
+          "La revisión de la oportunidad política de la decisión"
+        ],
+        "correcta": 3,
+        "explicacion": "El texto solo cita como excepciones controlables la protección de derechos fundamentales, los elementos reglados y las indemnizaciones procedentes; la oportunidad política no se menciona como controlable.",
+        "id": "tema-8-q14"
+      },
+      {
+        "enunciado": "La expresión 'Estado Social y Democrático de Derecho' se deriva en España del artículo 1.1 de la Constitución de 1978, tomado a su vez, según el texto, de:",
+        "opciones": [
+          "La Constitución americana de 1787",
+          "La Declaración de los Derechos del Hombre y del Ciudadano de 1789",
+          "La Ley Fundamental de Bonn de 1949",
+          "La Constitución española de 1812"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto indica que la expresión 'se deriva en España del art. 1.1 de la Constitución de 1978, tomado a su vez de la Ley Fundamental de Bonn de 1949'.",
+        "id": "tema-8-q15"
+      },
+      {
+        "enunciado": "Según el texto, Otto Mayer definió lo específico del Estado de Derecho de aquel período como:",
+        "opciones": [
+          "'El espacio vital del ciudadano'",
+          "'El Estado de Derecho Administrativo bien ordenado'",
+          "'La procura existencial del hombre'",
+          "'El brazo ejecutor de los fines del Estado'"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto atribuye a Otto Mayer la definición del 'Estado de Derecho Administrativo bien ordenado'.",
+        "id": "tema-8-q16"
+      },
+      {
+        "enunciado": "Según el texto, Forsthoff concibió el Estado Social como el Estado que se responsabiliza por:",
+        "opciones": [
+          "La 'procura existencial'",
+          "Las 'inmunidades del poder'",
+          "El 'Estado de Derecho bien ordenado'",
+          "La 'legitimación democrática del poder'"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que 'el Estado Social fue concebido por los alemanes como el Estado que se responsabiliza por la procura existencial', concepto de Forsthoff.",
+        "id": "tema-8-q17"
+      },
+      {
+        "enunciado": "Según el texto, ¿en qué Constitución española aparece por primera vez el principio de división de poderes?",
+        "opciones": [
+          "La Constitución de 1812",
+          "La Constitución de 1837",
+          "La Constitución de 1931",
+          "La Constitución de 1978"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto afirma que 'En España aparece por primera vez en la Constitución de 1812'.",
+        "id": "tema-8-q18"
+      },
+      {
+        "enunciado": "El principio de legalidad de las Administraciones Públicas, calificado en el texto como 'cláusula primordial y piedra angular del derecho administrativo', se encuentra en los artículos:",
+        "opciones": [
+          "9.1 y 103.1 de la Constitución Española",
+          "14 y 24 de la Constitución Española",
+          "97 y 122 de la Constitución Española",
+          "128.2 y 128.3 de la Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto localiza esta cláusula en 'el 9.1 (de manera implícita) y 103.1 de la CE'.",
+        "id": "tema-8-q19"
+      },
+      {
+        "enunciado": "Según el artículo 128.2 de la Ley 39/2015 citado en el texto, los reglamentos y disposiciones administrativas, en su función de desarrollo o colaboración respecto a la ley, no podrán:",
+        "opciones": [
+          "Regular el procedimiento administrativo común",
+          "Tipificar delitos, faltas o infracciones administrativas, ni establecer penas, sanciones o tributos",
+          "Establecer órganos consultivos",
+          "Delegar competencias en órganos inferiores"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto reproduce que dichas disposiciones 'no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público'.",
+        "id": "tema-8-q20"
+      },
+      {
+        "enunciado": "Según el artículo 37.1 de la Ley 39/2015 mencionado en el texto, las resoluciones administrativas de carácter particular (actos):",
+        "opciones": [
+          "Siempre prevalecen sobre las disposiciones de carácter general",
+          "No podrán vulnerar lo establecido en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía al que dictó la disposición",
+          "Solo pueden ser dictadas por el órgano que aprobó la disposición general",
+          "Quedan excluidas del principio de legalidad"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto reproduce el art. 37.1: las resoluciones particulares 'no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general'.",
+        "id": "tema-8-q21"
+      },
+      {
+        "enunciado": "Según el texto, frente a un acto administrativo, la vía de recurso que se agota en primer lugar, antes de acudir a la vía contencioso-administrativa, es:",
+        "opciones": [
+          "El recurso de amparo",
+          "El recurso en vía administrativa (alzada o potestativo de reposición)",
+          "El recurso ante el Tribunal Constitucional",
+          "El recurso ante el Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto indica que 'primero recursos en vía administrativa; alzada o potestativo de reposición... si el recurso no ha sido estimado en vía administrativa se abre la vía contencioso-administrativa'.",
+        "id": "tema-8-q22"
+      },
+      {
+        "enunciado": "Según el texto, García de Enterría califica al Derecho Administrativo como:",
+        "opciones": [
+          "El Derecho especial de los ciudadanos frente al Estado",
+          "El Derecho común y general de las Administraciones Públicas",
+          "El Derecho exclusivo de la Administración del Estado",
+          "El Derecho subsidiario del Derecho civil"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto recoge entre los elementos esenciales adoptados por la doctrina que el Derecho Administrativo 'Es el Derecho común y general de las AAPP (GARCÍA DE ENTERRÍA)'.",
+        "id": "tema-8-q23"
+      },
+      {
+        "enunciado": "Según el texto, ¿qué leyes conforman la denominada 'legislación administrativa general', aplicable a todas las Administraciones Públicas?",
+        "opciones": [
+          "LRJSP, LPAC, LJCA y LEF",
+          "LOFAGE, LBRL y LOPJ",
+          "CE, LO 2/1982 y LO 3/1981",
+          "Ley 6/1997 y Ley 30/1992"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto cita 'normas estatales con rango de ley (como la LRJSP, la LPAC, la LJCA o la LEF) aplicables a todas las Administraciones públicas' como legislación administrativa general.",
+        "id": "tema-8-q24"
+      },
+      {
+        "enunciado": "Según el texto, la legislación administrativa gira en torno a dos ejes fundamentales: la regulación del alcance y límites de las potestades exorbitantes y:",
+        "opciones": [
+          "La regulación de la organización territorial del Estado",
+          "La regulación de la gestión interna de los recursos públicos atribuidos a la Administración",
+          "La regulación del procedimiento legislativo de las Cortes Generales",
+          "La regulación de la separación de poderes"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto señala como segundo eje 'la regulación de la gestión interna de los recursos públicos atribuidos a la Administración', destinada a garantizar transparencia, objetividad y eficiencia.",
+        "id": "tema-8-q25"
+      }
+    ]
+  },
+  {
+    "id": "tema-9",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 9. El Derecho Administrativo y el Estado español descentralizado.",
+    "preguntas": [
+      {
+        "enunciado": "Según el artículo 2 de la Constitución Española, la Constitución se fundamenta en...",
+        "opciones": [
+          "la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles",
+          "la soberanía popular ejercida a través de las Comunidades Autónomas",
+          "el pacto federal entre el Estado y las nacionalidades históricas",
+          "la unidad de mercado y la solidaridad interterritorial"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 2 CE dispone literalmente que la Constitución se fundamenta en la indisoluble unidad de la Nación española.",
+        "id": "tema-9-q1"
+      },
+      {
+        "enunciado": "Según el texto, el derecho a la autonomía que la Constitución reconoce a las Comunidades Autónomas supone un poder...",
+        "opciones": [
+          "meramente administrativo, sin capacidad normativa propia",
+          "político y no meramente administrativo",
+          "soberano, equiparable al del Estado central",
+          "exclusivamente consultivo frente al Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El documento señala que las CCAA se constituyen con facultades de autogobierno, es decir, con poder político y no meramente administrativo.",
+        "id": "tema-9-q2"
+      },
+      {
+        "enunciado": "Tras las primeras elecciones democráticas, ¿en qué fecha se restablecieron las autonomías de Cataluña y el País Vasco?",
+        "opciones": [
+          "Diciembre de 1978, tras la aprobación de la Constitución",
+          "Junio de 1977",
+          "Octubre de 1979, con la aprobación de sus Estatutos",
+          "Febrero de 1981"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto indica que tras las primeras elecciones democráticas, en junio de 1977, se restablecieron las autonomías de Cataluña y País Vasco.",
+        "id": "tema-9-q3"
+      },
+      {
+        "enunciado": "Además de a provincias limítrofes, territorios insulares y provincias con entidad regional histórica, ¿mediante qué instrumento pueden las Cortes Generales constituir Comunidades Autónomas en territorios que no reúnan las condiciones del artículo 143.1, por motivos de interés nacional?",
+        "opciones": [
+          "Mediante ley ordinaria aprobada por mayoría simple",
+          "Mediante real decreto del Consejo de Ministros",
+          "Mediante ley orgánica",
+          "Mediante referéndum territorial vinculante"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto señala que se faculta a las Cortes Generales, mediante ley orgánica y por motivos de interés nacional, la constitución de CCAA en territorios que no reúnan las condiciones del art. 143.1.",
+        "id": "tema-9-q4"
+      },
+      {
+        "enunciado": "El principio de voluntariedad en la configuración autonómica implica que la creación de una Comunidad Autónoma...",
+        "opciones": [
+          "es una imposición que la Constitución establece directamente",
+          "es un derecho que ha de pedirse por las entidades que aspiran a gozar de la autonomía",
+          "requiere aprobación previa del Tribunal Constitucional",
+          "solo puede solicitarla el Gobierno de la Nación"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto indica que la creación de una CA no es una imposición constitucional, sino un derecho que ha de pedirse por las entidades interesadas.",
+        "id": "tema-9-q5"
+      },
+      {
+        "enunciado": "El principio de peculiaridad en el proceso autonómico se refiere a que...",
+        "opciones": [
+          "todas las CCAA deben seguir un modelo único de estatuto",
+          "se reconoce la particularidad de cada ente autonómico, sin un modelo único de competencias",
+          "solo las nacionalidades históricas pueden tener estatuto propio",
+          "las competencias se asignan por sorteo entre las CCAA"
+        ],
+        "correcta": 1,
+        "explicacion": "Según el texto, la peculiaridad supone que no hay un modelo único, sino un marco de competencias posibles adaptado a las necesidades de cada territorio.",
+        "id": "tema-9-q6"
+      },
+      {
+        "enunciado": "¿Qué Comunidades Autónomas accedieron a la autonomía por la vía del artículo 151 de la Constitución?",
+        "opciones": [
+          "Cataluña, País Vasco y Galicia",
+          "Andalucía, Cataluña y Galicia",
+          "Comunidad Valenciana y Canarias",
+          "País Vasco, Navarra y Cataluña"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica expresamente que por la vía del artículo 151 accedieron a la autonomía Cataluña, País Vasco y Galicia.",
+        "id": "tema-9-q7"
+      },
+      {
+        "enunciado": "¿En qué años se aprobaron los nuevos Estatutos de Autonomía de la Comunidad Valenciana, Cataluña y Andalucía mencionados en el texto?",
+        "opciones": [
+          "1990 y 1992",
+          "2005 y 2006",
+          "1978 y 1979",
+          "2010 y 2012"
+        ],
+        "correcta": 1,
+        "explicacion": "El documento señala que en 2005 y 2006 se aprobaron los nuevos Estatutos de Autonomía de la Comunidad Valenciana, Cataluña y Andalucía.",
+        "id": "tema-9-q8"
+      },
+      {
+        "enunciado": "Según el artículo 1.2 de la Constitución Española, ¿dónde reside la soberanía nacional?",
+        "opciones": [
+          "En las Cortes Generales",
+          "En el pueblo español, del que emanan los poderes del Estado",
+          "En cada una de las Comunidades Autónomas",
+          "En el Rey como jefe del Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El artículo 1.2 CE establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+        "id": "tema-9-q9"
+      },
+      {
+        "enunciado": "Según el texto, la diferencia principal entre soberanía y autonomía es que...",
+        "opciones": [
+          "ambas son poderes originarios e ilimitados",
+          "la soberanía es un poder derivado y la autonomía un poder originario",
+          "la soberanía es un poder jurídico-político originario e ilimitado del Estado central, y la autonomía un poder derivado y limitado de las nacionalidades y regiones",
+          "no existe diferencia jurídica relevante entre ambas"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto precisa que la soberanía se configura como poder originario e ilimitado del Estado, mientras que la autonomía es un poder derivado y limitado.",
+        "id": "tema-9-q10"
+      },
+      {
+        "enunciado": "¿Cómo define el texto al Estatuto de Autonomía?",
+        "opciones": [
+          "Como una ley ordinaria más del ordenamiento estatal",
+          "Como la norma institucional básica de la Comunidad Autónoma",
+          "Como un reglamento de desarrollo de la Constitución",
+          "Como un tratado entre el Estado y la Comunidad Autónoma"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto define el Estatuto de Autonomía como la norma institucional básica de la Comunidad Autónoma, que fija sus competencias y organización.",
+        "id": "tema-9-q11"
+      },
+      {
+        "enunciado": "Según el artículo 147.2 de la Constitución, ¿cuál de los siguientes contenidos NO se exige a los Estatutos de Autonomía?",
+        "opciones": [
+          "La denominación de la Comunidad que mejor corresponda a su identidad histórica",
+          "La delimitación de su territorio",
+          "El sistema tributario propio de la Comunidad Autónoma",
+          "Las competencias asumidas dentro del marco constitucional y las bases del traspaso de servicios"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 147.2 CE exige denominación, delimitación territorial, denominación/organización/sede de instituciones propias y competencias asumidas; un sistema tributario propio no figura entre los contenidos citados en el texto.",
+        "id": "tema-9-q12"
+      },
+      {
+        "enunciado": "Conforme al artículo 152.1 de la Constitución, la Asamblea Legislativa de las Comunidades Autónomas que accedieron por la vía del art. 151 se elige por sufragio universal con un sistema de representación...",
+        "opciones": [
+          "mayoritario",
+          "proporcional, que asegure además la representación de las diversas zonas del territorio",
+          "corporativo, por colegios profesionales",
+          "indirecto, a través de los ayuntamientos"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 152.1 CE establece una Asamblea Legislativa elegida por sufragio universal con un sistema de representación proporcional que asegure la representación de las diversas zonas del territorio.",
+        "id": "tema-9-q13"
+      },
+      {
+        "enunciado": "Según el modelo del artículo 152.1 CE descrito en el texto, el Presidente de la Comunidad Autónoma es elegido por la Asamblea de entre sus miembros y...",
+        "opciones": [
+          "nombrado por el Rey",
+          "nombrado por el Presidente del Gobierno",
+          "ratificado por el Tribunal Constitucional",
+          "investido por el Senado"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica que el Presidente, elegido por la Asamblea de entre sus miembros, es nombrado por el Rey.",
+        "id": "tema-9-q14"
+      },
+      {
+        "enunciado": "Según el texto, ¿qué órgano culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo?",
+        "opciones": [
+          "El Tribunal Constitucional",
+          "La Audiencia Nacional",
+          "El Tribunal Superior de Justicia",
+          "El Consejo de Estado"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto señala que el Tribunal Superior de Justicia, sin perjuicio de la jurisdicción del Tribunal Supremo, culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma.",
+        "id": "tema-9-q15"
+      },
+      {
+        "enunciado": "Según el artículo 148.2 de la Constitución, transcurridos cuántos años desde la aprobación de sus Estatutos podían las CCAA que accedieron por la vía del artículo 143 ampliar sucesivamente sus competencias mediante la reforma de sus Estatutos?",
+        "opciones": [
+          "Dos años",
+          "Cinco años",
+          "Diez años",
+          "Veinte años"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 148.2 CE establece que transcurridos cinco años desde la aprobación de sus Estatutos, esas CCAA podían ampliar sus competencias reformando sus Estatutos.",
+        "id": "tema-9-q16"
+      },
+      {
+        "enunciado": "El artículo 150.1 de la Constitución permite a las Cortes Generales atribuir a las CCAA la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal. ¿Cómo se denomina este instrumento?",
+        "opciones": [
+          "Ley marco",
+          "Ley de bases",
+          "Ley de armonización",
+          "Ley orgánica de transferencia"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 150.1 CE regula la denominada ley marco, mediante la cual las Cortes Generales atribuyen a las CCAA la facultad de dictar normas legislativas en el marco fijado por una ley estatal.",
+        "id": "tema-9-q17"
+      },
+      {
+        "enunciado": "Según el artículo 150.2 de la Constitución, el Estado podrá transferir o delegar en las Comunidades Autónomas facultades correspondientes a materias de titularidad estatal mediante...",
+        "opciones": [
+          "Real Decreto-ley",
+          "Ley orgánica",
+          "Convenio administrativo bilateral",
+          "Acuerdo del Consejo de Política Fiscal y Financiera"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 150.2 CE dispone que el Estado podrá transferir o delegar competencias en las CCAA mediante ley orgánica (leyes de transferencia o delegación).",
+        "id": "tema-9-q18"
+      },
+      {
+        "enunciado": "Las leyes de armonización previstas en el artículo 150.3 de la Constitución deben ser apreciadas como necesarias por las Cortes Generales mediante...",
+        "opciones": [
+          "mayoría absoluta de cada Cámara",
+          "mayoría simple del Congreso",
+          "unanimidad de las CCAA afectadas",
+          "mayoría de tres quintos del Senado"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto precisa que corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de la necesidad de dictar leyes de armonización.",
+        "id": "tema-9-q19"
+      },
+      {
+        "enunciado": "Cuando el Estado ostenta la legislación básica sobre una materia y la Comunidad Autónoma su desarrollo legislativo, hablamos de un tipo de competencia denominada...",
+        "opciones": [
+          "Competencias plenas o íntegras",
+          "Competencias exclusivas limitadas",
+          "Competencias compartidas",
+          "Competencias indistintas"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto define las competencias compartidas como aquellas en que dos instancias distintas ejercen una misma función sobre idéntica materia, como cuando al Estado corresponde la legislación básica y a la Comunidad el desarrollo legislativo.",
+        "id": "tema-9-q20"
+      },
+      {
+        "enunciado": "Según el texto, la competencia para conocer del recurso de inconstitucionalidad y de los conflictos de competencia entre el Estado y las Comunidades Autónomas corresponde al Tribunal Constitucional, regulado en los artículos 161 y siguientes de la Constitución y en...",
+        "opciones": [
+          "la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional",
+          "la Ley 7/1985, de las Bases del Régimen Local",
+          "la Ley Orgánica 5/1985, del Régimen Electoral General",
+          "el Real Decreto Legislativo 781/1986"
+        ],
+        "correcta": 0,
+        "explicacion": "El sistema de protección jurisdiccional se regula en los artículos 161 y siguientes de la CE y en la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.",
+        "id": "tema-9-q21"
+      },
+      {
+        "enunciado": "Respecto a la supletoriedad del derecho estatal prevista en el artículo 149.3 CE, el Tribunal Constitucional se ha pronunciado afirmando que la misma...",
+        "opciones": [
+          "es un título universal de competencia que permite al Estado invadir las competencias exclusivas de las CCAA",
+          "no es un título universal de competencia que permita al Estado invadir las competencias exclusivas de las CCAA",
+          "solo se aplica a las materias enumeradas en el artículo 148 CE",
+          "ha sido derogada por la Ley Orgánica 2/1979"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto indica que, según el Tribunal Constitucional, la supletoriedad no es un título universal de competencia que permita al Estado invadir las competencias exclusivas de las CCAA.",
+        "id": "tema-9-q22"
+      },
+      {
+        "enunciado": "La Constitución Española regula el régimen local sobre la base del principio de autonomía, recogido en los artículos 137 y 140 CE, y del principio de...",
+        "opciones": [
+          "soberanía compartida (art. 1.2 CE)",
+          "descentralización política (art. 103.1 CE)",
+          "unidad de mercado (art. 139 CE)",
+          "supletoriedad del derecho estatal (art. 149.3 CE)"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto señala que la CE regula el régimen local sobre la base de los principios de autonomía (arts. 137 y 140) y descentralización política (art. 103.1).",
+        "id": "tema-9-q23"
+      },
+      {
+        "enunciado": "Según el artículo 3 de la Ley 7/1985, Reguladora de las Bases del Régimen Local (LBRL), ¿cuál de las siguientes NO se menciona en el texto como entidad local?",
+        "opciones": [
+          "El Municipio",
+          "La Provincia",
+          "La Diputación Provincial",
+          "Las Mancomunidades de Municipios"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto enumera como entidades locales del art. 3 LBRL al Municipio, la Provincia, la Isla, las Comarcas, las Áreas Metropolitanas y las Mancomunidades de Municipios; la Diputación Provincial es el órgano de gobierno y administración de la provincia, no una entidad local distinta enumerada en ese listado.",
+        "id": "tema-9-q24"
+      },
+      {
+        "enunciado": "Según el texto, el Real Decreto-ley 6/2023, que reformó la LBRL, redujo el número mínimo de habitantes para constituir un municipio de 5.000 a...",
+        "opciones": [
+          "3.000",
+          "4.000",
+          "2.500",
+          "1.000"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto precisa que el Real Decreto-ley 6/2023 modificó la LBRL reduciendo el número mínimo de habitantes para constituir un municipio de 5.000 a 4.000.",
+        "id": "tema-9-q25"
+      }
+    ]
+  },
+  {
+    "id": "tema-10",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 10. Las fuentes del Derecho Administrativo.",
+    "preguntas": [
+      {
+        "enunciado": "Según el tema, la denominada \"doctrina del Fisco\" se corresponde con:",
+        "opciones": [
+          "Una sumisión parcial al Derecho de ciertos actos estatales, sometiéndose únicamente aquellos que no se diferencian de los que pudiera realizar cualquier particular",
+          "Una sumisión total al Derecho Común de los actos del Estado, sin especial situación jurídica de este (rule of law)",
+          "Una sumisión total al Derecho de los actos del Estado, pero con especial consideración de la situación de prerrogativa de este",
+          "La sumisión exclusiva del Estado a los tratados internacionales ratificados"
+        ],
+        "correcta": 0,
+        "explicacion": "Es el primero de los tres modos de sumisión del Estado al Derecho descritos en el tema: la doctrina del Fisco implica sumisión parcial, quedando fuera los actos de poder del Estado.",
+        "id": "tema-10-q1"
+      },
+      {
+        "enunciado": "El modo de sumisión del Estado al Derecho conocido como \"rule of law\" se caracteriza porque:",
+        "opciones": [
+          "El Estado únicamente se somete a los actos que no se diferencian de los de un particular",
+          "El Estado se somete totalmente al Derecho Común, sin especial situación jurídica, es decir, al Derecho Común y no al Especial",
+          "El Estado se somete totalmente al Derecho pero conservando una situación de prerrogativa (régimen administrativo)",
+          "El Estado queda excluido de cualquier forma de sumisión al Derecho"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema define el 'rule of law' como la sumisión total al Derecho Común de los actos del Estado, sin especial situación jurídica de este, sometiéndose únicamente a Derecho Común y no al Especial.",
+        "id": "tema-10-q2"
+      },
+      {
+        "enunciado": "En el régimen administrativo (tercer modo de sumisión del Estado al Derecho recogido en el tema), la prerrogativa de la Administración implica que:",
+        "opciones": [
+          "Los actos administrativos quedan excluidos de todo control jurisdiccional",
+          "Se presume la legitimidad de los actos administrativos, considerándose ejecutivos, si bien la presunción admite prueba en contrario, correspondiendo la carga de la prueba al particular",
+          "La carga de la prueba de la ilegalidad del acto corresponde siempre a la propia Administración",
+          "La prerrogativa constituye un trato de favor ajeno al ordenamiento jurídico"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto señala que la prerrogativa no es un trato de favor, sino que se presume la legitimidad de los actos administrativos (ejecutivos), presunción que admite prueba en contrario a cargo del particular.",
+        "id": "tema-10-q3"
+      },
+      {
+        "enunciado": "El principio de relación entre normas jurídicas conforme al cual una ley especial prevalece sobre una ley general se denomina:",
+        "opciones": [
+          "Principio de jerarquía",
+          "Principio de competencia",
+          "Principio de especialidad",
+          "Principio de subsidiariedad"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema recoge tres principios de relación entre normas: jerarquía, competencia y especialidad; este último se define como la prevalencia de la ley especial sobre la ley general.",
+        "id": "tema-10-q4"
+      },
+      {
+        "enunciado": "¿Qué autor define las fuentes del Derecho Administrativo como \"aquellas formas o actos a través de los cuales el Derecho Administrativo se manifiesta en su vigencia\"?",
+        "opciones": [
+          "Santos Briz",
+          "Garrido Falla",
+          "Heller",
+          "García de Enterría"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema atribuye expresamente esta definición al profesor Garrido Falla.",
+        "id": "tema-10-q5"
+      },
+      {
+        "enunciado": "Según el artículo 1 del Código Civil, citado en el tema, las fuentes del ordenamiento jurídico español son:",
+        "opciones": [
+          "La Ley, la Jurisprudencia y los Tratados Internacionales",
+          "La Ley, la costumbre y los principios generales del Derecho",
+          "La Constitución, la Ley y el Reglamento",
+          "La Ley, la doctrina científica y la costumbre"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema reproduce literalmente el artículo 1 del Código Civil: «las fuentes del ordenamiento jurídico español son: la Ley, la costumbre y los principios generales del Derecho».",
+        "id": "tema-10-q6"
+      },
+      {
+        "enunciado": "De acuerdo con la clasificación entre fuentes directas e indirectas expuesta en el tema, son fuentes directas del Derecho Administrativo:",
+        "opciones": [
+          "La Ley, los Tratados internacionales y la Jurisprudencia",
+          "La Ley, la costumbre y los principios generales del Derecho",
+          "La Jurisprudencia, la doctrina científica y la costumbre",
+          "La Constitución, los Tratados internacionales y el Reglamento"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema enumera como fuentes directas la Ley, la costumbre y los principios generales del Derecho, y como indirectas los Tratados internacionales, la Jurisprudencia y la doctrina científica.",
+        "id": "tema-10-q7"
+      },
+      {
+        "enunciado": "Conforme al tema, son fuentes indirectas del Derecho Administrativo:",
+        "opciones": [
+          "La Ley, la costumbre y los principios generales del Derecho",
+          "Los Tratados internacionales, la Jurisprudencia y la doctrina científica o doctrina de los autores",
+          "Únicamente la Jurisprudencia",
+          "La Constitución y los Reglamentos"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema clasifica como fuentes indirectas los Tratados internacionales, la Jurisprudencia y la doctrina científica o doctrina de los autores.",
+        "id": "tema-10-q8"
+      },
+      {
+        "enunciado": "En la reclasificación de las fuentes según su jerarquía de aplicación, el tema distingue entre fuentes primarias y secundarias. ¿Cuáles se consideran fuentes secundarias?",
+        "opciones": [
+          "La Ley y el Reglamento",
+          "La Constitución y los Tratados Internacionales",
+          "La costumbre y los principios generales del Derecho",
+          "La Ley y la Jurisprudencia"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema señala que son fuentes primarias la Ley (en sentido amplio, incluyendo el Reglamento, la Constitución y los Tratados Internacionales) y fuentes secundarias la costumbre y los principios generales del Derecho.",
+        "id": "tema-10-q9"
+      },
+      {
+        "enunciado": "Según el artículo 1.5 del Código Civil, citado en el tema, las normas jurídicas contenidas en los tratados internacionales:",
+        "opciones": [
+          "Serán de aplicación directa en España desde su firma por el Gobierno",
+          "No serán de aplicación directa en España en tanto no hayan pasado a formar parte del ordenamiento interno mediante su publicación íntegra en el Boletín Oficial del Estado",
+          "Solo tendrán vigencia tras ser ratificados por las Comunidades Autónomas",
+          "Prevalecerán siempre sobre la Constitución Española"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema cita el artículo 1.5 del Código Civil, que exige la publicación íntegra del tratado en el BOE para su incorporación al ordenamiento interno y su aplicación directa.",
+        "id": "tema-10-q10"
+      },
+      {
+        "enunciado": "El artículo 1.3 del Código Civil establece que la costumbre solo regirá:",
+        "opciones": [
+          "En defecto de ley aplicable, siempre que no sea contraria a la moral o al orden público y que resulte probada",
+          "Cuando así lo decida discrecionalmente el juez, sin necesidad de prueba",
+          "En cualquier caso, con independencia de la existencia de ley aplicable",
+          "Únicamente en el ámbito del Derecho mercantil"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema recoge que el apartado 3 del artículo 1 CC determina el valor de la costumbre: rige solo en defecto de ley aplicable, no contraria a la moral u orden público, y debe resultar probada.",
+        "id": "tema-10-q11"
+      },
+      {
+        "enunciado": "Según el artículo 1.4 del Código Civil, los principios generales del Derecho:",
+        "opciones": [
+          "Se aplican con preferencia a la Ley y la costumbre",
+          "Se aplicarán en defecto de Ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico",
+          "Solo son aplicables en el orden jurisdiccional contencioso-administrativo",
+          "Carecen de valor jurídico y son meras orientaciones doctrinales"
+        ],
+        "correcta": 1,
+        "explicacion": "El apartado 4 del artículo 1 CC proclama que los principios generales del Derecho «se aplicarán en defecto de Ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico».",
+        "id": "tema-10-q12"
+      },
+      {
+        "enunciado": "El tema define los principios generales del Derecho como:",
+        "opciones": [
+          "Normas escritas de rango constitucional",
+          "Las convicciones ético-jurídicas de la comunidad política, que expresan valores materiales del ordenamiento jurídico",
+          "Los usos reiterados de un grupo social local o regional",
+          "La doctrina reiterada del Tribunal Supremo al interpretar la Ley"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema los define como convicciones ético-jurídicas de la comunidad política que expresan valores materiales del ordenamiento jurídico, no siendo preciso que se trate de una norma escrita.",
+        "id": "tema-10-q13"
+      },
+      {
+        "enunciado": "El tema pone como ejemplo de principios generales del Derecho positivizados los enunciados en:",
+        "opciones": [
+          "El artículo 53.2 de la Constitución Española",
+          "El artículo 9.3 de la Constitución Española",
+          "El artículo 5 de la Ley Orgánica del Poder Judicial",
+          "El artículo 35.1.c de la Ley 39/2015"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica, en nota a pie de página, que un ejemplo de positivización de principios generales son los enunciados en el artículo 9.3 de la CE.",
+        "id": "tema-10-q14"
+      },
+      {
+        "enunciado": "Según el tema, el proceso de positivización de los principios generales del Derecho, como el de responsabilidad de las Administraciones Públicas, comienza con:",
+        "opciones": [
+          "La Constitución Española de 1978",
+          "La Ley 39/2015, de 1 de octubre",
+          "La Ley de Expropiación Forzosa de 1954",
+          "La Ley de Bases de Régimen Local"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema señala en nota que este proceso de positivización comienza con la Ley de Expropiación Forzosa de 1954, que incorpora el principio de responsabilidad de las administraciones públicas.",
+        "id": "tema-10-q15"
+      },
+      {
+        "enunciado": "El tema define \"la costumbre\" como:",
+        "opciones": [
+          "La doctrina reiterada del Tribunal Supremo al aplicar la Ley",
+          "El uso reiterado, duradero y constante de un comportamiento, con la convicción de cumplir una obligación jurídica por parte de un grupo social local o regional",
+          "Un acto administrativo adoptado como criterio en un supuesto concreto",
+          "La adopción de un criterio interpretativo por la Administración vinculante para el futuro"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema define expresamente la costumbre como el uso reiterado, duradero y constante de un comportamiento con la convicción de cumplir una obligación jurídica de un grupo social local o regional.",
+        "id": "tema-10-q16"
+      },
+      {
+        "enunciado": "En materia de Concejos Abiertos o Asambleas vecinales, según lo dispuesto por la Ley de Bases de Régimen Local citada en el tema, dichos órganos se regirán:",
+        "opciones": [
+          "Exclusivamente por lo dispuesto en la Ley de Régimen Local, sin margen para la costumbre",
+          "En primer lugar por el uso, la costumbre o tradición local, y en su defecto por lo establecido en dicha Ley y las leyes de las Comunidades Autónomas sobre régimen local",
+          "Por los principios generales del Derecho con carácter preferente",
+          "Por lo dispuesto en la Ley de Aguas"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema recoge que la Ley de Bases de Régimen Local determina que los Concejos Abiertos se regirán, en primer lugar, por el uso, la costumbre o tradición local y, en su defecto, por la Ley y las leyes autonómicas sobre régimen local.",
+        "id": "tema-10-q17"
+      },
+      {
+        "enunciado": "En el régimen de aprovechamiento de bienes comunales, el tema señala que la Ley de Aguas concede preferencia a:",
+        "opciones": [
+          "Las reglas consuetudinarias de las Comunidades de Usuarios o Regantes",
+          "Los reglamentos estatales sobre régimen local",
+          "Los principios generales del Derecho",
+          "La jurisprudencia del Tribunal Supremo"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que en materias reguladas por la Ley de Aguas se concede preferencia a las reglas consuetudinarias de las Comunidades de Usuarios o Regantes.",
+        "id": "tema-10-q18"
+      },
+      {
+        "enunciado": "Sobre el precedente administrativo, el tema señala que la doctrina reconoce fuerza vinculante al mismo:",
+        "opciones": [
+          "Siempre y en todo caso, sin ningún requisito adicional",
+          "Siempre que se dé una identidad subjetiva y objetiva sustancial entre los supuestos comparados, en virtud de los principios de seguridad jurídica, interdicción de la arbitrariedad y del derecho a la igualdad ante la ley",
+          "Únicamente cuando el precedente ha sido publicado en el Boletín Oficial del Estado",
+          "Solo cuando el precedente tiene más de veinte años de antigüedad"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema recoge que la generalidad de la doctrina reconoce fuerza vinculante al precedente cuando existe identidad subjetiva y objetiva sustancial, fundamentándolo en los principios de seguridad jurídica e interdicción de la arbitrariedad y en el derecho a la igualdad (arts. 9.3 y 14 CE).",
+        "id": "tema-10-q19"
+      },
+      {
+        "enunciado": "Según el tema, la Administración puede apartarse del precedente administrativo:",
+        "opciones": [
+          "Únicamente cuando el acto invocado como precedente es ilegal, resolviéndose el conflicto a favor de la legalidad, o cuando concurre un factor de interés público, debiendo en este caso motivar su decisión conforme al artículo 35.1.c de la Ley 39/2015",
+          "En cualquier momento y sin necesidad de motivación alguna",
+          "Solo si así lo autoriza expresamente el Tribunal Supremo",
+          "Nunca, pues el precedente tiene siempre carácter absolutamente vinculante"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica dos supuestos: cuando el precedente invocado es ilegal, y cuando concurre un interés público que aconseja un criterio diverso, exigiéndose en este último caso motivación conforme al art. 35.1.c de la Ley 39/2015.",
+        "id": "tema-10-q20"
+      },
+      {
+        "enunciado": "¿Qué principios rigen, según el tema, las relaciones entre las normas jurídicas?",
+        "opciones": [
+          "Jerarquía, competencia y especialidad",
+          "Legalidad, publicidad y retroactividad",
+          "Subsidiariedad, proporcionalidad y competencia",
+          "Jerarquía, temporalidad y especialidad"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema afirma expresamente que las relaciones entre las normas jurídicas se rigen por los principios de jerarquía, de competencia y de especialidad.",
+        "id": "tema-10-q21"
+      },
+      {
+        "enunciado": "El principio de jerarquía normativa, según el tema, alude en un doble sentido a:",
+        "opciones": [
+          "La distribución de competencias entre Administración General del Estado, CCAA y Corporaciones Locales",
+          "La primacía del derecho estatal frente a la costumbre y los principios generales del Derecho, y a la jerarquía de las normas según la importancia del órgano del que emanan",
+          "La prevalencia de la ley especial sobre la ley general",
+          "La preeminencia exclusiva de los Tratados Internacionales sobre cualquier otra norma"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema explica que el principio de jerarquía normativa alude, por una parte, a la primacía del derecho estatal frente a la costumbre y los principios generales, y por otra, a la jerarquía de las normas según el órgano del que emanan.",
+        "id": "tema-10-q22"
+      },
+      {
+        "enunciado": "El principio de competencia, frente al principio de jerarquía, alude al sistema de distribución de competencias entre las distintas Administraciones Públicas, sistema que se establece en la Constitución Española en:",
+        "opciones": [
+          "El Título I, \"De los derechos y deberes fundamentales\"",
+          "El Título VIII, \"De la organización territorial del Estado\"",
+          "El Título Preliminar",
+          "El artículo 53.2 CE"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica que el sistema de distribución de competencias se establece en la CE en su Título VIII, dedicado a la organización territorial del Estado.",
+        "id": "tema-10-q23"
+      },
+      {
+        "enunciado": "El nuevo Título Preliminar del Código Civil, citado en el tema, establece respecto a la jurisprudencia que:",
+        "opciones": [
+          "Es fuente formal del Derecho al mismo nivel que la Ley",
+          "Complementará el ordenamiento jurídico con la doctrina que de modo reiterado establezca el Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales del Derecho",
+          "Solo tiene valor cuando emana del Tribunal Constitucional",
+          "Carece de cualquier valor jurídico en el Derecho Administrativo"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema cita textualmente esta previsión del Código Civil, señalando además que la jurisprudencia relativa al Derecho Administrativo la crea la Sala III del Tribunal Supremo.",
+        "id": "tema-10-q24"
+      },
+      {
+        "enunciado": "Conforme al artículo 5 de la LOPJ, citado en el tema, y en relación con la CE como norma suprema del ordenamiento jurídico:",
+        "opciones": [
+          "La CE vincula a todos los jueces y tribunales, quienes interpretarán y aplicarán las leyes y reglamentos según los preceptos y principios constitucionales, pudiendo revisarse mediante recurso de amparo (art. 53.2 CE) las actuaciones administrativas no conformes con los derechos fundamentales",
+          "La CE solo vincula al Tribunal Constitucional y no al resto de jueces y tribunales",
+          "Las leyes y reglamentos se interpretan exclusivamente conforme a la costumbre",
+          "El recurso de amparo procede únicamente frente a actos de los órganos legislativos"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema explica que el art. 5 LOPJ otorga a la CE valor de norma suprema vinculante para todos los jueces y tribunales, y que las actuaciones administrativas no conformes con ella pueden revisarse mediante el recurso de amparo del art. 53.2 CE.",
+        "id": "tema-10-q25"
+      }
+    ]
+  },
+  {
+    "id": "tema-11",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 11. Constitución, ley y normas equiparadas a la ley.",
+    "preguntas": [
+      {
+        "enunciado": "Según el artículo 5 de la Ley Orgánica del Poder Judicial (LOPJ), la Constitución española de 1978...",
+        "opciones": [
+          "incorpora el sistema de valores esenciales que han de presidir la convivencia política",
+          "es una norma meramente programática sin valor jurídico directo",
+          "solo resulta de aplicación a los poderes públicos, no a los particulares",
+          "puede ser modificada por cualquier ley orgánica sin necesidad de referéndum"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 5 LOPJ establece que la CE ocupa la cúspide del ordenamiento jurídico e incorpora el sistema de valores esenciales que han de presidir la convivencia política.",
+        "id": "tema-11-q1"
+      },
+      {
+        "enunciado": "Según el esquema piramidal de jerarquía normativa recogido en el tema, ¿qué norma se sitúa inmediatamente por debajo de la Ley y el Decreto-Ley?",
+        "opciones": [
+          "La Orden Ministerial",
+          "El Decreto",
+          "La Ley Orgánica",
+          "Otras resoluciones"
+        ],
+        "correcta": 1,
+        "explicacion": "El esquema del tema sitúa, de mayor a menor rango: Constitución, Ley Orgánica, Decreto-Ley/Ley, Decreto, Orden Ministerial y Otras resoluciones.",
+        "id": "tema-11-q2"
+      },
+      {
+        "enunciado": "La denominada \"cláusula de constitucionalidad\" del art. 9.1 CE establece que...",
+        "opciones": [
+          "los poderes públicos están sujetos a la Constitución, pero no los ciudadanos",
+          "el Legislativo queda excluido de la sujeción a la Constitución",
+          "los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico",
+          "la Constitución solo obliga a los Tribunales"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 9.1 CE recoge literalmente que ciudadanos y poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico, lo que incluye al Legislativo y sus leyes.",
+        "id": "tema-11-q3"
+      },
+      {
+        "enunciado": "Conforme al art. 1.2 CE, ¿dónde reside la soberanía nacional?",
+        "opciones": [
+          "En las Cortes Generales",
+          "En el Rey",
+          "En el Tribunal Constitucional",
+          "En el pueblo español"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 1.2 CE dispone que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado; de ahí que el Poder Constituyente sea la fuente de producción del Derecho constitucional.",
+        "id": "tema-11-q4"
+      },
+      {
+        "enunciado": "Para interponer el recurso de inconstitucionalidad (art. 162.1 CE), se exige, entre otros legitimados, un mínimo de...",
+        "opciones": [
+          "50 Diputados o 50 Senadores",
+          "15 Diputados o 25 Senadores",
+          "176 Diputados",
+          "25 Diputados o 50 Senadores"
+        ],
+        "correcta": 0,
+        "explicacion": "Según el art. 162.1 CE y la LOTC, están legitimados, entre otros, el Gobierno, 50 Diputados, 50 Senadores, el Defensor del Pueblo y las Asambleas legislativas o Gobiernos de las CCAA.",
+        "id": "tema-11-q5"
+      },
+      {
+        "enunciado": "La cuestión de inconstitucionalidad (art. 163 CE) puede ser planteada por...",
+        "opciones": [
+          "únicamente el Tribunal Supremo, de oficio",
+          "cualquier Juez o Tribunal que haya de fallar, cuando la norma de cuya validez dependa el fallo pudiera ser inconstitucional, siempre que la duda sea motivada",
+          "el Defensor del Pueblo ante cualquier juzgado",
+          "50 Diputados o 50 Senadores"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 163 CE reserva la cuestión de inconstitucionalidad a cualquier Juez o Tribunal que deba fallar un asunto cuya resolución dependa de la validez de una norma con rango de ley, exigiendo que la duda sea motivada.",
+        "id": "tema-11-q6"
+      },
+      {
+        "enunciado": "Según el tema, una norma con rango de ley incurre en vicio de inconstitucionalidad cuando...",
+        "opciones": [
+          "no ha sido convalidada por el Senado en el plazo de 30 días",
+          "contradice una circular administrativa",
+          "es contraria a la Constitución o al sistema de distribución de competencias entre el Estado y las CCAA (arts. 148, 149 y 150 CE), o infringe la reserva de ley orgánica del art. 81 CE",
+          "no ha sido informada previamente por el Consejo de Estado"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema identifica dos causas de inconstitucionalidad: la contrariedad con la Constitución o el sistema de distribución de competencias (arts. 148-150 CE) y la infracción de la reserva de ley orgánica (art. 81 CE).",
+        "id": "tema-11-q7"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es uno de los caracteres de la Ley señalados en el tema?",
+        "opciones": [
+          "Legalidad",
+          "Generalidad",
+          "Publicidad",
+          "Retroactividad"
+        ],
+        "correcta": 3,
+        "explicacion": "El tema señala como caracteres de la Ley la Legalidad, la Generalidad y la Publicidad (impuesta por el art. 9.3 CE); la retroactividad no se menciona como carácter de la Ley.",
+        "id": "tema-11-q8"
+      },
+      {
+        "enunciado": "Salvo que la propia ley disponga otra cosa, ¿en qué plazo entran en vigor las leyes tras su completa publicación en el BOE?",
+        "opciones": [
+          "A los 20 días (art. 2.1 CCi)",
+          "A los 15 días",
+          "Al día siguiente",
+          "A los 30 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Conforme al art. 2.1 del Código Civil, las leyes entrarán en vigor a los 20 días de su completa publicación en el BOE, salvo disposición en contrario.",
+        "id": "tema-11-q9"
+      },
+      {
+        "enunciado": "Según el art. 91 CE, el Rey sancionará las leyes aprobadas por las Cortes Generales en el plazo de...",
+        "opciones": [
+          "20 días",
+          "15 días",
+          "30 días",
+          "1 mes"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 91 CE establece que el Rey sancionará las leyes en el plazo de 15 días desde su aprobación por las Cortes, ordenando su inmediata publicación.",
+        "id": "tema-11-q10"
+      },
+      {
+        "enunciado": "En el Senado, la iniciativa legislativa parlamentaria (proposición de ley) requiere un Grupo Parlamentario o la firma de...",
+        "opciones": [
+          "15 senadores",
+          "50 senadores",
+          "25 senadores",
+          "un portavoz únicamente, sin senadores adicionales"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema señala que en el Senado la proposición de ley exige un Grupo Parlamentario o la firma de 25 senadores, frente a los 15 diputados más la firma de un portavoz exigidos en el Congreso.",
+        "id": "tema-11-q11"
+      },
+      {
+        "enunciado": "La Iniciativa Legislativa Popular exige la firma de 500.000 personas, que deben recabarse en el plazo de...",
+        "opciones": [
+          "3 meses improrrogables",
+          "1 año, prorrogable por 6 meses",
+          "6 meses improrrogables en todo caso",
+          "6 meses desde la notificación a la comisión promotora, prorrogable por otros 3 meses por causa mayor"
+        ],
+        "correcta": 3,
+        "explicacion": "El tema indica que el plazo es de 6 meses desde la notificación a la comisión promotora de la admisión de la proposición, prorrogable por causa mayor apreciada por la Mesa del Congreso por otros 3 meses.",
+        "id": "tema-11-q12"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes materias SÍ puede ser objeto de Iniciativa Legislativa Popular conforme al tema?",
+        "opciones": [
+          "La regulación de una materia de Derecho civil no reservada a Ley Orgánica ni de naturaleza tributaria",
+          "Las materias propias de leyes orgánicas",
+          "Las materias de naturaleza tributaria",
+          "La planificación de la actividad económica general"
+        ],
+        "correcta": 0,
+        "explicacion": "Están excluidas de la ILP las materias propias de leyes orgánicas, las tributarias, las de carácter internacional, la prerrogativa de gracia y la planificación de la actividad económica general y los PGE; el resto de materias sí son susceptibles de ILP.",
+        "id": "tema-11-q13"
+      },
+      {
+        "enunciado": "Según el Tribunal Constitucional (STC 83/84), el principio de reserva de ley entraña una garantía esencial del Estado de Derecho consistente en asegurar que...",
+        "opciones": [
+          "el Gobierno pueda regular libremente mediante reglamento cualquier materia",
+          "la regulación de los ámbitos de libertad de los ciudadanos dependa exclusivamente de la voluntad de sus representantes",
+          "las Comunidades Autónomas tengan competencia exclusiva sobre toda materia legislativa",
+          "los jueces puedan inaplicar la ley cuando lo consideren oportuno"
+        ],
+        "correcta": 1,
+        "explicacion": "La STC 83/84 señala que la reserva de ley asegura que la regulación de los ámbitos de libertad de los ciudadanos dependa exclusivamente de la voluntad de sus representantes, quedando exentos de la acción del ejecutivo.",
+        "id": "tema-11-q14"
+      },
+      {
+        "enunciado": "La regulación básica del Tribunal Constitucional se contiene en el Título IX de la CE, y el sistema de control constitucional que sigue fue ideado por...",
+        "opciones": [
+          "Montesquieu",
+          "Jellinek",
+          "Kelsen",
+          "Rousseau"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema señala que el Tribunal Constitucional, regulado en el Título IX de la CE, sigue el sistema concentrado de control de constitucionalidad ideado por Kelsen.",
+        "id": "tema-11-q15"
+      },
+      {
+        "enunciado": "Conforme al art. 27.2 LOTC, ¿cuál de las siguientes NO está sometida al control de constitucionalidad?",
+        "opciones": [
+          "Las leyes ordinarias y orgánicas",
+          "Los Decretos-Leyes y Decretos Legislativos",
+          "Los reglamentos parlamentarios",
+          "Los reglamentos administrativos"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 27.2 LOTC somete a control constitucional las leyes, las disposiciones con fuerza de ley, los tratados internacionales y los reglamentos parlamentarios; los reglamentos administrativos quedan fuera, correspondiendo su control a la jurisdicción contencioso-administrativa.",
+        "id": "tema-11-q16"
+      },
+      {
+        "enunciado": "Para la aprobación de una Ley Orgánica se exige la mayoría absoluta del Congreso (350 Diputados), lo que supone un mínimo de...",
+        "opciones": [
+          "176 votos a favor",
+          "175 votos a favor",
+          "180 votos a favor",
+          "351 votos a favor"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema precisa que la mayoría absoluta exigida por el art. 81 CE para las leyes orgánicas equivale, sobre un total de 350 Diputados, a un mínimo de 176 votos a favor.",
+        "id": "tema-11-q17"
+      },
+      {
+        "enunciado": "La institución del Defensor del Pueblo, conforme al art. 54 CE, se regula mediante...",
+        "opciones": [
+          "la Ley Orgánica 2/1979",
+          "la Ley Orgánica 3/1981, de 6 de abril",
+          "la Ley 30/1992",
+          "el Real Decreto-ley 8/2020"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema cita expresamente que la institución del Defensor del Pueblo se regula por la Ley Orgánica 3/1981, de 6 de abril, en desarrollo del art. 54 CE.",
+        "id": "tema-11-q18"
+      },
+      {
+        "enunciado": "Conforme al art. 147.1 CE, el Estatuto de Autonomía es...",
+        "opciones": [
+          "una ley ordinaria autonómica sin especialidad alguna",
+          "un reglamento parlamentario",
+          "la norma institucional básica de cada Comunidad Autónoma",
+          "un tratado internacional de aplicación interna"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 147.1 CE define el Estatuto de Autonomía como la norma institucional básica de la Comunidad Autónoma dentro de los términos de la propia Constitución, según recoge el tema.",
+        "id": "tema-11-q19"
+      },
+      {
+        "enunciado": "Los Estatutos de Autonomía no pueden ser reformados...",
+        "opciones": [
+          "bajo ningún concepto, al ser normas inmodificables",
+          "mediante Decreto-ley en caso de urgencia",
+          "sin la intervención exclusiva del Gobierno de la Nación",
+          "como las Leyes Orgánicas, sino mediante los procedimientos en ellos previstos (art. 152.2 CE)"
+        ],
+        "correcta": 3,
+        "explicacion": "El tema señala que los Estatutos son \"algo más que una Ley Orgánica\", por lo que no se reforman como éstas sino mediante los procedimientos previstos en cada Estatuto (art. 152.2 CE), exigiéndose en algunos casos referéndum.",
+        "id": "tema-11-q20"
+      },
+      {
+        "enunciado": "Los Decretos-Leyes (art. 86 CE) se dictan en supuestos de...",
+        "opciones": [
+          "extraordinaria y urgente necesidad, teniendo carácter provisional",
+          "previa delegación legislativa expresa de las Cortes Generales",
+          "mera oportunidad política, sin necesidad de justificar urgencia",
+          "refundición de varios textos normativos en uno solo"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 86 CE habilita al Gobierno a dictar Decretos-Leyes en casos de extraordinaria y urgente necesidad, con carácter provisional, a diferencia de los Decretos Legislativos que requieren delegación previa.",
+        "id": "tema-11-q21"
+      },
+      {
+        "enunciado": "Los Decretos-Leyes deben ser convalidados o derogados por el Congreso de los Diputados en el plazo de...",
+        "opciones": [
+          "los 15 días siguientes a su promulgación",
+          "los 30 días siguientes a su promulgación",
+          "los 60 días siguientes a su promulgación",
+          "los 20 días siguientes a su publicación en el BOE"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica que los Decretos-Leyes deben ser convalidados o derogados en su totalidad por el Congreso de los Diputados en el plazo de 30 días siguientes a su promulgación.",
+        "id": "tema-11-q22"
+      },
+      {
+        "enunciado": "Los Decretos Legislativos pueden dictarse mediante dos vías de habilitación parlamentaria, que son...",
+        "opciones": [
+          "el Decreto-Ley y el Reglamento ejecutivo",
+          "la Ley Orgánica y el Tratado internacional",
+          "la Ley de Bases, para la formación de textos articulados, y la Ley ordinaria de autorización, para refundir varios textos normativos",
+          "la delegación tácita y la delegación implícita"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema distingue la Ley de Bases (para textos articulados) y la Ley ordinaria de autorización (para textos refundidos) como las dos vías de habilitación de la legislación delegada (arts. 82 a 85 CE).",
+        "id": "tema-11-q23"
+      },
+      {
+        "enunciado": "Si un tratado internacional contiene estipulaciones contrarias a la Constitución, el art. 95 CE exige, con carácter previo a su celebración...",
+        "opciones": [
+          "la convalidación por el Congreso en el plazo de 30 días",
+          "la autorización del Consejo de Estado",
+          "un referéndum obligatorio en todo caso",
+          "la previa revisión constitucional"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 95 CE establece que la celebración de un tratado con estipulaciones contrarias a la CE exigirá la previa revisión constitucional, pudiendo el Gobierno o las Cámaras requerir al TC para que se pronuncie.",
+        "id": "tema-11-q24"
+      },
+      {
+        "enunciado": "En cuanto al efecto directo del derecho comunitario, el tema señala que...",
+        "opciones": [
+          "los reglamentos y decisiones tienen efecto directo, mientras que las directivas solo lo tienen si se transponen",
+          "todas las normas comunitarias, sin excepción, tienen efecto directo",
+          "únicamente las directivas tienen efecto directo",
+          "ninguna norma comunitaria produce efecto directo en el ordenamiento interno"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema precisa que el derecho comunitario es directamente aplicable en los ordenamientos internos, si bien los reglamentos y decisiones tienen efecto directo mientras que las directivas solo lo tienen cuando han sido transpuestas.",
+        "id": "tema-11-q25"
+      }
+    ]
+  },
+  {
+    "id": "tema-13",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 13. Discriminación por razón de género.",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué artículo de la Constitución Española proclama el derecho a la igualdad y a la no discriminación por razón de sexo?",
+        "opciones": [
+          "El artículo 9.2 CE",
+          "El artículo 1.1 CE",
+          "El artículo 14 CE",
+          "El artículo 10.2 CE"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 14 CE proclama el derecho a la igualdad y a la no discriminación por razón de sexo, mientras que el art. 9.2 CE consagra la obligación de los poderes públicos de hacerla real y efectiva.",
+        "id": "tema-13-q1"
+      },
+      {
+        "enunciado": "Según el tema, ¿qué precepto constitucional consagra la obligación de los poderes públicos de promover las condiciones para que la igualdad del individuo y de los grupos en que se integra sean reales y efectivas?",
+        "opciones": [
+          "El artículo 14 CE",
+          "El artículo 9.2 CE",
+          "El artículo 1.1 CE",
+          "El artículo 10.1 CE"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 9.2 CE consagra esa obligación de los poderes públicos, removiendo los obstáculos que impidan o dificulten la plenitud de esa igualdad.",
+        "id": "tema-13-q2"
+      },
+      {
+        "enunciado": "Según el Glosario de términos relativos a la Igualdad entre Mujeres y Hombres de la Dirección General de Asuntos de la Mujer de la Comisión Europea, el 'sexo' se refiere a...",
+        "opciones": [
+          "La construcción social de lo masculino y lo femenino que determina las relaciones humanas",
+          "El reparto de tareas entre mujeres y hombres en la sociedad",
+          "Un tratamiento legal discriminatorio basado en la pertenencia a un grupo",
+          "Las características o diferencias biológicas que distinguen a los hombres de las mujeres"
+        ],
+        "correcta": 3,
+        "explicacion": "El tema define el sexo, en sentido biológico, como las características o diferencias biológicas que distinguen a los hombres de las mujeres, frente al género, que es la construcción social.",
+        "id": "tema-13-q3"
+      },
+      {
+        "enunciado": "¿Cómo denomina el tema a la situación en la que una ley, reglamento, política o práctica, aparentemente neutros, tienen un impacto desproporcionadamente adverso sobre uno de los dos sexos?",
+        "opciones": [
+          "Discriminación indirecta",
+          "Discriminación directa",
+          "Acción positiva",
+          "Mainstreaming de género"
+        ],
+        "correcta": 0,
+        "explicacion": "Esa es la definición literal de discriminación indirecta que ofrece el tema, frente a la discriminación directa, que es un trato legal diferente basado en la pertenencia a un grupo.",
+        "id": "tema-13-q4"
+      },
+      {
+        "enunciado": "Las medidas dirigidas a un grupo determinado con las que se pretende suprimir y prevenir una discriminación o compensar las desventajas resultantes de actitudes, comportamientos y estructuras existentes se denominan en el tema:",
+        "opciones": [
+          "Mainstreaming de género",
+          "Discriminación indirecta",
+          "Acciones positivas (también llamadas discriminación positiva)",
+          "Medidas de transversalidad"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema define así las acciones positivas, señalando entre paréntesis que también se conocen como 'discriminación positiva'.",
+        "id": "tema-13-q5"
+      },
+      {
+        "enunciado": "¿Cuántas Conferencias Mundiales sobre las Mujeres ha convocado Naciones Unidas desde 1975, según el tema?",
+        "opciones": [
+          "3",
+          "4",
+          "5",
+          "6"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema señala que, a través de la convocatoria de 4 Conferencias desde 1975, Naciones Unidas ha contribuido a impulsar las políticas de igualdad de oportunidades.",
+        "id": "tema-13-q6"
+      },
+      {
+        "enunciado": "¿En qué conferencia se estableció el primer decenio de la mujer y se decidió elaborar la Convención para la eliminación de todas las formas de discriminación contra la mujer?",
+        "opciones": [
+          "La II Conferencia Mundial de la Década de las Naciones Unidas para las Mujeres (Copenhague, 1980)",
+          "La III Conferencia Mundial (Nairobi, 1985)",
+          "La IV Conferencia Mundial para la Mujer (Beijing, 1995)",
+          "La I Conferencia Mundial del Año Internacional de las Mujeres (Ciudad de México, 1975)"
+        ],
+        "correcta": 3,
+        "explicacion": "Fue en la I Conferencia Mundial (Ciudad de México, 1975) donde se estableció el primer decenio de la mujer y se decidió elaborar dicha Convención.",
+        "id": "tema-13-q7"
+      },
+      {
+        "enunciado": "¿En qué Conferencia Mundial de Naciones Unidas sobre las Mujeres se empieza, por primera vez, a definir la estrategia del mainstreaming de género?",
+        "opciones": [
+          "La III Conferencia Mundial (Nairobi, Kenia, 1985)",
+          "La I Conferencia Mundial (Ciudad de México, 1975)",
+          "La II Conferencia Mundial (Copenhague, 1980)",
+          "La IV Conferencia Mundial (Beijing, 1995)"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que en la III Conferencia Mundial, celebrada en Nairobi en 1985, las Naciones Unidas empiezan por primera vez a definir la estrategia del mainstreaming de género.",
+        "id": "tema-13-q8"
+      },
+      {
+        "enunciado": "¿En qué año se adoptó la Convención sobre la eliminación de todas las formas de discriminación contra la mujer, citada entre los tratados de Naciones Unidas?",
+        "opciones": [
+          "1966",
+          "1948",
+          "1979",
+          "1967"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema sitúa la Convención sobre la eliminación de todas las formas de discriminación contra la mujer en 1979, posterior a la Declaración de 1967 sobre la misma materia.",
+        "id": "tema-13-q9"
+      },
+      {
+        "enunciado": "Según el artículo 10.2 de la Constitución Española, citado en el tema, las normas relativas a los derechos fundamentales y libertades reconocidos por la Constitución se interpretarán de conformidad con:",
+        "opciones": [
+          "La Carta Social Europea de 1961",
+          "La Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España",
+          "Exclusivamente la Convención sobre la eliminación de todas las formas de discriminación contra la mujer",
+          "La Ley Orgánica 3/2007"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 10.2 CE, transcrito literalmente en el tema, remite a la Declaración Universal de Derechos Humanos y a los tratados y acuerdos internacionales ratificados por España.",
+        "id": "tema-13-q10"
+      },
+      {
+        "enunciado": "¿Qué ley tuvo por objeto promover la conciliación de la vida familiar y laboral de las personas trabajadoras, siendo trasposición de una Directiva comunitaria?",
+        "opciones": [
+          "La Ley Orgánica 3/2007, de 22 de marzo",
+          "La Ley 30/2003, de 13 de octubre",
+          "La Ley 39/2007, de 19 de noviembre",
+          "La Ley 39/1999, de 5 de noviembre"
+        ],
+        "correcta": 3,
+        "explicacion": "La Ley 39/1999, de 5 de noviembre, para promover la conciliación de la vida familiar y laboral, fue trasposición de una Directiva comunitaria y reconoció permisos y excedencias relacionados con la maternidad y paternidad.",
+        "id": "tema-13-q11"
+      },
+      {
+        "enunciado": "La Ley 30/2003, de 13 de octubre, introdujo la obligación de incorporar en los anteproyectos de ley y proyectos reglamentarios del Gobierno:",
+        "opciones": [
+          "Un informe sobre el impacto por razón de género de las medidas que se establezcan",
+          "Un Plan Estratégico de Igualdad de Oportunidades",
+          "La creación del Observatorio Militar de Igualdad",
+          "La constitución de una Comisión Interministerial de Igualdad"
+        ],
+        "correcta": 0,
+        "explicacion": "La Ley 30/2003 modificó la Ley del Gobierno introduciendo, como requisito obligatorio, un informe sobre el impacto por razón de género en la documentación preparatoria de anteproyectos y proyectos reglamentarios.",
+        "id": "tema-13-q12"
+      },
+      {
+        "enunciado": "Entre los fines de la Ley 39/2007, de 19 de noviembre, de la Carrera Militar, el tema destaca:",
+        "opciones": [
+          "La creación del Observatorio Militar de Igualdad",
+          "La equiparación legal de los miembros de las Fuerzas Armadas con el personal de la Administración General del Estado en materia de igualdad",
+          "La aprobación del III Plan de Igualdad de Género en la AGE",
+          "La incorporación del informe de impacto de género en los anteproyectos de ley"
+        ],
+        "correcta": 1,
+        "explicacion": "La Ley 39/2007 de la Carrera Militar destaca, entre sus fines, la equiparación legal de los miembros de las FAS con el personal de la AGE en materia de igualdad, conciliación y prevención de la violencia de género.",
+        "id": "tema-13-q13"
+      },
+      {
+        "enunciado": "La Ley Orgánica 9/2011, de 27 de julio, de Derechos y Deberes de los Miembros de las Fuerzas Armadas, constituyó el órgano encargado de analizar la implantación legislativa en materia de igualdad en el ámbito militar, denominado:",
+        "opciones": [
+          "Observatorio de la Mujer en las FAS",
+          "Observatorio Militar de Igualdad",
+          "Comisión Técnica de Igualdad",
+          "Consejo de participación de la mujer"
+        ],
+        "correcta": 1,
+        "explicacion": "La LO 9/2011 constituyó el Observatorio Militar de Igualdad como encargado de analizar la implantación legislativa en materia de igualdad, entre otros menesteres.",
+        "id": "tema-13-q14"
+      },
+      {
+        "enunciado": "Según el artículo 8.2.j) del Real Decreto 372/2020, de 23 de noviembre, por el que se desarrolla la estructura orgánica básica del Ministerio de Defensa, ¿a qué órgano corresponde impulsar la política de igualdad?",
+        "opciones": [
+          "Al Observatorio Militar de Igualdad",
+          "A la Dirección General de Personal",
+          "A la Comisión Interministerial de Igualdad",
+          "A la Subsecretaría de Defensa"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 8.2.j) del RD 372/2020 establece que corresponde a la Subsecretaría de Defensa impulsar la política de igualdad, si bien la competencia concreta de coordinación se atribuye, conforme al art. 10.2 ñ), a la Dirección General de Personal.",
+        "id": "tema-13-q15"
+      },
+      {
+        "enunciado": "Hasta la aprobación del III Plan, ¿mediante qué acuerdo se aprobó el Plan para la igualdad de género en la Administración General del Estado, que estuvo vigente hasta 2020?",
+        "opciones": [
+          "El Acuerdo de Consejo de Ministros de 4 de marzo de 2005",
+          "El Acuerdo de Consejo de Ministros de 9 de diciembre de 2020",
+          "La Resolución de 29 de diciembre de 2020",
+          "La Orden DEF/524/2005"
+        ],
+        "correcta": 0,
+        "explicacion": "Hasta 2020 seguía vigente el Acuerdo de Consejo de Ministros de 4 de marzo de 2005, por el que se aprobó el Plan para la igualdad de género en la AGE.",
+        "id": "tema-13-q16"
+      },
+      {
+        "enunciado": "El III Plan para la igualdad de género en la Administración General del Estado se aprobó mediante:",
+        "opciones": [
+          "La Ley Orgánica 3/2007, de 22 de marzo",
+          "Acuerdo de Consejo de Ministros de 9 de diciembre de 2020, publicado por resolución de 29 de diciembre de 2020 de la Secretaría General de Función Pública",
+          "Acuerdo de Consejo de Ministros de 4 de marzo de 2005",
+          "El Real Decreto 372/2020, de 23 de noviembre"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica que, por resolución de 29 de diciembre de 2020 de la Secretaría General de Función Pública, se publicó el Acuerdo de Consejo de Ministros de 9 de diciembre de 2020, por el que se aprueba el III Plan.",
+        "id": "tema-13-q17"
+      },
+      {
+        "enunciado": "¿En cuántos ejes de actuación se articula el III Plan de Igualdad de Género en la AGE y cuántas medidas de carácter transversal desarrolla?",
+        "opciones": [
+          "Cuatro ejes y 68 medidas",
+          "Seis ejes y 68 medidas",
+          "Seis ejes y 31 medidas",
+          "Cinco ejes y 40 medidas"
+        ],
+        "correcta": 1,
+        "explicacion": "El III Plan se articula en seis ejes de actuación donde se desarrollan medidas de carácter transversal, en total 68 medidas.",
+        "id": "tema-13-q18"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es uno de los cuatro objetivos específicos y transversales del III Plan de Igualdad de Género en la AGE?",
+        "opciones": [
+          "Transversalidad de género, integrando la perspectiva de género en el trabajo del personal de la AGE",
+          "Regulación del acoso sexual en el Código Penal",
+          "Creación del Observatorio Militar de Igualdad",
+          "Equiparación legal de las FAS con la AGE"
+        ],
+        "correcta": 0,
+        "explicacion": "La transversalidad de género es uno de los cuatro objetivos específicos del III Plan, junto con medir para mejorar, el cambio cultural y la detección temprana de situaciones vulnerables.",
+        "id": "tema-13-q19"
+      },
+      {
+        "enunciado": "Entre las medidas para favorecer la incorporación e integración de la mujer en las Fuerzas Armadas, el tema señala la creación de un órgano cuya función es analizar los procesos de selección, la integración y permanencia de la mujer en las FAS. ¿Cómo se denomina?",
+        "opciones": [
+          "Observatorio Militar de Igualdad",
+          "Comisión Técnica de Igualdad",
+          "Consejo de participación de la mujer",
+          "Observatorio de la Mujer en las FAS"
+        ],
+        "correcta": 3,
+        "explicacion": "Se crea el Observatorio de la Mujer en las FAS, que tendrá la función de analizar los procesos de selección, la integración y permanencia de la mujer en las FAS.",
+        "id": "tema-13-q20"
+      },
+      {
+        "enunciado": "Entre los criterios de actuación en aplicación del principio de igualdad de mujeres y hombres que vinculan a todas las Administraciones Públicas, conforme al Título V de la LOIEMH, se encuentra:",
+        "opciones": [
+          "La equiparación legal de las FAS con la AGE",
+          "La remoción de los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación",
+          "La creación del Observatorio Militar de Igualdad",
+          "La aprobación del III Plan de Igualdad de la AGE"
+        ],
+        "correcta": 1,
+        "explicacion": "El primero de los cinco criterios de actuación recogidos en el Título V de la LOIEMH es la remoción de los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación.",
+        "id": "tema-13-q21"
+      },
+      {
+        "enunciado": "Según su Preámbulo, ¿cómo se estructura la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres?",
+        "opciones": [
+          "8 Títulos y 20 disposiciones finales, sin Título preliminar",
+          "Un Título preliminar y 5 Títulos, sin disposiciones adicionales",
+          "Un Título preliminar, 8 Títulos, 31 disposiciones adicionales, 11 disposiciones transitorias, 1 disposición derogatoria y 8 disposiciones finales",
+          "Un Título preliminar, 10 Títulos y 15 disposiciones adicionales"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema recoge textualmente que la Ley se estructura en un Título preliminar, 8 Títulos, 31 disposiciones adicionales, 11 disposiciones transitorias, 1 disposición derogatoria y 8 disposiciones finales.",
+        "id": "tema-13-q22"
+      },
+      {
+        "enunciado": "¿Qué Título de la Ley Orgánica 3/2007 define los conceptos y categorías jurídicas básicas relativas a la igualdad, como la discriminación directa e indirecta, el acoso sexual y el acoso por razón de sexo, y las acciones positivas?",
+        "opciones": [
+          "El Título Segundo: Políticas públicas para la igualdad",
+          "El Título Primero: El principio de igualdad y la tutela contra la discriminación",
+          "El Título Preliminar",
+          "El Título Cuarto: El derecho al trabajo en igualdad de oportunidades"
+        ],
+        "correcta": 1,
+        "explicacion": "El Título Primero define esos conceptos y categorías jurídicas básicas, determina las consecuencias jurídicas de las conductas discriminatorias e incorpora garantías procesales.",
+        "id": "tema-13-q23"
+      },
+      {
+        "enunciado": "¿Qué Título de la LO 3/2007 se ocupa del derecho al trabajo en igualdad de oportunidades, incorporando medidas de acceso al empleo, formación, promoción profesional y protección frente al acoso sexual?",
+        "opciones": [
+          "El Título III",
+          "El Título V",
+          "El Título IV",
+          "El Título VI"
+        ],
+        "correcta": 2,
+        "explicacion": "El Título IV se ocupa del derecho al trabajo en igualdad de oportunidades, incluyendo entre los derechos laborales la protección frente al acoso sexual y al acoso por razón de sexo.",
+        "id": "tema-13-q24"
+      },
+      {
+        "enunciado": "El Título VIII de la Ley Orgánica 3/2007, relativo a las disposiciones organizativas, crea, entre otros órganos:",
+        "opciones": [
+          "El Observatorio Militar de Igualdad y la Comisión Técnica de Igualdad",
+          "El Plan Estratégico de Igualdad de Oportunidades",
+          "El Observatorio de la Mujer en las FAS",
+          "Una Comisión Interministerial de Igualdad entre mujeres y hombres, las Unidades de Igualdad en cada Ministerio y el Consejo de participación de la mujer"
+        ],
+        "correcta": 3,
+        "explicacion": "El Título VIII crea una Comisión Interministerial de Igualdad, las Unidades de Igualdad en cada Ministerio, y constituye el Consejo de participación de la mujer como órgano colegiado de participación institucional.",
+        "id": "tema-13-q25"
+      }
+    ]
+  },
+  {
+    "id": "tema-14",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 14. La organización administrativa y la personalidad jurídica",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuáles son los cinco principios recogidos en el art. 103.1 de la Constitución Española bajo los que actúa la Administración Pública?",
+        "opciones": [
+          "Jerarquía, desconcentración, descentralización, coordinación y eficacia",
+          "Jerarquía, centralización, desconcentración, coordinación y eficiencia",
+          "Legalidad, jerarquía, descentralización, coordinación y eficacia",
+          "Jerarquía, desconcentración, delegación, coordinación y eficacia"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 103.1 CE establece que la AAPP sirve con objetividad los intereses generales actuando de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+        "id": "tema-14-q1"
+      },
+      {
+        "enunciado": "¿Qué exige el art. 103.2 CE respecto a la estructura y funcionamiento de la organización administrativa?",
+        "opciones": [
+          "Que se regule por Ley",
+          "Que se regule por Reglamento",
+          "Que se regule por Real Decreto del Consejo de Ministros",
+          "Que se regule por Orden Ministerial"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que, a diferencia de la empresa privada, la estructura y funcionamiento de la organización administrativa debe regularse por Ley (art. 103.2 CE).",
+        "id": "tema-14-q2"
+      },
+      {
+        "enunciado": "¿Qué precepto de la Ley 39/2015 confirma que cada Administración Pública actúa con personalidad jurídica única?",
+        "opciones": [
+          "Art. 3.4",
+          "Art. 5.1",
+          "Art. 8.1",
+          "Art. 47.1.b)"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 3.4 de la Ley 39/2015, dentro de los principios generales, afirma que cada AAPP actúa para el cumplimiento de sus fines con personalidad jurídica única.",
+        "id": "tema-14-q3"
+      },
+      {
+        "enunciado": "Según el art. 5.1 de la Ley 40/2015, ¿qué tendrá la consideración de órgano administrativo?",
+        "opciones": [
+          "Las unidades administrativas a las que se atribuyan funciones con efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo",
+          "Cualquier unidad administrativa que tenga personal a su cargo",
+          "Solo los órganos colegiados que adoptan decisiones por mayoría",
+          "Las unidades administrativas dotadas de presupuesto propio"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 5.1 Ley 40/2015 define como órganos administrativos las unidades administrativas a las que se atribuyan funciones con efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.",
+        "id": "tema-14-q4"
+      },
+      {
+        "enunciado": "¿Cuáles son los requisitos mínimos exigidos para la creación de cualquier órgano administrativo, según el texto?",
+        "opciones": [
+          "Determinación de su forma de integración y dependencia jerárquica; delimitación de funciones y competencias; y dotación de los créditos necesarios",
+          "Aprobación por ley orgánica, dotación presupuestaria y publicación en el BOE",
+          "Nombramiento del titular, sede física y reglamento de funcionamiento propio",
+          "Delimitación de funciones, aprobación del Consejo de Ministros e informe del Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto exige, al menos: a) determinación de la forma de integración y dependencia jerárquica, b) delimitación de funciones y competencias, y c) dotación de los créditos necesarios para su puesta en marcha y funcionamiento.",
+        "id": "tema-14-q5"
+      },
+      {
+        "enunciado": "Según el texto, ¿cómo se clasifican los órganos administrativos por su ámbito territorial?",
+        "opciones": [
+          "Centrales, autonómicos y locales",
+          "Centrales, periféricos e internacionales",
+          "Estatales, autonómicos y supranacionales",
+          "Nacionales, regionales y municipales"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto clasifica los órganos, por su ámbito territorial, en centrales, autonómicos y locales.",
+        "id": "tema-14-q6"
+      },
+      {
+        "enunciado": "¿Qué característica define a los órganos consultivos según el texto?",
+        "opciones": [
+          "No podrán estar sujetos a dependencia jerárquica ni recibir instrucciones, directrices o indicación alguna de los órganos que hayan elaborado las disposiciones o actos objeto de consulta",
+          "Actúan directamente sobre una realidad administrativa modificándola",
+          "Deciden y encomiendan su ejecución a otros órganos",
+          "Están sometidos a la jerarquía del órgano al que asesoran"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que los órganos consultivos asesoran a los activos y deliberantes y no podrán estar sujetos a dependencia jerárquica ni recibir instrucciones de los órganos que elaboraron las disposiciones o actos objeto de consulta.",
+        "id": "tema-14-q7"
+      },
+      {
+        "enunciado": "Por su composición, ¿cómo se clasifican los órganos administrativos según el texto?",
+        "opciones": [
+          "Unipersonales y colegiados",
+          "Simples y complejos",
+          "Activos y deliberantes",
+          "Centrales y periféricos"
+        ],
+        "correcta": 0,
+        "explicacion": "Por su composición se distingue entre órganos unipersonales (competencia gestionada por un único gestor, ej. el Rey con la Corona) y colegiados (decisiones adoptadas por mayoría entre varios gestores).",
+        "id": "tema-14-q8"
+      },
+      {
+        "enunciado": "¿Qué se entiende por 'competencia' de un órgano administrativo, según el art. 8 de la Ley 40/2015?",
+        "opciones": [
+          "La función o conjunto de funciones adjudicadas a un órgano",
+          "El poder de mando que ejercen los órganos superiores sobre los inferiores",
+          "El traslado de titularidad de funciones entre administraciones",
+          "El conjunto de medios personales y materiales dispuestos para un fin"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto define la competencia, regulada en el art. 8 de la Ley 40/2015, como la función o conjunto de funciones adjudicadas a un órgano.",
+        "id": "tema-14-q9"
+      },
+      {
+        "enunciado": "¿Qué consecuencia jurídica tienen las actuaciones realizadas por órganos manifiestamente incompetentes por razón de materia o territorio?",
+        "opciones": [
+          "Nulidad de pleno derecho, conforme al art. 47.1.b) de la Ley 39/2015",
+          "Anulabilidad, salvo subsanación posterior",
+          "Mera irregularidad no invalidante",
+          "Nulidad relativa, subsanable por ratificación del órgano competente"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica que se sanciona con nulidad de pleno derecho (art. 47.1.b Ley 39/2015) las actuaciones de órganos manifiestamente incompetentes por razón de materia o territorio.",
+        "id": "tema-14-q10"
+      },
+      {
+        "enunciado": "Si se atribuye una competencia a una Administración sin especificar el órgano que debe ejercerla, ¿a quién corresponde la facultad de instruir y resolver los expedientes, según el art. 8.3 Ley 40/2015?",
+        "opciones": [
+          "A los órganos inferiores competentes por razón de la materia y del territorio y, de existir varios, al superior jerárquico común",
+          "Al órgano de mayor antigüedad dentro de la Administración",
+          "Al Consejo de Ministros u órgano equivalente en cada Administración",
+          "Al órgano que primero asuma el asunto por orden de presentación"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 8.3 Ley 40/2015 establece que corresponde a los órganos inferiores competentes por razón de la materia y del territorio y, de existir varios, al superior jerárquico común.",
+        "id": "tema-14-q11"
+      },
+      {
+        "enunciado": "Según las características de las competencias administrativas señaladas en el texto, ¿son renunciables por sus titulares?",
+        "opciones": [
+          "No, son indisponibles/irrenunciables, salvo en los casos previstos de delegación o avocación",
+          "Sí, siempre que se motive la renuncia",
+          "Sí, pero solo si lo autoriza el Consejo de Estado",
+          "No, en ningún caso, ni siquiera mediante delegación o avocación"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que las competencias son irrenunciables por sus titulares, salvo en los casos previstos de delegación o avocación.",
+        "id": "tema-14-q12"
+      },
+      {
+        "enunciado": "¿Qué se entiende por jerarquía según el texto?",
+        "opciones": [
+          "El poder de mando que ejercen las organizaciones u órganos superiores en relación con los inferiores, suponiendo la estructuración piramidal de la AAPP (103.1 CE)",
+          "La cesión sin control de competencias entre entes públicos",
+          "El traspaso permanente de la titularidad de competencias entre órganos de una misma administración",
+          "La técnica por la que un órgano superior recupera el conocimiento de un asunto de un inferior"
+        ],
+        "correcta": 0,
+        "explicacion": "La jerarquía es el poder de mando de los órganos superiores sobre los inferiores, que supone la estructuración piramidal de los órganos de la AAPP (art. 103.1 CE).",
+        "id": "tema-14-q13"
+      },
+      {
+        "enunciado": "La coordinación interorgánica, dirigida a poner en orden la actuación de varios órganos evitando contradicciones y disfunciones, ¿bajo qué principio del art. 103.1 CE se enmarca?",
+        "opciones": [
+          "El principio de eficacia",
+          "El principio de jerarquía",
+          "El principio de descentralización",
+          "El principio de legalidad"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que la coordinación interorgánica pone en orden la actuación de varios órganos bajo el principio de eficacia del art. 103.1 CE.",
+        "id": "tema-14-q14"
+      },
+      {
+        "enunciado": "Según el texto, ¿qué tipo de control puede ejercer la tutela entre una administración territorial y otra instrumental?",
+        "opciones": [
+          "De legalidad o material (de oportunidad)",
+          "Únicamente de legalidad",
+          "Únicamente jerárquico",
+          "De eficacia y eficiencia presupuestaria"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica que la tutela modula la relación entre una administración territorial y otra instrumental, pudiendo ser de legalidad o material (control de oportunidad).",
+        "id": "tema-14-q15"
+      },
+      {
+        "enunciado": "¿Qué caracteriza a la descentralización como técnica organizativa, según el texto?",
+        "opciones": [
+          "Supone la cesión sin control por parte de la entidad que la entrega, con traslado de la titularidad de competencias a otro u otros entes, de manera estable",
+          "Es el traspaso o cesión permanente de la titularidad de competencias entre órganos de una misma administración",
+          "Supone la cesión del ejercicio de una competencia manteniendo la titularidad en el órgano cedente",
+          "Es la recuperación por el órgano superior de un asunto que correspondía a un órgano inferior"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto define la descentralización (art. 103.1 CE) como la cesión sin control, con traslado de titularidad de competencias entre entes o administraciones públicas, de manera estable.",
+        "id": "tema-14-q16"
+      },
+      {
+        "enunciado": "La descentralización entre el Estado y las Comunidades Autónomas se efectúa, además, por vía de:",
+        "opciones": [
+          "Ley Orgánica de Transferencia o Delegación",
+          "Real Decreto publicado en el BOE",
+          "Convenio entre administraciones",
+          "Acuerdo del Consejo de Ministros"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala, como ejemplo, que la transferencia de competencias del Estado a una Comunidad Autónoma se efectúa por vía de Ley Orgánica (Ley de Transferencia o Delegación).",
+        "id": "tema-14-q17"
+      },
+      {
+        "enunciado": "¿Qué rango normativo mínimo exige el texto para llevar a cabo la desconcentración de competencias?",
+        "opciones": [
+          "Norma de rango equivalente a Real Decreto, publicada en el BOE",
+          "Ley Orgánica publicada en el BOE",
+          "Orden Ministerial publicada en el boletín correspondiente",
+          "Acuerdo expreso entre los órganos afectados"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica que la desconcentración debe llevarse a cabo, como mínimo, mediante una norma de rango equivalente a Real Decreto publicada en el BOE.",
+        "id": "tema-14-q18"
+      },
+      {
+        "enunciado": "En la delegación de competencias (art. 9 Ley 40/2015), la titularidad de la competencia:",
+        "opciones": [
+          "Permanece en el órgano que delega (delegante)",
+          "Se traslada al órgano delegado de forma definitiva",
+          "Se traslada al órgano delegado hasta la revocación de la delegación",
+          "Queda compartida entre delegante y delegado"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica expresamente que la delegación supone la cesión o transmisión del ejercicio de competencias, permaneciendo la titularidad de estas en el órgano que delegó.",
+        "id": "tema-14-q19"
+      },
+      {
+        "enunciado": "¿Está permitida la subdelegación de una competencia previamente delegada?",
+        "opciones": [
+          "No, está prohibida salvo autorización expresa de una ley",
+          "Sí, siempre que se publique en el BOE",
+          "Sí, sin necesidad de autorización especial",
+          "No, en ningún caso, ni siquiera con autorización legal"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto establece que la subdelegación está prohibida salvo autorización expresa de una ley.",
+        "id": "tema-14-q20"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes materias es, según el texto, indelegable?",
+        "opciones": [
+          "La adopción de disposiciones de carácter general",
+          "La recaudación de tributos en el ámbito local",
+          "La firma de resoluciones no sancionadoras",
+          "La resolución de expedientes de contratación menor"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto cita entre las materias indelegables la adopción de disposiciones de carácter general, junto con la separación y nombramiento de altos cargos atribuidos al Consejo de Ministros y los asuntos relativos a la Jefatura del Estado, entre otros.",
+        "id": "tema-14-q21"
+      },
+      {
+        "enunciado": "Según el art. 10 de la Ley 40/2015 (desarrollado en el anexo), la avocación consiste en que:",
+        "opciones": [
+          "El órgano superior adopte y resuelva un acto que en principio corresponde, ordinaria o por delegación, a un órgano inferior",
+          "El órgano inferior asuma competencias del superior jerárquico",
+          "El delegante ceda el ejercicio de una competencia manteniendo su titularidad",
+          "Se traslade de forma permanente la titularidad de una competencia a un órgano dependiente"
+        ],
+        "correcta": 0,
+        "explicacion": "El anexo define la avocación (art. 10 Ley 40/2015) como la facultad del órgano superior de avocar para sí el conocimiento de asuntos que corresponden, ordinaria o por delegación, a sus órganos dependientes; es la técnica inversa a la delegación.",
+        "id": "tema-14-q22"
+      },
+      {
+        "enunciado": "¿Por qué tipo de razones puede producirse la avocación, según el anexo?",
+        "opciones": [
+          "Razones de índole técnica, económica, social, jurídica o territorial",
+          "Únicamente por razones presupuestarias",
+          "Solo cuando exista un conflicto de competencias entre órganos",
+          "Exclusivamente por razones de urgencia declarada"
+        ],
+        "correcta": 0,
+        "explicacion": "El anexo indica que la avocación se da por circunstancias que la hagan conveniente, de índole técnica, económica, social, jurídica o territorial.",
+        "id": "tema-14-q23"
+      },
+      {
+        "enunciado": "¿Qué forma debe revestir el acuerdo de avocación y cuándo debe notificarse a los interesados?",
+        "opciones": [
+          "Debe realizarse mediante acuerdo motivado y notificarse a los interesados con anterioridad a la resolución final",
+          "Basta un acuerdo verbal, notificado tras dictarse la resolución final",
+          "Debe publicarse en el BOE, sin necesidad de notificación a los interesados",
+          "Requiere acuerdo motivado, notificado únicamente si el interesado lo solicita"
+        ],
+        "correcta": 0,
+        "explicacion": "Según el texto y el anexo, la avocación se realiza mediante acuerdo motivado que debe notificarse a los interesados en el procedimiento con anterioridad (o, según el anexo, simultáneamente) a la resolución final.",
+        "id": "tema-14-q24"
+      },
+      {
+        "enunciado": "En materia de recursos, ¿cabe recurso contra el acuerdo de avocación?",
+        "opciones": [
+          "No cabe recurso contra el acuerdo de avocación, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento",
+          "Sí, cabe recurso de alzada directo contra el acuerdo de avocación",
+          "Sí, cabe recurso potestativo de reposición en el plazo de un mes",
+          "No cabe ningún tipo de impugnación, ni siquiera contra la resolución final"
+        ],
+        "correcta": 0,
+        "explicacion": "Tanto el tema como el anexo señalan que contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el recurso que se interponga contra la resolución del procedimiento.",
+        "id": "tema-14-q25"
+      },
+      {
+        "enunciado": "¿Quién puede avocar el conocimiento de un asunto cuando la competencia fue delegada en un órgano NO dependiente jerárquicamente del delegante?",
+        "opciones": [
+          "Únicamente el órgano delegante",
+          "Cualquier órgano superior jerárquico del avocado",
+          "El órgano que ejerce la tutela sobre el delegado",
+          "El Consejo de Ministros en todo caso"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto y el anexo señalan que, en los supuestos de delegación de competencias en órganos no dependientes jerárquicamente, el conocimiento del asunto solo podrá ser avocado por el órgano delegante.",
+        "id": "tema-14-q26"
+      },
+      {
+        "enunciado": "¿Qué caracteriza a la encomienda de gestión, regulada en el art. 11 de la Ley 40/2015?",
+        "opciones": [
+          "No supone cesión de la titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo un mandato jurídico público para actividades materiales, técnicas o de servicios",
+          "Traslada de forma definitiva la titularidad de la competencia al órgano encomendado",
+          "Solo puede realizarse entre órganos de la misma Administración",
+          "Exige siempre la publicación de un Real Decreto habilitante"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que la encomienda de gestión no supone una verdadera delegación ni cesión de titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo un mandato jurídico público para actividades de carácter material, técnico o de servicios, por razones de eficacia.",
+        "id": "tema-14-q27"
+      },
+      {
+        "enunciado": "En la delegación de firma (art. 12 de la Ley 40/2015), ¿qué resoluciones quedan excluidas de poder delegarse?",
+        "opciones": [
+          "Las de carácter sancionador",
+          "Las relativas a contratación administrativa",
+          "Las de carácter tributario",
+          "Las dictadas por órganos colegiados"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica, como excepción a la delegación de firma, que las resoluciones de carácter sancionador no pueden delegar su firma, ni tampoco las materias que el art. 9 impide delegar.",
+        "id": "tema-14-q28"
+      }
+    ]
+  },
+  {
+    "id": "tema-15",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 15. La Administración General del Estado y sus órganos consultivos.",
+    "preguntas": [
+      {
+        "enunciado": "Según el tema, ¿cómo se define la Administración General del Estado (AGE)?",
+        "opciones": [
+          "Aquella parte de la Administración pública, integrada en el poder ejecutivo del Estado, que tiene a su cargo la gestión en todo el territorio nacional de servicios y funciones fundamentales para la existencia de la comunidad nacional",
+          "El conjunto de órganos que integran el poder legislativo del Estado y ejecutan las leyes aprobadas por las Cortes Generales",
+          "La suma de las Administraciones de las Comunidades Autónomas coordinadas por el Gobierno de la Nación",
+          "El aparato administrativo exclusivamente dedicado a la gestión de los servicios periféricos en las provincias"
+        ],
+        "correcta": 0,
+        "explicacion": "Es la definición literal recogida al inicio del tema: la AGE es la parte de la Administración pública integrada en el poder ejecutivo que gestiona en todo el territorio nacional los servicios y funciones fundamentales para la comunidad nacional.",
+        "id": "tema-15-q1"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO figura entre los caracteres de la AGE señalados en el tema?",
+        "opciones": [
+          "Sirve con objetividad al Interés General a través de funciones ejecutivas de carácter administrativo",
+          "Sometimiento pleno al ordenamiento jurídico",
+          "Órganos jerárquicamente ordenados y con personalidad jurídica única",
+          "Sometimiento pleno a la voluntad de las Comunidades Autónomas en el ejercicio de sus potestades"
+        ],
+        "correcta": 3,
+        "explicacion": "El tema recoge como caracteres el sometimiento pleno al ordenamiento jurídico (no a la voluntad de las CCAA), la objetividad al interés general, la personalidad jurídica única y otros; la opción 3 es una distorsión inventada.",
+        "id": "tema-15-q2"
+      },
+      {
+        "enunciado": "Según el art. 54 de la Ley 40/2015, la organización de la Administración General del Estado responde a los principios de:",
+        "opciones": [
+          "Descentralización funcional (Departamentos ministeriales) y desconcentración funcional y territorial (Delegaciones del Gobierno en las CCAA)",
+          "Centralización absoluta y jerarquía única bajo la Presidencia del Gobierno",
+          "Autonomía plena de cada Ministerio sin coordinación entre ellos",
+          "Desconcentración funcional exclusivamente, sin descentralización de ningún tipo"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 54 Ley 40/2015 establece que la organización de la AGE responde a los principios de descentralización funcional en Departamentos ministeriales y desconcentración funcional y territorial en las Delegaciones del Gobierno en las CCAA.",
+        "id": "tema-15-q3"
+      },
+      {
+        "enunciado": "El art. 55 de la Ley 40/2015, dentro de la organización central de la AGE, distingue entre:",
+        "opciones": [
+          "Órganos centrales y órganos periféricos",
+          "Órganos superiores y órganos directivos",
+          "Órganos consultivos y órganos ejecutivos",
+          "Unidades administrativas simples y unidades administrativas complejas"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 55 Ley 40/2015 distingue, dentro de la organización central, entre órganos superiores (Ministros y Secretarios de Estado) y órganos directivos (Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales).",
+        "id": "tema-15-q4"
+      },
+      {
+        "enunciado": "Conforme al art. 5.2 de la Ley 40/2015, las unidades administrativas son:",
+        "opciones": [
+          "Los órganos superiores encargados de fijar las líneas de actuación política del Departamento",
+          "Los elementos organizativos básicos de las estructuras orgánicas, integrados por puestos de trabajo o dotaciones de plantilla vinculados funcionalmente bajo una jefatura común",
+          "Los órganos con capacidad para expresar externamente la voluntad de la Administración mediante actos con efectos jurídicos frente a terceros",
+          "Los órganos colegiados de asesoramiento técnico creados por real decreto del Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 5.2 Ley 40/2015 define las unidades administrativas como los elementos organizativos básicos de las estructuras orgánicas, integradas por puestos de trabajo o dotaciones de plantilla vinculados funcionalmente por razón de sus cometidos y jerárquicamente por una jefatura común.",
+        "id": "tema-15-q5"
+      },
+      {
+        "enunciado": "Según el art. 5 de la Ley 40/2015, para que una unidad administrativa tenga la consideración de órgano administrativo es necesario que:",
+        "opciones": [
+          "Esté formada por al menos tres puestos de trabajo vinculados mediante Relación de Puestos de Trabajo (RPT)",
+          "Tenga atribuidas funciones con efecto jurídico frente a terceros, o cuya actuación tenga carácter preceptivo",
+          "Su titular ostente la condición de alto cargo de la Administración",
+          "Haya sido creada mediante Real Decreto del Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 5 Ley 40/2015 exige, para que una unidad administrativa tenga la condición de órgano, que tenga atribuidas funciones que produzcan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo, debiendo crearse de acuerdo con la ley.",
+        "id": "tema-15-q6"
+      },
+      {
+        "enunciado": "La Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria, modificó los artículos 54 y 55 bis de la Ley 40/2015 para garantizar que, en los nombramientos de órganos superiores y directivos de cada departamento ministerial:",
+        "opciones": [
+          "Las personas de cada sexo no superen el sesenta por ciento ni sean menos del cuarenta por ciento",
+          "Exista obligatoriamente un cincuenta por ciento exacto de mujeres y hombres en cada Ministerio",
+          "Las mujeres ocupen al menos el setenta por ciento de los órganos superiores",
+          "No se exige ningún porcentaje mínimo, solo un criterio orientativo no vinculante"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que la LO 2/2024 garantiza la presencia equilibrada de mujeres y hombres de forma que las personas de cada sexo no superen el 60% ni sean menos del 40% en el ámbito de cada departamento ministerial.",
+        "id": "tema-15-q7"
+      },
+      {
+        "enunciado": "Según el art. 57.1 de la Ley 40/2015, cada Departamento ministerial comprende:",
+        "opciones": [
+          "Uno o varios sectores funcionalmente homogéneos de actividad administrativa",
+          "Exclusivamente los servicios centrales, quedando excluidos los servicios periféricos",
+          "Un único sector de actividad administrativa determinado por real decreto del Presidente del Gobierno",
+          "Los servicios comunes y las Delegaciones del Gobierno en las Comunidades Autónomas"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 57.1 Ley 40/2015 establece que cada Departamento comprende uno o varios sectores funcionalmente homogéneos de actividad administrativa.",
+        "id": "tema-15-q8"
+      },
+      {
+        "enunciado": "Respecto de los Ministros, el tema señala que:",
+        "opciones": [
+          "Tienen exclusivamente naturaleza administrativa, sin formar parte del Gobierno",
+          "Tienen una doble naturaleza, política (como miembros del Gobierno) y administrativa (como titulares de los Departamentos Ministeriales), y ejercen la potestad reglamentaria en materias propias de su Departamento",
+          "Son nombrados por el Consejo de Ministros a propuesta del Ministro competente por razón de la materia",
+          "Carecen de potestad reglamentaria, que corresponde en exclusiva al Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica expresamente que los Ministros tienen doble naturaleza política y administrativa, siendo el nexo de unión entre el Gobierno y la Administración, y ejercen la potestad reglamentaria en las materias propias de su Departamento.",
+        "id": "tema-15-q9"
+      },
+      {
+        "enunciado": "Según el art. 7 de la Ley del Gobierno, los Secretarios de Estado:",
+        "opciones": [
+          "Son miembros del Gobierno con rango inmediatamente inferior al de los Ministros",
+          "Son directamente responsables de la ejecución de la acción del Gobierno en un sector de actividad específico de un Departamento o de la Presidencia, bajo la dirección de un Ministro o del Presidente, sin ser miembros del Gobierno",
+          "Sustituyen a los Ministros en caso de ausencia, vacante o enfermedad con plenas competencias políticas",
+          "Son órganos superiores que existen obligatoriamente en todos los Departamentos ministeriales"
+        ],
+        "correcta": 1,
+        "explicacion": "El texto precisa que los Secretarios de Estado, según el art. 7 de la Ley del Gobierno, son responsables de la ejecución de la acción del Gobierno en un sector específico, bajo dirección de un Ministro o del Presidente, pero no son miembros del Gobierno, sino solo órganos de la Administración, pudiendo existir o no.",
+        "id": "tema-15-q10"
+      },
+      {
+        "enunciado": "Conforme al art. 58 de la Ley 40/2015, los Secretarios de Estado son nombrados y separados por:",
+        "opciones": [
+          "Real Decreto del Consejo de Ministros, a propuesta del Ministro correspondiente o, en su caso, del Presidente del Gobierno",
+          "Orden Ministerial del Departamento al que se adscriban",
+          "Real Decreto del Presidente del Gobierno sin necesidad de acuerdo del Consejo de Ministros",
+          "Decisión del Subsecretario del Departamento correspondiente"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 58 Ley 40/2015 dispone que los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros a propuesta del Ministro correspondiente o, en su caso, del Presidente del Gobierno.",
+        "id": "tema-15-q11"
+      },
+      {
+        "enunciado": "Según el art. 63 de la Ley 40/2015, los Subsecretarios:",
+        "opciones": [
+          "Pueden existir con carácter excepcional en función de las necesidades del Departamento",
+          "Deben existir en todo caso, correspondiéndoles la representación ordinaria del Departamento y la dirección de los servicios comunes",
+          "No tienen la condición de alto cargo de la Administración",
+          "Son nombrados mediante Orden Ministerial del titular del Departamento"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 58 y el art. 63 Ley 40/2015 establecen que los Subsecretarios deben existir en todo caso, correspondiéndoles la representación ordinaria del Departamento, la dirección de los servicios comunes y competencias como personal, régimen interior o gestión económica y presupuestaria.",
+        "id": "tema-15-q12"
+      },
+      {
+        "enunciado": "Los Secretarios Generales, regulados en el art. 64 de la Ley 40/2015:",
+        "opciones": [
+          "Deben existir obligatoriamente en todos los Departamentos ministeriales",
+          "Pueden existir, con carácter excepcional, para la dirección de un concreto sector de actuación administrativa",
+          "Son nombrados mediante Orden Ministerial y no tienen condición de alto cargo",
+          "Sustituyen siempre a los Subsecretarios en sus funciones de representación ordinaria"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 64 Ley 40/2015 prevé que los Secretarios Generales pueden existir, con carácter excepcional, para la dirección de un concreto sector de actuación administrativa, correspondiéndoles la consecución de los objetivos fijados y la impartición de instrucciones a los órganos dependientes.",
+        "id": "tema-15-q13"
+      },
+      {
+        "enunciado": "Los Secretarios Generales Técnicos (art. 65 Ley 40/2015):",
+        "opciones": [
+          "Asumen competencias sobre producción normativa, asistencia jurídica y publicaciones del Departamento, encontrándose bajo la inmediata dependencia del Subsecretario",
+          "Dependen orgánicamente del Director General de mayor antigüedad del Departamento",
+          "Tienen atribuida en exclusiva la representación ordinaria del Departamento",
+          "No pueden asumir competencias sobre servicios comunes en ningún caso"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 65 Ley 40/2015 atribuye a los Secretarios Generales Técnicos las competencias sobre producción normativa, asistencia jurídica y publicaciones del Departamento, estando bajo la inmediata dependencia del Subsecretario, pudiendo además asumir las competencias sobre servicios comunes que fije el Real Decreto de estructura.",
+        "id": "tema-15-q14"
+      },
+      {
+        "enunciado": "Respecto a los Directores Generales (art. 66 Ley 40/2015), es correcto afirmar que:",
+        "opciones": [
+          "En ningún caso pueden ser nombradas personas que no tengan la condición de funcionario",
+          "Con carácter excepcional, si lo prevé el Real Decreto de estructura del Departamento, su titular puede no reunir la condición de funcionario, debiendo motivarse mediante memoria razonada las especiales características que lo justifiquen",
+          "Son nombrados exclusivamente por Orden Ministerial del titular del Departamento",
+          "No tienen atribuida la propuesta, dirección, impulso y control de los órganos dependientes"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 66 Ley 40/2015 permite excepcionalmente, si lo prevé el Real Decreto de estructura, que el titular de una Dirección General no sea funcionario, exigiéndose motivación mediante memoria razonada de las especiales características que justifiquen esa circunstancia excepcional.",
+        "id": "tema-15-q15"
+      },
+      {
+        "enunciado": "Los Subdirectores Generales, conforme al art. 67 de la Ley 40/2015, son nombrados por:",
+        "opciones": [
+          "Real Decreto del Consejo de Ministros a propuesta del titular del Departamento",
+          "Orden Ministerial, respetando los principios de igualdad, mérito y capacidad, y cesados por el Ministro, Secretario de Estado o Subsecretario del que dependan",
+          "Real Decreto del Presidente del Gobierno",
+          "Decisión del Director General del que dependan jerárquicamente"
+        ],
+        "correcta": 1,
+        "explicacion": "Según el tema, los Subdirectores Generales son nombrados por Orden Ministerial, respetando los principios de igualdad, mérito y capacidad, y cesados por el Ministro, Secretario de Estado o Subsecretario del que dependan (art. 67 Ley 40/2015).",
+        "id": "tema-15-q16"
+      },
+      {
+        "enunciado": "Según el anexo sobre órganos directivos, ¿cuál de los siguientes órganos NO tiene la condición de alto cargo de la Administración?",
+        "opciones": [
+          "El Subsecretario",
+          "El Director General",
+          "El Secretario General Técnico",
+          "El Subdirector General"
+        ],
+        "correcta": 3,
+        "explicacion": "El anexo especifica que todos los órganos directivos (Subsecretario, Secretario General, Secretario General Técnico y Director General) tienen la condición de alto cargo, salvo el Subdirector General, que no la tiene.",
+        "id": "tema-15-q17"
+      },
+      {
+        "enunciado": "Según el anexo, ¿qué órgano directivo NO exige imprescindiblemente la condición de funcionario de carrera del Grupo A, requiriéndose en su lugar cualificación y experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada?",
+        "opciones": [
+          "El Subsecretario",
+          "El Secretario General",
+          "El Secretario General Técnico",
+          "El Subdirector General"
+        ],
+        "correcta": 1,
+        "explicacion": "El anexo indica que, a diferencia de los demás órganos directivos, el Secretario General no precisa ser funcionario de carrera del Grupo A, exigiéndose en su lugar cualificación y experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada.",
+        "id": "tema-15-q18"
+      },
+      {
+        "enunciado": "En la Administración General del Estado en el exterior, según el tema, son órganos directivos:",
+        "opciones": [
+          "Los cónsules honorarios y los agregados culturales",
+          "Los embajadores y los representantes permanentes ante Organizaciones internacionales",
+          "Únicamente los Ministros consejeros de las embajadas",
+          "Los Delegados del Gobierno destinados en el extranjero"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema señala expresamente que en la AGE en el exterior son órganos directivos los embajadores y representantes permanentes ante Organizaciones internacionales.",
+        "id": "tema-15-q19"
+      },
+      {
+        "enunciado": "El art. 154 de la Constitución Española, en relación con la organización territorial de la AGE, establece que:",
+        "opciones": [
+          "Un delegado nombrado por el Gobierno dirigirá la administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad",
+          "Los Presidentes de las Comunidades Autónomas asumirán las funciones del Gobierno del Estado en su territorio",
+          "Cada provincia contará con un Subdelegado del Gobierno de designación autonómica",
+          "Las Delegaciones del Gobierno serán suprimidas cuando exista transferencia plena de competencias a la Comunidad Autónoma"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 154 CE, citado en el tema, establece literalmente que un delegado nombrado por el Gobierno dirigirá la administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad.",
+        "id": "tema-15-q20"
+      },
+      {
+        "enunciado": "Los Delegados del Gobierno en las Comunidades Autónomas son nombrados y separados por:",
+        "opciones": [
+          "Real Decreto del Consejo de Ministros, a propuesta del Presidente del Gobierno, teniendo rango de Subsecretario",
+          "Orden Ministerial del Ministerio de Hacienda y Función Pública, con rango de Director General",
+          "Real Decreto del Consejo de Ministros a propuesta del Ministro del Interior, con rango de Secretario General",
+          "Decisión del Presidente de la Comunidad Autónoma correspondiente, con rango de Subdirector General"
+        ],
+        "correcta": 0,
+        "explicacion": "Conforme al art. 154 CE y al art. 72.4 Ley 40/2015, los Delegados del Gobierno son nombrados y separados por Real Decreto del Consejo de Ministros a propuesta del Presidente del Gobierno, y tienen rango de Subsecretario.",
+        "id": "tema-15-q21"
+      },
+      {
+        "enunciado": "Según el art. 72.3 de la Ley 40/2015, los Delegados del Gobierno dependen:",
+        "opciones": [
+          "Orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia",
+          "Orgánicamente del Ministerio de Hacienda y Función Pública y funcionalmente del Presidente de la Comunidad Autónoma",
+          "Exclusivamente del Ministro del Interior, tanto orgánica como funcionalmente",
+          "Orgánica y funcionalmente del Consejo de Ministros en pleno, sin dependencia ministerial específica"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 72.3 Ley 40/2015 establece que los Delegados del Gobierno dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia (según el tema, el Ministerio de Hacienda y Función Pública).",
+        "id": "tema-15-q22"
+      },
+      {
+        "enunciado": "En caso de ausencia, vacante o enfermedad del titular de una Delegación del Gobierno, la suplencia corresponde:",
+        "opciones": [
+          "Al Subdelegado del Gobierno que el Delegado designe y, en su defecto, al de la provincia en que tenga su sede; en las CCAA uniprovinciales sin Subdelegado, al Secretario General",
+          "Automáticamente al Ministro del Interior mientras dure la ausencia",
+          "Al Presidente de la Comunidad Autónoma correspondiente",
+          "Al Director Insular de mayor rango de la Comunidad Autónoma"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala que la suplencia corresponde al Subdelegado del Gobierno que el Delegado designe y, en su defecto, al de la provincia donde tenga su sede, correspondiendo al Secretario General en las Comunidades Autónomas uniprovinciales sin Subdelegado.",
+        "id": "tema-15-q23"
+      },
+      {
+        "enunciado": "Los Subdelegados del Gobierno en las provincias (art. 74 Ley 40/2015) son nombrados y separados:",
+        "opciones": [
+          "Libremente por el Delegado del Gobierno en la Comunidad Autónoma, entre funcionarios de carrera, con rango de Subdirector General",
+          "Por Real Decreto del Consejo de Ministros, con rango de Subsecretario",
+          "Por Orden Ministerial del Ministerio del Interior, sin exigencia de ser funcionario",
+          "Por el Presidente del Gobierno, con rango de Secretario General Técnico"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 74 Ley 40/2015 dispone que los Subdelegados del Gobierno son nombrados y separados libremente por el Delegado del Gobierno en la Comunidad Autónoma, entre funcionarios de carrera, con rango de Subdirector General.",
+        "id": "tema-15-q24"
+      },
+      {
+        "enunciado": "Según la nota del tema referida al art. 70 de la Ley 40/2015, los Directores Insulares, nombrados por los Delegados del Gobierno, existen en:",
+        "opciones": [
+          "Menorca, Ibiza-Formentera, Lanzarote, Fuerteventura, La Palma, El Hierro y La Gomera",
+          "Mallorca, Tenerife, Gran Canaria y Menorca",
+          "Todas las islas del territorio nacional sin excepción",
+          "Únicamente en Ibiza-Formentera y Lanzarote"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que los Directores Insulares, regulados en el art. 70 Ley 40/2015 y nombrados por los Delegados del Gobierno, existen en Menorca, Ibiza-Formentera, Lanzarote, Fuerteventura, La Palma, El Hierro y La Gomera, sustituyendo allí a los Subdelegados.",
+        "id": "tema-15-q25"
+      },
+      {
+        "enunciado": "Conforme al art. 1 de la Ley Orgánica 3/1980, el Consejo de Estado es:",
+        "opciones": [
+          "El supremo órgano consultivo del Gobierno",
+          "El órgano superior de la Administración de Justicia en materia contencioso-administrativa",
+          "Un órgano colegiado de composición exclusivamente política sin autonomía funcional",
+          "El órgano encargado de resolver en última instancia los recursos administrativos ordinarios"
+        ],
+        "correcta": 0,
+        "explicacion": "El apartado primero del art. 1 de la LO 3/1980 establece literalmente que «el Consejo de Estado es el supremo órgano consultivo del Gobierno».",
+        "id": "tema-15-q26"
+      },
+      {
+        "enunciado": "Según el art. 4 de la Ley Orgánica del Consejo de Estado, integran el Consejo de Estado en Pleno:",
+        "opciones": [
+          "El presidente, los consejeros permanentes, los consejeros natos, los consejeros electivos y el secretario general",
+          "Únicamente el presidente y los consejeros permanentes",
+          "El presidente, los Ministros y los Secretarios de Estado",
+          "El presidente, los Delegados del Gobierno y los Subdelegados del Gobierno"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 4 de la Ley Orgánica del Consejo de Estado establece que integran el Pleno el presidente, los consejeros permanentes, los consejeros natos, los consejeros electivos y el secretario general.",
+        "id": "tema-15-q27"
+      },
+      {
+        "enunciado": "Respecto a la eficacia de los dictámenes del Consejo de Estado, el art. 2 de su Ley Orgánica establece como regla general que:",
+        "opciones": [
+          "Los dictámenes del Consejo no serán vinculantes, salvo que la ley disponga lo contrario",
+          "Todos los dictámenes del Consejo de Estado tienen carácter vinculante para la autoridad consultante",
+          "Solo son vinculantes los dictámenes emitidos por la Comisión Permanente",
+          "Son vinculantes únicamente cuando se refieren a anteproyectos de reforma constitucional"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 2 de la Ley Orgánica del Consejo de Estado dispone que los dictámenes del Consejo no serán vinculantes, salvo que la ley disponga lo contrario, siendo esta la regla general de eficacia no vinculante.",
+        "id": "tema-15-q28"
+      }
+    ]
+  },
+  {
+    "id": "tema-21-bis",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 21. La actividad sancionadora de la administración y sus límites.",
+    "preguntas": [
+      {
+        "enunciado": "¿Cómo se manifiesta el ejercicio de la potestad sancionadora de las Administraciones Públicas, según el tema?",
+        "opciones": [
+          "Mediante el procedimiento sancionador, aplicable a las personas administradas en general (excluidas las materias tributaria y de orden social), y el procedimiento disciplinario, aplicable al personal a su servicio.",
+          "Únicamente mediante el procedimiento sancionador, aplicable por igual a administrados y a empleados públicos.",
+          "Mediante el procedimiento disciplinario, aplicable exclusivamente a los funcionarios públicos de carrera.",
+          "Mediante el procedimiento sancionador tributario y el procedimiento sancionador de orden social, como únicas manifestaciones."
+        ],
+        "correcta": 0,
+        "explicacion": "El texto distingue dos manifestaciones: el procedimiento sancionador (excluidas materias tributarias y de orden social) y el procedimiento disciplinario para el personal a su servicio.",
+        "id": "tema-21-bis-q1"
+      },
+      {
+        "enunciado": "Según la evolución histórica recogida en el tema, ¿qué ocurría con la potestad sancionadora bajo la Constitución de 1812?",
+        "opciones": [
+          "La Administración carecía de potestad sancionadora, que correspondía únicamente al poder judicial.",
+          "La potestad sancionadora ya estaba reconocida a los Gobernadores civiles desde el propio texto constitucional.",
+          "La potestad sancionadora correspondía exclusivamente a los alcaldes.",
+          "La potestad sancionadora se reconoció por primera vez a la Administración civil en general."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala que en la CE 1812 la Administración no tenía potestad sancionadora, que solo tenía el poder judicial; después, por Decreto, se reconoció a Gobernadores y luego a alcaldes.",
+        "id": "tema-21-bis-q2"
+      },
+      {
+        "enunciado": "¿Qué establece el artículo 25.3 de la Constitución Española de 1978 en relación con la potestad sancionadora?",
+        "opciones": [
+          "Que la Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.",
+          "Que nadie puede ser condenado o sancionado por acciones u omisiones que no constituyan infracción según la legislación vigente.",
+          "Que la potestad sancionadora corresponde en exclusiva a la jurisdicción penal.",
+          "Que las sanciones administrativas prescriben a los tres años en todo caso."
+        ],
+        "correcta": 0,
+        "explicacion": "El párrafo tercero del art. 25 CE establece que la Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.",
+        "id": "tema-21-bis-q3"
+      },
+      {
+        "enunciado": "Entre los límites derivados del artículo 25 CE que expone el tema, ¿qué implica la subordinación de la potestad sancionadora a jueces y tribunales?",
+        "opciones": [
+          "Que toda sanción administrativa es revisable por los tribunales ordinarios, y que la Administración queda limitada por lo establecido por los jueces penales en sus sentencias.",
+          "Que la Administración debe solicitar autorización judicial previa antes de iniciar cualquier procedimiento sancionador.",
+          "Que las sanciones administrativas solo pueden imponerse una vez recaída sentencia penal firme.",
+          "Que los tribunales ordinarios carecen de competencia para revisar las sanciones administrativas."
+        ],
+        "correcta": 0,
+        "explicacion": "El cuarto límite señalado implica que toda sanción administrativa es revisable por los tribunales ordinarios y que, cuando existe sentencia penal, la Administración queda limitada por lo establecido en ella.",
+        "id": "tema-21-bis-q4"
+      },
+      {
+        "enunciado": "Según la doctrina del Tribunal Constitucional expuesta en el tema, ¿en qué consiste la 'doble garantía' del principio de legalidad del artículo 25.1 CE?",
+        "opciones": [
+          "Una garantía material o de seguridad (predeterminación normativa de las conductas ilícitas y sus sanciones) y una garantía formal (rango de ley de la norma tipificadora).",
+          "Una garantía procesal (derecho de defensa) y una garantía sustantiva (proporcionalidad de la sanción).",
+          "Una garantía de irretroactividad y otra de retroactividad favorable.",
+          "Una garantía de tipicidad y otra de prescripción."
+        ],
+        "correcta": 0,
+        "explicacion": "El TC distingue una garantía material de seguridad, por la predeterminación normativa de las conductas, y una garantía formal, por el rango de ley exigido a la norma tipificadora.",
+        "id": "tema-21-bis-q5"
+      },
+      {
+        "enunciado": "¿Qué exige el artículo 25.1 de la Ley 40/2015 (LRJSP) respecto al ejercicio de la potestad sancionadora?",
+        "opciones": [
+          "Que se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley, con aplicación del procedimiento previsto para su ejercicio.",
+          "Que se ejercerá únicamente cuando exista una ordenanza municipal que la regule expresamente.",
+          "Que se ejercerá con carácter discrecional por cualquier órgano administrativo sin necesidad de habilitación legal.",
+          "Que se ejercerá exclusivamente respecto de las personas jurídicas, no de las físicas."
+        ],
+        "correcta": 0,
+        "explicacion": "El texto cita literalmente el art. 25.1 LRJSP: la potestad sancionadora se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley.",
+        "id": "tema-21-bis-q6"
+      },
+      {
+        "enunciado": "En relación con las ordenanzas municipales y la tipificación de infracciones y sanciones, ¿qué estableció la STC 132/2001, de 3 de julio?",
+        "opciones": [
+          "Que la exigencia de ley ha de flexibilizarse en aquellas materias donde, por estar presente el interés local, existe un amplio campo para la regulación municipal.",
+          "Que las ordenanzas municipales tienen, en todo caso, valor y fuerza de ley formal.",
+          "Que los ayuntamientos no pueden en ningún caso tipificar infracciones ni sanciones, ni siquiera con cobertura legal previa.",
+          "Que la potestad sancionadora municipal queda suprimida en favor de las Comunidades Autónomas."
+        ],
+        "correcta": 0,
+        "explicacion": "La STC 132/2001 flexibilizó la exigencia de ley para la tipificación en el ámbito municipal cuando existe interés local, doctrina luego recogida en la Ley de Bases de Régimen Local.",
+        "id": "tema-21-bis-q7"
+      },
+      {
+        "enunciado": "¿Cuál es la consecuencia inmediata que el tema señala del principio de tipicidad?",
+        "opciones": [
+          "La prohibición de la analogía.",
+          "La aplicación retroactiva de las normas sancionadoras favorables.",
+          "La reserva absoluta de ley, sin posibilidad de remisión a normas reglamentarias.",
+          "La imposibilidad de que la Administración imponga sanciones pecuniarias."
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica expresamente que 'consecuencia inmediata del principio de tipicidad es la prohibición de la analogía'.",
+        "id": "tema-21-bis-q8"
+      },
+      {
+        "enunciado": "¿Qué establece el artículo 26 de la Ley 40/2015 en relación con el principio de irretroactividad?",
+        "opciones": [
+          "Que serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa.",
+          "Que las disposiciones sancionadoras se aplicarán siempre con efecto retroactivo, sean o no favorables al infractor.",
+          "Que el plazo de prescripción de las infracciones comienza a contarse desde la notificación de la incoación.",
+          "Que la Administración podrá aplicar por analogía disposiciones sancionadoras de otras normas sectoriales."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 26 Ley 40/2015 dispone que se aplicarán las disposiciones sancionadoras vigentes en el momento de producirse los hechos constitutivos de infracción.",
+        "id": "tema-21-bis-q9"
+      },
+      {
+        "enunciado": "Según el artículo 26.2 de la Ley 40/2015, ¿cuándo producirán efecto retroactivo las disposiciones sancionadoras?",
+        "opciones": [
+          "Cuando favorezcan al presunto infractor.",
+          "Nunca, dado que rige de forma absoluta el principio de irretroactividad.",
+          "Únicamente cuando lo autorice expresamente el órgano instructor del procedimiento.",
+          "Solo en el caso de infracciones leves."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 26.2 Ley 40/2015 establece que las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor.",
+        "id": "tema-21-bis-q10"
+      },
+      {
+        "enunciado": "En materia de culpabilidad de las personas jurídicas, ¿qué señala el tema respecto al artículo 28.2?",
+        "opciones": [
+          "Que podría ser sancionada la empresa, el órgano en concreto, la persona en la que recaiga, o bien la empresa o la persona.",
+          "Que las personas jurídicas nunca pueden ser sujetos responsables de infracciones administrativas.",
+          "Que solo puede sancionarse a la persona física que ostente la representación legal de la empresa.",
+          "Que la culpabilidad de las personas jurídicas se presume siempre, sin admitir prueba en contrario."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que, tratándose de personas jurídicas, podría sancionarse a la empresa, al órgano en concreto, a la persona en la que recaiga, o a la empresa o a la persona (art. 28.2).",
+        "id": "tema-21-bis-q11"
+      },
+      {
+        "enunciado": "El principio de proporcionalidad (art. 29) obliga a la Administración a tener en cuenta, entre otras, ¿cuál de las siguientes circunstancias al imponer la sanción?",
+        "opciones": [
+          "La reincidencia.",
+          "El domicilio del infractor.",
+          "La antigüedad del órgano instructor.",
+          "El número de alegaciones presentadas por el interesado."
+        ],
+        "correcta": 0,
+        "explicacion": "Entre las circunstancias que se tendrán en cuenta conforme al art. 29 se citan el grado de culpabilidad, la continuidad en la conducta infractora, la naturaleza de los perjuicios y la reincidencia.",
+        "id": "tema-21-bis-q12"
+      },
+      {
+        "enunciado": "Según la nota del tema, ¿cuándo existe reincidencia a efectos del principio de proporcionalidad?",
+        "opciones": [
+          "Cuando se comete, en el término de un año, más de una infracción de la misma naturaleza, cuando así haya sido declarado por resolución firme en vía administrativa.",
+          "Cuando se comete cualquier infracción dentro de los tres años siguientes a otra sanción, aunque sea de distinta naturaleza.",
+          "Cuando el infractor tiene antecedentes penales previos, con independencia de la vía administrativa.",
+          "Cuando se comete la misma infracción dos veces en el mismo procedimiento sancionador."
+        ],
+        "correcta": 0,
+        "explicacion": "La nota al pie precisa que la reincidencia consiste en la comisión, en el término de un año, de más de una infracción de la misma naturaleza, declarada por resolución firme en vía administrativa.",
+        "id": "tema-21-bis-q13"
+      },
+      {
+        "enunciado": "Conforme al artículo 30 de la Ley 40/2015, ¿cuál es el plazo de prescripción de las infracciones muy graves?",
+        "opciones": [
+          "3 años.",
+          "2 años.",
+          "6 meses.",
+          "5 años."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que las infracciones muy graves prescriben a los 3 años, las graves a los 2 años y las leves a los 6 meses, conforme al art. 30 Ley 40/2015.",
+        "id": "tema-21-bis-q14"
+      },
+      {
+        "enunciado": "Respecto a la presunción de inocencia en el procedimiento sancionador, ¿qué señala el tema?",
+        "opciones": [
+          "Que, aunque desapareció de la nueva normativa (estando prevista en la anterior LRJPAC), sigue vigente y la carga de la prueba recae en quien acusa.",
+          "Que fue introducida por primera vez en la Ley 40/2015, sin precedente en la normativa anterior.",
+          "Que corresponde al presunto infractor probar su inocencia desde el inicio del procedimiento.",
+          "Que solo resulta aplicable en el procedimiento disciplinario, no en el sancionador general."
+        ],
+        "correcta": 0,
+        "explicacion": "El texto explica que la presunción de inocencia, prevista en la anterior LRJPAC y desaparecida formalmente en la nueva normativa, sigue vigente, correspondiendo la carga de la prueba a quien acusa.",
+        "id": "tema-21-bis-q15"
+      },
+      {
+        "enunciado": "¿Qué exige el principio non bis in idem, recogido en el artículo 31.1 de la Ley 40/2015, para impedir una doble sanción?",
+        "opciones": [
+          "Que exista coincidencia de sujetos, de hechos y de fundamentos.",
+          "Que exista coincidencia únicamente de sujetos, con independencia de los hechos y del fundamento.",
+          "Que ambos procedimientos, penal y administrativo, se sustancien ante el mismo órgano.",
+          "Que la sanción administrativa sea de naturaleza pecuniaria y la penal privativa de libertad."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala que la prohibición de doble sanción exige que exista coincidencia de sujetos, de hechos y de fundamentos entre ambos procedimientos.",
+        "id": "tema-21-bis-q16"
+      },
+      {
+        "enunciado": "En las relaciones de supremacía especial (por ejemplo, un funcionario público), ¿qué señala el tema sobre la posibilidad de doble sanción?",
+        "opciones": [
+          "Que sí cabe una doble sanción, ya que la sanción disciplinaria salvaguarda la relación de confianza entre la Administración y el funcionario, no el interés general.",
+          "Que nunca cabe doble sanción, pues el non bis in idem es absoluto en estas relaciones.",
+          "Que solo cabe sanción penal, quedando excluida cualquier sanción disciplinaria posterior.",
+          "Que la doble sanción solo es posible si el funcionario renuncia expresamente a su derecho de defensa."
+        ],
+        "correcta": 0,
+        "explicacion": "El TC admite la doble sanción en relaciones de supremacía especial porque la sanción disciplinaria protege la relación de confianza funcionarial, un bien jurídico distinto al protegido por la sanción penal.",
+        "id": "tema-21-bis-q17"
+      },
+      {
+        "enunciado": "Según la Sentencia del Tribunal Constitucional de 16 de enero de 2003 mencionada en el tema, ¿qué se establece?",
+        "opciones": [
+          "Que la jurisdicción penal vuelve a tener preferencia sobre la sancionadora, y que el non bis in idem solo se aplica entre procedimientos con garantías iguales.",
+          "Que la jurisdicción administrativa pasa a tener preferencia sobre la penal en todos los casos.",
+          "Que desaparece definitivamente el principio de preferencia de la vía penal sobre la administrativa.",
+          "Que el procedimiento sancionador alcanza las mismas garantías que el proceso penal."
+        ],
+        "correcta": 0,
+        "explicacion": "La sentencia citada reafirma la preferencia de la jurisdicción penal (doctrina clásica) y precisa que el non bis in idem solo opera entre procedimientos con garantías equiparables, lo que nunca ocurre entre el sancionador y el penal.",
+        "id": "tema-21-bis-q18"
+      },
+      {
+        "enunciado": "Respecto de las actuaciones previas a la iniciación del procedimiento sancionador (información reservada), ¿qué indica el tema?",
+        "opciones": [
+          "Que no forman parte del expediente sancionador y que su omisión no constituye un vicio del procedimiento, al no ser obligatorias.",
+          "Que son siempre obligatorias y su omisión determina la nulidad de pleno derecho del procedimiento.",
+          "Que forman parte necesariamente del expediente sancionador desde el momento en que se acuerdan.",
+          "Que solo pueden ser acordadas por el órgano decisor, nunca por el instructor."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala que estas actuaciones previas (información reservada) no forman parte del expediente sancionador y que su omisión no causa la nulidad, al no ser obligatorias.",
+        "id": "tema-21-bis-q19"
+      },
+      {
+        "enunciado": "Entre el contenido mínimo que debe precisar el acuerdo de iniciación del procedimiento sancionador, ¿cuál de los siguientes se menciona expresamente?",
+        "opciones": [
+          "La determinación de los órganos instructor y decisor.",
+          "La cuantía definitiva de la indemnización por daños y perjuicios.",
+          "El nombre del juez penal competente para conocer de los mismos hechos.",
+          "La fecha exacta en que prescribirá la sanción que finalmente se imponga."
+        ],
+        "correcta": 0,
+        "explicacion": "El acuerdo de iniciación debe precisar, entre otros extremos, la determinación de los órganos instructor y decisor, encomendándose la fase instructora y la de sanción a órganos distintos (art. 63.1).",
+        "id": "tema-21-bis-q20"
+      },
+      {
+        "enunciado": "En la fase de instrucción del procedimiento sancionador, ¿de cuántos días dispone el interesado para formular alegaciones, según el esquema del tema?",
+        "opciones": [
+          "Diez días.",
+          "Quince días.",
+          "Cinco días.",
+          "Veinte días."
+        ],
+        "correcta": 0,
+        "explicacion": "El esquema de la fase de instrucción señala un plazo de diez días para alegaciones, quince días para la práctica de la prueba, y otros diez para el trámite de audiencia.",
+        "id": "tema-21-bis-q21"
+      },
+      {
+        "enunciado": "Cuando la sanción tenga únicamente carácter pecuniario y el presunto responsable proceda al pago voluntario antes de la resolución, ¿qué reducción mínima aplicará el órgano competente?",
+        "opciones": [
+          "Al menos el 20% sobre el importe de la sanción propuesta.",
+          "Al menos el 50% sobre el importe de la sanción propuesta.",
+          "El 10%, sin posibilidad de incremento reglamentario.",
+          "No procede reducción alguna, solo la terminación del procedimiento."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que, en estos casos, se aplicarán reducciones de al menos el 20% sobre el importe de la sanción propuesta, acumulables entre sí y susceptibles de incremento reglamentario.",
+        "id": "tema-21-bis-q22"
+      },
+      {
+        "enunciado": "Conforme al artículo 98 de la Ley 39/2015, citado en el tema, ¿cuándo será ejecutiva una resolución de un procedimiento sancionador?",
+        "opciones": [
+          "Cuando ponga fin a la vía administrativa; no será inmediatamente ejecutiva si cabe algún recurso en vía administrativa, incluido el potestativo de reposición.",
+          "Desde el mismo momento de su notificación, con independencia de que quepa recurso administrativo.",
+          "Únicamente cuando adquiera firmeza en vía contencioso-administrativa.",
+          "Nunca, salvo que el infractor renuncie expresamente a recurrir."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 98 Ley 39/2015 dispone que no será inmediatamente ejecutiva una resolución sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+        "id": "tema-21-bis-q23"
+      },
+      {
+        "enunciado": "¿Cómo se califican las infracciones administrativas según su gravedad, conforme al tema?",
+        "opciones": [
+          "Leves, graves y muy graves.",
+          "Leves y graves, únicamente.",
+          "Ordinarias y extraordinarias.",
+          "Simples, cualificadas y agravadas."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala que las infracciones administrativas se califican, al igual que las sanciones, en leves, graves y muy graves, rigiendo el principio de taxatividad.",
+        "id": "tema-21-bis-q24"
+      },
+      {
+        "enunciado": "En relación con la caducidad del procedimiento sancionador, ¿cuál es el plazo general que señala el tema para dictar y notificar la resolución al inculpado?",
+        "opciones": [
+          "6 meses desde la fecha de iniciación del procedimiento.",
+          "3 meses desde la fecha de iniciación del procedimiento.",
+          "1 año desde la fecha de iniciación del procedimiento.",
+          "10 días desde la finalización del trámite de audiencia."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que la caducidad se produce si no se dicta ni notifica la resolución sancionadora en el plazo máximo, siendo el plazo general de 6 meses desde el inicio del procedimiento.",
+        "id": "tema-21-bis-q25"
+      }
+    ]
+  },
+  {
+    "id": "tema-27",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 27. La responsabilidad de la administración y de su personal.",
+    "preguntas": [
+      {
+        "enunciado": "Según el art. 1902 del Código Civil, ¿qué elemento es necesario para que nazca la obligación de reparar el daño causado a otro por acción u omisión?",
+        "opciones": [
+          "Que exista una relación contractual previa entre las partes",
+          "Que medie culpa o negligencia",
+          "Que el daño esté tipificado en el Código Penal",
+          "Que el causante sea una autoridad o funcionario público"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 1902 CC establece que 'el que por acción u omisión causa daño a otro, interviniendo culpa o negligencia, está obligado a reparar el daño causado'.",
+        "id": "tema-27-q1"
+      },
+      {
+        "enunciado": "Hasta su reforma en 1991, el art. 1903 CC contenía una referencia a la responsabilidad del Estado. ¿En qué supuesto dicho precepto excluía la responsabilidad del Estado?",
+        "opciones": [
+          "Cuando el daño lo causaba un agente especial",
+          "Cuando el daño hubiese sido causado por el funcionario a quien propiamente correspondía la gestión practicada",
+          "Cuando el daño derivaba de un servicio público en sentido estricto",
+          "Cuando el perjudicado fuese una persona jurídica"
+        ],
+        "correcta": 1,
+        "explicacion": "El antiguo art. 1903 CC señalaba que el Estado era responsable cuando obraba por mediación de un agente especial, pero no cuando el daño hubiese sido causado por el funcionario a quien propiamente correspondiera la gestión practicada, caso en el que se aplicaba el art. 1902 CC.",
+        "id": "tema-27-q2"
+      },
+      {
+        "enunciado": "¿Qué norma introdujo por primera vez en el ordenamiento español una cláusula general de reconocimiento de la responsabilidad de la Administración?",
+        "opciones": [
+          "La Ley de Régimen Jurídico de la Administración del Estado de 1957",
+          "La Constitución de 1978",
+          "La Ley de Expropiación Forzosa de 1954",
+          "La Ley 30/1992"
+        ],
+        "correcta": 2,
+        "explicacion": "La situación cambió en 1954 con la aprobación de la Ley de Expropiación Forzosa, cuyo art. 121 contuvo por primera vez una cláusula general de reconocimiento de la responsabilidad de la Administración.",
+        "id": "tema-27-q3"
+      },
+      {
+        "enunciado": "El fundamento constitucional de la responsabilidad patrimonial de la Administración se encuentra en:",
+        "opciones": [
+          "El art. 103 CE",
+          "El art. 106.2 CE",
+          "El art. 121 CE",
+          "El art. 149.1.18ª CE"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.2 CE establece que los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia de los servicios públicos.",
+        "id": "tema-27-q4"
+      },
+      {
+        "enunciado": "En virtud del título competencial del art. 149.1.18ª CE, el Estado reguló el régimen de responsabilidad de todas las Administraciones Públicas en los arts. 139 y siguientes de la Ley 30/1992 y en el RD 429/1993. ¿Qué ley derogó ambas normas?",
+        "opciones": [
+          "La Ley 39/2015",
+          "La Ley Orgánica del Poder Judicial",
+          "La Ley de Expropiación Forzosa",
+          "El RD 33/1986"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala que tanto la Ley 30/1992 (arts. 139 y ss.) como el RD 429/1993 fueron derogados por la Ley 39/2015 (LPAC).",
+        "id": "tema-27-q5"
+      },
+      {
+        "enunciado": "Según el deslinde de figuras próximas realizado en el tema, ¿cuál de las siguientes situaciones NO constituye responsabilidad patrimonial de la Administración?",
+        "opciones": [
+          "El pago de indemnizaciones por el ejercicio de la potestad expropiatoria",
+          "El daño causado por una obra pública mal ejecutada",
+          "El daño causado por un tratamiento sanitario erróneo",
+          "El daño causado por el funcionamiento anormal de un servicio de transporte público"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema excluye expresamente del concepto de responsabilidad patrimonial 'el pago de indemnizaciones como consecuencia de la realización o el ejercicio de potestades con fines ablatorios como la expropiación forzosa'.",
+        "id": "tema-27-q6"
+      },
+      {
+        "enunciado": "El fundamento de la responsabilidad patrimonial de la Administración es objetivo. ¿Qué significa esto según el tema?",
+        "opciones": [
+          "Que solo responde cuando ha actuado con dolo",
+          "Que el particular debe demostrar la culpa o falta personal de algún empleado público",
+          "Que la Administración responde cuando el particular sufre un daño antijurídico que no tiene el deber de soportar, con independencia de si actuó bien o mal",
+          "Que únicamente responde por los daños causados por funcionamiento anormal"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema indica que el fundamento de la responsabilidad de la Administración es objetivo: no es la culpa o negligencia de la Administración, sino el hecho de que el particular sufra un daño antijurídico que no tiene el deber de soportar.",
+        "id": "tema-27-q7"
+      },
+      {
+        "enunciado": "Según el art. 32.1 LRJSP, los particulares tendrán derecho a ser indemnizados por toda lesión que sufran en sus bienes y derechos, salvo:",
+        "opciones": [
+          "Cuando el daño derive de un funcionamiento normal del servicio",
+          "En los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley",
+          "Cuando la cuantía reclamada supere los 50.000 euros",
+          "Cuando la Administración actúe en régimen de derecho privado"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 32.1 LRJSP reconoce el derecho a la indemnización 'salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley'.",
+        "id": "tema-27-q8"
+      },
+      {
+        "enunciado": "Para que la Administración Pública responda patrimonialmente por los daños causados a un particular, el tema exige que se reúnan tres requisitos. ¿Cuáles son?",
+        "opciones": [
+          "Dolo, culpa y prescripción",
+          "La causa de la responsabilidad, el daño y la relación de causalidad",
+          "Actividad, procedimiento y jurisdicción",
+          "Antijuridicidad, imputación y reclamación previa"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema, en relación con el art. 32 LRJSP, agrupa los requisitos de procedencia en tres: la causa de la responsabilidad, el daño y la relación de causalidad.",
+        "id": "tema-27-q9"
+      },
+      {
+        "enunciado": "Según la infografía de requisitos, marcada como 'clave de examen', ¿qué es lo relevante para valorar la antijuridicidad del daño?",
+        "opciones": [
+          "Que el funcionamiento del servicio haya sido correcto",
+          "El resultado dañoso, no la actuación administrativa, es decir, si el particular tiene o no el deber jurídico de soportar el daño",
+          "Que exista dolo por parte del funcionario",
+          "Que el servicio público sea de titularidad estatal"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema y la infografía de requisitos señalan que lo relevante es la antijuridicidad del daño y no la de la actuación administrativa: tanto el funcionamiento normal como el anormal pueden generar responsabilidad si el particular no tiene el deber de soportar el daño.",
+        "id": "tema-27-q10"
+      },
+      {
+        "enunciado": "¿Qué circunstancia elimina por sí sola la responsabilidad de la Administración, según el tema y la infografía de requisitos?",
+        "opciones": [
+          "El funcionamiento normal del servicio",
+          "La fuerza mayor, entendida como causa cierta e inevitable exterior al funcionamiento del servicio",
+          "La existencia de un seguro contratado por la Administración",
+          "La actuación conforme a derecho"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema afirma que 'solo la fuerza mayor, esto es, una causa cierta e inevitable exterior al funcionamiento del servicio... elimina la responsabilidad de la Administración'.",
+        "id": "tema-27-q11"
+      },
+      {
+        "enunciado": "En materia de imputación del daño, ¿qué ocurre si la autoridad, funcionario o empleado público actúa fuera de sus funciones o el daño deriva de un delito que ha cometido?",
+        "opciones": [
+          "Se aplica igualmente la responsabilidad patrimonial de la Administración",
+          "No se aplica la responsabilidad patrimonial de la Administración",
+          "La Administración responde solo si hay dictamen del Consejo de Estado",
+          "Responde solidariamente con el funcionario"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica expresamente que 'si la autoridad, funcionario o persona empleada pública actúa fuera de sus funciones, o el daño deriva de un delito que ha cometido, entonces no se aplica la responsabilidad patrimonial de la Administración'.",
+        "id": "tema-27-q12"
+      },
+      {
+        "enunciado": "La infografía de requisitos describe un test para determinar la relación de causalidad. ¿En qué consiste el test de la 'condicio sine qua non'?",
+        "opciones": [
+          "En comprobar si el daño fue previsible según el estado de la ciencia",
+          "En preguntarse si, suprimida mentalmente la conducta administrativa, el daño se habría producido igualmente en su configuración concreta",
+          "En verificar si existió dolo o negligencia grave",
+          "En comprobar si el daño fue indemnizado en los tres meses siguientes"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema explica que la relación de causalidad se analiza mediante la fórmula de la condicio sine qua non: un hecho es causa de un resultado cuando, suprimida mentalmente dicha conducta, el resultado, en su configuración totalmente concreta, no se habría producido.",
+        "id": "tema-27-q13"
+      },
+      {
+        "enunciado": "Desde 1999, según el art. 34.1 LRJSP, ¿qué daños no son indemnizables?",
+        "opciones": [
+          "Los daños morales",
+          "Los que se deriven de hechos o circunstancias que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de su producción",
+          "Los daños causados por funcionamiento normal del servicio",
+          "Los daños individualizados en un grupo de personas"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 34.1 LRJSP excluye la indemnización de los daños que se deriven de hechos o circunstancias que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción.",
+        "id": "tema-27-q14"
+      },
+      {
+        "enunciado": "Según el art. 32.2 LRJSP, ¿qué características debe reunir el daño alegado por el lesionado?",
+        "opciones": [
+          "Doloso, previsible y colectivo",
+          "Efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas",
+          "Hipotético, moral y general",
+          "Culposo, actual y patrimonial"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 32.2 LRJSP exige que el daño alegado sea efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.",
+        "id": "tema-27-q15"
+      },
+      {
+        "enunciado": "Según el art. 34.2 LRJSP, ¿con arreglo a qué criterios se calcula la indemnización?",
+        "opciones": [
+          "Exclusivamente al valor catastral del bien dañado",
+          "A los valores predominantes en el mercado, teniendo en cuenta los criterios de valoración establecidos en la legislación fiscal, de expropiación forzosa y demás normas aplicables",
+          "Al criterio discrecional del instructor del procedimiento",
+          "Al Índice de Precios al Consumo exclusivamente"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 34.2 LRJSP establece que la indemnización se calcula con arreglo a los valores predominantes en el mercado, teniendo en cuenta los criterios de valoración de la legislación fiscal, de expropiación forzosa y demás normas aplicables.",
+        "id": "tema-27-q16"
+      },
+      {
+        "enunciado": "La cuantía de la indemnización se calcula con referencia al día en que la lesión efectivamente se produjo, y se actualiza a la fecha en que se ponga fin al procedimiento con arreglo a:",
+        "opciones": [
+          "El Índice de Precios al Consumo",
+          "El Índice de Garantía de la Competitividad",
+          "El interés legal del dinero",
+          "El tipo de interés del Banco Central Europeo"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 34.3 LRJSP prevé la actualización con arreglo al Índice de Garantía de la Competitividad (en la normativa anterior se empleaba el IPC), además de los intereses por demora conforme a la Ley General Presupuestaria.",
+        "id": "tema-27-q17"
+      },
+      {
+        "enunciado": "El derecho a reclamar por responsabilidad patrimonial prescribe, con carácter general, al año de producido el hecho. ¿Desde cuándo se computa dicho plazo en caso de daños de carácter físico o psíquico?",
+        "opciones": [
+          "Desde la fecha del hecho causante, sin excepción",
+          "Desde la curación o la determinación del alcance de las secuelas",
+          "Desde la presentación de la reclamación",
+          "Desde la resolución del procedimiento"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema señala que en caso de daños físicos o psíquicos el plazo empieza a computarse desde la curación o la determinación del alcance de las secuelas, de modo que el plazo no transcurre mientras estas no se hayan determinado.",
+        "id": "tema-27-q18"
+      },
+      {
+        "enunciado": "¿Qué órgano resuelve los procedimientos de responsabilidad patrimonial cuando el daño proviene del Estado Legislador en los supuestos del art. 32.3 LRJSP?",
+        "opciones": [
+          "El Ministro respectivo",
+          "El Consejo de Ministros",
+          "El Consejo de Estado",
+          "El Tribunal Supremo"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica que los procedimientos de responsabilidad patrimonial se resolverán por el Ministro respectivo, salvo que el daño provenga del Estado Legislador en los supuestos del art. 32.3 o cuando una ley así lo disponga, en cuyo caso resuelve el Consejo de Ministros.",
+        "id": "tema-27-q19"
+      },
+      {
+        "enunciado": "El procedimiento simplificado previsto en el art. 96.4 LPAC para resolver reclamaciones de responsabilidad patrimonial se tramita en un plazo de:",
+        "opciones": [
+          "15 días",
+          "30 días",
+          "2 meses",
+          "6 meses"
+        ],
+        "correcta": 1,
+        "explicacion": "El procedimiento simplificado sirve para reclamaciones cuyas circunstancias son inequívocas y puede tramitarse en el plazo de treinta días.",
+        "id": "tema-27-q20"
+      },
+      {
+        "enunciado": "Dentro del procedimiento simplificado de responsabilidad patrimonial, ¿en qué caso es preceptivo el Dictamen del Consejo de Estado u órgano consultivo equivalente?",
+        "opciones": [
+          "Cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que establezca la legislación autonómica",
+          "Cuando lo solicite el interesado",
+          "Siempre, sin excepción",
+          "Cuando el daño derive de funcionamiento anormal"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema precisa que el Dictamen del Consejo de Estado (o el órgano consultivo equivalente autonómico) es preceptivo cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que establezca la legislación autonómica correspondiente.",
+        "id": "tema-27-q21"
+      },
+      {
+        "enunciado": "¿Cuál es la jurisdicción competente para conocer de las reclamaciones de daños y perjuicios causados por las Administraciones Públicas a los particulares?",
+        "opciones": [
+          "Siempre la civil, por tratarse de responsabilidad extracontractual",
+          "Siempre la contencioso-administrativa, cualquiera que sea la relación jurídica o el ámbito en que se produzca el daño",
+          "La civil si la Administración actúa en régimen de derecho privado",
+          "La penal si existe delito"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema afirma que la jurisdicción contencioso-administrativa es siempre la competente, cualquiera que sea la relación jurídica (pública o privada) o el ámbito en que se produzca el daño, incluso cuando hay codemandados particulares.",
+        "id": "tema-27-q22"
+      },
+      {
+        "enunciado": "Según el art. 36.1 LRJSP, ¿quién responde directamente ante el particular por los daños causados por las autoridades y el personal al servicio de las Administraciones Públicas?",
+        "opciones": [
+          "El propio funcionario causante del daño",
+          "La Administración Pública correspondiente",
+          "La compañía aseguradora de la Administración",
+          "El superior jerárquico del funcionario"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 36.1 LRJSP establece que quien responde directamente por los daños y perjuicios causados por las autoridades y el personal a su servicio es siempre la Administración, sin que el particular deba identificar ni demostrar la falta del empleado público.",
+        "id": "tema-27-q23"
+      },
+      {
+        "enunciado": "¿Cuáles son las excepciones a la regla de que la Administración responde siempre directamente ante el particular por los daños causados por su personal?",
+        "opciones": [
+          "Ninguna, la Administración responde en todo caso",
+          "Los daños causados fuera del ejercicio de sus funciones y la responsabilidad civil derivada del delito, que solo recae sobre las personas físicas",
+          "Los daños causados por funcionamiento normal del servicio",
+          "Los daños causados por autoridades, pero no por personal laboral"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema señala como únicas excepciones los daños causados fuera del ejercicio de las funciones (p. ej., accidente de tráfico o relaciones de vecindad) y la responsabilidad civil derivada del delito, ya que solo las personas físicas responden penalmente.",
+        "id": "tema-27-q24"
+      },
+      {
+        "enunciado": "Según el art. 36.2 LRJSP y la infografía del doble régimen de responsabilidad, ¿en qué casos puede la Administración exigir responsabilidad a sus autoridades y personal mediante la acción de regreso?",
+        "opciones": [
+          "En todo caso en que se haya producido un daño indemnizado",
+          "Solo cuando hubieran incurrido en dolo, culpa grave o negligencia grave",
+          "Cuando exista cualquier grado de culpa o negligencia, incluida la leve",
+          "Únicamente cuando lo determine un juez penal"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 36.2 LRJSP establece que la Administración exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo, culpa grave o negligencia grave; la culpa o negligencia leve no genera responsabilidad ante la Administración.",
+        "id": "tema-27-q25"
+      },
+      {
+        "enunciado": "Según la infografía del doble régimen de responsabilidad, la acción de regreso frente a las autoridades y personal se ejerce:",
+        "opciones": [
+          "A instancia del particular perjudicado",
+          "De oficio, en vía administrativa, por la propia Administración una vez indemnizado el particular",
+          "Solo si lo autoriza previamente el Consejo de Estado",
+          "Automáticamente y por la misma cuantía que la indemnización pagada al particular"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema indica que no es una facultad sino una obligación: la Administración exigirá de oficio, en vía administrativa, la responsabilidad a su personal, previa instrucción del procedimiento reglamentariamente establecido.",
+        "id": "tema-27-q26"
+      },
+      {
+        "enunciado": "¿Qué criterios se ponderan, según el art. 36.2 LRJSP y la infografía del doble régimen, para exigir la responsabilidad a las autoridades y demás personal mediante la acción de regreso?",
+        "opciones": [
+          "Únicamente la cuantía total indemnizada al particular",
+          "El resultado dañoso producido, el grado de culpabilidad, la responsabilidad profesional del personal y su relación con la producción del resultado dañoso",
+          "Solo la antigüedad del empleado público en su puesto",
+          "La opinión del Consejo General del Poder Judicial"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema y la infografía señalan que se ponderan, entre otros, el resultado dañoso producido, el grado de culpabilidad, la responsabilidad profesional del personal y su relación con la producción del resultado dañoso, por lo que la cuantía a repercutir no coincide necesariamente con la indemnizada.",
+        "id": "tema-27-q27"
+      },
+      {
+        "enunciado": "Según el Anexo del tema, relativo a la responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia, ¿qué plazo tiene el interesado para reclamar por los daños derivados del funcionamiento anormal de la Administración de Justicia, y qué informe es preceptivo?",
+        "opciones": [
+          "Un plazo de 6 meses y es preceptivo el informe del Consejo de Estado",
+          "Un plazo de 1 año a partir del día en que pudo ejercitarse la acción, y es preceptivo en todo caso el informe del Consejo General del Poder Judicial",
+          "Un plazo de 2 años y no se requiere informe alguno",
+          "Un plazo de 3 meses, computado como plazo de caducidad, con informe preceptivo del Ministerio Fiscal"
+        ],
+        "correcta": 1,
+        "explicacion": "El Anexo señala que la reclamación se inicia mediante solicitud ante el Ministerio de Justicia y se tramita conforme a las normas de responsabilidad patrimonial del Estado en el plazo de 1 año a partir del día en que pudo ejercitarse, siendo preceptivo en todo caso el informe del CGPJ.",
+        "id": "tema-27-q28"
       }
     ]
   }

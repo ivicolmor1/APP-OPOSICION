@@ -193,35 +193,45 @@ function renderHome() {
   actions.appendChild(cardFails);
   wrap.appendChild(actions);
 
-  wrap.appendChild(el(`<div class="section-title">Temario</div>`));
-  const list = el('<div class="tema-list"></div>');
+  const bloques = [];
   for (const tema of TEMAS) {
-    const p = temaProgress(tema.id);
-    const pctMastered = p.total ? (p.mastered / p.total * 100) : 0;
-    const pctLearning = p.total ? (p.learning / p.total * 100) : 0;
-    const pctFail = p.total ? (p.fail / p.total * 100) : 0;
-    const card = el(`
-      <div class="tema-card">
-        <div class="tema-card-top">
-          <h3>${esc(tema.titulo)}</h3>
-          <span class="tema-badge">${p.total} preg.</span>
-        </div>
-        <div class="progress-bar">
-          <div class="seg-mastered" style="width:${pctMastered}%"></div>
-          <div class="seg-learning" style="width:${pctLearning}%"></div>
-          <div class="seg-fail" style="width:${pctFail}%"></div>
-        </div>
-        <div class="tema-stats-row">
-          <span><span class="dot dot-mastered"></span>${p.mastered} dominadas</span>
-          <span><span class="dot dot-learning"></span>${p.learning} en curso</span>
-          <span><span class="dot dot-fail"></span>${p.fail} falladas</span>
-        </div>
-      </div>
-    `);
-    card.addEventListener('click', () => navigate({ name: 'temaDetail', temaId: tema.id }));
-    list.appendChild(card);
+    const key = tema.bloque || 'Temario';
+    let b = bloques.find(x => x.nombre === key);
+    if (!b) { b = { nombre: key, temas: [] }; bloques.push(b); }
+    b.temas.push(tema);
   }
-  wrap.appendChild(list);
+
+  for (const bloque of bloques) {
+    wrap.appendChild(el(`<div class="section-title">${esc(bloque.nombre)}</div>`));
+    const list = el('<div class="tema-list"></div>');
+    for (const tema of bloque.temas) {
+      const p = temaProgress(tema.id);
+      const pctMastered = p.total ? (p.mastered / p.total * 100) : 0;
+      const pctLearning = p.total ? (p.learning / p.total * 100) : 0;
+      const pctFail = p.total ? (p.fail / p.total * 100) : 0;
+      const card = el(`
+        <div class="tema-card">
+          <div class="tema-card-top">
+            <h3>${esc(tema.titulo)}</h3>
+            <span class="tema-badge">${p.total} preg.</span>
+          </div>
+          <div class="progress-bar">
+            <div class="seg-mastered" style="width:${pctMastered}%"></div>
+            <div class="seg-learning" style="width:${pctLearning}%"></div>
+            <div class="seg-fail" style="width:${pctFail}%"></div>
+          </div>
+          <div class="tema-stats-row">
+            <span><span class="dot dot-mastered"></span>${p.mastered} dominadas</span>
+            <span><span class="dot dot-learning"></span>${p.learning} en curso</span>
+            <span><span class="dot dot-fail"></span>${p.fail} falladas</span>
+          </div>
+        </div>
+      `);
+      card.addEventListener('click', () => navigate({ name: 'temaDetail', temaId: tema.id }));
+      list.appendChild(card);
+    }
+    wrap.appendChild(list);
+  }
   return wrap;
 }
 
