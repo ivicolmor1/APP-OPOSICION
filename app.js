@@ -42,6 +42,10 @@ function temaQuestions(temaId) {
   return ALL_Q.filter(q => q.temaId === temaId);
 }
 
+function advancedQuestions(temaId) {
+  return temaQuestions(temaId).filter(q => q.nivel === 'avanzado');
+}
+
 function temaProgress(temaId) {
   const qs = temaQuestions(temaId);
   let mastered = 0, learning = 0, fail = 0, notStarted = 0;
@@ -264,6 +268,14 @@ function renderTemaDetail(tema) {
   btnPracticeAll.addEventListener('click', () => startQuiz('tema', tema.id, p.total));
   wrap.appendChild(btnPracticeAll);
 
+  const advCount = advancedQuestions(tema.id).length;
+  if (advCount) {
+    wrap.appendChild(el(`<div class="section-title">Miniapartado</div>`));
+    const btnAdvanced = el(`<button class="btn btn-advanced">🎓 Nivel avanzado (${advCount} preguntas)</button>`);
+    btnAdvanced.addEventListener('click', () => startQuiz('avanzado', tema.id, advCount));
+    wrap.appendChild(btnAdvanced);
+  }
+
   const btnFails = el(`<button class="btn ${failCount ? 'btn-outline-danger' : 'btn-secondary'}">Repasar solo falladas (${failCount})</button>`);
   btnFails.addEventListener('click', () => {
     if (!failCount) { showToast('Sin preguntas falladas en este tema 🎉'); return; }
@@ -278,6 +290,7 @@ function renderTemaDetail(tema) {
 function startQuiz(mode, temaId, count) {
   let pool;
   if (mode === 'tema') pool = temaQuestions(temaId);
+  else if (mode === 'avanzado') pool = advancedQuestions(temaId);
   else if (mode === 'fails') pool = failingQuestions(temaId);
   else pool = ALL_Q;
 
