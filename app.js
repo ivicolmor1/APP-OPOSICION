@@ -26,6 +26,28 @@ function setStat(qid, patch) {
   saveStats(STATS);
 }
 
+// ---------------- Preguntas descartadas ----------------
+const DISCARD_KEY = 'opo_discard_v1';
+function loadDiscarded() {
+  try {
+    return new Set(JSON.parse(localStorage.getItem(DISCARD_KEY)) || []);
+  } catch (e) {
+    return new Set();
+  }
+}
+function saveDiscarded() {
+  localStorage.setItem(DISCARD_KEY, JSON.stringify(Array.from(DISCARDED)));
+}
+let DISCARDED = loadDiscarded();
+function discardQuestion(qid) {
+  DISCARDED.add(qid);
+  saveDiscarded();
+}
+function restoreQuestion(qid) {
+  DISCARDED.delete(qid);
+  saveDiscarded();
+}
+
 // ---------------- Datos derivados ----------------
 function allQuestionsFlat() {
   const out = [];
@@ -54,12 +76,16 @@ function allSimQuestionsFlat() {
 }
 const ALL_SIM_Q = allSimQuestionsFlat();
 
+// Índice por id (incluye descartadas) — sirve para poder mostrarlas/restaurarlas en Estadísticas.
+const QUESTIONS_BY_ID = {};
+for (const q of ALL_Q.concat(ALL_SIM_Q)) QUESTIONS_BY_ID[q.id] = q;
+
 function temaQuestions(temaId) {
-  return ALL_Q.filter(q => q.temaId === temaId);
+  return ALL_Q.filter(q => q.temaId === temaId && !DISCARDED.has(q.id));
 }
 
 function simulacroQuestions(simId) {
-  return ALL_SIM_Q.filter(q => q.temaId === simId);
+  return ALL_SIM_Q.filter(q => q.temaId === simId && !DISCARDED.has(q.id));
 }
 
 function advancedQuestions(temaId) {
@@ -80,7 +106,7 @@ function temaProgress(temaId) {
 }
 
 function globalProgress(pool) {
-  pool = pool || ALL_Q;
+  pool = (pool || ALL_Q).filter(q => !DISCARDED.has(q.id));
   let mastered = 0, learning = 0, fail = 0, notStarted = 0, attempted = 0;
   for (const q of pool) {
     const s = STATS[q.id];
@@ -95,7 +121,7 @@ function globalProgress(pool) {
 
 function failingQuestions(temaId) {
   let pool;
-  if (!temaId) pool = ALL_Q.concat(ALL_SIM_Q);
+  if (!temaId) pool = ALL_Q.concat(ALL_SIM_Q).filter(q => !DISCARDED.has(q.id));
   else pool = temaQuestions(temaId).length ? temaQuestions(temaId) : simulacroQuestions(temaId);
   return pool.filter(q => {
     const s = STATS[q.id];
@@ -343,7 +369,7 @@ function startQuiz(mode, temaId, count) {
   else if (mode === 'avanzado') pool = advancedQuestions(temaId);
   else if (mode === 'simulacro') pool = simulacroQuestions(temaId);
   else if (mode === 'fails') pool = failingQuestions(temaId);
-  else pool = ALL_Q;
+  else pool = ALL_Q.filter(q => !DISCARDED.has(q.id));
 
   if (!pool.length) { showToast('No hay preguntas disponibles.'); return; }
 
@@ -378,10 +404,17 @@ function renderQuiz(view) {
 
   const card = el(`
     <div class="question-card">
-      <div class="q-tema">${esc(q.temaTitulo)}</div>
+      <div class="q-tema-row">
+        <div class="q-tema">${esc(q.temaTitulo)}</div>
+        <button class="discard-btn" type="button">🗑 Descartar</button>
+      </div>
       <div class="q-text">${esc(q.enunciado)}</div>
     </div>
   `);
+  card.querySelector('.discard-btn').addEventListener('click', (e) => {
+    e.stopPropagation();
+    discardCurrentQuestion(view, q);
+  });
   wrap.appendChild(card);
 
   const optsWrap = el('<div class="options"></div>');
@@ -449,9 +482,34 @@ function answerQuestion(view, q, chosenIndex) {
     newBox = 1;
     setStat(q.id, { box: newBox, fallos: s.fallos + 1, ultima: 'fail', ts: Date.now() });
   }
-  view.answers.push({ qid: q.id, correct, chosenIndex });
+  view.answers.push({ qid: q.id, correct, chosenIndex, q });
   view.answeredCurrent = true;
   render();
+}
+
+// ---------------- Descartar pregunta ----------------
+function discardCurrentQuestion(view, q) {
+  const ok = confirm('¿Descartar esta pregunta? No se te volverá a preguntar. Podrás recuperarla luego desde "Tus estadísticas" si cambias de opinión.');
+  if (!ok) return;
+
+  discardQuestion(q.id);
+
+  // Si ya la habías respondido en esta sesión, no debe contar en el resultado.
+  if (view.answeredCurrent && view.answers.length && view.answers[view.answers.length - 1].qid === q.id) {
+    view.answers.pop();
+  }
+
+  showToast('Pregunta descartada. No volverá a aparecer.');
+
+  const isLast = view.index >= view.questions.length - 1;
+  if (isLast) {
+    replaceView({ name: 'results', mode: view.mode, temaId: view.temaId, answers: view.answers, questions: view.questions });
+  } else {
+    view.index++;
+    view.answeredCurrent = false;
+    render();
+    window.scrollTo(0, 0);
+  }
 }
 
 // ---------------- Resultados ----------------
@@ -469,9 +527,9 @@ function renderResults(view) {
     </div>
   `));
 
-  const wrongOnes = view.answers
-    .map((a, i) => Object.assign({}, a, { q: view.questions[i] }))
-    .filter(a => !a.correct);
+  // Nota: usamos a.q (guardado al responder) en vez de view.questions[i], porque
+  // las preguntas descartadas a mitad de quiz rompen la correspondencia por índice.
+  const wrongOnes = view.answers.filter(a => !a.correct);
 
   if (wrongOnes.length) {
     wrap.appendChild(el(`<div class="section-title">Para repasar</div>`));
@@ -552,6 +610,36 @@ function renderStats() {
     });
     wrap.appendChild(el(`<div class="section-title">Detalle</div>`));
     wrap.appendChild(list);
+  }
+
+  const discardedList = Array.from(DISCARDED).map(id => QUESTIONS_BY_ID[id]).filter(Boolean);
+  wrap.appendChild(el(`<div class="section-title">Preguntas descartadas (${discardedList.length})</div>`));
+  if (!discardedList.length) {
+    wrap.appendChild(el(`
+      <div class="empty-state">
+        <div class="emoji">🗑️</div>
+        <div>No has descartado ninguna pregunta todavía.</div>
+      </div>
+    `));
+  } else {
+    const discList = el('<div class="fail-list"></div>');
+    discardedList.forEach(q => {
+      const item = el(`
+        <div class="fail-item discarded-item">
+          <div class="fail-tema">${esc(q.temaTitulo)}</div>
+          <div>${esc(q.enunciado)}</div>
+        </div>
+      `);
+      const btnRestore = el(`<button class="btn-restore" type="button">↺ Restaurar</button>`);
+      btnRestore.addEventListener('click', () => {
+        restoreQuestion(q.id);
+        showToast('Pregunta restaurada.');
+        render();
+      });
+      item.appendChild(btnRestore);
+      discList.appendChild(item);
+    });
+    wrap.appendChild(discList);
   }
 
   const btnReset = el(`<button class="btn btn-outline-danger" style="margin-top:24px;">Reiniciar todo el progreso</button>`);

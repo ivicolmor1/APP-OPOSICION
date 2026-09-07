@@ -258,12 +258,32 @@ main#app {
   padding: 18px;
   margin-bottom: 16px;
 }
+.question-card .q-tema-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-bottom: 8px;
+}
 .question-card .q-tema {
   font-size: 0.72rem;
   color: var(--text-dim);
   text-transform: uppercase;
   letter-spacing: 0.04em;
-  margin-bottom: 8px;
+}
+.discard-btn {
+  flex-shrink: 0;
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  color: var(--text-dim);
+  font-size: 0.72rem;
+  padding: 4px 10px;
+  cursor: pointer;
+}
+.discard-btn:active {
+  color: var(--danger);
+  border-color: var(--danger-dim);
 }
 .question-card .q-text {
   font-size: 1.02rem;
@@ -376,6 +396,22 @@ main#app {
   font-size: 0.88rem;
 }
 .fail-item .fail-tema { font-size: 0.7rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.03em; margin-bottom: 4px;}
+
+.discarded-item { position: relative; padding-right: 100px; }
+.btn-restore {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(52,211,153,0.12);
+  color: var(--accent);
+  border: 1px solid var(--accent-dim);
+  border-radius: 999px;
+  font-size: 0.74rem;
+  padding: 5px 10px;
+  cursor: pointer;
+  white-space: nowrap;
+}
 
 .empty-state {
   text-align: center;
