@@ -14,7 +14,7 @@ const TEMAS = [
           "Konrad Adenauer"
         ],
         "correcta": 1,
-        "explicacion": "La Declaración de 9 de mayo de 1950 fue pronunciada por Robert Schuman, ministro francés de Asuntos Exteriores, con un plan elaborado junto con Jean Monnet.",
+        "explicacion": "No confundir con Jean Monnet, que coautoró el plan: quien pronunció la Declaración de 9 de mayo de 1950 fue Robert Schuman, ministro francés de Asuntos Exteriores. Aquel discurso propuso poner en común la producción franco-alemana de carbón y acero, germen de la CECA.",
         "id": "tema-1-q1"
       },
       {
@@ -26,7 +26,7 @@ const TEMAS = [
           "1 de enero de 1958"
         ],
         "correcta": 1,
-        "explicacion": "El Tratado de París entró en vigor el 23 de julio de 1952; la CECA se estableció por un periodo limitado de 50 años y se integró en la Comunidad Europea el 23 de julio de 2002 al expirar su Tratado constitutivo.",
+        "explicacion": "Ojo, no confundir con el 23 de julio de 2002: esa es la fecha en que la CECA se extinguió e integró en la Comunidad Europea, no su entrada en vigor. El Tratado de París, firmado el 18 de abril de 1951, entró en vigor el 23 de julio de 1952, dando origen a la CECA por un periodo limitado de 50 años.",
         "id": "tema-1-q2"
       },
       {
@@ -38,7 +38,7 @@ const TEMAS = [
           "La CECA y el Tribunal de Justicia"
         ],
         "correcta": 1,
-        "explicacion": "Los Tratados de Roma crearon la CEE y la CEEA (Euratom), que iniciaron sus actividades con la entrada en vigor de los Tratados el 1 de enero de 1958.",
+        "explicacion": "Cuidado, no es la CECA, que ya existía desde 1951: los Tratados de Roma de 25 de marzo de 1957 crearon la CEE y la CEEA (Euratom). Ambas comunidades iniciaron su actividad el 1 de enero de 1958.",
         "id": "tema-1-q3"
       },
       {
@@ -50,7 +50,7 @@ const TEMAS = [
           "el 1 de diciembre de 2009"
         ],
         "correcta": 1,
-        "explicacion": "El Tratado de Maastricht entró en vigor el 1 de noviembre de 1993, debido a algunos obstáculos en el procedimiento de ratificación.",
+        "explicacion": "No confundir con las fechas de otros Tratados modificativos, como Ámsterdam en 1999 o Niza en 2003: el Tratado de Maastricht se firmó el 7 de febrero de 1992 pero, por obstáculos en su ratificación, no entró en vigor hasta el 1 de noviembre de 1993. Con él nació formalmente la Unión Europea.",
         "id": "tema-1-q4"
       },
       {
@@ -62,7 +62,7 @@ const TEMAS = [
           "Jean-Claude Juncker"
         ],
         "correcta": 2,
-        "explicacion": "La Convención sobre el futuro de Europa estuvo presidida por el antiguo Presidente francés Valéry Giscard d'Estaing.",
+        "explicacion": "Valéry Giscard d'Estaing, expresidente francés, presidió la Convención sobre el futuro de Europa. El 18 de julio de 2003 entregó al Consejo Europeo el proyecto de «Tratado por el que se establece una Constitución para Europa».",
         "id": "tema-1-q5"
       },
       {
@@ -74,7 +74,7 @@ const TEMAS = [
           "El Consejo Europeo"
         ],
         "correcta": 1,
-        "explicacion": "Las instituciones de la Unión son siete (Parlamento, Consejo Europeo, Consejo, Comisión, TJUE, BCE y Tribunal de Cuentas); el Comité de las Regiones, junto con el Comité Económico y Social, ejerce funciones meramente consultivas.",
+        "explicacion": "Al revés: el Comité de las Regiones no tiene la consideración de institución conforme al art. 13 TUE, sino de órgano consultivo, igual que el Comité Económico y Social. Las siete instituciones son Parlamento, Consejo Europeo, Consejo, Comisión, TJUE, BCE y Tribunal de Cuentas.",
         "id": "tema-1-q6"
       },
       {
@@ -86,7 +86,7 @@ const TEMAS = [
           "Los Tribunales de Justicia de la CECA, la CEE y la CEEA"
         ],
         "correcta": 1,
-        "explicacion": "El Parlamento Europeo tiene su origen en la Asamblea Común de la CECA, la Asamblea de la CEE y la Asamblea de la CEEA, unificadas en una única «Asamblea».",
+        "explicacion": "No confundir con los Consejos de Ministros ni con las Comisiones de cada Comunidad, que siguieron siendo distintos: el Parlamento nace de la fusión de las tres Asambleas (CECA, CEE y CEEA) en una única «Asamblea». La unificación se produjo mediante el Convenio de 1957 sobre instituciones comunes, conocido como Primer Tratado de fusión.",
         "id": "tema-1-q7"
       },
       {
@@ -98,7 +98,7 @@ const TEMAS = [
           "el artículo 17 del TUE"
         ],
         "correcta": 1,
-        "explicacion": "El número de diputados (754) superaba el máximo de 750 establecido en el artículo 14, apartado 2, del Tratado UE, circunstancia aceptada porque no era posible despojar a los diputados elegidos en junio de sus mandatos.",
+        "explicacion": "Ojo, no es el art. 13 TUE, que enumera las instituciones: el límite de 750 diputados está fijado en el art. 14, apartado 2, del TUE. Los 754 diputados de la legislatura 2009-2014 superaban ese máximo, algo que se aceptó porque ya habían sido elegidos y no cabía despojarlos de su mandato.",
         "id": "tema-1-q8"
       },
       {
@@ -110,7 +110,7 @@ const TEMAS = [
           "el Tratado de Niza"
         ],
         "correcta": 1,
-        "explicacion": "Su formalización jurídico-convencional tiene lugar por primera vez en el Acta Única Europea, aunque no se le reconoce como Institución hasta el Tratado de Lisboa.",
+        "explicacion": "Cuidado: el Consejo Europeo se considera institución con el Tratado de Lisboa (2009), pero su formalización jurídico-convencional es anterior, del Acta Única Europea (1986). Es decir, existía como órgano bastante antes de adquirir el estatus formal de institución.",
         "id": "tema-1-q9"
       },
       {
@@ -122,7 +122,7 @@ const TEMAS = [
           "tiene función jurisdiccional para resolver recursos de anulación"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo Europeo no ejerce función legislativa alguna; se limita a dar los impulsos necesarios y a definir las orientaciones y prioridades políticas generales de la Unión.",
+        "explicacion": "Al revés: el Consejo Europeo no legisla, es una institución de impulso político que no se mezcla en la actividad jurídica ordinaria de la UE. Se limita a dar los impulsos necesarios y a definir las orientaciones y prioridades políticas generales, dejando la función legislativa al Parlamento y al Consejo.",
         "id": "tema-1-q10"
       },
       {
@@ -134,7 +134,7 @@ const TEMAS = [
           "tres años, no renovable"
         ],
         "correcta": 1,
-        "explicacion": "El Presidente del Consejo Europeo será elegido por el propio Consejo por un periodo de dos años y medio con posibilidad de una sola reelección, y su elección se adoptará por mayoría cualificada.",
+        "explicacion": "El Presidente del Consejo Europeo se elige por mayoría cualificada del propio Consejo Europeo, para un mandato de dos años y medio con posibilidad de una sola reelección. Es una figura introducida por el Tratado de Lisboa; antes existía una presidencia rotatoria semestral.",
         "id": "tema-1-q11"
       },
       {
@@ -146,7 +146,7 @@ const TEMAS = [
           "un juez y un abogado general por cada Estado miembro"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo se compone por un representante de cada Estado miembro, de rango ministerial, facultado para comprometer al Gobierno del Estado miembro al que represente (art. 16.2 TUE).",
+        "explicacion": "No confundir con el Consejo Europeo, formado por Jefes de Estado y de Gobierno: el Consejo de la UE lo integra un representante de rango ministerial por cada Estado, con capacidad para comprometer a su Gobierno (art. 16.2 TUE). Ese rango ministerial puede corresponder también a un cargo autonómico o regional, según el reparto interno de cada país.",
         "id": "tema-1-q12"
       },
       {
@@ -158,7 +158,7 @@ const TEMAS = [
           "El Consejo de Asuntos Económicos y Financieros (ECOFIN)"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo de Ministros de Asuntos Exteriores tiene un presidente permanente, el Alto Representante para la Política Exterior y de Seguridad; las demás reuniones las preside el ministro del país que ostente la presidencia rotatoria.",
+        "explicacion": "Ojo, la mayoría de formaciones del Consejo rotan cada seis meses entre los Estados miembros, pero el Consejo de Asuntos Exteriores es la excepción: cuenta con un presidente permanente, el Alto Representante para la Política Exterior y de Seguridad. Las demás formaciones, como Competitividad o ECOFIN, las preside el país que ostenta la Presidencia rotatoria.",
         "id": "tema-1-q13"
       },
       {
@@ -170,7 +170,7 @@ const TEMAS = [
           "Bruselas"
         ],
         "correcta": 3,
-        "explicacion": "La Comisión Europea tiene su sede en Bruselas (Bélgica) y cuenta con diversos servicios en Luxemburgo.",
+        "explicacion": "No confundir con Luxemburgo, donde la Comisión solo tiene servicios: su sede está en Bruselas. Conviene fijar bien las sedes: TJUE y Tribunal de Cuentas en Luxemburgo, y BCE en Fráncfort.",
         "id": "tema-1-q14"
       },
       {
@@ -182,7 +182,7 @@ const TEMAS = [
           "353 de los 705 que componen la cámara"
         ],
         "correcta": 0,
-        "explicacion": "El candidato debe recibir la aprobación de la mayoría de los diputados europeos: 361 de los 720 que componen la cámara.",
+        "explicacion": "Atención: la fuente cita la mayoría exigida como 361 votos sobre el total de diputados que integran el Parlamento, cifra que se ha aplicado tanto con la composición de 705 como con la de 720 escaños en distintos periodos. Conviene repasar esta pregunta contrastando con la composición vigente en cada momento, ya que ambas cifras aparecen documentadas en el temario.",
         "id": "tema-1-q15"
       },
       {
@@ -194,7 +194,7 @@ const TEMAS = [
           "diecinueve"
         ],
         "correcta": 1,
-        "explicacion": "El presidente electo escoge a los veintiséis miembros restantes de la Comisión entre los candidatos que le presentan los Estados miembros, completando así los veintisiete comisarios (uno por Estado).",
+        "explicacion": "No es 27: esa es la cifra que resulta de sumar la presidencia. El presidente electo escoge a veintiséis comisarios más, entre los candidatos que le presentan los Estados miembros, completando así el Colegio de 27 comisarios.",
         "id": "tema-1-q16"
       },
       {
@@ -206,7 +206,7 @@ const TEMAS = [
           "el Tribunal de Justicia y el Tribunal de Casación"
         ],
         "correcta": 1,
-        "explicacion": "El TJUE consta de dos órganos: el Tribunal de Justicia y el Tribunal General.",
+        "explicacion": "Ojo, no confundir con el Tribunal de Cuentas ni con un inexistente «Tribunal Constitucional Europeo»: el TJUE consta de dos órganos, el Tribunal de Justicia y el Tribunal General. Ambos tienen su sede en Luxemburgo, desde la creación del primero en 1952.",
         "id": "tema-1-q17"
       },
       {
@@ -218,7 +218,7 @@ const TEMAS = [
           "11 jueces, correspondientes a los abogados generales"
         ],
         "correcta": 1,
-        "explicacion": "En 2019 pasaron a ser 56 jueces (2 por país), pero a partir del Brexit el Tribunal General se compone de 54, guardando la relación de 2 jueces por país.",
+        "explicacion": "Cuidado, no son 56: esa fue la cifra alcanzada en 2019, con 28 Estados miembros a razón de 2 jueces por país. Tras el Brexit, el Tribunal General se compone de 54 jueces, manteniendo esa proporción de 2 por país.",
         "id": "tema-1-q18"
       },
       {
@@ -230,7 +230,7 @@ const TEMAS = [
           "1 de diciembre de 2009, en Luxemburgo"
         ],
         "correcta": 1,
-        "explicacion": "El BCE se creó el 1 de junio de 1998 en Fráncfort y asume desde entonces las funciones del Instituto Monetario Europeo (IME); desde el 1 de enero de 1999 se hace cargo de la política monetaria de la zona euro.",
+        "explicacion": "No confundir con el 1 de enero de 1999, fecha en que el BCE asumió la política monetaria de la zona euro: su creación fue el 1 de junio de 1998, en Fráncfort. En ese momento sustituyó al Instituto Monetario Europeo (IME).",
         "id": "tema-1-q19"
       },
       {
@@ -242,7 +242,7 @@ const TEMAS = [
           "favorecer el pleno empleo en la zona euro"
         ],
         "correcta": 1,
-        "explicacion": "«El objetivo principal del Sistema Europeo de Bancos Centrales […] será mantener la estabilidad de precios» (art. 127.1 TFUE).",
+        "explicacion": "El objetivo principal del SEBC, según el art. 127.1 TFUE, es mantener la estabilidad de precios; solo sin perjuicio de ese fin apoyará las políticas económicas generales de la Unión. Es la misma prioridad que guía la actuación del BCE dentro del Eurosistema.",
         "id": "tema-1-q20"
       },
       {
@@ -254,7 +254,7 @@ const TEMAS = [
           "1993"
         ],
         "correcta": 2,
-        "explicacion": "El año de creación del Tribunal de Cuentas Europeo es 1977.",
+        "explicacion": "No confundir con 1952, creación del TJUE, ni 1958, entrada en vigor de los Tratados de Roma: el Tribunal de Cuentas Europeo se creó en 1977. Tiene un miembro por cada país de la UE y su sede está en Luxemburgo.",
         "id": "tema-1-q21"
       },
       {
@@ -266,7 +266,7 @@ const TEMAS = [
           "el recurso de casación y el recurso de amparo"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal de Justicia hace respetar el carácter prevalente del Derecho primario mediante distintos instrumentos jurídicos, como el recurso de anulación (art. 263 TFUE) y el recurso prejudicial (art. 267 TFUE).",
+        "explicacion": "El Tribunal de Justicia hace valer la primacía del Derecho primario mediante el recurso de anulación (art. 263 TFUE) y la cuestión prejudicial (art. 267 TFUE), no mediante actos de Derecho derivado como la Directiva o el Reglamento. Son los instrumentos clave para controlar la legalidad de los actos de las instituciones.",
         "id": "tema-1-q22"
       },
       {
@@ -278,7 +278,7 @@ const TEMAS = [
           "24 de junio de 1994"
         ],
         "correcta": 2,
-        "explicacion": "El Tratado de adhesión de España y Portugal se firmó el 12 de junio de 1985.",
+        "explicacion": "No confundir con el 28 de mayo de 1979, adhesión de Grecia, ni con el 22 de enero de 1972, adhesión de Reino Unido, Dinamarca e Irlanda: España y Portugal firmaron su Tratado de adhesión el 12 de junio de 1985. Fue la tercera ampliación de las Comunidades Europeas.",
         "id": "tema-1-q23"
       },
       {
@@ -290,7 +290,7 @@ const TEMAS = [
           "La Recomendación"
         ],
         "correcta": 1,
-        "explicacion": "El Reglamento tiene alcance general, es obligatorio en todas sus partes y directamente aplicable en cada Estado miembro, sin necesidad de acto nacional de transposición.",
+        "explicacion": "Al revés que la Directiva, que necesita transposición: el Reglamento tiene alcance general, es obligatorio en todas sus partes y se aplica directamente en cada Estado miembro sin ningún acto nacional intermedio. Entra en vigor, salvo que fije otra fecha, el vigésimo día tras su publicación en el Diario Oficial de la UE.",
         "id": "tema-1-q24"
       },
       {
@@ -302,7 +302,7 @@ const TEMAS = [
           "el Estado miembro afectado renuncie expresamente a su margen de transposición"
         ],
         "correcta": 1,
-        "explicacion": "Es necesario que el plazo de transposición haya vencido y la Directiva no haya sido transpuesta o lo haya sido deficientemente, que sus disposiciones sean lo suficientemente claras y precisas, y que confieran derechos al ciudadano individual.",
+        "explicacion": "No basta con que el plazo de transposición haya vencido: la jurisprudencia constante del TJUE exige además que las disposiciones de la Directiva sean suficientemente claras y precisas y que confieran derechos al ciudadano individual. Este criterio de efecto directo excepcional se consolidó desde 1970.",
         "id": "tema-1-q25"
       },
       {
@@ -314,7 +314,7 @@ const TEMAS = [
           "Alcide De Gasperi"
         ],
         "correcta": 1,
-        "explicacion": "Robert Schuman, ministro francés de Asuntos Exteriores, pronunció la Declaración de 9 de mayo de 1950, cuyo plan había elaborado junto con Jean Monnet.",
+        "explicacion": "Atención: la fuente atribuye la pronunciación de la Declaración de 9 de mayo de 1950 al ministro francés Robert Schuman, mientras que Jean Monnet fue quien coelaboró el plan que Schuman expuso. Conviene revisar esta pregunta, pues el dato histórico documentado señala a Schuman como el orador.",
         "id": "tema-1-q26"
       },
       {
@@ -326,7 +326,7 @@ const TEMAS = [
           "El 25 de marzo de 1957"
         ],
         "correcta": 1,
-        "explicacion": "El Tratado de París se firmó el 18 de abril de 1951 y entró en vigor el 23 de julio de 1952.",
+        "explicacion": "Ojo, no confundir la fecha de firma con la de entrada en vigor: el Tratado de París se firmó el 18 de abril de 1951, pero entró en vigor el 23 de julio de 1952. Con él nació la CECA, por un periodo limitado de 50 años.",
         "id": "tema-1-q27"
       },
       {
@@ -338,7 +338,7 @@ const TEMAS = [
           "Francia, Italia, España, Grecia, Bélgica y Luxemburgo"
         ],
         "correcta": 0,
-        "explicacion": "Los seis Estados fundadores fueron Bélgica, República Federal de Alemania, Francia, Italia, Luxemburgo y los Países Bajos.",
+        "explicacion": "No confundir con ampliaciones posteriores, que incorporaron a España, Portugal, Reino Unido o Grecia: los seis fundadores de la CECA en 1951 fueron Bélgica, República Federal de Alemania, Francia, Italia, Luxemburgo y los Países Bajos. Estos mismos seis países crearían después la CEE y el Euratom en 1957.",
         "id": "tema-1-q28"
       },
       {
@@ -350,7 +350,7 @@ const TEMAS = [
           "Por 30 años; se fusionó directamente con la CEE en 1958"
         ],
         "correcta": 1,
-        "explicacion": "La CECA se estableció por un periodo limitado de cincuenta años y se integró en la Comunidad Europea el 23 de julio de 2002, al expirar su Tratado constitutivo.",
+        "explicacion": "No confundir con una disolución sin más: la CECA se estableció por un periodo limitado de 50 años y, al expirar su Tratado constitutivo, se integró en la Comunidad Europea el 23 de julio de 2002. Fue la única de las tres Comunidades originarias creada con un plazo de vigencia predeterminado.",
         "id": "tema-1-q29"
       },
       {
@@ -362,7 +362,7 @@ const TEMAS = [
           "El TJUE y el Tribunal de Cuentas"
         ],
         "correcta": 1,
-        "explicacion": "Mediante los Tratados de Roma se crearon la Comunidad Económica Europea (CEE) y la Comunidad Europea de la Energía Atómica (CEEA o Euratom).",
+        "explicacion": "Cuidado, no es la CECA, ya existente desde 1951: los Tratados de Roma de 1957 crearon la CEE y la CEEA (Euratom). Ambas comunidades comenzaron a funcionar el 1 de enero de 1958.",
         "id": "tema-1-q30"
       },
       {
@@ -374,7 +374,7 @@ const TEMAS = [
           "El 18 de abril de 1951"
         ],
         "correcta": 0,
-        "explicacion": "Los Tratados de Roma iniciaron sus actividades con la entrada en vigor de los Tratados el 1 de enero de 1958.",
+        "explicacion": "No confundir la fecha de la firma, 25 de marzo de 1957, con la de entrada en vigor: los Tratados de Roma iniciaron sus actividades el 1 de enero de 1958. Ese mismo día arrancaron simultáneamente la CEE y la CEEA.",
         "id": "tema-1-q31"
       },
       {
@@ -386,7 +386,7 @@ const TEMAS = [
           "El 1 de febrero de 2003"
         ],
         "correcta": 1,
-        "explicacion": "El Tratado de Maastricht, firmado el 7 de febrero de 1992, no entró en vigor hasta el 1 de noviembre de 1993 debido a obstáculos en el procedimiento de ratificación.",
+        "explicacion": "No confundir la fecha de firma, 7 de febrero de 1992, con la de entrada en vigor: el Tratado de Maastricht no entró en vigor hasta el 1 de noviembre de 1993, por retrasos en su ratificación por los Estados miembros. Con él se fundó formalmente la Unión Europea.",
         "id": "tema-1-q32"
       },
       {
@@ -398,7 +398,7 @@ const TEMAS = [
           "1 de noviembre de 1993 y 1 de mayo de 1999"
         ],
         "correcta": 0,
-        "explicacion": "El Tratado de Ámsterdam entró en vigor el 1 de mayo de 1999 y el Tratado de Niza el 1 de febrero de 2003, con el objetivo de conservar la capacidad de actuación de la UE ante la ampliación.",
+        "explicacion": "No confundir el orden ni las fechas de firma con las de entrada en vigor: el Tratado de Ámsterdam entró en vigor el 1 de mayo de 1999 y el de Niza el 1 de febrero de 2003. Ambas reformas buscaban mantener la capacidad de actuación de la UE ante una ampliación a más Estados miembros.",
         "id": "tema-1-q33"
       },
       {
@@ -410,7 +410,7 @@ const TEMAS = [
           "26 de febrero de 2001"
         ],
         "correcta": 1,
-        "explicacion": "Fue aprobada por los Jefes de Estado o de Gobierno el 15 de diciembre de 2001.",
+        "explicacion": "No confundir con la fecha de entrega del proyecto de Constitución Europea, 18 de julio de 2003: la Declaración sobre el futuro de la Unión fue aprobada por los Jefes de Estado o de Gobierno el 15 de diciembre de 2001. En ella, la UE se comprometió a ser más democrática, transparente y eficaz.",
         "id": "tema-1-q34"
       },
       {
@@ -422,7 +422,7 @@ const TEMAS = [
           "Jean-Claude Juncker, el 13 de diciembre de 2007"
         ],
         "correcta": 1,
-        "explicacion": "La Convención estuvo presidida por el antiguo presidente francés Valéry Giscard d'Estaing, quien entregó oficialmente el proyecto de «Tratado por el que se establece una Constitución para Europa» el 18 de julio de 2003.",
+        "explicacion": "Valéry Giscard d'Estaing, expresidente francés, presidió la Convención sobre el futuro de Europa. Entregó oficialmente el proyecto de «Tratado por el que se establece una Constitución para Europa» al presidente del Consejo Europeo el 18 de julio de 2003.",
         "id": "tema-1-q35"
       },
       {
@@ -434,7 +434,7 @@ const TEMAS = [
           "Creó una tercera entidad denominada Comunidad Europea de Naciones"
         ],
         "correcta": 1,
-        "explicacion": "Mediante el Tratado de Lisboa se fusionan la Unión Europea y la Comunidad Europea para formar una única Unión Europea; el término «Comunidad» es sustituido de forma universal por «Unión», que sustituye y sucede a la Comunidad Europea.",
+        "explicacion": "No se trató de mantener a la Unión y la Comunidad como entidades separadas: el Tratado de Lisboa las fusionó en una única Unión Europea, sustituyendo de forma universal el término «Comunidad» por «Unión». La nueva Unión sucede y sustituye jurídicamente a la antigua Comunidad Europea.",
         "id": "tema-1-q36"
       },
       {
@@ -446,7 +446,7 @@ const TEMAS = [
           "Ocho"
         ],
         "correcta": 2,
-        "explicacion": "El art. 13 TUE enumera siete instituciones: Parlamento Europeo, Consejo Europeo, Consejo, Comisión, Tribunal de Justicia de la UE, Banco Central Europeo y Tribunal de Cuentas.",
+        "explicacion": "No confundir con las tres Comunidades originarias ni con un listado de ocho: el art. 13 TUE enumera siete instituciones. Son el Parlamento, el Consejo Europeo, el Consejo, la Comisión, el TJUE, el BCE y el Tribunal de Cuentas.",
         "id": "tema-1-q37"
       },
       {
@@ -458,7 +458,7 @@ const TEMAS = [
           "El Alto Representante y el Eurogrupo"
         ],
         "correcta": 1,
-        "explicacion": "El Parlamento Europeo, el Consejo y la Comisión estarán asistidos por un Comité Económico y Social y por un Comité de las Regiones, que ejercerán funciones consultivas.",
+        "explicacion": "No confundir con el Tribunal de Cuentas o el BCE, que no tienen función consultiva: los órganos consultivos son el Comité Económico y Social y el Comité de las Regiones. Ambos asisten al Parlamento, al Consejo y a la Comisión en el ejercicio de sus funciones.",
         "id": "tema-1-q38"
       },
       {
@@ -470,7 +470,7 @@ const TEMAS = [
           "Acta Única Europea"
         ],
         "correcta": 1,
-        "explicacion": "El documento señala que dichas disposiciones figuran en el Tratado de Funcionamiento de la Unión Europea (Roma 1957).",
+        "explicacion": "Las disposiciones detalladas sobre el BCE, el Tribunal de Cuentas y el resto de instituciones figuran en el Tratado de Funcionamiento de la Unión Europea, de Roma de 1957. El TUE, en cambio, solo recoge el marco institucional general en su art. 13.",
         "id": "tema-1-q39"
       },
       {
@@ -482,7 +482,7 @@ const TEMAS = [
           "Unanimidad en todas las decisiones"
         ],
         "correcta": 1,
-        "explicacion": "Cada institución actuará dentro de los límites de las atribuciones que le confieren los Tratados y, además, las instituciones mantendrán entre sí una cooperación leal.",
+        "explicacion": "No es una jerarquía entre instituciones ni la unanimidad: el art. 13 TUE exige que las instituciones actúen dentro de sus atribuciones y, además, mantengan entre sí una cooperación leal. Este principio complementa el reparto de competencias fijado por los Tratados.",
         "id": "tema-1-q40"
       },
       {
@@ -494,7 +494,7 @@ const TEMAS = [
           "La Convención sobre el futuro de Europa"
         ],
         "correcta": 0,
-        "explicacion": "Se unificaron en una única «Asamblea» en virtud del Convenio sobre determinadas instituciones comunes a las Comunidades Europeas de 1957 (Primer Tratado de fusión).",
+        "explicacion": "No confundir con el Acta Única Europea ni con un Tratado de adhesión: la unificación de las tres Asambleas en una sola se produjo mediante el Convenio sobre determinadas instituciones comunes de 1957, conocido como Primer Tratado de fusión. Así nació la «Asamblea» que después se convertiría en el Parlamento Europeo.",
         "id": "tema-1-q41"
       },
       {
@@ -506,7 +506,7 @@ const TEMAS = [
           "El art. 14.2 TUE no fijaba ningún máximo"
         ],
         "correcta": 1,
-        "explicacion": "Los 754 diputados superaban el máximo de 750 establecido en el art. 14.2 TUE; esta circunstancia se aceptó para la legislatura 2009-2014 porque no era posible despojar a los diputados ya elegidos de sus mandatos.",
+        "explicacion": "No coincidía con el máximo ni era inferior: los 754 diputados superaban el límite de 750 fijado en el art. 14.2 TUE. Se aceptó de forma excepcional para la legislatura 2009-2014 porque los diputados ya habían sido elegidos en junio de 2009 y no podían ser despojados de su mandato.",
         "id": "tema-1-q42"
       },
       {
@@ -518,7 +518,7 @@ const TEMAS = [
           "754"
         ],
         "correcta": 1,
-        "explicacion": "Tras la salida del Reino Unido, el total de europarlamentarios no puede ser superior a 705, en concreto 704 más el Presidente.",
+        "explicacion": "No confundir con 750, el máximo anterior, ni con 754, la cifra excepcional 2009-2014: tras la salida de Reino Unido, el límite pasó a ser 705 europarlamentarios, es decir 704 más el Presidente. Ese techo se mantuvo hasta la ampliación a 720 escaños aprobada para las elecciones de 2024.",
         "id": "tema-1-q43"
       },
       {
@@ -530,7 +530,7 @@ const TEMAS = [
           "700 a 705"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo Europeo adoptó una Decisión aumentando el número total de escaños de 705 a 720, que se eligieron en las elecciones del 6 al 9 de junio de 2024.",
+        "explicacion": "No confundir con el salto anterior de 750 a 754: a raíz de la Resolución legislativa del Parlamento de 15 de junio de 2023, el Consejo Europeo aumentó el número total de escaños de 705 a 720. Esos 720 escaños se eligieron en las elecciones del 6 al 9 de junio de 2024.",
         "id": "tema-1-q44"
       },
       {
@@ -542,7 +542,7 @@ const TEMAS = [
           "Antigüedad de la adhesión a la Unión"
         ],
         "correcta": 1,
-        "explicacion": "La distribución se basa en el principio de «proporcionalidad decreciente», por el cual los diputados de los países grandes representan a más ciudadanos que los de los países pequeños, aunque estos tengan menos diputados.",
+        "explicacion": "No es un reparto igualitario ni por sorteo: la distribución de escaños se rige por el principio de proporcionalidad decreciente. Significa que los diputados de los países grandes representan a más ciudadanos que los de los países pequeños, aunque ningún Estado pequeño puede tener más escaños que uno más poblado.",
         "id": "tema-1-q45"
       },
       {
@@ -554,7 +554,7 @@ const TEMAS = [
           "10 mínimo y 100 máximo"
         ],
         "correcta": 1,
-        "explicacion": "Se ha previsto un mínimo de 6 escaños y un máximo de 96 escaños por Estado miembro.",
+        "explicacion": "No confundir con otras cifras del Parlamento, como 705, 720 o 754: por Estado miembro, el mínimo previsto es de 6 escaños y el máximo de 96. Este rango garantiza tanto un nivel mínimo de representación a los países pequeños como el peso proporcional de los más poblados.",
         "id": "tema-1-q46"
       },
       {
@@ -566,7 +566,7 @@ const TEMAS = [
           "65"
         ],
         "correcta": 1,
-        "explicacion": "España tenía 59 eurodiputados tras la salida del Reino Unido (5 más que antes del Brexit) y pasó a 61 en las elecciones de junio de 2024.",
+        "explicacion": "No confundir con los 59 eurodiputados que tenía España tras el Brexit, 5 más que antes de la salida británica: en las elecciones de junio de 2024, España pasó a 61 eurodiputados. El aumento respondió a la ampliación del Parlamento de 705 a 720 escaños.",
         "id": "tema-1-q47"
       },
       {
@@ -578,7 +578,7 @@ const TEMAS = [
           "Por unanimidad de los grupos políticos, para un mandato vitalicio"
         ],
         "correcta": 0,
-        "explicacion": "Entre ellos y por mayoría absoluta se elige al Presidente del Parlamento por un mandato de dos años y medio, renovable; forma parte de la Mesa junto con los catorce Vicepresidentes y los cinco Cuestores, elegidos también para un periodo de dos años y medio renovable.",
+        "explicacion": "No confundir con otras composiciones de la Mesa: el Presidente del Parlamento se elige por mayoría absoluta entre los diputados, para un mandato de dos años y medio renovable. La Mesa la completan 14 Vicepresidentes y 5 Cuestores, elegidos para el mismo periodo.",
         "id": "tema-1-q48"
       },
       {
@@ -590,7 +590,7 @@ const TEMAS = [
           "Institución con el Tratado de Roma; formalización previa en el Tratado de París"
         ],
         "correcta": 0,
-        "explicacion": "El Consejo Europeo se considera Institución por primera vez con el Tratado de Lisboa, si bien su formalización jurídico-convencional había tenido lugar antes, en el Acta Única Europea.",
+        "explicacion": "Cuidado: son dos hitos distintos. El Consejo Europeo se reconoce como institución con el Tratado de Lisboa, pero su formalización jurídico-convencional ya existía desde el Acta Única Europea, muchos años antes.",
         "id": "tema-1-q49"
       },
       {
@@ -602,7 +602,7 @@ const TEMAS = [
           "Los embajadores permanentes ante la Unión Europea"
         ],
         "correcta": 1,
-        "explicacion": "Estará compuesto por los Jefes de Estado y de Gobierno de los Estados miembros, así como por su Presidente y por el Presidente de la Comisión; el Alto Representante participa en sus trabajos.",
+        "explicacion": "No confundir con los ministros de Exteriores, que integran el Consejo y no el Consejo Europeo: el Consejo Europeo lo forman los Jefes de Estado y de Gobierno de los Estados miembros, junto con su propio Presidente y el Presidente de la Comisión. El Alto Representante participa en sus trabajos, aunque no forma parte de su composición.",
         "id": "tema-1-q50"
       },
       {
@@ -614,7 +614,7 @@ const TEMAS = [
           "Únicamente cuando decide por unanimidad"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo Europeo es una Institución de impulsión política que no se ha de mezclar en la actividad jurídica ordinaria de la UE; no ejerce función legislativa alguna, limitándose a dar impulsos y definir orientaciones y prioridades políticas generales.",
+        "explicacion": "Al revés: el Consejo Europeo no ejerce ninguna función legislativa, ni siquiera en materia presupuestaria. Es una institución de impulso político, dedicada a definir orientaciones y prioridades generales, no a codecidir leyes con el Parlamento.",
         "id": "tema-1-q51"
       },
       {
@@ -626,7 +626,7 @@ const TEMAS = [
           "Cuatro veces al año, en Roma"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo Europeo se reunirá dos veces por semestre convocado por su Presidente (pudiendo reunirse también de forma extraordinaria); todas sus reuniones se celebran en Bruselas.",
+        "explicacion": "No confundir con reuniones mensuales o anuales: el Consejo Europeo se reúne ordinariamente dos veces por semestre, convocado por su Presidente, y puede reunirse también de forma extraordinaria. Todas sus reuniones, sin excepción, se celebran en Bruselas.",
         "id": "tema-1-q52"
       },
       {
@@ -638,7 +638,7 @@ const TEMAS = [
           "Por el Consejo de Ministros, por unanimidad, para un mandato de 4 años renovable indefinidamente"
         ],
         "correcta": 0,
-        "explicacion": "El Presidente del Consejo Europeo es elegido por el propio Consejo Europeo por un periodo de dos años y medio, con posibilidad de una sola reelección; su elección se adopta por mayoría cualificada. Es una novedad del Tratado de Lisboa, pues antes existía una presidencia rotatoria de 6 meses.",
+        "explicacion": "No confundir con una elección parlamentaria ni con la antigua rotación semestral: el Presidente del Consejo Europeo lo elige el propio Consejo, por mayoría cualificada, para un mandato de dos años y medio con posibilidad de una sola reelección. Antes del Tratado de Lisboa, la presidencia rotaba cada seis meses entre los Estados miembros.",
         "id": "tema-1-q53"
       },
       {
@@ -650,7 +650,7 @@ const TEMAS = [
           "Roberta Metsola; no presenta ningún informe"
         ],
         "correcta": 0,
-        "explicacion": "António Costa preside el Consejo Europeo desde el 1 de diciembre de 2024; entre sus funciones internas, al término de cada reunión del Consejo presenta un informe al Parlamento.",
+        "explicacion": "No confundir con Ursula von der Leyen, en la Comisión, ni con Roberta Metsola, en el Parlamento: quien preside el Consejo Europeo desde el 1 de diciembre de 2024 es António Costa. Entre sus funciones internas, presenta un informe al Parlamento al término de cada reunión del Consejo.",
         "id": "tema-1-q54"
       },
       {
@@ -662,7 +662,7 @@ const TEMAS = [
           "Representación de los intereses puramente supranacionales"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo es la institución en la que están representados los intereses nacionales de los Estados miembros, si bien desde la entrada en vigor del Tratado de Lisboa comparte esa representación con el Consejo Europeo.",
+        "explicacion": "No es una representación directa de los ciudadanos, esa es función del Parlamento: el Consejo de la UE encarna la representación de los intereses nacionales de los Estados miembros. Desde el Tratado de Lisboa, comparte esa representación con el Consejo Europeo.",
         "id": "tema-1-q55"
       },
       {
@@ -674,7 +674,7 @@ const TEMAS = [
           "Ambos ejercen exclusivamente función legislativa por igual"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo Europeo es un ejecutivo intergubernamental, a diferencia del Consejo, que es fundamentalmente un legislativo intergubernamental y asume los poderes de decisión legislativa y presupuestaria.",
+        "explicacion": "Al revés de lo que podría pensarse: el Consejo Europeo es fundamentalmente un ejecutivo intergubernamental, mientras que el Consejo es fundamentalmente un legislativo intergubernamental. Es el Consejo, junto con el Parlamento, quien asume los poderes de decisión legislativa y presupuestaria.",
         "id": "tema-1-q56"
       },
       {
@@ -686,7 +686,7 @@ const TEMAS = [
           "Art. 127 TFUE únicamente"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo se regula en los artículos 16 TUE y 237 a 243 TFUE.",
+        "explicacion": "No confundir con el art. 13 TUE, que fija las instituciones, ni con el 288 TFUE, sobre actos derivados: el Consejo de la UE se regula en el art. 16 TUE y en los arts. 237 a 243 TFUE. Estas disposiciones detallan su composición, funcionamiento y presidencia.",
         "id": "tema-1-q57"
       },
       {
@@ -698,7 +698,7 @@ const TEMAS = [
           "Por funcionarios de carrera designados por la Comisión"
         ],
         "correcta": 0,
-        "explicacion": "El Consejo se compone por un representante de cada Estado miembro, de rango ministerial, facultado para comprometer al Gobierno del Estado miembro al que representa (art. 16.2 TUE).",
+        "explicacion": "No confundir con el Consejo Europeo, formado por Jefes de Estado: según el art. 16.2 TUE, el Consejo se compone de un representante de cada Estado miembro, de rango ministerial, facultado para comprometer al Gobierno que representa. El reglamento interno de cada Estado determina quién ostenta ese rango.",
         "id": "tema-1-q58"
       },
       {
@@ -710,7 +710,7 @@ const TEMAS = [
           "En el Alto Representante de la Unión"
         ],
         "correcta": 1,
-        "explicacion": "El voto habrá de delegarse en un Estado miembro que esté representado por un miembro del Gobierno; es una regla de quórum que asegura una presencia mínima de la mitad de los Estados representados por miembros de los Gobiernos.",
+        "explicacion": "No puede delegarse en cualquier funcionario ni en otra institución: el voto debe delegarse en un Estado miembro que esté representado por un miembro del Gobierno. Esta regla garantiza una presencia mínima de la mitad de los Estados representados por miembros gubernamentales para poder votar.",
         "id": "tema-1-q59"
       },
       {
@@ -722,7 +722,7 @@ const TEMAS = [
           "La unanimidad de las delegaciones"
         ],
         "correcta": 1,
-        "explicacion": "Se exige una presencia mínima de la mitad de los Estados representados por miembros de los Gobiernos; en la práctica, las instancias del Consejo suspenden sus trabajos en presencia de menos de la mitad de las delegaciones.",
+        "explicacion": "No es un tercio ni la unanimidad: el Consejo exige la presencia mínima de la mitad de los Estados representados por miembros de sus Gobiernos para poder votar. Si no se alcanza ese quórum, las instancias del Consejo suspenden sus trabajos.",
         "id": "tema-1-q60"
       },
       {
@@ -734,7 +734,7 @@ const TEMAS = [
           "La presidencia se decide por sorteo en cada reunión, formación por formación"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo de Ministros de Asuntos Exteriores tiene un presidente permanente, el Alto Representante para la Política Exterior y de Seguridad; las demás reuniones las preside el ministro del país que ostente la Presidencia rotatoria, de seis meses (enero a junio y julio a diciembre).",
+        "explicacion": "No todas las formaciones rotan por igual: el Consejo de Asuntos Exteriores tiene un presidente permanente, el Alto Representante, mientras que las demás formaciones las preside el país con la Presidencia rotatoria, de seis meses (enero-junio y julio-diciembre). Esta doble fórmula combina estabilidad en exteriores y rotación en el resto de materias.",
         "id": "tema-1-q61"
       },
       {
@@ -746,7 +746,7 @@ const TEMAS = [
           "Emitir la moneda única europea"
         ],
         "correcta": 1,
-        "explicacion": "Entre sus competencias figuran actuar sometido al principio de legalidad, poder modificar la iniciativa de la Comisión por unanimidad en algunos casos, las relaciones exteriores y de representación de la UE, y autorizar la celebración de acuerdos internacionales con terceros Estados o terceras organizaciones internacionales.",
+        "explicacion": "No se trata de proponer al presidente de la Comisión, eso corresponde al Consejo Europeo, ni de emitir moneda, eso es del BCE: entre las competencias del Consejo figura autorizar la celebración de acuerdos internacionales con terceros Estados u organizaciones internacionales. También puede modificar la iniciativa de la Comisión por unanimidad en algunos casos.",
         "id": "tema-1-q62"
       },
       {
@@ -758,7 +758,7 @@ const TEMAS = [
           "A los intereses del Consejo Europeo"
         ],
         "correcta": 1,
-        "explicacion": "La Comisión Europea es el órgano ejecutivo de la UE y representa los intereses de la Unión en su conjunto, no los de ningún país en concreto.",
+        "explicacion": "No representa a ningún Estado por separado ni solo a los votantes europeos: la Comisión Europea representa los intereses de la Unión en su conjunto. Es precisamente esa naturaleza supranacional la que la distingue del Consejo, que sí defiende intereses nacionales.",
         "id": "tema-1-q63"
       },
       {
@@ -770,7 +770,7 @@ const TEMAS = [
           "Sede en Bruselas, servicios en Estrasburgo"
         ],
         "correcta": 1,
-        "explicacion": "La Comisión Europea tiene su sede en Bruselas (Bélgica) y cuenta con diversos servicios en Luxemburgo.",
+        "explicacion": "No confundir con Estrasburgo, sede del Parlamento en sus plenos, ni con Fráncfort, sede del BCE: la Comisión Europea tiene su sede en Bruselas y cuenta además con diversos servicios en Luxemburgo.",
         "id": "tema-1-q64"
       },
       {
@@ -782,7 +782,7 @@ const TEMAS = [
           "Se elige por sorteo entre los comisarios salientes"
         ],
         "correcta": 0,
-        "explicacion": "El Consejo Europeo propone/designa al candidato por mayoría cualificada y lo somete a votación al Parlamento Europeo; el candidato debe recibir la aprobación de la mayoría de los diputados europeos (361 de los 720 que componen la cámara).",
+        "explicacion": "No lo elige el Parlamento por sí solo ni el Tribunal de Justicia: el candidato a presidente de la Comisión lo propone el Consejo Europeo por mayoría cualificada, y necesita después la aprobación de la mayoría de los diputados del Parlamento. Esa mayoría se sitúa en 361 de los 720 escaños que componen la cámara.",
         "id": "tema-1-q65"
       },
       {
@@ -794,7 +794,7 @@ const TEMAS = [
           "El Tribunal de Justicia valida su nombramiento"
         ],
         "correcta": 1,
-        "explicacion": "El presidente electo escoge a los veintiséis miembros restantes de la Comisión entre los candidatos que le presentan los Estados miembros; la lista definitiva de los comisarios propuestos debe ser acordada entre el presidente electo y el Consejo.",
+        "explicacion": "No los elige el Parlamento directamente ni los designa el Consejo Europeo por su cuenta: el presidente electo escoge a los veintiséis comisarios restantes entre los candidatos que le presentan los Estados miembros, y la lista definitiva debe acordarse entre él y el Consejo. Toda la Comisión, además, necesita la aprobación final del Parlamento.",
         "id": "tema-1-q66"
       },
       {
@@ -806,7 +806,7 @@ const TEMAS = [
           "El 30 de noviembre de 2024, presidida por Ursula von der Leyen"
         ],
         "correcta": 0,
-        "explicacion": "El mandato de la actual Comisión finalizará el 30 de noviembre de 2029; su presidenta es Ursula von der Leyen.",
+        "explicacion": "No confundir con Roberta Metsola, en el Parlamento, ni con António Costa, en el Consejo Europeo: la actual Comisión, presidida por Ursula von der Leyen, finaliza su mandato el 30 de noviembre de 2029. Los mandatos de la Comisión se renuevan cada cinco años.",
         "id": "tema-1-q67"
       },
       {
@@ -818,7 +818,7 @@ const TEMAS = [
           "Gestionar y aplicar las políticas de la UE y su presupuesto"
         ],
         "correcta": 2,
-        "explicacion": "Definir las orientaciones y prioridades políticas generales de la Unión es función del Consejo Europeo; entre las funciones de la Comisión sí figuran proponer legislación, hacer cumplirla, gestionar políticas y presupuesto, y representar a la Unión fuera de Europa.",
+        "explicacion": "Ojo, esa función corresponde al Consejo Europeo, no a la Comisión: definir las orientaciones y prioridades políticas generales de la Unión es tarea del Consejo Europeo. Entre las funciones propias de la Comisión están proponer legislación, gestionar el presupuesto y representar a la Unión en el exterior.",
         "id": "tema-1-q68"
       },
       {
@@ -830,7 +830,7 @@ const TEMAS = [
           "Al Tribunal de Cuentas y al Consejo"
         ],
         "correcta": 1,
-        "explicacion": "La Comisión propone legislación que posteriormente adoptan los colegisladores, es decir, el Parlamento Europeo y el Consejo de Ministros.",
+        "explicacion": "No se refiere ni al Consejo Europeo ni al TJUE: los «colegisladores» que adoptan la legislación propuesta por la Comisión son el Parlamento Europeo y el Consejo de Ministros. Ambos comparten así el poder legislativo ordinario de la Unión.",
         "id": "tema-1-q69"
       },
       {
@@ -842,7 +842,7 @@ const TEMAS = [
           "La validación previa del Tribunal de Justicia"
         ],
         "correcta": 1,
-        "explicacion": "La Comisión en su conjunto tiene que recibir la aprobación del Parlamento Europeo, por lo que los comisarios propuestos se someten al examen de las comisiones parlamentarias.",
+        "explicacion": "No basta con el acuerdo entre el presidente electo y el Consejo sobre la lista de comisarios: la Comisión en su conjunto debe someterse además al examen de las comisiones parlamentarias y obtener la aprobación del Parlamento Europeo. Solo entonces queda formalmente constituida.",
         "id": "tema-1-q70"
       },
       {
@@ -854,7 +854,7 @@ const TEMAS = [
           "En 1993, como Tribunal de Justicia de Maastricht"
         ],
         "correcta": 0,
-        "explicacion": "Se creó en 1952 como Tribunal de Justicia de las Comunidades Europeas, cambiando al nombre actual (TJUE) en 2009 con el Tratado de Lisboa.",
+        "explicacion": "No nació con el nombre actual: el Tribunal se creó en 1952 como Tribunal de Justicia de las Comunidades Europeas, y cambió su denominación a Tribunal de Justicia de la Unión Europea en 2009, con la entrada en vigor del Tratado de Lisboa.",
         "id": "tema-1-q71"
       },
       {
@@ -866,7 +866,7 @@ const TEMAS = [
           "Tribunal de Casación y Tribunal de Apelación"
         ],
         "correcta": 0,
-        "explicacion": "El TJUE consta de dos órganos: el Tribunal de Justicia y el Tribunal General.",
+        "explicacion": "No confundir con el Tribunal de Cuentas ni con un inexistente Tribunal Constitucional Europeo: el TJUE consta de dos órganos, el Tribunal de Justicia y el Tribunal General. Ambos comparten sede en Luxemburgo.",
         "id": "tema-1-q72"
       },
       {
@@ -878,7 +878,7 @@ const TEMAS = [
           "Resuelve recursos de amparo constitucional; carece de abogados generales"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal de Justicia resuelve las cuestiones prejudiciales planteadas por los tribunales nacionales, ciertos recursos de anulación y los recursos de casación; sus miembros son un juez de cada país miembro y once abogados generales, además de un secretario y varios asistentes.",
+        "explicacion": "No resuelve solo recursos de particulares ni conflictos presupuestarios: el Tribunal de Justicia resuelve cuestiones prejudiciales, ciertos recursos de anulación y los recursos de casación. Lo componen un juez de cada país miembro y once abogados generales, además de un secretario y varios asistentes.",
         "id": "tema-1-q73"
       },
       {
@@ -890,7 +890,7 @@ const TEMAS = [
           "Resuelve conflictos entre instituciones; su número de jueces nunca ha cambiado"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal General resuelve los recursos de anulación que interponen los particulares, las empresas y, en algunos casos, los gobiernos nacionales. En 2019 pasó a tener 56 jueces (2 por cada país de la UE), y tras el Brexit se compone de 54, guardando la misma relación.",
+        "explicacion": "No mantiene siempre 27 jueces ni resuelve cuestiones prejudiciales, esa es función del Tribunal de Justicia: el Tribunal General resuelve recursos de anulación de particulares, empresas y, a veces, gobiernos nacionales. Pasó de 56 jueces en 2019, 2 por país con 28 Estados, a 54 tras el Brexit, manteniendo la misma proporción.",
         "id": "tema-1-q74"
       },
       {
@@ -902,7 +902,7 @@ const TEMAS = [
           "Jueces y abogados generales: de por vida, designados por la Comisión; presidente: 1 año"
         ],
         "correcta": 0,
-        "explicacion": "Los gobiernos nacionales designan a cada juez y abogado general por un periodo renovable de seis años; en cada uno de los tribunales, los jueces eligen a su presidente para un mandato renovable de tres años.",
+        "explicacion": "No son mandatos vitalicios ni fijados por el Consejo Europeo: los gobiernos nacionales designan a cada juez y abogado general por un periodo renovable de 6 años, y son los propios jueces de cada tribunal quienes eligen a su presidente, para un mandato renovable de 3 años.",
         "id": "tema-1-q75"
       },
       {
@@ -914,7 +914,7 @@ const TEMAS = [
           "Fráncfort"
         ],
         "correcta": 2,
-        "explicacion": "La sede del TJUE se encuentra en Luxemburgo.",
+        "explicacion": "No confundir con Bruselas ni Estrasburgo, sedes de otras instituciones: el TJUE tiene su sede en Luxemburgo, igual que el Tribunal de Cuentas.",
         "id": "tema-1-q76"
       },
       {
@@ -926,7 +926,7 @@ const TEMAS = [
           "El 7 de febrero de 1992, en Maastricht"
         ],
         "correcta": 1,
-        "explicacion": "El BCE se creó el 1 de junio de 1998 en Fráncfort, asumiendo desde entonces las funciones del Instituto Monetario Europeo (IME).",
+        "explicacion": "No confundir con el 1 de enero de 1999, asunción de la política monetaria, ni con Maastricht, donde se firmó el Tratado que impulsó su creación: el BCE se creó el 1 de junio de 1998, en Fráncfort. Es la ciudad alemana que también sirve de sede a la institución.",
         "id": "tema-1-q77"
       },
       {
@@ -938,7 +938,7 @@ const TEMAS = [
           "Desde el 1 de noviembre de 1993"
         ],
         "correcta": 1,
-        "explicacion": "Desde el 1 de enero de 1999 el BCE se hace cargo de la instrumentación de la política monetaria de la zona del euro.",
+        "explicacion": "No confundir con el 1 de junio de 1998, fecha de su creación: el BCE se hizo cargo de la instrumentación de la política monetaria de la zona euro el 1 de enero de 1999. Antes de esa fecha ejercía funciones el Instituto Monetario Europeo.",
         "id": "tema-1-q78"
       },
       {
@@ -950,7 +950,7 @@ const TEMAS = [
           "El Eurosistema incluye a bancos centrales de países no comunitarios"
         ],
         "correcta": 1,
-        "explicacion": "El Eurosistema agrupa al BCE y los bancos centrales nacionales de los Estados miembros cuya moneda es el euro; el SEBC está compuesto por el Banco Central Europeo y los bancos centrales nacionales de todos los Estados miembros de la Unión, independientemente de que hayan adoptado el euro o no.",
+        "explicacion": "No son sinónimos: el Eurosistema agrupa al BCE y los bancos centrales nacionales de los Estados que sí han adoptado el euro, mientras que el SEBC incluye al BCE y a los bancos centrales de todos los Estados miembros de la UE, adopten o no la moneda única. El Eurosistema es, por tanto, un subconjunto del SEBC, no al revés.",
         "id": "tema-1-q79"
       },
       {
@@ -962,7 +962,7 @@ const TEMAS = [
           "Financiar el déficit público de los Estados miembros"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 127.1 del Tratado establece que el objetivo principal del SEBC será mantener la estabilidad de precios.",
+        "explicacion": "No es el pleno empleo ni el crecimiento económico: el art. 127.1 del Tratado fija como objetivo principal del SEBC mantener la estabilidad de precios. Solo sin perjuicio de ese fin apoyará las políticas económicas generales de la Unión.",
         "id": "tema-1-q80"
       },
       {
@@ -974,7 +974,7 @@ const TEMAS = [
           "20"
         ],
         "correcta": 1,
-        "explicacion": "El BCE es el banco central de los 19 países de la Unión Europea que han adoptado el euro.",
+        "explicacion": "No son los 27 Estados miembros de la UE: el BCE es el banco central de los 19 países que han adoptado el euro. El resto de Estados miembros conserva su propio banco central fuera del Eurosistema, aunque sí forma parte del SEBC.",
         "id": "tema-1-q81"
       },
       {
@@ -986,7 +986,7 @@ const TEMAS = [
           "1998, en Fráncfort"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal de Cuentas se creó en 1977 y tiene su sede en Luxemburgo, con un miembro por cada país de la UE.",
+        "explicacion": "No confundir con 1952, creación del TJUE, ni con 1998, creación del BCE: el Tribunal de Cuentas se creó en 1977 y tiene su sede en Luxemburgo, con un miembro por cada país de la Unión.",
         "id": "tema-1-q82"
       },
       {
@@ -998,7 +998,7 @@ const TEMAS = [
           "Depende jerárquicamente de la Comisión Europea"
         ],
         "correcta": 1,
-        "explicacion": "En su calidad de auditor externo independiente de la UE, el Tribunal de Cuentas vela por los intereses de los contribuyentes europeos, aunque no tiene capacidad jurídica; contribuye a mejorar la gestión del presupuesto e informa sobre las finanzas de la Unión.",
+        "explicacion": "No tiene capacidad jurisdiccional ni depende de la Comisión: el Tribunal de Cuentas actúa como auditor externo independiente de la UE, sin capacidad jurídica propia. Vela por los intereses de los contribuyentes europeos e informa sobre las finanzas de la Unión.",
         "id": "tema-1-q83"
       },
       {
@@ -1010,7 +1010,7 @@ const TEMAS = [
           "El conjunto de reglamentos vigentes en un momento dado"
         ],
         "correcta": 1,
-        "explicacion": "El acervo comunitario comprende la base común de derechos y obligaciones que vincula al conjunto de los Estados miembros de la Unión Europea y que está en evolución constante.",
+        "explicacion": "No se limita a la jurisprudencia ni solo a los Tratados fundacionales: el acervo comunitario es la base común de derechos y obligaciones que vincula a todos los Estados miembros, y está en constante evolución. Incluye desde el contenido de los Tratados hasta la legislación derivada y los acuerdos internacionales de la Unión.",
         "id": "tema-1-q84"
       },
       {
@@ -1022,7 +1022,7 @@ const TEMAS = [
           "Solo deben aceptar el Derecho primario, no el secundario"
         ],
         "correcta": 1,
-        "explicacion": "Los países candidatos deben aceptar el acervo antes de adherirse a la Unión; las exenciones al mismo son escasas y de alcance limitado, y deben transponerlo en sus legislaciones nacionales y aplicarlo desde su adhesión efectiva.",
+        "explicacion": "No pueden rechazarlo ni aplazar su aceptación varios años: los países candidatos deben aceptar íntegramente el acervo comunitario antes de adherirse, siendo las exenciones escasas y de alcance limitado. Deben además transponerlo en su legislación nacional y aplicarlo desde el momento de su adhesión efectiva.",
         "id": "tema-1-q85"
       },
       {
@@ -1034,7 +1034,7 @@ const TEMAS = [
           "La política agrícola y la política pesquera comunes"
         ],
         "correcta": 1,
-        "explicacion": "El segundo pilar corresponde a la política exterior y de seguridad común (PESC) y el tercer pilar a la cooperación en los ámbitos de la justicia y los asuntos de interior (JAI).",
+        "explicacion": "No se refiere al mercado único ni a la libre circulación: los pilares segundo y tercero de la Unión corresponden, respectivamente, a la política exterior y de seguridad común (PESC) y a la cooperación en justicia y asuntos de interior (JAI). El Tratado de Lisboa integró después estos pilares en una estructura única.",
         "id": "tema-1-q86"
       },
       {
@@ -1046,7 +1046,7 @@ const TEMAS = [
           "Las leyes nacionales de cada Estado miembro, sin excepción"
         ],
         "correcta": 1,
-        "explicacion": "El acervo engloba también las declaraciones y resoluciones adoptadas en el marco de la Unión, los actos en materia de PESC y de Justicia y Asuntos de Interior, y los Acuerdos Internacionales celebrados por la Comunidad y por los Estados miembros entre sí en el ámbito de las actividades de la Unión.",
+        "explicacion": "No se limita a sentencias de tribunales nacionales: el acervo comunitario incluye también las declaraciones y resoluciones adoptadas en el marco de la Unión, y los Acuerdos Internacionales celebrados por la Comunidad y por los Estados miembros entre sí. Estos acuerdos son vinculantes tanto para la Unión como para sus Estados.",
         "id": "tema-1-q87"
       },
       {
@@ -1058,7 +1058,7 @@ const TEMAS = [
           "La cuestión de inconstitucionalidad ante el Tribunal Constitucional"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal de Justicia hace respetar el carácter prevalente del Derecho primario mediante distintos instrumentos, como el recurso de anulación (art. 263 TFUE) y el recurso prejudicial (art. 267 TFUE).",
+        "explicacion": "No son la Directiva ni el Reglamento, que son actos de Derecho derivado: el TJUE emplea el recurso de anulación (art. 263 TFUE) y el recurso prejudicial (art. 267 TFUE) para hacer respetar el carácter prevalente del Derecho primario. Son las dos vías jurídicas clave de control de legalidad en la UE.",
         "id": "tema-1-q88"
       },
       {
@@ -1070,7 +1070,7 @@ const TEMAS = [
           "Los acuerdos intergubernamentales complementarios exclusivamente"
         ],
         "correcta": 1,
-        "explicacion": "El Derecho primario incluye esencialmente los Tratados de la UE, formado por los Tratados «fundacionales», los grandes Tratados modificativos, sus protocolos anexos, los Tratados complementarios y los Tratados de adhesión.",
+        "explicacion": "No son sentencias ni acuerdos intergubernamentales aislados: el Derecho primario está formado esencialmente por los Tratados de la UE, es decir, los fundacionales, los grandes modificativos, sus protocolos anexos, los complementarios y los de adhesión.",
         "id": "tema-1-q89"
       },
       {
@@ -1082,7 +1082,7 @@ const TEMAS = [
           "A los territorios metropolitanos de los Estados miembros"
         ],
         "correcta": 1,
-        "explicacion": "El art. 355 TFUE señala que el Derecho de la UE se aplica también a los territorios cuyas relaciones exteriores corresponden a un Estado, como Gibraltar y las Islas Åland.",
+        "explicacion": "No confundir con Madeira, Canarias o los departamentos franceses de ultramar, que sí forman parte del territorio de un Estado miembro: el art. 355 TFUE extiende el Derecho de la UE también a territorios cuyas relaciones exteriores corresponden a un Estado miembro, como Gibraltar y las Islas Åland.",
         "id": "tema-1-q90"
       },
       {
@@ -1094,7 +1094,7 @@ const TEMAS = [
           "Vigente solo hasta la siguiente reforma de los Tratados"
         ],
         "correcta": 1,
-        "explicacion": "Los textos dependientes de la esfera del Derecho primario tienen, en principio, una duración ilimitada; por ejemplo, el TFUE, de conformidad con lo dispuesto en su artículo 356.",
+        "explicacion": "No tiene una duración limitada como la CECA, con sus 50 años, ni de 25 años: el Derecho primario, como el TFUE, tiene en principio una duración ilimitada, salvo período transitorio, conforme al art. 356 TFUE.",
         "id": "tema-1-q91"
       },
       {
@@ -1106,7 +1106,7 @@ const TEMAS = [
           "Chipre, Malta, Estonia y Noruega"
         ],
         "correcta": 1,
-        "explicacion": "El Tratado de adhesión de 22 de enero de 1972 fue firmado por Reino Unido, Dinamarca, Irlanda y Noruega (si bien Noruega finalmente no llegó a implementarlo por el resultado de su referéndum).",
+        "explicacion": "No confundir con la adhesión de España y Portugal en 1985 ni con la de Austria, Finlandia y Suecia en 1994: el Tratado de adhesión de 22 de enero de 1972 fue firmado por Reino Unido, Dinamarca, Irlanda y Noruega. Noruega, no obstante, finalmente no llegó a implementarlo tras el resultado de su referéndum.",
         "id": "tema-1-q92"
       },
       {
@@ -1118,7 +1118,7 @@ const TEMAS = [
           "16 de abril de 2003"
         ],
         "correcta": 1,
-        "explicacion": "España y Portugal firmaron su Tratado de adhesión el 12 de junio de 1985.",
+        "explicacion": "No confundir con la fecha de adhesión de Grecia en 1979 ni de Austria, Finlandia y Suecia en 1994: España y Portugal se adhirieron a las Comunidades Europeas el 12 de junio de 1985.",
         "id": "tema-1-q93"
       },
       {
@@ -1130,7 +1130,7 @@ const TEMAS = [
           "28 de mayo de 1979"
         ],
         "correcta": 1,
-        "explicacion": "El Tratado de adhesión de Chipre, Estonia, Hungría, Malta, Polonia, Letonia, Lituania, República Checa, Eslovaquia y Eslovenia se firmó el 16 de abril de 2003.",
+        "explicacion": "No confundir con la adhesión de Rumanía y Bulgaria en 2005 ni con la de Austria, Finlandia y Suecia en 1994: la ampliación de diez países, entre ellos Chipre, Estonia, Hungría, Malta y Polonia, se firmó el 16 de abril de 2003. Fue la mayor ampliación en número de Estados de la historia de la UE.",
         "id": "tema-1-q94"
       },
       {
@@ -1142,7 +1142,7 @@ const TEMAS = [
           "Grecia, en 1979"
         ],
         "correcta": 0,
-        "explicacion": "La última ampliación citada en el documento es la adhesión de Croacia, mediante el Tratado de adhesión de 2012.",
+        "explicacion": "No es ninguna de las ampliaciones anteriores, como Reino Unido en 1972, Grecia en 1979 o Chipre en 2003: la última ampliación citada es la de Croacia, mediante el Tratado de adhesión de 2012. Tras esta incorporación, la UE llegó a los 28 Estados miembros, antes del Brexit.",
         "id": "tema-1-q95"
       },
       {
@@ -1154,7 +1154,7 @@ const TEMAS = [
           "Recomendaciones, Dictámenes y Resoluciones, exclusivamente"
         ],
         "correcta": 0,
-        "explicacion": "Las modalidades de actuación de la Comunidad son el Reglamento, la Directiva, la Decisión, las Recomendaciones y los Dictámenes, figuras jurídicas propias del Derecho Comunitario Europeo.",
+        "explicacion": "No se limita solo al Reglamento, la Directiva y la Decisión: el art. 249 TCE, actual 288 TFUE, recoge cinco modalidades de actuación: Reglamento, Directiva, Decisión, Recomendaciones y Dictámenes. Estas dos últimas no son vinculantes.",
         "id": "tema-1-q96"
       },
       {
@@ -1166,7 +1166,7 @@ const TEMAS = [
           "No es vinculante, únicamente ofrece orientaciones"
         ],
         "correcta": 0,
-        "explicacion": "El Reglamento tiene alcance general, es obligatorio en todas sus partes y directamente aplicable en cada Estado miembro, sin necesidad de un acto nacional de transposición.",
+        "explicacion": "No confundir con la Directiva, que deja libertad de forma y medios: el Reglamento tiene alcance general, es obligatorio en todas sus partes y directamente aplicable en cada Estado miembro sin necesidad de transposición. Garantiza así la aplicación uniforme del Derecho comunitario en toda la Unión.",
         "id": "tema-1-q97"
       },
       {
@@ -1178,7 +1178,7 @@ const TEMAS = [
           "No requiere ningún acto de transposición al Derecho nacional"
         ],
         "correcta": 0,
-        "explicacion": "La Directiva obliga al Estado miembro destinatario en cuanto al resultado que debe conseguirse, si bien son los Estados miembros quienes eligen la forma y los medios; requiere normalmente un acto de transposición al Derecho nacional.",
+        "explicacion": "Al revés que el Reglamento: la Directiva obliga al Estado miembro destinatario en cuanto al resultado que debe conseguirse, pero deja a los Estados la elección de la forma y los medios para lograrlo. Normalmente requiere un acto de transposición al Derecho nacional dentro del plazo fijado.",
         "id": "tema-1-q98"
       },
       {
@@ -1190,7 +1190,7 @@ const TEMAS = [
           "Solo puede tener como destinatarios a personas físicas, nunca a Estados"
         ],
         "correcta": 0,
-        "explicacion": "La Decisión es obligatoria en todos sus elementos; si designa a determinados destinatarios, solo es de obligado cumplimiento para éstos, pudiendo ser Estados miembros o personas físicas o jurídicas.",
+        "explicacion": "No siempre tiene alcance general ni carece de destinatarios: la Decisión es obligatoria en todos sus elementos y, si designa destinatarios determinados, solo vincula a estos, ya sean Estados miembros o personas físicas o jurídicas.",
         "id": "tema-1-q99"
       },
       {
@@ -1202,7 +1202,7 @@ const TEMAS = [
           "Tienen el mismo rango jerárquico que los Tratados"
         ],
         "correcta": 1,
-        "explicacion": "Las Recomendaciones y Dictámenes no son vinculantes y no crean derechos ni obligaciones para los destinatarios, pero ofrecen orientaciones en relación con la interpretación y el contenido del Derecho Comunitario Europeo.",
+        "explicacion": "No son vinculantes, a diferencia del Reglamento, la Directiva o la Decisión: las Recomendaciones y los Dictámenes no crean derechos ni obligaciones para sus destinatarios. Aun así, ofrecen orientaciones útiles sobre la interpretación y el contenido del Derecho comunitario.",
         "id": "tema-1-q100"
       },
       {
@@ -1214,7 +1214,7 @@ const TEMAS = [
           "Las instituciones mantienen entre sí una cooperación leal"
         ],
         "correcta": 1,
-        "explicacion": "El Consejo Europeo NO ejerce función legislativa alguna; se limita a dar los impulsos necesarios y a definir las orientaciones y prioridades políticas generales de la Unión.",
+        "explicacion": "Al revés: el Consejo Europeo NO ejerce función legislativa alguna, tampoco en materia presupuestaria. Se limita a dar impulsos y fijar orientaciones y prioridades políticas generales, dejando la función legislativa y presupuestaria al Parlamento y al Consejo.",
         "nivel": "avanzado",
         "id": "tema-1-q101"
       },
@@ -1227,7 +1227,7 @@ const TEMAS = [
           "El Alto Representante preside siempre el Consejo Europeo"
         ],
         "correcta": 1,
-        "explicacion": "Según el documento, el Consejo Europeo es un ejecutivo intergubernamental, mientras que el Consejo es fundamentalmente un legislativo intergubernamental que asume los poderes de decisión legislativa y presupuestaria.",
+        "explicacion": "No ejercen función legislativa por igual ni se reúnen con la misma frecuencia: el Consejo Europeo es fundamentalmente un ejecutivo intergubernamental, mientras que el Consejo es fundamentalmente un legislativo intergubernamental. El Alto Representante, por cierto, no preside el Consejo Europeo, sino el Consejo de Asuntos Exteriores.",
         "nivel": "avanzado",
         "id": "tema-1-q102"
       },
@@ -1240,7 +1240,7 @@ const TEMAS = [
           "El mínimo de escaños por Estado miembro es de 4"
         ],
         "correcta": 3,
-        "explicacion": "El mínimo de escaños por Estado miembro previsto es de 6, no de 4; el máximo es de 96.",
+        "explicacion": "No es 4: el mínimo de escaños por Estado miembro previsto es de 6, y el máximo, 96. El resto de afirmaciones sobre los 754 diputados tras Lisboa, el respeto del máximo en 2014 y los 720 escaños desde 2024 sí son correctas.",
         "nivel": "avanzado",
         "id": "tema-1-q103"
       },
@@ -1253,7 +1253,7 @@ const TEMAS = [
           "La Comisión en su conjunto necesita la aprobación del Parlamento Europeo"
         ],
         "correcta": 2,
-        "explicacion": "El presidente electo escoge a los comisarios entre los candidatos que le presentan los propios Estados miembros, no de forma libre; además, la lista definitiva debe acordarse entre el presidente electo y el Consejo.",
+        "explicacion": "No los escoge libremente ni sin intervención de los Estados: el presidente electo de la Comisión elige a los 26 comisarios entre los candidatos que le presentan los propios Estados miembros, y la lista definitiva debe acordarse con el Consejo. El resto de datos sobre la mayoría del Parlamento y la propuesta del Consejo Europeo sí son correctos.",
         "nivel": "avanzado",
         "id": "tema-1-q104"
       },
@@ -1266,7 +1266,7 @@ const TEMAS = [
           "Sus jueces son elegidos por el Parlamento Europeo"
         ],
         "correcta": 1,
-        "explicacion": "En 2019 el Tribunal General pasó a tener 56 jueces (2 por país) y, tras el Brexit, se compone de 54, manteniendo la misma relación de 2 jueces por país; sus jueces son designados por los gobiernos nacionales, no por el Parlamento.",
+        "explicacion": "No tiene 56 jueces ni resuelve solo cuestiones prejudiciales, eso es el Tribunal de Justicia: el Tribunal General cuenta con 54 jueces desde el Brexit, tras haber tenido 56 en 2019. Sus jueces, además, los designan los gobiernos nacionales, no el Parlamento.",
         "nivel": "avanzado",
         "id": "tema-1-q105"
       },
@@ -1279,7 +1279,7 @@ const TEMAS = [
           "Consejo Europeo - considerado Institución por primera vez en 1957, con los Tratados de Roma"
         ],
         "correcta": 3,
-        "explicacion": "El Consejo Europeo se considera Institución por primera vez con el Tratado de Lisboa (en vigor en 2009), no con los Tratados de Roma de 1957; su formalización jurídico-convencional anterior tuvo lugar en el Acta Única Europea.",
+        "explicacion": "Al revés: el Consejo Europeo se considera institución por primera vez con el Tratado de Lisboa, en vigor en 2009, no con los Tratados de Roma de 1957. Su formalización jurídico-convencional previa tuvo lugar en el Acta Única Europea, mucho antes de Lisboa pero también mucho después de 1957.",
         "nivel": "avanzado",
         "id": "tema-1-q106"
       },
@@ -1292,7 +1292,7 @@ const TEMAS = [
           "El cargo tiene una duración indefinida, sin límite de mandato"
         ],
         "correcta": 3,
-        "explicacion": "Josep Borrell fue nombrado en diciembre de 2019 para un período de cinco años, lo que muestra que el mandato del Alto Representante tiene una duración determinada, no indefinida.",
+        "explicacion": "No es un cargo de duración indefinida: Josep Borrell, por ejemplo, fue nombrado en diciembre de 2019 para un período de cinco años, lo que confirma que el mandato del Alto Representante tiene una duración determinada. El resto de datos, la creación con el Tratado de Ámsterdam, la presidencia permanente del Consejo de Asuntos Exteriores y la sucesión de Kaja Kallas a Borrell, son correctos.",
         "nivel": "avanzado",
         "id": "tema-1-q107"
       },
@@ -1305,7 +1305,7 @@ const TEMAS = [
           "Es obligatoria en todos sus elementos desde su publicación, sin necesidad de transposición"
         ],
         "correcta": 3,
-        "explicacion": "Esa característica corresponde al Reglamento, no a la Directiva; la Directiva, en principio, no es directamente aplicable y normalmente requiere un acto de transposición nacional.",
+        "explicacion": "Esa característica corresponde al Reglamento, no a la Directiva: la Directiva, en principio, no es directamente aplicable y normalmente requiere un acto de transposición nacional. Solo de forma excepcional, si el plazo ha vencido y sus disposiciones son claras, precisas y confieren derechos, puede tener efecto directo.",
         "nivel": "avanzado",
         "id": "tema-1-q108"
       },
@@ -1318,7 +1318,7 @@ const TEMAS = [
           "Las disposiciones de ejecución de los Estados miembros no pueden alterar ni ampliar su alcance"
         ],
         "correcta": 1,
-        "explicacion": "El Reglamento, a diferencia de la Directiva, NO necesita ningún acto nacional de transposición; es directamente aplicable en todos los Estados miembros desde su entrada en vigor.",
+        "explicacion": "Al revés que la Directiva: el Reglamento NO necesita ningún acto nacional de transposición, es directamente aplicable en todos los Estados miembros desde su entrada en vigor. Entra en vigor, salvo que determine otra fecha, el vigésimo día tras su publicación en el Diario Oficial de la UE.",
         "nivel": "avanzado",
         "id": "tema-1-q109"
       },
@@ -1331,7 +1331,7 @@ const TEMAS = [
           "Que el Estado miembro haya sido condenado previamente por el TJUE por incumplimiento"
         ],
         "correcta": 3,
-        "explicacion": "Las tres condiciones reales, según jurisprudencia constante desde 1970, son el vencimiento del plazo de transposición sin transponer correctamente, la claridad y precisión de las disposiciones, y que confieran derechos al ciudadano individual; no se exige una condena previa del TJUE.",
+        "explicacion": "No se exige ninguna condena previa del TJUE: las tres condiciones reales para el efecto directo excepcional de una Directiva, según jurisprudencia constante desde 1970, son el vencimiento del plazo de transposición sin transponerla correctamente, la claridad y precisión de sus disposiciones, y que confieran derechos al ciudadano individual.",
         "nivel": "avanzado",
         "id": "tema-1-q110"
       },
@@ -1344,7 +1344,7 @@ const TEMAS = [
           "En ambos se incorporó el Reino Unido"
         ],
         "correcta": 0,
-        "explicacion": "Noruega firmó los Tratados de adhesión de 1972 y de 1994, pero en ambos casos el resultado del referéndum nacional rechazó la implementación, por lo que Noruega quedó únicamente como país asociado a la UE.",
+        "explicacion": "No se trata de España ni de Reino Unido, presentes en otros procesos: lo que comparten las adhesiones de 1972 y de 1994 es la presencia de Noruega, que en ambos casos rechazó su incorporación mediante referéndum, quedando como país asociado a la UE, por ejemplo dentro del espacio Schengen.",
         "nivel": "avanzado",
         "id": "tema-1-q111"
       },
@@ -1357,7 +1357,7 @@ const TEMAS = [
           "Tras el Brexit, el Reino Unido conserva su condición de Estado miembro a efectos institucionales, aunque sin derecho a voto"
         ],
         "correcta": 3,
-        "explicacion": "A partir del 31 de enero de 2020, a medianoche, el Reino Unido dejó de ser Estado miembro de la UE y pasó a tener la consideración de tercer país, sin conservar ninguna condición residual de Estado miembro.",
+        "explicacion": "Al revés: tras el 31 de enero de 2020, el Reino Unido dejó de ser Estado miembro y pasó a tener la consideración de tercer país, sin conservar ninguna condición residual dentro de las instituciones. El proceso, iniciado el 29 de marzo de 2017 con la comunicación al amparo del art. 50 TUE, tenía una duración inicial de dos años, prorrogable por acuerdo unánime.",
         "nivel": "avanzado",
         "id": "tema-1-q112"
       },
@@ -1370,7 +1370,7 @@ const TEMAS = [
           "El Tratado de Lisboa es un Tratado fundacional"
         ],
         "correcta": 1,
-        "explicacion": "Los Tratados fundacionales son el de París, los de Roma y el de Maastricht; los modificativos son el Acta Única Europea, Ámsterdam, Niza y Lisboa.",
+        "explicacion": "No confundir con el Acta Única ni con el de Roma, que van en sentido contrario: el Tratado de Maastricht es un Tratado fundacional, junto con París y Roma, mientras que el Tratado de Niza es uno de los grandes Tratados modificativos, junto con el Acta Única, Ámsterdam y Lisboa.",
         "nivel": "avanzado",
         "id": "tema-1-q113"
       },
@@ -1383,7 +1383,7 @@ const TEMAS = [
           "Se aplica automáticamente a cualquier territorio de ultramar de terceros Estados asociados a la UE"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 355 TFUE no extiende el Derecho de la UE a territorios de ultramar de terceros Estados; se refiere a los territorios metropolitanos y ciertas islas y territorios de ultramar de los Estados miembros, así como a aquellos cuyas relaciones exteriores corresponden a un Estado miembro.",
+        "explicacion": "No se extiende automáticamente a territorios de ultramar de terceros Estados: el art. 355 TFUE limita la aplicación territorial del Derecho de la UE a los territorios metropolitanos de los Estados miembros, a ciertas islas y territorios de ultramar como Madeira o Canarias, y a aquellos cuyas relaciones exteriores corresponden a un Estado miembro, como Gibraltar o las Islas Åland.",
         "nivel": "avanzado",
         "id": "tema-1-q114"
       },
@@ -1396,7 +1396,7 @@ const TEMAS = [
           "El número de comisarios lo fija exclusivamente el Parlamento Europeo"
         ],
         "correcta": 0,
-        "explicacion": "Cada cinco años se nombra un nuevo equipo de veintisiete comisarios, uno por Estado miembro, incluida la presidenta de la Comisión.",
+        "explicacion": "No es un número fijo de 20 ni depende solo de los Estados grandes: la Comisión está compuesta por 27 comisarios, uno por cada Estado miembro, incluida la presidencia. Ese número, uno por país, se mantiene mientras no cambie el número de Estados miembros de la Unión.",
         "nivel": "avanzado",
         "id": "tema-1-q115"
       },
@@ -1409,7 +1409,7 @@ const TEMAS = [
           "El Consejo puede votar válidamente con la presencia de solo un tercio de las delegaciones"
         ],
         "correcta": 3,
-        "explicacion": "El quórum del Consejo exige la presencia mínima de la mitad de los Estados representados por miembros de los Gobiernos, no de un tercio; con una presencia inferior, las instancias del Consejo suspenden sus trabajos.",
+        "explicacion": "No basta con un tercio: el Consejo exige la presencia mínima de la mitad de los Estados representados por miembros de sus Gobiernos para poder votar válidamente. El resto de reglas sobre representación, delegación del voto y turno único de palabra por delegación sí son correctas.",
         "nivel": "avanzado",
         "id": "tema-1-q116"
       },
@@ -1422,7 +1422,7 @@ const TEMAS = [
           "El Presidente del Consejo Europeo ejerce función legislativa en representación de la Unión"
         ],
         "correcta": 3,
-        "explicacion": "El Consejo Europeo no ejerce función legislativa alguna, y por tanto tampoco lo hace su Presidente; las funciones de este son de organización interna del Consejo Europeo y de representación exterior de la Unión.",
+        "explicacion": "Al revés: el Presidente del Consejo Europeo no ejerce ninguna función legislativa, igual que la propia institución que preside. Sus funciones son de organización interna del Consejo Europeo y de representación exterior de la Unión, no de codecisión de normas.",
         "nivel": "avanzado",
         "id": "tema-1-q117"
       },
@@ -1435,7 +1435,7 @@ const TEMAS = [
           "El Eurosistema tiene más miembros que el SEBC"
         ],
         "correcta": 1,
-        "explicacion": "El TFUE se redactó sobre la base de que todos los Estados miembros adoptarían el euro, lo que no ha ocurrido; por ello, hasta que eso no se produzca, es el Eurosistema (BCE más bancos centrales del euro) el que lleva a cabo las funciones que el TUE encomienda al SEBC (BCE más bancos centrales de todos los Estados miembros).",
+        "explicacion": "El TFUE se redactó dando por hecho que todos los Estados miembros adoptarían el euro, algo que no ha ocurrido; por ello, mientras eso no se produzca, es el Eurosistema, BCE más bancos centrales del euro, quien ejerce en la práctica las funciones que el Tratado atribuye formalmente al SEBC, BCE más bancos centrales de todos los Estados miembros.",
         "nivel": "avanzado",
         "id": "tema-1-q118"
       },
@@ -1448,7 +1448,7 @@ const TEMAS = [
           "Tienen carácter vinculante superior al Derecho primario"
         ],
         "correcta": 3,
-        "explicacion": "El Derecho primario (los Tratados) es el Derecho supremo de la Unión que prevalece sobre cualquier otra fuente; los principios generales del Derecho no escrito no tienen rango superior al Derecho primario.",
+        "explicacion": "No tienen rango superior al Derecho primario: los Tratados son el Derecho supremo de la Unión, que prevalece sobre cualquier otra fuente, incluidos los principios generales del Derecho comunitario no escrito. Entre estos últimos figuran los derechos fundamentales del Convenio Europeo de Derechos Humanos y principios como el de proporcionalidad.",
         "nivel": "avanzado",
         "id": "tema-1-q119"
       },
@@ -1461,7 +1461,7 @@ const TEMAS = [
           "Puede ser directamente aplicable en las mismas circunstancias que las Directivas"
         ],
         "correcta": 2,
-        "explicacion": "Los destinatarios de una Decisión pueden ser Estados miembros o personas físicas o jurídicas, no exclusivamente Estados.",
+        "explicacion": "No es cierto que solo puedan ser Estados: los destinatarios de una Decisión pueden ser tanto Estados miembros como personas físicas o jurídicas. El resto de características, obligatoriedad total, vinculación exclusiva a los destinatarios designados y posible efecto directo en las mismas condiciones que las Directivas, sí son correctas.",
         "nivel": "avanzado",
         "id": "tema-1-q120"
       },
@@ -1474,7 +1474,7 @@ const TEMAS = [
           "Los escaños se distribuyen a partes iguales entre todos los Estados, independientemente de su población"
         ],
         "correcta": 3,
-        "explicacion": "La distribución de escaños tiene en cuenta el tamaño de la población de los Estados miembros y la necesidad de un nivel mínimo de representación; no se reparte a partes iguales entre todos los Estados.",
+        "explicacion": "No se reparte a partes iguales entre todos los Estados: la distribución de escaños tiene en cuenta el tamaño de la población de cada Estado miembro, dentro de los límites de 6 a 96 escaños y respetando el principio de proporcionalidad decreciente.",
         "nivel": "avanzado",
         "id": "tema-1-q121"
       },
@@ -1487,7 +1487,7 @@ const TEMAS = [
           "Banco Central Europeo: sede en Bruselas"
         ],
         "correcta": 3,
-        "explicacion": "El BCE se creó y tiene su sede en Fráncfort, no en Bruselas.",
+        "explicacion": "No tiene su sede en Bruselas: el BCE se creó y tiene su sede en Fráncfort. El resto de sedes citadas sí son correctas: Comisión en Bruselas, con servicios en Luxemburgo, y TJUE y Tribunal de Cuentas, ambos en Luxemburgo.",
         "nivel": "avanzado",
         "id": "tema-1-q122"
       },
@@ -1500,7 +1500,7 @@ const TEMAS = [
           "Los comisarios europeos se renuevan cada dos años y medio"
         ],
         "correcta": 0,
-        "explicacion": "Tanto el Presidente del Parlamento como el del Consejo Europeo tienen mandatos de dos años y medio, renovables; el documento especifica expresamente para el Presidente del Consejo Europeo el límite de una sola reelección, mientras que la Comisión se renueva cada cinco años y los jueces del TJUE cada seis.",
+        "explicacion": "No confundir con la Comisión, con mandato de cinco años, ni con los jueces del TJUE, con mandato de seis años: tanto el Presidente del Parlamento como el del Consejo Europeo tienen mandatos de dos años y medio, renovables, aunque solo para este último se especifica el límite expreso de una sola reelección.",
         "nivel": "avanzado",
         "id": "tema-1-q123"
       },
@@ -1513,7 +1513,7 @@ const TEMAS = [
           "Las Recomendaciones y los Dictámenes son vinculantes para sus destinatarios"
         ],
         "correcta": 3,
-        "explicacion": "Las Recomendaciones y los Dictámenes no son vinculantes; no crean derechos ni obligaciones para sus destinatarios, aunque ofrecen orientaciones interpretativas.",
+        "explicacion": "Al revés: las Recomendaciones y los Dictámenes NO son vinculantes para sus destinatarios, ni crean derechos ni obligaciones. El resto de afirmaciones, la lista abierta del art. 249 TCE, la necesidad de fundarse en los Tratados y el recurso a las normas subsidiarias del art. 308 TCE, sí son correctas.",
         "nivel": "avanzado",
         "id": "tema-1-q124"
       },
@@ -1526,7 +1526,7 @@ const TEMAS = [
           "Ambos tienen su sede en Bruselas"
         ],
         "correcta": 1,
-        "explicacion": "El TJUE es la autoridad judicial de la Unión Europea (creado en 1952), mientras que el Tribunal de Cuentas (creado en 1977), aunque examina las finanzas de la Unión, no tiene capacidad jurídica, actuando como auditor externo independiente; ambos, no obstante, comparten sede en Luxemburgo.",
+        "explicacion": "No confundir sus funciones ni sus fechas de creación: el TJUE es la autoridad judicial de la Unión desde 1952, mientras que el Tribunal de Cuentas, creado en 1977, no tiene capacidad jurídica y actúa como auditor externo independiente. Ambos, eso sí, comparten sede en Luxemburgo.",
         "nivel": "avanzado",
         "id": "tema-1-q125"
       }
@@ -1546,7 +1546,7 @@ const TEMAS = [
           "20 de diciembre de 1975"
         ],
         "correcta": 0,
-        "explicacion": "El periodo de Transición comienza con el fin del régimen personalista de Franco, fallecido el 20 de noviembre de 1975.",
+        "explicacion": "Franco murió el 20 de noviembre de 1975, fecha que marca el fin del régimen personalista y el inicio de la Transición política. Meses después, en julio de 1976, el Rey nombró a Adolfo Suárez presidente del Gobierno, que impulsó la Ley para la Reforma Política.",
         "id": "tema-2-q1"
       },
       {
@@ -1558,7 +1558,7 @@ const TEMAS = [
           "Gregorio Peces-Barba"
         ],
         "correcta": 1,
-        "explicacion": "El gobierno de Adolfo Suárez, nombrado por el Rey en julio de 1976, logró que las Cortes franquistas aprobaran dicha Ley, posibilitando las primeras elecciones democráticas.",
+        "explicacion": "Ojo, no confundir con otros nombres de la Transición: fue Adolfo Suárez, nombrado presidente del Gobierno por el Rey en julio de 1976, quien logró que las Cortes franquistas aprobaran la Ley para la Reforma Política. Esa ley abrió paso a las primeras elecciones democráticas desde 1936.",
         "id": "tema-2-q2"
       },
       {
@@ -1570,7 +1570,7 @@ const TEMAS = [
           "350 y 259"
         ],
         "correcta": 0,
-        "explicacion": "La ley contemplaba unas nuevas Cortes con dos cámaras: Congreso de los Diputados (350 miembros) y Senado (207).",
+        "explicacion": "Ojo, el Senado actual tiene 266 miembros, pero la Ley para la Reforma Política de 1976 fijó inicialmente un Congreso de 350 diputados y un Senado de 207. Ambas cámaras se elegían por sufragio universal, libre, directo y secreto, con la provincia como circunscripción.",
         "id": "tema-2-q3"
       },
       {
@@ -1582,7 +1582,7 @@ const TEMAS = [
           "9"
         ],
         "correcta": 2,
-        "explicacion": "La Ponencia Constitucional estaba integrada por 7 miembros: 3 de UCD, 1 del PSOE, 1 de AP, 1 del PCE y 1 de la minoría vasco-catalana.",
+        "explicacion": "La Ponencia Constitucional estuvo formada por 7 diputados: 3 de UCD (Herreros, Pérez Llorca y Cisneros), y uno cada uno del PSOE (Peces Barba), AP (Fraga), PCE (Solé Tura) y la minoría vasco-catalana (Roca). Salió de la Comisión de Asuntos Constitucionales y Libertades Públicas, de 36 diputados.",
         "id": "tema-2-q4"
       },
       {
@@ -1594,7 +1594,7 @@ const TEMAS = [
           "Manuel Fraga"
         ],
         "correcta": 2,
-        "explicacion": "Enrique Tierno Galván, representante del Grupo Mixto y presidente del PSP, quedó fuera de la Ponencia, aunque redactó el preámbulo.",
+        "explicacion": "No confundir con Roca, Solé Tura o Fraga, que sí formaron parte de la Ponencia. Enrique Tierno Galván, del Grupo Mixto y presidente del PSP, quedó fuera de los 7 ponentes, aunque se le encargó redactar el preámbulo.",
         "id": "tema-2-q5"
       },
       {
@@ -1606,7 +1606,7 @@ const TEMAS = [
           "20 de diciembre de 1978"
         ],
         "correcta": 2,
-        "explicacion": "El proyecto de Constitución se sometió a referéndum el 6 de diciembre de 1978 y fue aprobado por mayoría absoluta del pueblo español.",
+        "explicacion": "Al 27 y al 29 de diciembre corresponden la sanción regia y la publicación en el BOE, no el referéndum. El proyecto de Constitución se sometió a referéndum el 6 de diciembre de 1978 y fue aprobado por mayoría absoluta del pueblo español.",
         "id": "tema-2-q6"
       },
       {
@@ -1618,7 +1618,7 @@ const TEMAS = [
           "1 de enero de 1979"
         ],
         "correcta": 2,
-        "explicacion": "La Constitución fue sancionada por el Rey el 27 de diciembre y publicada en el BOE el 29, entrando en vigor en esa fecha.",
+        "explicacion": "No confundir con el 27 de diciembre, fecha de la sanción regia, ni con el 6, fecha del referéndum. La Constitución se publicó en el BOE el 29 de diciembre de 1978, entrando en vigor ese mismo día.",
         "id": "tema-2-q7"
       },
       {
@@ -1630,7 +1630,7 @@ const TEMAS = [
           "Estado federal"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 1.3 CE reconoce como forma política del Estado la Monarquía parlamentaria, armonizando el principio democrático y el monárquico.",
+        "explicacion": "El artículo 1.3 CE reconoce la Monarquía parlamentaria como forma política del Estado, armonizando el principio democrático (la soberanía reside en el pueblo, representado en el Parlamento) con el principio monárquico. El Rey carece de poderes constitucionales propios y actúa como árbitro y moderador (art. 56 CE).",
         "id": "tema-2-q8"
       },
       {
@@ -1642,7 +1642,7 @@ const TEMAS = [
           "Soberanía, justicia, igualdad y paz social"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 1.1 CE propugna como valores superiores del ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+        "explicacion": "Ojo, no confundir con los principios del Preámbulo (justicia, libertad y seguridad): los valores superiores del artículo 1.1 CE son la libertad, la justicia, la igualdad y el pluralismo político. Son distintos de los principios del artículo 9.3 CE, que no tienen la misma naturaleza jurídica.",
         "id": "tema-2-q9"
       },
       {
@@ -1654,7 +1654,7 @@ const TEMAS = [
           "Leyes ordinarias"
         ],
         "correcta": 2,
-        "explicacion": "La CE impone que estas materias sensibles se regulen por normas de consenso, que son las Leyes Orgánicas del artículo 81 CE.",
+        "explicacion": "Las materias más sensibles (derechos fundamentales, régimen electoral, Tribunal Constitucional) exigen normas de consenso: las Leyes Orgánicas del artículo 81 CE. Se llaman así porque requieren mayoría absoluta del Congreso para su aprobación.",
         "id": "tema-2-q10"
       },
       {
@@ -1666,7 +1666,7 @@ const TEMAS = [
           "Mayoría de dos tercios"
         ],
         "correcta": 1,
-        "explicacion": "Las Leyes Orgánicas se consideran normas de consenso porque precisan mayoría absoluta (176 votos) del Congreso de los Diputados.",
+        "explicacion": "No confundir con las mayorías de la reforma constitucional (3/5 o 2/3): las Leyes Orgánicas se aprueban por mayoría absoluta del Congreso, es decir, 176 votos. Esa exigencia las convierte en normas de consenso, reguladas en el artículo 81 CE.",
         "id": "tema-2-q11"
       },
       {
@@ -1678,7 +1678,7 @@ const TEMAS = [
           "Alemán"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala la dependencia del modelo italiano para configurar la estructura del Consejo General del Poder Judicial.",
+        "explicacion": "Ojo, no confundir las tres inspiraciones extranjeras del texto: el modelo francés inspiró la Ley Orgánica y el nórdico al Defensor del Pueblo (Ombudsman). La estructura del Consejo General del Poder Judicial se tomó del modelo italiano.",
         "id": "tema-2-q12"
       },
       {
@@ -1690,7 +1690,7 @@ const TEMAS = [
           "El Preámbulo y el Título Preliminar"
         ],
         "correcta": 0,
-        "explicacion": "Siguiendo el esquema dogmático/orgánico, la parte dogmática de la CE comprende el Título Preliminar y el Título I.",
+        "explicacion": "La parte dogmática de la CE comprende el Título Preliminar y el Título I, dedicado a los derechos y deberes fundamentales. La parte orgánica, en cambio, va del Título II al Título X y regula la división de poderes, la organización territorial y el reparto de competencias.",
         "id": "tema-2-q13"
       },
       {
@@ -1702,7 +1702,7 @@ const TEMAS = [
           "Tres"
         ],
         "correcta": 1,
-        "explicacion": "El Título I consta de cinco capítulos: españoles y extranjeros; derechos y libertades; principios rectores; garantías; y suspensión de derechos y libertades.",
+        "explicacion": "El Título I consta de cinco capítulos, no de cuatro ni de seis: españoles y extranjeros; derechos y libertades; principios rectores de la política económica y social; garantías de las libertades y derechos; y suspensión de derechos y libertades.",
         "id": "tema-2-q14"
       },
       {
@@ -1714,7 +1714,7 @@ const TEMAS = [
           "4 adicionales, 4 transitorias, 1 derogatoria y 1 final"
         ],
         "correcta": 0,
-        "explicacion": "El texto constituyente contiene cuatro disposiciones adicionales, nueve transitorias, una final y una derogatoria.",
+        "explicacion": "Ojo con los números invertidos: son 4 disposiciones adicionales y 9 transitorias, no al revés. Se completan con una disposición derogatoria (que deja sin efecto la Ley para la Reforma Política de 1977 y las leyes fundamentales franquistas) y una disposición final.",
         "id": "tema-2-q15"
       },
       {
@@ -1726,7 +1726,7 @@ const TEMAS = [
           "Forma parte de la parte orgánica de la Constitución"
         ],
         "correcta": 1,
-        "explicacion": "El Preámbulo carece de valor normativo por su carácter general, pero conserva valor interpretativo y no puede ser declarado inconstitucional por sí mismo.",
+        "explicacion": "No es que el Preámbulo tenga valor normativo pleno ni que carezca de todo valor: la mayoría de los constitucionalistas entienden que carece de valor normativo pero conserva valor interpretativo. Por eso no puede ser declarado inconstitucional por sí mismo, como confirmó el Tribunal Constitucional al inadmitir un recurso contra el preámbulo de la LO 5/2021.",
         "id": "tema-2-q16"
       },
       {
@@ -1738,7 +1738,7 @@ const TEMAS = [
           "Cuando no exista mayoría absoluta en el Congreso"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 169 CE prohíbe iniciar la reforma constitucional en tiempo de guerra o mientras esté vigente alguno de los estados de alarma, sitio o excepción del artículo 116.",
+        "explicacion": "El artículo 169 CE prohíbe iniciar la reforma constitucional en tiempo de guerra o mientras esté vigente alguno de los estados de alarma, excepción o sitio del artículo 116. Es una regla común a los dos procedimientos de reforma (arts. 167 y 168).",
         "id": "tema-2-q17"
       },
       {
@@ -1750,7 +1750,7 @@ const TEMAS = [
           "Exclusivamente a las Cortes Generales mediante iniciativa popular"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 166 CE remite a los apartados 1 y 2 del artículo 87, correspondiendo la iniciativa al Gobierno, al Congreso y Senado, y a las Asambleas de las Comunidades Autónomas.",
+        "explicacion": "No es solo el Gobierno, ni se excluye a las Comunidades Autónomas: el artículo 166 CE remite al 87.1 y 87.2, atribuyendo la iniciativa de reforma al Gobierno, al Congreso, al Senado y a las Asambleas de las Comunidades Autónomas. Estas últimas la ejercen de forma no directa, proponiéndola a las Cámaras o al Gobierno.",
         "id": "tema-2-q18"
       },
       {
@@ -1762,7 +1762,7 @@ const TEMAS = [
           "Mayoría simple"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 167 CE dispone que los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+        "explicacion": "Ojo, no confundir con los dos tercios del artículo 168: la reforma no esencial del artículo 167 exige una mayoría de tres quintos en cada Cámara. Si se logra en ambas, el procedimiento termina ahí.",
         "id": "tema-2-q19"
       },
       {
@@ -1774,7 +1774,7 @@ const TEMAS = [
           "Una Comisión de Venecia"
         ],
         "correcta": 1,
-        "explicacion": "Si no hay acuerdo entre las Cámaras, se intenta obtener mediante una Comisión mixta paritaria que presentará un texto transaccional o pactado.",
+        "explicacion": "Si Congreso y Senado no logran el acuerdo de 3/5, el artículo 167 CE prevé una Comisión mixta de composición paritaria de Diputados y Senadores. Esta comisión presenta un texto transaccional que vuelve a votarse en ambas Cámaras.",
         "id": "tema-2-q20"
       },
       {
@@ -1786,7 +1786,7 @@ const TEMAS = [
           "Sometiendo directamente el texto a referéndum vinculante"
         ],
         "correcta": 2,
-        "explicacion": "Si no se logra la aprobación por 3/5 y el texto obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso podrá aprobar la reforma por mayoría de dos tercios.",
+        "explicacion": "Como vía de salvaguarda del artículo 167, si el texto transaccional no logra 3/5 pero sí obtuvo la mayoría absoluta del Senado, el Congreso puede aprobar igualmente la reforma por mayoría de dos tercios. Este mecanismo no existe en el procedimiento agravado del artículo 168.",
         "id": "tema-2-q21"
       },
       {
@@ -1798,7 +1798,7 @@ const TEMAS = [
           "Solo si la reforma afecta a más de un artículo"
         ],
         "correcta": 1,
-        "explicacion": "La reforma se somete a referéndum solo si una décima parte de los miembros de cualquiera de las Cámaras lo solicita dentro de los 15 días siguientes a su aprobación, siendo entonces vinculante.",
+        "explicacion": "El referéndum del artículo 167 no es obligatorio: solo se celebra si lo solicita una décima parte de los miembros de cualquiera de las Cámaras, dentro de los quince días siguientes a la aprobación de la reforma. Si se solicita, el resultado es vinculante.",
         "id": "tema-2-q22"
       },
       {
@@ -1810,7 +1810,7 @@ const TEMAS = [
           "Cinco"
         ],
         "correcta": 2,
-        "explicacion": "La Constitución solo ha sido objeto de cuatro reformas por esta vía sin referéndum: 1992 (art. 13.2), 2011 (art. 135), 2024 (art. 49) y 2026 (art. 69.3).",
+        "explicacion": "Hasta la fecha se han hecho cuatro reformas por la vía del artículo 167 sin referéndum: 1992 (art. 13.2), 2011 (art. 135), 2024 (art. 49) y 2026 (art. 69.3). En ninguna de ellas la solicitó la décima parte de los miembros de una Cámara.",
         "id": "tema-2-q23"
       },
       {
@@ -1822,7 +1822,7 @@ const TEMAS = [
           "Exclusivamente el Título X de la Reforma Constitucional"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 168 CE corresponde a la reforma total, o a la parcial que afecte al Título Preliminar, al Capítulo II Sección 1ª del Título I (derechos fundamentales y libertades públicas) y al Título II de la Corona.",
+        "explicacion": "El artículo 168 CE no se limita al Título Preliminar: cubre la reforma total y la parcial que afecte al Título Preliminar, a la Sección 1ª del Capítulo II del Título I (derechos fundamentales y libertades públicas) o al Título II de la Corona. El resto de materias se reforma por el procedimiento ordinario del artículo 167.",
         "id": "tema-2-q24"
       },
       {
@@ -1834,7 +1834,7 @@ const TEMAS = [
           "Sí, en 1992 y en 2024"
         ],
         "correcta": 2,
-        "explicacion": "El anexo indica expresamente que no se ha llevado a cabo una reforma esencial de este tipo, si bien se considera esencial porque afectaría a los pilares fundamentales de la Constitución.",
+        "explicacion": "Pese a llevar más de 40 años en vigor, nunca se ha tramitado una reforma esencial por la vía del artículo 168. Se considera esencial precisamente porque afectaría a los pilares fundamentales del Estado: el Título Preliminar, los derechos fundamentales o la Corona.",
         "id": "tema-2-q25"
       },
       {
@@ -1846,7 +1846,7 @@ const TEMAS = [
           "20 de noviembre de 1975"
         ],
         "correcta": 3,
-        "explicacion": "El texto sitúa la génesis de la Transición en el fin del régimen de Franco con su muerte el 20 de noviembre de 1975.",
+        "explicacion": "No es el 6 de diciembre (fecha del referéndum de 1978) ni el 27 de noviembre: Franco falleció el 20 de noviembre de 1975, poniendo fin al régimen personalista franquista y abriendo la Transición política.",
         "id": "tema-2-q26"
       },
       {
@@ -1858,7 +1858,7 @@ const TEMAS = [
           "Torcuato Fernández-Miranda"
         ],
         "correcta": 2,
-        "explicacion": "El gobierno de Adolfo Suárez, nombrado por el Rey en julio de 1976, logró la aprobación de la Ley para la Reforma Política.",
+        "explicacion": "No confundir con Torcuato Fernández-Miranda ni con Manuel Fraga: fue Adolfo Suárez, nombrado presidente del Gobierno por el Rey en julio de 1976, quien logró que las Cortes franquistas aprobaran la Ley para la Reforma Política. Esa ley posibilitó las primeras elecciones democráticas desde 1936.",
         "id": "tema-2-q27"
       },
       {
@@ -1870,7 +1870,7 @@ const TEMAS = [
           "1936"
         ],
         "correcta": 3,
-        "explicacion": "El texto señala que dicha ley posibilitaba la celebración de las primeras elecciones democráticas en nuestro país desde 1936.",
+        "explicacion": "Ojo, no es 1931 (proclamación de la II República) ni 1939 (fin de la Guerra Civil): la Ley para la Reforma Política posibilitó las primeras elecciones democráticas en España desde 1936. Se celebraron finalmente el 15 de julio de 1977.",
         "id": "tema-2-q28"
       },
       {
@@ -1882,7 +1882,7 @@ const TEMAS = [
           "207"
         ],
         "correcta": 2,
-        "explicacion": "La Ley contemplaba la creación de unas nuevas Cortes con un Congreso de los Diputados de 350 miembros.",
+        "explicacion": "El Congreso de los Diputados, según la Ley para la Reforma Política, se integraba por 350 miembros, elegidos por sufragio universal, libre, directo y secreto con la provincia como circunscripción. El Senado, por su parte, contaba con 207.",
         "id": "tema-2-q29"
       },
       {
@@ -1894,7 +1894,7 @@ const TEMAS = [
           "207"
         ],
         "correcta": 3,
-        "explicacion": "Según el texto, el Senado creado por la Ley para la Reforma Política contaba con 207 miembros.",
+        "explicacion": "No confundir con las cifras actuales del Senado (266) ni con las del Congreso (350): la Ley para la Reforma Política fijó un Senado de 207 miembros. Ambas cámaras se elegían con la provincia como circunscripción electoral fundamental.",
         "id": "tema-2-q30"
       },
       {
@@ -1906,7 +1906,7 @@ const TEMAS = [
           "15 de julio de 1977"
         ],
         "correcta": 3,
-        "explicacion": "El texto fija esas elecciones el 15 de julio de 1977.",
+        "explicacion": "Ojo, no confundir con el 6 de diciembre (referéndum constitucional de 1978): las primeras elecciones democráticas tras la Ley para la Reforma Política se celebraron el 15 de julio de 1977. No eran, en sentido estricto, unas Cortes constituyentes, pues no se eligieron con esa finalidad exclusiva.",
         "id": "tema-2-q31"
       },
       {
@@ -1918,7 +1918,7 @@ const TEMAS = [
           "Comisión de Reforma Política"
         ],
         "correcta": 2,
-        "explicacion": "El anteproyecto se encargó a la Comisión de Asuntos Constitucionales y Libertades Públicas, integrada por 36 diputados.",
+        "explicacion": "No confundir con la Ponencia Constitucional, que salió de su seno: el órgano de 36 diputados encargado del anteproyecto fue la Comisión de Asuntos Constitucionales y Libertades Públicas. De ella surgió la Ponencia Constitucional de 7 miembros.",
         "id": "tema-2-q32"
       },
       {
@@ -1930,7 +1930,7 @@ const TEMAS = [
           "5"
         ],
         "correcta": 2,
-        "explicacion": "De los 36 diputados de la Comisión salió una Ponencia Constitucional integrada por 7 miembros.",
+        "explicacion": "De los 36 diputados de la Comisión de Asuntos Constitucionales y Libertades Públicas salió una Ponencia Constitucional de 7 miembros. La integraban 3 de UCD, y uno cada uno del PSOE, AP, PCE y la minoría vasco-catalana.",
         "id": "tema-2-q33"
       },
       {
@@ -1942,7 +1942,7 @@ const TEMAS = [
           "PCE"
         ],
         "correcta": 0,
-        "explicacion": "La Ponencia estuvo integrada por 3 miembros de UCD (Herreros, Pérez Llorca y Cisneros), además de un representante de cada uno de los demás grupos citados.",
+        "explicacion": "UCD contó con tres representantes en la Ponencia Constitucional: Herreros, Pérez Llorca y Cisneros. El resto de la Ponencia se completaba con un representante de cada uno de los otros grupos: PSOE, AP, PCE y minoría vasco-catalana.",
         "id": "tema-2-q34"
       },
       {
@@ -1954,7 +1954,7 @@ const TEMAS = [
           "Solé Tura"
         ],
         "correcta": 2,
-        "explicacion": "Peces Barba fue el representante del PSOE en la Ponencia Constitucional de siete miembros.",
+        "explicacion": "No confundir con Fraga (AP), Roca (minoría vasco-catalana) o Solé Tura (PCE): el representante del PSOE en la Ponencia Constitucional fue Peces Barba. La Ponencia estaba integrada por siete miembros en total.",
         "id": "tema-2-q35"
       },
       {
@@ -1966,7 +1966,7 @@ const TEMAS = [
           "Enrique Tierno Galván"
         ],
         "correcta": 3,
-        "explicacion": "El texto señala expresamente que Tierno Galván quedó fuera de la Ponencia, aunque se le encomendó redactar el preámbulo.",
+        "explicacion": "Como en la pregunta sobre el redactor del preámbulo, la respuesta es Enrique Tierno Galván. Representaba al Grupo Mixto y presidía el PSP, y aunque quedó fuera de los 7 ponentes, se le encargó la redacción del preámbulo constitucional.",
         "id": "tema-2-q36"
       },
       {
@@ -1978,7 +1978,7 @@ const TEMAS = [
           "El PCE"
         ],
         "correcta": 3,
-        "explicacion": "El texto atribuye a la legalización del PCE una contribución sobresaliente al consenso constituyente.",
+        "explicacion": "El texto atribuye a la legalización del Partido Comunista de España (PCE) una contribución destacada al consenso constituyente. Ese consenso buscaba superar los rescoldos de la Guerra Civil y consolidar la senda democrática.",
         "id": "tema-2-q37"
       },
       {
@@ -1990,7 +1990,7 @@ const TEMAS = [
           "6 de diciembre de 1978"
         ],
         "correcta": 2,
-        "explicacion": "El texto indica que la Constitución fue sancionada por el Rey el 27 del mismo mes de diciembre de 1978.",
+        "explicacion": "No confundir con el 29 de diciembre, fecha de publicación en el BOE, ni con el 6, fecha del referéndum: el Rey sancionó la Constitución el 27 de diciembre de 1978. Entró en vigor dos días después, al publicarse en el BOE.",
         "id": "tema-2-q38"
       },
       {
@@ -2002,7 +2002,7 @@ const TEMAS = [
           "29 de diciembre de 1978"
         ],
         "correcta": 3,
-        "explicacion": "La Constitución se publicó en el BOE el 29 de diciembre de 1978, entrando en vigor en esa misma fecha.",
+        "explicacion": "Al igual que la sanción regia (27 de diciembre), la entrada en vigor no coincide con el referéndum (6 de diciembre): la Constitución se publicó en el BOE el 29 de diciembre de 1978 y entró en vigor ese mismo día.",
         "id": "tema-2-q39"
       },
       {
@@ -2014,7 +2014,7 @@ const TEMAS = [
           "La Monarquía constitucional absoluta"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 1.3 CE reconoce como forma política del Estado la Monarquía parlamentaria.",
+        "explicacion": "El artículo 1.3 CE reconoce la Monarquía parlamentaria como forma política del Estado, no una monarquía constitucional absoluta ni una república. Armoniza el principio democrático (soberanía popular) con el principio monárquico, respetuoso con la tradición española.",
         "id": "tema-2-q40"
       },
       {
@@ -2026,7 +2026,7 @@ const TEMAS = [
           "Ejercer el poder ejecutivo"
         ],
         "correcta": 1,
-        "explicacion": "El Rey carece de poderes constitucionales y tiene como función principal representar al pueblo español y actuar de árbitro y moderador (art. 56 CE).",
+        "explicacion": "El Rey carece de poderes constitucionales propios de gobierno: no nombra libremente a los jueces, ni preside el Gobierno, ni ejerce el poder ejecutivo. Su función principal, según el artículo 56 CE, es representar al pueblo español y actuar de árbitro y moderador del funcionamiento regular de las instituciones.",
         "id": "tema-2-q41"
       },
       {
@@ -2038,7 +2038,7 @@ const TEMAS = [
           "Libertad, justicia, igualdad y pluralismo político"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 1.1 CE propugna como valores superiores del ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.",
+        "explicacion": "No confundir con otras combinaciones de valores constitucionales: el artículo 1.1 CE propugna como valores superiores del ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político. Son distintos de los principios del artículo 9.3 CE, que no tienen la misma naturaleza jurídica.",
         "id": "tema-2-q42"
       },
       {
@@ -2050,7 +2050,7 @@ const TEMAS = [
           "ser directamente invocables ante los tribunales"
         ],
         "correcta": 2,
-        "explicacion": "A diferencia de los valores superiores, los principios del artículo 9.3 CE no son normas jurídicas y carecen de efectos jurídicos propios.",
+        "explicacion": "A diferencia de los valores superiores del artículo 1.1 CE, los principios del ordenamiento constitucional recogidos en el artículo 9.3 CE no son normas jurídicas y carecen de efectos jurídicos propios. Entre ellos están la legalidad, la jerarquía normativa, la publicidad de las normas y la seguridad jurídica.",
         "id": "tema-2-q43"
       },
       {
@@ -2062,7 +2062,7 @@ const TEMAS = [
           "los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 9.1 CE dispone que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.",
+        "explicacion": "El artículo 9.1 CE dispone que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico, sin excepción para el Rey ni para las instituciones. Este principio de legalidad es la base de todo Estado de Derecho.",
         "id": "tema-2-q44"
       },
       {
@@ -2074,7 +2074,7 @@ const TEMAS = [
           "Las Leyes ordinarias"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que esas materias más sensibles se regulan mediante normas de consenso: las Leyes Orgánicas, reguladas en el artículo 81 CE.",
+        "explicacion": "Las materias más sensibles —derechos fundamentales, régimen electoral, Tribunal Constitucional— se regulan por Leyes Orgánicas, no por Reales Decretos-leyes ni por leyes ordinarias. Son normas de consenso porque exigen mayoría absoluta del Congreso, conforme al artículo 81 CE.",
         "id": "tema-2-q45"
       },
       {
@@ -2086,7 +2086,7 @@ const TEMAS = [
           "Mayoría de tres quintos"
         ],
         "correcta": 0,
-        "explicacion": "Las Leyes Orgánicas son de consenso porque precisan mayoría absoluta, es decir, 176 votos del Congreso de los Diputados.",
+        "explicacion": "No es mayoría simple ni una mayoría cualificada de dos tercios o tres quintos: el artículo 81 CE exige mayoría absoluta, esto es, 176 votos del Congreso, para aprobar una Ley Orgánica. Esa exigencia las convierte en normas de consenso.",
         "id": "tema-2-q46"
       },
       {
@@ -2098,7 +2098,7 @@ const TEMAS = [
           "la organización territorial"
         ],
         "correcta": 0,
-        "explicacion": "El texto destaca que la Constitución es directamente invocable ante los Tribunales, al menos en el ámbito de la protección y defensa de los derechos fundamentales.",
+        "explicacion": "La Constitución puede invocarse directamente ante los Tribunales sin esperar al desarrollo legislativo, al menos en el ámbito de la protección y defensa de los derechos fundamentales. Esta es una manifestación de su carácter de norma jurídica suprema, no de mero programa político.",
         "id": "tema-2-q47"
       },
       {
@@ -2110,7 +2110,7 @@ const TEMAS = [
           "Al Tribunal Constitucional"
         ],
         "correcta": 3,
-        "explicacion": "El texto atribuye este control al Tribunal Constitucional, regulado en el Título IX.",
+        "explicacion": "El control de constitucionalidad de las normas se encomienda al Tribunal Constitucional, regulado en el Título IX de la CE, no al Tribunal Supremo ni al Consejo de Estado. Es el mecanismo de ajuste que garantiza que el resto del ordenamiento se acomode a los valores y principios constitucionales.",
         "id": "tema-2-q48"
       },
       {
@@ -2122,7 +2122,7 @@ const TEMAS = [
           "la flexibilidad de la Constitución"
         ],
         "correcta": 2,
-        "explicacion": "El texto califica de «otra super legalidad, en este caso formal» a la existencia de procedimientos específicos de reforma en el Título X.",
+        "explicacion": "El texto califica de «otra superlegalidad, en este caso formal» la existencia de un procedimiento agravado y específico de reforma en el Título X. No se trata de flexibilidad, sino de un mecanismo que dificulta las reformas fáciles del texto constitucional.",
         "id": "tema-2-q49"
       },
       {
@@ -2134,7 +2134,7 @@ const TEMAS = [
           "Portugal"
         ],
         "correcta": 1,
-        "explicacion": "El texto cita expresamente el modelo italiano como inspiración para configurar la estructura del CGPJ.",
+        "explicacion": "La estructura del Consejo General del Poder Judicial se inspiró en el modelo italiano, no en el francés ni en el alemán. El modelo francés, en cambio, se tomó como referencia para el concepto de Ley Orgánica.",
         "id": "tema-2-q50"
       },
       {
@@ -2146,7 +2146,7 @@ const TEMAS = [
           "De la tradición alemana"
         ],
         "correcta": 2,
-        "explicacion": "Según el texto, el concepto de Ley Orgánica se desarrolló tomando como referencia el modelo francés.",
+        "explicacion": "No confundir con el modelo italiano (Consejo General del Poder Judicial) ni con el nórdico (Defensor del Pueblo): el concepto de Ley Orgánica se desarrolló tomando como referencia la tradición francesa.",
         "id": "tema-2-q51"
       },
       {
@@ -2158,7 +2158,7 @@ const TEMAS = [
           "los países nórdicos"
         ],
         "correcta": 3,
-        "explicacion": "El texto señala la inspiración nórdica para la figura del Defensor del Pueblo, a través del concepto de Ombudsman.",
+        "explicacion": "El Defensor del Pueblo se inspiró en el Ombudsman propio de los países nórdicos, no en modelos italiano o francés. Estas tres instituciones (CGPJ, Ley Orgánica y Defensor del Pueblo) muestran la dependencia de la Constitución española respecto a otros textos de su entorno.",
         "id": "tema-2-q52"
       },
       {
@@ -2170,7 +2170,7 @@ const TEMAS = [
           "Madrid y Cataluña"
         ],
         "correcta": 2,
-        "explicacion": "El texto identifica Cataluña y País Vasco como los territorios históricos aludidos por el término «nacionalidades» del artículo 2 CE.",
+        "explicacion": "El término «nacionalidades» del artículo 2 CE genera ambigüedad al referirse a territorios históricos como Cataluña y el País Vasco, no a Canarias, Baleares o Andalucía. Esa ambigüedad motivó, por ejemplo, los recursos de inconstitucionalidad contra el Estatuto de Autonomía catalán.",
         "id": "tema-2-q53"
       },
       {
@@ -2182,7 +2182,7 @@ const TEMAS = [
           "2015"
         ],
         "correcta": 2,
-        "explicacion": "El texto sitúa esta STC en mayo de 2010.",
+        "explicacion": "Ojo, no confundir con la fecha de promulgación del propio Estatuto, anterior a la sentencia: el Tribunal Constitucional resolvió el debate sobre su constitucionalidad mediante la STC de mayo de 2010, forzando la letra del Estatuto para adaptarla a la legalidad constitucional. Esta sentencia generó numerosas críticas por hablar de un «derecho líquido amorfo».",
         "id": "tema-2-q54"
       },
       {
@@ -2194,7 +2194,7 @@ const TEMAS = [
           "una parte histórica y una parte normativa"
         ],
         "correcta": 0,
-        "explicacion": "El texto explica que esa tradición, arraigada desde la Constitución francesa de 1791, distingue entre parte dogmática y parte orgánica.",
+        "explicacion": "Desde la Constitución francesa de 1791, el constitucionalismo distingue una parte dogmática y una parte orgánica en los textos constitucionales, no una parte histórica-normativa ni sustantiva-procesal. La Constitución española de 1978 sigue este mismo esquema.",
         "id": "tema-2-q55"
       },
       {
@@ -2206,7 +2206,7 @@ const TEMAS = [
           "La división de poderes del Estado y la organización territorial"
         ],
         "correcta": 1,
-        "explicacion": "La parte dogmática recoge los grandes principios y definiciones y reconoce un conjunto de derechos fundamentales, garantizando su ejercicio.",
+        "explicacion": "La parte dogmática recoge los grandes principios y definiciones que inspiran el desarrollo de la sociedad y del Estado, y reconoce y garantiza los derechos fundamentales de la persona. La distribución de competencias y la organización territorial corresponden, en cambio, a la parte orgánica.",
         "id": "tema-2-q56"
       },
       {
@@ -2218,7 +2218,7 @@ const TEMAS = [
           "Los derechos fundamentales de la persona"
         ],
         "correcta": 0,
-        "explicacion": "La parte orgánica establece la división de poderes, la organización territorial y la distribución de competencias.",
+        "explicacion": "La parte orgánica establece la división de los poderes del Estado, su organización territorial y la distribución de competencias entre entidades territoriales. Los derechos fundamentales y los valores superiores, en cambio, se sitúan en la parte dogmática.",
         "id": "tema-2-q57"
       },
       {
@@ -2230,7 +2230,7 @@ const TEMAS = [
           "el «bloque de constitucionalidad»"
         ],
         "correcta": 0,
-        "explicacion": "LUCAS VERDÚ afirma que el Título Preliminar contiene la fórmula política, esto es, los principios, caracteres y valores fundamentales del texto constitucional.",
+        "explicacion": "Según LUCAS VERDÚ, el Título Preliminar contiene la «fórmula política» de la Constitución, esto es, sus principios, caracteres y valores fundamentales. No debe confundirse con conceptos como la cláusula de intangibilidad o el bloque de constitucionalidad, ajenos a esta cita.",
         "id": "tema-2-q58"
       },
       {
@@ -2242,7 +2242,7 @@ const TEMAS = [
           "Que la soberanía reside en el Rey como Jefe del Estado"
         ],
         "correcta": 2,
-        "explicacion": "Entre las grandes definiciones del Título Preliminar figura que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+        "explicacion": "El artículo 1.2 CE establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado, no en las Cortes ni en el Rey. Es una de las grandes definiciones que integran el Título Preliminar.",
         "id": "tema-2-q59"
       },
       {
@@ -2254,7 +2254,7 @@ const TEMAS = [
           "El artículo 137"
         ],
         "correcta": 2,
-        "explicacion": "El artículo 2 CE reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre ellas.",
+        "explicacion": "No confundir con el artículo 1 (valores superiores) ni con el 137 (organización territorial): es el artículo 2 CE el que reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre todas ellas.",
         "id": "tema-2-q60"
       },
       {
@@ -2266,7 +2266,7 @@ const TEMAS = [
           "El artículo 4"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 4 CE define la composición de la bandera española y reconoce la existencia de una propia para las CCAA.",
+        "explicacion": "El artículo 4 CE define la bandera española y reconoce la existencia de banderas propias de las Comunidades Autónomas. El artículo 3, por su parte, regula las lenguas oficiales del Estado.",
         "id": "tema-2-q61"
       },
       {
@@ -2278,7 +2278,7 @@ const TEMAS = [
           "instituciones equiparadas jurídicamente a los sindicatos"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 6 CE define a los partidos políticos como el instrumento fundamental para la participación política.",
+        "explicacion": "El artículo 6 CE define a los partidos políticos como el instrumento fundamental para la participación política, no como órganos del Estado ni entidades de derecho público. Deben funcionar democráticamente y respetar la Constitución y las leyes.",
         "id": "tema-2-q62"
       },
       {
@@ -2290,7 +2290,7 @@ const TEMAS = [
           "el control de constitucionalidad de las normas"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 7 CE atribuye a sindicatos y asociaciones empresariales la defensa y promoción de sus intereses económicos y sociales propios.",
+        "explicacion": "El artículo 7 CE atribuye a los sindicatos de trabajadores y a las asociaciones empresariales la defensa y promoción de los intereses económicos y sociales que les son propios. No tienen, según este artículo, funciones de organización territorial ni de control de constitucionalidad.",
         "id": "tema-2-q63"
       },
       {
@@ -2302,7 +2302,7 @@ const TEMAS = [
           "controlar la constitucionalidad de las leyes"
         ],
         "correcta": 1,
-        "explicacion": "El texto recoge que las Fuerzas Armadas tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.",
+        "explicacion": "El artículo 8 CE atribuye a las Fuerzas Armadas la misión de garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional. No tienen, conforme a este precepto, funciones de política exterior ni jurisdicción sobre la población civil.",
         "id": "tema-2-q64"
       },
       {
@@ -2314,7 +2314,7 @@ const TEMAS = [
           "La jerarquía normativa"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 9.3 CE recoge, entre otros, los principios de legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras no favorables, seguridad jurídica y responsabilidad e interdicción de la arbitrariedad.",
+        "explicacion": "Ojo, no confundir con principios de otros artículos: entre los recogidos en el artículo 9.3 CE está la jerarquía normativa, junto con la legalidad, la publicidad de las normas, la irretroactividad de disposiciones sancionadoras desfavorables, la seguridad jurídica y la interdicción de la arbitrariedad.",
         "id": "tema-2-q65"
       },
       {
@@ -2326,7 +2326,7 @@ const TEMAS = [
           "de carácter tributario únicamente"
         ],
         "correcta": 2,
-        "explicacion": "El artículo 9.3 CE garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales.",
+        "explicacion": "El artículo 9.3 CE garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, no la irretroactividad general de cualquier norma. Es uno de los principios jurídicos del ordenamiento, junto con la legalidad y la seguridad jurídica.",
         "id": "tema-2-q66"
       },
       {
@@ -2338,7 +2338,7 @@ const TEMAS = [
           "El artículo 14"
         ],
         "correcta": 2,
-        "explicacion": "El Título I se introduce por el artículo 10, que afirma esos principios y valores como fundamento del orden político y de la paz social.",
+        "explicacion": "No confundir con el artículo 9 (principios del ordenamiento) ni con el 14 (igualdad): es el artículo 10 CE el que abre el Título I proclamando la dignidad de la persona y los derechos inviolables que le son inherentes como fundamento del orden político y de la paz social.",
         "id": "tema-2-q67"
       },
       {
@@ -2350,7 +2350,7 @@ const TEMAS = [
           "la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre esas materias ratificados por España"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 10.2 CE exige interpretar las normas sobre derechos fundamentales conforme a la Declaración Universal de Derechos Humanos y los tratados internacionales ratificados por España.",
+        "explicacion": "El artículo 10.2 CE exige interpretar las normas sobre derechos fundamentales de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre esas materias ratificados por España. No se limita a la jurisprudencia del Tribunal Constitucional ni a los reglamentos parlamentarios.",
         "id": "tema-2-q68"
       },
       {
@@ -2362,7 +2362,7 @@ const TEMAS = [
           "De la organización territorial del Estado"
         ],
         "correcta": 1,
-        "explicacion": "El quinto capítulo del Título I se dedica precisamente a la suspensión de los derechos y libertades.",
+        "explicacion": "El quinto y último capítulo del Título I se dedica a la suspensión de los derechos y libertades. La reforma constitucional, el Tribunal Constitucional y la organización territorial se regulan, en cambio, en otros títulos de la parte orgánica (X, IX y VIII, respectivamente).",
         "id": "tema-2-q69"
       },
       {
@@ -2374,7 +2374,7 @@ const TEMAS = [
           "El Tribunal Constitucional"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que el Título VII lleva por rúbrica Economía y Hacienda.",
+        "explicacion": "El Título VII de la Constitución lleva por rúbrica Economía y Hacienda, no organización territorial ni Poder Judicial. Este último se regula en el Título VI, mientras que la organización territorial ocupa el Título VIII.",
         "id": "tema-2-q70"
       },
       {
@@ -2386,7 +2386,7 @@ const TEMAS = [
           "9"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que existen cuatro disposiciones adicionales en el texto constitucional.",
+        "explicacion": "No confundir con las 9 disposiciones transitorias: la Constitución de 1978 contiene 4 disposiciones adicionales. Se completa con una disposición derogatoria y una disposición final.",
         "id": "tema-2-q71"
       },
       {
@@ -2398,7 +2398,7 @@ const TEMAS = [
           "9"
         ],
         "correcta": 3,
-        "explicacion": "El texto indica que existen nueve disposiciones transitorias.",
+        "explicacion": "El texto constitucional contiene 9 disposiciones transitorias, no 4 (que son las adicionales) ni 5 o 7. Junto a ellas figuran una disposición derogatoria y una disposición final.",
         "id": "tema-2-q72"
       },
       {
@@ -2410,7 +2410,7 @@ const TEMAS = [
           "el Código Civil de 1889"
         ],
         "correcta": 2,
-        "explicacion": "La disposición derogatoria deja sin efecto la Ley para la Reforma Política de 1977 y todas las leyes fundamentales de Franco que se opongan a la Constitución.",
+        "explicacion": "La disposición derogatoria deja sin efecto la Ley para la Reforma Política de 1977 y todas las leyes fundamentales del franquismo que se opongan a la Constitución, no el Código Civil ni el Fuero de los Españoles en exclusiva. Es la norma que cierra jurídicamente el antiguo régimen.",
         "id": "tema-2-q73"
       },
       {
@@ -2422,7 +2422,7 @@ const TEMAS = [
           "el Rey"
         ],
         "correcta": 1,
-        "explicacion": "El Preámbulo define a la nación española como el sujeto político o poder constituyente que, en uso de su soberanía, constituye la Constitución.",
+        "explicacion": "No confundir con el Rey ni con las Cortes Generales: el Preámbulo define a la nación española como el sujeto político o poder constituyente que, en uso de su soberanía, constituye la Constitución.",
         "id": "tema-2-q74"
       },
       {
@@ -2434,7 +2434,7 @@ const TEMAS = [
           "la justicia, la libertad y la seguridad"
         ],
         "correcta": 3,
-        "explicacion": "El texto señala que el Preámbulo apunta a la justicia, la libertad y la seguridad como principios para promover el bien común de la Nación.",
+        "explicacion": "Ojo, no confundir con los valores superiores del artículo 1.1 CE (libertad, justicia, igualdad y pluralismo político): el Preámbulo señala la justicia, la libertad y la seguridad como los principios que la nación española proclama su voluntad de promover para el bien común.",
         "id": "tema-2-q75"
       },
       {
@@ -2446,7 +2446,7 @@ const TEMAS = [
           "Porque carece de valor normativo, aunque conserva valor interpretativo"
         ],
         "correcta": 3,
-        "explicacion": "El Preámbulo carece de valor normativo, pero de carácter general tiene valor interpretativo, por lo que no puede ser declarado inconstitucional.",
+        "explicacion": "No es porque no fuera sometido a referéndum ni porque solo tenga eficacia en materia de derechos fundamentales: se considera un «aparte» porque carece de valor normativo, aunque conserva valor interpretativo de carácter general.",
         "id": "tema-2-q76"
       },
       {
@@ -2458,7 +2458,7 @@ const TEMAS = [
           "no es una norma jurídica susceptible de fundamentar pretensiones directamente alegables ante los órganos jurisdiccionales"
         ],
         "correcta": 3,
-        "explicacion": "El TC inadmitió el recurso porque el contenido del preámbulo no es una norma jurídica susceptible de fundamentar pretensiones directamente alegables ante los órganos jurisdiccionales.",
+        "explicacion": "El TC inadmitió el recurso porque el contenido del preámbulo no es una norma jurídica susceptible de fundamentar pretensiones directamente alegables ante los órganos jurisdiccionales. No se trata, por tanto, de una vulneración de la jerarquía normativa ni del artículo 9.3 CE.",
         "id": "tema-2-q77"
       },
       {
@@ -2470,7 +2470,7 @@ const TEMAS = [
           "La LO 3/2007"
         ],
         "correcta": 0,
-        "explicacion": "El ejemplo citado en el texto es el preámbulo de la LO 5/2021, de 22 de abril, que deroga un precepto del Código Penal.",
+        "explicacion": "El ejemplo citado en el tema es el preámbulo de la LO 5/2021, de 22 de abril, que deroga un precepto del Código Penal. Fue impugnado ante el Tribunal Constitucional, que inadmitió el recurso por el carácter no normativo del preámbulo.",
         "id": "tema-2-q78"
       },
       {
@@ -2482,7 +2482,7 @@ const TEMAS = [
           "158"
         ],
         "correcta": 0,
-        "explicacion": "El texto y el esquema de estructura de la Constitución señalan que consta de 169 artículos.",
+        "explicacion": "La Constitución española de 1978 consta de 169 artículos, no 178 ni 158. El Título X, dedicado a la reforma constitucional, ocupa precisamente los últimos cuatro: del 166 al 169.",
         "id": "tema-2-q79"
       },
       {
@@ -2494,7 +2494,7 @@ const TEMAS = [
           "167 y 169"
         ],
         "correcta": 1,
-        "explicacion": "El Título X, dedicado a la reforma constitucional, comprende los artículos 166 a 169.",
+        "explicacion": "El Título X, de la Reforma Constitucional, comprende los artículos 166 a 169, no del 165 al 168. El 166 regula la iniciativa, el 167 y el 168 los dos procedimientos de reforma, y el 169 la prohibición de reformar en determinadas circunstancias.",
         "id": "tema-2-q80"
       },
       {
@@ -2506,7 +2506,7 @@ const TEMAS = [
           "el artículo 168 CE"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 166 CE dispone que la iniciativa de la reforma constitucional se ejercerá en los términos previstos en los apartados 1 y 2 del artículo 87.",
+        "explicacion": "El artículo 166 CE es una regla incompleta que remite a los apartados 1 y 2 del artículo 87, relativo a la iniciativa legislativa, no al 81 (Leyes Orgánicas) ni al 92. Con ello, la iniciativa de reforma queda equiparada a la de la iniciativa legislativa ordinaria.",
         "id": "tema-2-q81"
       },
       {
@@ -2518,7 +2518,7 @@ const TEMAS = [
           "a una iniciativa popular de 500.000 firmas"
         ],
         "correcta": 0,
-        "explicacion": "La iniciativa corresponde también a las Asambleas de las Comunidades Autónomas, si bien de forma no directa al proponerla a las Cámaras o al Gobierno.",
+        "explicacion": "La iniciativa de reforma también corresponde a las Asambleas de las Comunidades Autónomas, aunque de forma no directa, al proponerla a las Cámaras o al Gobierno. No la ejercen, por tanto, directamente ante las Cortes, ni la comparten con los Ayuntamientos o el Rey.",
         "id": "tema-2-q82"
       },
       {
@@ -2530,7 +2530,7 @@ const TEMAS = [
           "En tiempo de guerra o de vigencia de alguno de los estados previstos en el artículo 116"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 169 CE prohíbe iniciar la reforma constitucional en tiempo de guerra o de vigencia de los estados de alarma, excepción o sitio del artículo 116.",
+        "explicacion": "El artículo 169 CE es una regla común a los dos procedimientos de reforma: prohíbe iniciarla en tiempo de guerra o mientras esté vigente alguno de los estados de alarma, excepción o sitio del artículo 116. No hace referencia a un Gobierno en funciones ni a plazos tras las elecciones.",
         "id": "tema-2-q83"
       },
       {
@@ -2542,7 +2542,7 @@ const TEMAS = [
           "no esencial u ordinaria"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 167 CE regula la denominada reforma no esencial o parcial, frente al procedimiento agravado del artículo 168.",
+        "explicacion": "El artículo 167 CE regula el procedimiento de reforma no esencial u ordinaria, frente al procedimiento agravado del artículo 168. No se aplica, por tanto, a la reforma total ni a las materias reservadas al 168 (Título Preliminar, derechos fundamentales, Corona).",
         "id": "tema-2-q84"
       },
       {
@@ -2554,7 +2554,7 @@ const TEMAS = [
           "Dos tercios"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 167 CE dispone que los proyectos de reforma constitucional deberán ser aprobados por una mayoría de tres quintos de cada una de las Cámaras.",
+        "explicacion": "No confundir con los dos tercios del artículo 168: el artículo 167 CE exige mayoría de tres quintos en cada Cámara para aprobar un proyecto de reforma no esencial.",
         "id": "tema-2-q85"
       },
       {
@@ -2566,7 +2566,7 @@ const TEMAS = [
           "Solo puede votar el texto, sin introducir enmiendas ni rechazarlo"
         ],
         "correcta": 3,
-        "explicacion": "El texto precisa que, en la votación del Senado, este solo podrá votarla, y por tanto no podrá introducir enmiendas ni rechazarla.",
+        "explicacion": "En la votación del Senado dentro del procedimiento del artículo 167, la Cámara Alta solo puede votar el texto ya aprobado por el Congreso, sin introducir enmiendas ni rechazarlo. Si ambas Cámaras logran la mayoría de 3/5, la reforma queda aprobada en esa fase.",
         "id": "tema-2-q86"
       },
       {
@@ -2578,7 +2578,7 @@ const TEMAS = [
           "Una Comisión de Asuntos Constitucionales"
         ],
         "correcta": 2,
-        "explicacion": "Si no hay acuerdo entre las Cámaras, se intentará obtenerlo mediante la creación de una Comisión mixta de composición paritaria de Diputados y Senadores.",
+        "explicacion": "Si no hay acuerdo entre Congreso y Senado en el procedimiento del artículo 167, se crea una Comisión mixta de composición paritaria de Diputados y Senadores. Su función es elaborar un texto transaccional que se somete de nuevo a votación en ambas Cámaras.",
         "id": "tema-2-q87"
       },
       {
@@ -2590,7 +2590,7 @@ const TEMAS = [
           "El Rey"
         ],
         "correcta": 2,
-        "explicacion": "Si no se logra la aprobación por mayoría de 3/5, y siempre que el texto hubiera obtenido el voto favorable de la mayoría absoluta del Senado, el Congreso por mayoría de dos tercios podrá aprobar la reforma.",
+        "explicacion": "Como vía de salvaguarda del artículo 167, si el texto transaccional no logra 3/5 en ambas Cámaras pero sí obtuvo la mayoría absoluta del Senado, es el Congreso quien puede aprobar la reforma por mayoría de dos tercios. Este mecanismo no existe en el procedimiento agravado del artículo 168.",
         "id": "tema-2-q88"
       },
       {
@@ -2602,7 +2602,7 @@ const TEMAS = [
           "Dentro de los 6 meses siguientes"
         ],
         "correcta": 0,
-        "explicacion": "Aprobada la reforma, será sometida a referéndum para su ratificación dentro de los quince días siguientes a su aprobación, si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
+        "explicacion": "El referéndum del artículo 167, cuando se solicita, debe convocarse dentro de los quince días siguientes a la aprobación de la reforma, no en plazos de 30, 60 días o 6 meses. Debe pedirlo una décima parte de los miembros de cualquiera de las Cámaras.",
         "id": "tema-2-q89"
       },
       {
@@ -2614,7 +2614,7 @@ const TEMAS = [
           "introducir el principio de estabilidad presupuestaria"
         ],
         "correcta": 1,
-        "explicacion": "La primera reforma constitucional (1992) recogió el derecho de sufragio pasivo de los extranjeros en elecciones municipales, tras la aprobación del Tratado de Maastricht.",
+        "explicacion": "La primera reforma constitucional (1992) modificó el artículo 13.2 CE para reconocer el derecho de sufragio pasivo de los extranjeros en las elecciones municipales, tras la aprobación del Tratado de Maastricht. No tuvo que ver con la circunscripción del Senado ni con la discapacidad.",
         "id": "tema-2-q90"
       },
       {
@@ -2626,7 +2626,7 @@ const TEMAS = [
           "actualizar el lenguaje sobre discapacidad"
         ],
         "correcta": 2,
-        "explicacion": "En 2011 se reformó el artículo 135 CE para introducir el principio de estabilidad presupuestaria.",
+        "explicacion": "No confundir con la reforma de 2024 (lenguaje sobre discapacidad) ni con la de 1992 (sufragio de extranjeros): la reforma de 2011 modificó el artículo 135 CE para introducir el principio de estabilidad presupuestaria.",
         "id": "tema-2-q91"
       },
       {
@@ -2638,7 +2638,7 @@ const TEMAS = [
           "modificar la circunscripción de Formentera"
         ],
         "correcta": 2,
-        "explicacion": "La penúltima reforma (2024) actualizó el lenguaje del artículo 49 CE, sustituyendo el término «disminuido» y reflejando los valores de protección de las personas con discapacidad.",
+        "explicacion": "La reforma de 2024 actualizó el lenguaje del artículo 49 CE, sustituyendo el término «disminuido» por una redacción acorde con los valores de protección de las personas con discapacidad. No guarda relación con la estabilidad presupuestaria (2011) ni con Formentera (2026).",
         "id": "tema-2-q92"
       },
       {
@@ -2650,7 +2650,7 @@ const TEMAS = [
           "que la isla de Formentera eligiera un senador propio, separándose de la circunscripción conjunta con Ibiza"
         ],
         "correcta": 3,
-        "explicacion": "La reforma de 2026 modificó el artículo 69.3 CE para que Formentera eligiera un senador propio, separándose de la circunscripción conjunta Ibiza-Formentera.",
+        "explicacion": "La reforma de 2026, sancionada por el Rey el 19 de mayo de ese año, modificó el artículo 69.3 CE para que la isla de Formentera elija un senador propio, separándose de la circunscripción conjunta que compartía con Ibiza. Tras la reforma, cada isla con Cabildo o Consejo Insular constituye su propia circunscripción senatorial.",
         "id": "tema-2-q93"
       },
       {
@@ -2662,7 +2662,7 @@ const TEMAS = [
           "a cualquier título de la parte orgánica sin distinción"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 168 CE se aplica a la reforma total, y para la parcial que afecte al Título Preliminar, al Capítulo II Sección 1ª del Título I y al Título II de la Corona.",
+        "explicacion": "El artículo 168 CE se aplica a la reforma total y, en la reforma parcial, únicamente cuando afecte al Título Preliminar, a la Sección 1ª del Capítulo II del Título I (derechos fundamentales y libertades públicas) o al Título II de la Corona. El resto de la parte orgánica, como el Título VII de Economía y Hacienda, se reforma por el artículo 167.",
         "id": "tema-2-q94"
       },
       {
@@ -2674,7 +2674,7 @@ const TEMAS = [
           "Unanimidad"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 168 CE dispone que cada Cámara deberá aprobar el principio de reforma por mayoría de dos tercios.",
+        "explicacion": "No confundir con los tres quintos del artículo 167: el artículo 168 CE exige que cada Cámara apruebe el principio de la reforma por mayoría de dos tercios. Si no se alcanza esa mayoría, la reforma queda desechada en ese mismo momento, sin vías alternativas.",
         "id": "tema-2-q95"
       },
       {
@@ -2686,7 +2686,7 @@ const TEMAS = [
           "Se procede a la disolución de las Cámaras y a la convocatoria de elecciones generales"
         ],
         "correcta": 3,
-        "explicacion": "Una vez aprobado el principio de reforma, se procede a la disolución de las Cámaras y a la convocatoria de elecciones generales.",
+        "explicacion": "A diferencia del artículo 167, el artículo 168 no prevé una Comisión mixta ni un referéndum inmediato: una vez aprobado el principio de reforma por dos tercios en ambas Cámaras, se procede a la disolución de las Cámaras y a la convocatoria de elecciones generales.",
         "id": "tema-2-q96"
       },
       {
@@ -2698,7 +2698,7 @@ const TEMAS = [
           "Disolverse de nuevo si no hay acuerdo"
         ],
         "correcta": 2,
-        "explicacion": "Las nuevas Cámaras tienen como primera obligación ratificar la decisión de reforma y proceder a la elaboración del nuevo texto constitucional.",
+        "explicacion": "Las nuevas Cámaras surgidas de las elecciones tienen como primera obligación ratificar la decisión de reforma y proceder a la elaboración del nuevo texto constitucional. No se convoca un nuevo referéndum de principio ni se remite el asunto al Tribunal Constitucional.",
         "id": "tema-2-q97"
       },
       {
@@ -2710,7 +2710,7 @@ const TEMAS = [
           "una mayoría de tres quintos en ambas Cámaras"
         ],
         "correcta": 2,
-        "explicacion": "El nuevo texto constitucional requiere una mayoría de dos tercios del Congreso en pleno, pasando al Senado, que deberá aprobarlo con la misma mayoría.",
+        "explicacion": "El nuevo texto constitucional requiere una mayoría de dos tercios del Congreso en pleno y la misma mayoría en el Senado, no mayorías distintas ni unanimidad. La Constitución, en cambio, no especifica qué mayoría se exige para la ratificación previa del principio de reforma por las nuevas Cámaras, lo que ha generado debate doctrinal.",
         "id": "tema-2-q98"
       },
       {
@@ -2722,7 +2722,7 @@ const TEMAS = [
           "un referéndum facultativo, solo si lo pide una décima parte de una Cámara"
         ],
         "correcta": 1,
-        "explicacion": "Si se aprueba por las dos Cámaras, se hace necesario un referéndum obligatorio y vinculante.",
+        "explicacion": "A diferencia del artículo 167, donde el referéndum es facultativo, en el procedimiento del artículo 168 el referéndum final es siempre obligatorio y vinculante si el nuevo texto es aprobado por ambas Cámaras.",
         "id": "tema-2-q99"
       },
       {
@@ -2734,7 +2734,7 @@ const TEMAS = [
           "Casi 500.000"
         ],
         "correcta": 1,
-        "explicacion": "El texto recoge que existían casi 250.000 aforados, de los que 232.000 pertenecían a las Fuerzas y Cuerpos de Seguridad del Estado o a policías autonómicas.",
+        "explicacion": "Según la infografía citada, en España había casi 250.000 aforados, de los cuales unos 232.000 pertenecían a las Fuerzas y Cuerpos de Seguridad del Estado o a policías autonómicas. El resto (17.603) se repartía entre jueces y fiscales, políticos y la Familia Real.",
         "id": "tema-2-q100"
       },
       {
@@ -2746,7 +2746,7 @@ const TEMAS = [
           "Tras la aprobación del principio de reforma por dos tercios, se procede directamente al referéndum, sin necesidad de disolver las Cámaras"
         ],
         "correcta": 3,
-        "explicacion": "Es incorrecta porque, tras aprobar el principio de reforma por 2/3, lo que procede es la disolución de las Cámaras y la convocatoria de elecciones, no el referéndum directo.",
+        "explicacion": "Es la afirmación incorrecta: tras aprobar el principio de reforma por dos tercios, el artículo 168 CE exige la disolución de las Cámaras y la convocatoria de elecciones generales, no un referéndum inmediato. El referéndum solo llega al final, una vez que el nuevo texto ha sido aprobado por las Cámaras surgidas de esas elecciones.",
         "nivel": "avanzado",
         "id": "tema-2-q101"
       },
@@ -2759,7 +2759,7 @@ const TEMAS = [
           "El artículo 167 prevé la creación de una Comisión mixta en caso de desacuerdo entre las Cámaras, mientras que el artículo 168 no prevé dicho mecanismo"
         ],
         "correcta": 3,
-        "explicacion": "Solo el artículo 167 contempla la Comisión mixta paritaria para el supuesto de desacuerdo entre Congreso y Senado; el artículo 168 no prevé dicho mecanismo.",
+        "explicacion": "Es correcta porque solo el artículo 167 prevé una Comisión mixta paritaria para el caso de desacuerdo entre las Cámaras; el artículo 168 no contempla ese mecanismo. Tampoco es cierto que ambos exijan 2/3 en primera votación: el 167 exige 3/5 y el 168, 2/3.",
         "nivel": "avanzado",
         "id": "tema-2-q102"
       },
@@ -2772,7 +2772,7 @@ const TEMAS = [
           "en el procedimiento del artículo 167 el referéndum es facultativo, solo si lo solicita el 10% de una Cámara, mientras que en el del artículo 168 es siempre obligatorio"
         ],
         "correcta": 3,
-        "explicacion": "En el 167 el referéndum solo procede si lo solicita una décima parte de los miembros de una Cámara; en el 168, si se aprueba el nuevo texto, el referéndum es siempre obligatorio y vinculante.",
+        "explicacion": "En el artículo 167 el referéndum es facultativo, solo si lo solicita el 10% de los miembros de una Cámara; en el artículo 168, si el nuevo texto es aprobado por ambas Cámaras, el referéndum es siempre obligatorio y vinculante. Es la combinación correcta entre ambos procedimientos.",
         "nivel": "avanzado",
         "id": "tema-2-q103"
       },
@@ -2785,7 +2785,7 @@ const TEMAS = [
           "175 diputados o 133 senadores"
         ],
         "correcta": 0,
-        "explicacion": "El texto (infografía «El Economista») cifra ese 10% en 35 diputados o 27 senadores.",
+        "explicacion": "Según la infografía de El Economista citada en el tema, ese 10% equivale aproximadamente a 35 diputados (sobre 350) o 27 senadores (sobre 266), cifras muy inferiores a las que exigiría una mayoría absoluta o de dos tercios.",
         "nivel": "avanzado",
         "id": "tema-2-q104"
       },
@@ -2798,7 +2798,7 @@ const TEMAS = [
           "El Título Preliminar"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 168 protege el Título Preliminar, el Capítulo II Sección 1ª del Título I y el Título II (Corona); el Título VII (Economía y Hacienda) se reforma por el procedimiento ordinario del artículo 167.",
+        "explicacion": "El Título VII, de Economía y Hacienda, no está protegido por el procedimiento agravado del artículo 168 y se reforma por el procedimiento ordinario del 167. Sí lo están el Título Preliminar, el Título II (Corona) y la Sección 1ª del Capítulo II del Título I (derechos fundamentales).",
         "nivel": "avanzado",
         "id": "tema-2-q105"
       },
@@ -2811,7 +2811,7 @@ const TEMAS = [
           "la Constitución exige expresamente mayoría de dos tercios en ambas Cámaras para esa ratificación"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala expresamente que la CE deja en el aire cuál debería ser la mayoría para esa ratificación, siendo necesario acudir a los reglamentos de las Cámaras y a la doctrina.",
+        "explicacion": "La Constitución no especifica qué mayoría se exige para la ratificación del nuevo texto por las nuevas Cámaras, lo que genera una laguna interpretada de forma distinta por la doctrina y los reglamentos parlamentarios. El Reglamento del Senado (art. 159) exige mayoría absoluta, pero el del Congreso no dice nada al respecto.",
         "nivel": "avanzado",
         "id": "tema-2-q106"
       },
@@ -2824,7 +2824,7 @@ const TEMAS = [
           "DE VEGA considera que, por razones de lógica y economía procesal, debería exigirse una mayoría de dos tercios"
         ],
         "correcta": 0,
-        "explicacion": "Es incorrecta porque el texto indica que el Reglamento del Congreso no dice nada al respecto; es el artículo 159 del Reglamento del Senado el que exige mayoría absoluta.",
+        "explicacion": "Es la afirmación incorrecta: el Reglamento del Congreso no dice nada sobre la mayoría de ratificación; es el artículo 159 del Reglamento del Senado el que exige mayoría absoluta. Por eso parte de la doctrina defiende, por coherencia con el artículo 79 CE, que en el Congreso bastaría la mayoría simple.",
         "nivel": "avanzado",
         "id": "tema-2-q107"
       },
@@ -2837,7 +2837,7 @@ const TEMAS = [
           "la mayoría absoluta"
         ],
         "correcta": 0,
-        "explicacion": "DE VEGA considera ridículo exigir mayoría absoluta o mayoría simple en esa fase, defendiendo que debería exigirse una mayoría cualificada de dos tercios.",
+        "explicacion": "DE VEGA considera ridículo exigir mayoría absoluta o mayoría simple en esa fase, y defiende que, por razones de lógica y economía procesal, debería exigirse una mayoría de dos tercios. Su argumento es que en fases posteriores del procedimiento ya se requiere esa misma mayoría cualificada.",
         "nivel": "avanzado",
         "id": "tema-2-q108"
       },
@@ -2850,7 +2850,7 @@ const TEMAS = [
           "una modificación cuantitativamente significativa de la Constitución vigente"
         ],
         "correcta": 2,
-        "explicacion": "REQUEJO PAGÉS sostiene que la reforma total no puede dar lugar a una norma formalmente distinta (una nueva Constitución), sino a una modificación cuantitativamente significativa de la vigente.",
+        "explicacion": "No confundir con la postura de los Letrados de las Cortes, que sostienen justamente lo contrario: para REQUEJO PAGÉS, la reforma total del artículo 168 no puede dar lugar a una nueva Constitución formalmente distinta, sino a una modificación cuantitativamente significativa de la vigente.",
         "nivel": "avanzado",
         "id": "tema-2-q109"
       },
@@ -2863,7 +2863,7 @@ const TEMAS = [
           "una simple modificación de artículos aislados de escasa entidad"
         ],
         "correcta": 2,
-        "explicacion": "Los Letrados de las Cortes entienden que el artículo 168 se refiere a los supuestos de revisión total, es decir, de sustitución íntegra del texto por otro de nueva planta, frente a la interpretación de REQUEJO PAGÉS.",
+        "explicacion": "Los Letrados de las Cortes Generales entienden que la reforma total del artículo 168 se refiere a los supuestos de revisión total, es decir, de sustitución íntegra del texto constitucional por otro de nueva planta. Esta interpretación se opone a la de REQUEJO PAGÉS, para quien no cabe una Constitución formalmente distinta.",
         "nivel": "avanzado",
         "id": "tema-2-q110"
       },
@@ -2876,7 +2876,7 @@ const TEMAS = [
           "El Congreso puede aprobarlo igualmente por mayoría de dos tercios sin intervención del Senado"
         ],
         "correcta": 2,
-        "explicacion": "El texto señala que la interpretación más estricta de la literalidad del artículo 168 lleva a entender que, si el Senado no aprueba sin enmiendas el nuevo texto, la reforma habrá fracasado, al no preverse comisión mixta en este procedimiento.",
+        "explicacion": "A diferencia del artículo 167, el artículo 168 no prevé una Comisión mixta para el caso de desacuerdo entre las Cámaras. Por eso, la interpretación más estricta de su literalidad entiende que si el Senado no aprueba sin enmiendas el nuevo texto, la reforma habrá fracasado.",
         "nivel": "avanzado",
         "id": "tema-2-q111"
       },
@@ -2889,7 +2889,7 @@ const TEMAS = [
           "Si el texto transaccional no logra 3/5 pero obtuvo mayoría absoluta del Senado, el Congreso puede aprobarlo por mayoría de dos tercios"
         ],
         "correcta": 1,
-        "explicacion": "Es incorrecta porque la disolución de las Cámaras y la convocatoria de elecciones es un rasgo propio del procedimiento agravado del artículo 168, no del artículo 167.",
+        "explicacion": "Es la afirmación incorrecta: la disolución de las Cámaras y la convocatoria de elecciones es un rasgo exclusivo del procedimiento agravado del artículo 168, no del artículo 167. En este último, si no hay acuerdo, lo que se prevé es la Comisión mixta paritaria.",
         "nivel": "avanzado",
         "id": "tema-2-q112"
       },
@@ -2902,7 +2902,7 @@ const TEMAS = [
           "Las reglas de iniciativa son comunes a ambos procedimientos (167 y 168), remitiéndose el artículo 166 a los apartados 1 y 2 del artículo 87 CE"
         ],
         "correcta": 3,
-        "explicacion": "El texto señala expresamente que las reglas de iniciativa son comunes a los dos procedimientos, recogidas en el artículo 166, que remite al 87.1 y 87.2 CE.",
+        "explicacion": "Las reglas de iniciativa de la reforma constitucional son comunes a los dos procedimientos (167 y 168): el artículo 166 CE remite a los apartados 1 y 2 del artículo 87. El Rey no comparte esa iniciativa con el Gobierno, ni las Asambleas de las CCAA pueden presentar el proyecto directamente ante las Cámaras.",
         "nivel": "avanzado",
         "id": "tema-2-q113"
       },
@@ -2915,7 +2915,7 @@ const TEMAS = [
           "La prohibición del artículo 169 solo afecta al procedimiento agravado del artículo 168"
         ],
         "correcta": 2,
-        "explicacion": "El artículo 169 CE es una regla común a ambos procedimientos que prohíbe iniciar la reforma en tiempo de guerra o de vigencia de cualquiera de los estados del artículo 116 (alarma, excepción o sitio).",
+        "explicacion": "El artículo 169 CE es una regla común a ambos procedimientos de reforma, no exclusiva del artículo 168: prohíbe iniciar la reforma constitucional en tiempo de guerra o durante la vigencia de los estados de alarma, excepción o sitio del artículo 116.",
         "nivel": "avanzado",
         "id": "tema-2-q114"
       },
@@ -2928,7 +2928,7 @@ const TEMAS = [
           "La reforma de 1992 afectó al artículo 13.2 CE"
         ],
         "correcta": 1,
-        "explicacion": "Es incorrecta porque el sufragio pasivo de los extranjeros se reconoció en la reforma de 1992 (art. 13.2), no en la de 2011, que introdujo la estabilidad presupuestaria en el artículo 135 CE.",
+        "explicacion": "No se corresponde con la realidad: el sufragio pasivo de los extranjeros en elecciones municipales se reconoció en la reforma de 1992 (art. 13.2), no en la de 2011, que introdujo la estabilidad presupuestaria en el artículo 135 CE.",
         "nivel": "avanzado",
         "id": "tema-2-q115"
       },
@@ -2941,7 +2941,7 @@ const TEMAS = [
           "el artículo 167 no contempla la posibilidad de referéndum en ningún caso"
         ],
         "correcta": 1,
-        "explicacion": "En el procedimiento del artículo 167 el referéndum solo es obligatorio si lo solicita una décima parte de los miembros de cualquiera de las Cámaras; al no solicitarse en ninguna de las cuatro reformas, no fueron sometidas a referéndum.",
+        "explicacion": "Ninguna de las cuatro reformas del artículo 167 se sometió a referéndum porque, en ninguna de ellas, la décima parte de los miembros de alguna Cámara lo solicitó dentro del plazo de quince días. Ese requisito es imprescindible para que el referéndum sea obligatorio en este procedimiento.",
         "nivel": "avanzado",
         "id": "tema-2-q116"
       },
@@ -2954,7 +2954,7 @@ const TEMAS = [
           "El Preámbulo puede ser declarado inconstitucional si su contenido contradice los valores superiores del artículo 1.1 CE"
         ],
         "correcta": 3,
-        "explicacion": "Es incorrecta porque, precisamente por carecer de valor normativo, el Preámbulo no puede ser declarado inconstitucional, según señala el texto.",
+        "explicacion": "Es la afirmación incorrecta: precisamente por carecer de valor normativo, el Preámbulo no puede ser declarado inconstitucional, aunque contradiga en apariencia los valores superiores del artículo 1.1 CE. Sí conserva, en cambio, valor interpretativo de carácter general.",
         "nivel": "avanzado",
         "id": "tema-2-q117"
       },
@@ -2967,7 +2967,7 @@ const TEMAS = [
           "Los principios del artículo 9.3 tienen el mismo rango que los valores superiores del ordenamiento"
         ],
         "correcta": 2,
-        "explicacion": "El texto distingue expresamente entre los valores superiores del 1.1 CE y los principios del 9.3 CE, advirtiendo que estos últimos, a diferencia de los primeros, no son normas jurídicas y carecen de efectos jurídicos propios.",
+        "explicacion": "Los valores superiores del artículo 1.1 CE (libertad, justicia, igualdad y pluralismo político) informan el ordenamiento jurídico, mientras que los principios del artículo 9.3 CE (legalidad, jerarquía normativa, etc.) no son normas jurídicas ni tienen efectos propios. Son, por tanto, categorías jurídicas distintas, pese a compartir el Título Preliminar.",
         "nivel": "avanzado",
         "id": "tema-2-q118"
       },
@@ -2980,7 +2980,7 @@ const TEMAS = [
           "La Constitución aforó directamente a todos los miembros de las Fuerzas y Cuerpos de Seguridad del Estado"
         ],
         "correcta": 0,
-        "explicacion": "Según la infografía citada, la Constitución de 1978 otorga únicamente el aforamiento al presidente del Gobierno, a sus ministros y a los diputados y senadores; el resto (jueces y fiscales, policías, familia real) se aforan por otras vías normativas, como la LOPJ.",
+        "explicacion": "La Constitución de 1978 otorga aforamiento directamente solo al presidente del Gobierno, a sus ministros y a los diputados y senadores. El resto de aforados —jueces y fiscales, policías, Familia Real— lo están por otras vías normativas, como la Ley Orgánica del Poder Judicial.",
         "nivel": "avanzado",
         "id": "tema-2-q119"
       },
@@ -2993,7 +2993,7 @@ const TEMAS = [
           "Siempre que lo solicite expresamente el Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 167 prevé esta vía de salvaguarda, ausente en el artículo 168: si el texto obtuvo mayoría absoluta en el Senado, el Congreso puede aprobar la reforma por mayoría de dos tercios.",
+        "explicacion": "El artículo 167 CE prevé esta vía de salvaguarda, ausente en el artículo 168: si el texto transaccional obtuvo el voto favorable de la mayoría absoluta del Senado, el Congreso puede aprobar la reforma por mayoría de dos tercios, aunque no se hayan alcanzado los tres quintos en ambas Cámaras.",
         "nivel": "avanzado",
         "id": "tema-2-q120"
       },
@@ -3006,7 +3006,7 @@ const TEMAS = [
           "El PCE estuvo representado en la Ponencia por Solé Tura"
         ],
         "correcta": 1,
-        "explicacion": "Es incorrecta porque Tierno Galván quedó fuera de la Ponencia Constitucional; el representante de la minoría vasco-catalana fue Roca, mientras que a Tierno Galván se le encomendó redactar el preámbulo.",
+        "explicacion": "Es la afirmación incorrecta: Enrique Tierno Galván quedó fuera de la Ponencia Constitucional; el representante de la minoría vasco-catalana fue Roca, mientras que a Tierno Galván se le encomendó únicamente la redacción del preámbulo.",
         "nivel": "avanzado",
         "id": "tema-2-q121"
       },
@@ -3019,7 +3019,7 @@ const TEMAS = [
           "En el artículo 168 las Cámaras votan primero el «principio» de la reforma (su conveniencia u oportunidad), y solo después de la ratificación por las nuevas Cámaras se discute y aprueba el texto articulado, mientras que en el artículo 167 las Cámaras votan directamente el proyecto de reforma ya articulado"
         ],
         "correcta": 3,
-        "explicacion": "Según el Consejo de Estado, citado en el texto, en el artículo 168 lo primero que se discute no es la reforma en sí, sino su principio; el texto articulado se elabora después, tras la ratificación por las nuevas Cámaras.",
+        "explicacion": "En el artículo 168, las Cámaras votan primero el «principio» de la reforma —su conveniencia u oportunidad—, y solo tras la ratificación por las nuevas Cámaras se elabora y aprueba el texto articulado. En el artículo 167, en cambio, las Cámaras votan directamente el proyecto de reforma ya redactado.",
         "nivel": "avanzado",
         "id": "tema-2-q122"
       },
@@ -3032,7 +3032,7 @@ const TEMAS = [
           "Se tramitó por el procedimiento del artículo 167 y no fue sometida a referéndum, al no solicitarlo la décima parte de los miembros de ninguna Cámara"
         ],
         "correcta": 3,
-        "explicacion": "La reforma de 2026, que modificó el artículo 69.3 CE, se aprobó por ambas Cámaras sin que se solicitara la celebración de referéndum, siguiendo el procedimiento ordinario del artículo 167.",
+        "explicacion": "La reforma de 2026 sobre el artículo 69.3 CE se tramitó por el procedimiento ordinario del artículo 167, no por el agravado del 168, pese a afectar a la composición del Senado. No fue sometida a referéndum porque no lo solicitó la décima parte de los miembros de ninguna Cámara.",
         "nivel": "avanzado",
         "id": "tema-2-q123"
       },
@@ -3045,7 +3045,7 @@ const TEMAS = [
           "Solo el artículo 168 prevé la ratificación de la decisión por unas nuevas Cámaras surgidas de elecciones generales"
         ],
         "correcta": 2,
-        "explicacion": "Es incorrecta porque la disolución de las Cámaras y la convocatoria de elecciones generales es exclusiva del procedimiento agravado del artículo 168; el artículo 167 no exige tal disolución.",
+        "explicacion": "Es la afirmación incorrecta: la disolución de las Cámaras y la convocatoria de nuevas elecciones generales es exclusiva del procedimiento agravado del artículo 168. El artículo 167 no exige tal disolución; ante el desacuerdo, prevé en su lugar una Comisión mixta paritaria.",
         "nivel": "avanzado",
         "id": "tema-2-q124"
       },
@@ -3058,7 +3058,7 @@ const TEMAS = [
           "En el artículo 168, si no se alcanza la mayoría de dos tercios para el principio de reforma, no existen vías alternativas y la reforma queda desechada en ese momento, mientras que en el artículo 167 cabe aún la vía de la Comisión mixta"
         ],
         "correcta": 3,
-        "explicacion": "El texto es explícito: en el 168, si no se alcanza la mayoría de dos tercios, no existen vías alternativas y la reforma queda desechada; en el 167, en cambio, cabe acudir a la Comisión mixta paritaria.",
+        "explicacion": "En el artículo 168, si no se alcanza la mayoría de dos tercios para el principio de reforma, la reforma queda desechada en ese mismo momento, sin vías alternativas. En el artículo 167, en cambio, cabe todavía acudir a la Comisión mixta paritaria si falla la primera votación.",
         "nivel": "avanzado",
         "id": "tema-2-q125"
       }
@@ -3078,7 +3078,7 @@ const TEMAS = [
           "Título V, arts. 108-116"
         ],
         "correcta": 1,
-        "explicacion": "Las Cortes Generales se ubican en el Título III, entre la Corona y el Gobierno, abarcando 30 artículos, del 66 al 96.",
+        "explicacion": "Las Cortes Generales se regulan en el Título III CE (arts. 66 a 96, 30 artículos), situado justo entre el Título II (la Corona) y el Título IV (el Gobierno). El propio título recibe la rúbrica \"Cortes Generales\" y no \"Poder Legislativo\", porque no agotan su actividad en esa función.",
         "id": "tema-3-q1"
       },
       {
@@ -3090,7 +3090,7 @@ const TEMAS = [
           "Las Cortes Generales tienen su origen en las Asambleas Medievales inglesas"
         ],
         "correcta": 3,
-        "explicacion": "El origen histórico en las Asambleas Medievales es un dato introductorio, no una de las tres razones que el documento da para justificar la denominación \"Cortes Generales\".",
+        "explicacion": "Ojo, no lo confundas: el origen histórico en las Asambleas Medievales es solo la introducción del tema, no una de las razones que da el documento. Las tres razones reales para preferir \"Cortes Generales\" a \"Poder Legislativo\" son: no agotan su actividad en ese poder, no son la única institución que lo ejerce (también el Gobierno y las Asambleas legislativas autonómicas), y su acto principal, la ley, está sujeto a control del Tribunal Constitucional.",
         "id": "tema-3-q2"
       },
       {
@@ -3102,7 +3102,7 @@ const TEMAS = [
           "La designación de senadores autonómicos"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que la autorización para convocar referéndum (art. 92.2) y la intervención en los estados excepcionales (art. 116) son competencia exclusiva del Congreso, sin participación del Senado.",
+        "explicacion": "El Congreso tiene en exclusiva, sin participación del Senado, la autorización para convocar referéndum (art. 92.2) y la intervención en los estados excepcionales (art. 116). Cuidado con la designación de senadores autonómicos: esa competencia es precisamente del Senado, a través de las Asambleas Legislativas autonómicas.",
         "id": "tema-3-q3"
       },
       {
@@ -3114,7 +3114,7 @@ const TEMAS = [
           "Entre 300 y 400; actualmente 400"
         ],
         "correcta": 1,
-        "explicacion": "El art. 68.1 CE dispone que el Congreso tenga entre 300 y 400 miembros, y la LO 5/1985 del régimen electoral general fija el número exacto en 350.",
+        "explicacion": "Ojo con los números: el art. 68.1 CE fija una horquilla de 300 a 400 diputados, y es la LO 5/1985 (LOREG) la que concreta la cifra exacta en 350, ni 300 ni 400. Esa misma ley fija también en 209 el número de senadores provinciales o electos.",
         "id": "tema-3-q4"
       },
       {
@@ -3126,7 +3126,7 @@ const TEMAS = [
           "3 diputados por provincia y 1 por cada una de Ceuta y Melilla"
         ],
         "correcta": 2,
-        "explicacion": "El legislador electoral fija la representación mínima en 2 diputados por provincia, mientras que para Ceuta y Melilla queda restringida a 1 diputado cada una.",
+        "explicacion": "Cuidado, no lo confundas con el Senado: en el Congreso cada provincia tiene un mínimo de 2 diputados, y Ceuta y Melilla 1 diputado cada una. En el Senado, en cambio, es al revés en cuanto a las ciudades autónomas: Ceuta y Melilla eligen 2 senadores cada una.",
         "id": "tema-3-q5"
       },
       {
@@ -3138,7 +3138,7 @@ const TEMAS = [
           "2 vicepresidentes y 2 secretarios"
         ],
         "correcta": 1,
-        "explicacion": "La Mesa es un órgano colegiado formado por el presidente de cada cámara, los vicepresidentes (4 en el Congreso y 2 en el Senado) y 4 secretarios; el Congreso tiene así 4 vicepresidentes y 4 secretarios.",
+        "explicacion": "La Mesa del Congreso está formada por el presidente, 4 vicepresidentes y 4 secretarios. Ojo: en el Senado los vicepresidentes bajan a 2, pero los secretarios se mantienen en 4 en ambas cámaras; la Mesa la completa siempre el presidente de la cámara respectiva.",
         "id": "tema-3-q6"
       },
       {
@@ -3150,7 +3150,7 @@ const TEMAS = [
           "A los 4 años de su elección, sin que quepa disolución anticipada"
         ],
         "correcta": 1,
-        "explicacion": "El art. 68.4 CE dispone que el Congreso es elegido por 4 años y que el mandato de los diputados termina 4 años después de su elección o el día de la disolución de la cámara.",
+        "explicacion": "El art. 68.4 CE dispone que el mandato de los diputados termina a los 4 años de su elección o el día de la disolución de la Cámara, lo que ocurra antes. El Congreso, igual que el Senado (art. 69.6 CE), se elige por un periodo de 4 años.",
         "id": "tema-3-q7"
       },
       {
@@ -3162,7 +3162,7 @@ const TEMAS = [
           "Entre los 20 y 25 días siguientes"
         ],
         "correcta": 1,
-        "explicacion": "El art. 68.6 CE establece que las elecciones tendrán lugar entre los treinta y sesenta días desde la terminación del mandato.",
+        "explicacion": "El art. 68.6 CE fija que las elecciones se celebren entre los 30 y 60 días desde la terminación del mandato. No lo confundas con otro plazo distinto del mismo proceso electoral: una vez celebradas, el Congreso electo debe ser convocado dentro de los 25 días siguientes.",
         "id": "tema-3-q8"
       },
       {
@@ -3174,7 +3174,7 @@ const TEMAS = [
           "La mitad de los senadores son elegidos por la Comunidad Autónoma a través de la Asamblea Legislativa"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que solo una quinta parte de los senadores son elegidos por la Comunidad Autónoma a través de la Asamblea Legislativa, mientras el resto se elige por criterio de representación ideológica de partidos en la provincia.",
+        "explicacion": "Solo una quinta parte de los senadores (los autonómicos) son elegidos por la Comunidad Autónoma a través de su Asamblea Legislativa; el resto, la gran mayoría, son senadores provinciales o electos, elegidos en la provincia por criterio de representación ideológica de partidos, no por criterio territorial.",
         "id": "tema-3-q9"
       },
       {
@@ -3186,7 +3186,7 @@ const TEMAS = [
           "Artículo 167 CE"
         ],
         "correcta": 2,
-        "explicacion": "El documento señala que las funciones que la CE atribuye al Senado no son propiamente de cámara territorial, a excepción del artículo 155 CE.",
+        "explicacion": "El documento señala que las funciones que la CE atribuye al Senado no responden realmente a su carácter de cámara territorial, salvo la del artículo 155 CE. Es precisamente esta excepción la que se suele usar como argumento contrario al eufemismo \"cámara de representación territorial\".",
         "id": "tema-3-q10"
       },
       {
@@ -3198,7 +3198,7 @@ const TEMAS = [
           "4 senadores por provincia; total 250"
         ],
         "correcta": 1,
-        "explicacion": "Cada provincia elige a 4 senadores (excepto las islas mayores que eligen 3, Ceuta y Melilla 2, y las islas menores 1), alcanzando este tipo de senadores un total de 209.",
+        "explicacion": "Cada provincia elige, con carácter general, 4 senadores, y ese tipo de senadores (provinciales o electos) suma un total de 209. Ojo, no lo confundas con los senadores autonómicos, cuyo número no es fijo porque depende de la población de cada Comunidad Autónoma.",
         "id": "tema-3-q11"
       },
       {
@@ -3210,7 +3210,7 @@ const TEMAS = [
           "Dos senadores por Comunidad Autónoma, con independencia de la población"
         ],
         "correcta": 1,
-        "explicacion": "El art. 69.5 CE dispone que las CCAA designarán un senador y otro más por cada millón de habitantes de su territorio, correspondiendo la designación a la Asamblea Legislativa (o en su defecto al órgano colegiado superior de la CA).",
+        "explicacion": "El art. 69.5 CE dispone que cada Comunidad Autónoma designa un senador por su Asamblea Legislativa, más otro senador adicional por cada millón de habitantes de su territorio. Al depender de la población, este número no es fijo y varía al inicio de cada legislatura.",
         "id": "tema-3-q12"
       },
       {
@@ -3222,7 +3222,7 @@ const TEMAS = [
           "Se amplía a 5 el número de senadores por provincia"
         ],
         "correcta": 1,
-        "explicacion": "La cuarta reforma constitucional que afecta al art. 69.3 CE permite que Formentera, desde el 19 de mayo de 2026, elija un senador propio sin quedar agrupada con el senador por Ibiza, convirtiéndose en circunscripción electoral propia.",
+        "explicacion": "La cuarta reforma constitucional, con efectos desde el 19 de mayo de 2026, modifica el art. 69.3 CE para que Formentera se convierta en circunscripción electoral propia y elija un senador sin quedar agrupada con el de Ibiza, como ocurría antes de la reforma.",
         "id": "tema-3-q13"
       },
       {
@@ -3234,7 +3234,7 @@ const TEMAS = [
           "Es un mandato imperativo, en tanto los partidos pueden revocar el acta por indisciplina de voto"
         ],
         "correcta": 2,
-        "explicacion": "El documento señala que el mandato no es imperativo, en el sentido de que los parlamentarios no pueden recibir instrucciones ni de los electores ni de los partidos.",
+        "explicacion": "El mandato representativo no es imperativo: los parlamentarios no pueden recibir instrucciones ni de los electores ni de los partidos, sin perjuicio de que en la práctica los diputados y senadores de un mismo partido voten en bloque. Tampoco es revocable antes de finalizar el periodo de mandato, aunque sí es renovable o no de forma periódica.",
         "id": "tema-3-q14"
       },
       {
@@ -3246,7 +3246,7 @@ const TEMAS = [
           "Es posible acumular el acta de diputado y de una Asamblea Legislativa autonómica, pero no la de senador"
         ],
         "correcta": 0,
-        "explicacion": "El art. 67.1 CE establece que no es posible acumular el acta de ambas cámaras al mismo tiempo.",
+        "explicacion": "El art. 67.1 CE establece que no es posible acumular el acta de ambas cámaras al mismo tiempo. La incompatibilidad alcanza también a ser, simultáneamente, miembro de una Asamblea Legislativa autonómica y del Congreso.",
         "id": "tema-3-q15"
       },
       {
@@ -3258,7 +3258,7 @@ const TEMAS = [
           "Cualquier actuación del parlamentario, dentro y fuera del ejercicio de su cargo"
         ],
         "correcta": 1,
-        "explicacion": "El documento define la inviolabilidad (71.1) como la protección de las opiniones y votos de los parlamentarios en el ejercicio de su función, siendo objeto de protección los actos parlamentarios.",
+        "explicacion": "La inviolabilidad (art. 71.1 CE) protege las opiniones y votos emitidos por el parlamentario en el ejercicio de su función; la jurisprudencia añade que también quedan protegidos los escritos parlamentarios y la reproducción literal de esos actos. Se la considera la \"primera conquista\" de los parlamentarios frente al Rey.",
         "id": "tema-3-q16"
       },
       {
@@ -3270,7 +3270,7 @@ const TEMAS = [
           "15 días"
         ],
         "correcta": 1,
-        "explicacion": "El parlamentario solo puede ser enjuiciado por la Sala de lo Penal del Tribunal Supremo previo suplicatorio a la cámara respectiva, que debe aprobarse por mayoría simple en el plazo de 60 días, entendiéndose desestimado en caso contrario.",
+        "explicacion": "El suplicatorio debe aprobarse por mayoría simple en el plazo de 60 días; si transcurre ese plazo sin aprobarse, se entiende DESESTIMADO, no concedido. Es un requisito previo para que la Sala de lo Penal del Tribunal Supremo pueda enjuiciar penalmente al parlamentario.",
         "id": "tema-3-q17"
       },
       {
@@ -3282,7 +3282,7 @@ const TEMAS = [
           "Un empresario del sector privado"
         ],
         "correcta": 1,
-        "explicacion": "El art. 70 CE señala que no podrán ser diputados ni senadores, entre otros, los miembros de órganos constitucionales, militares profesionales, miembros de las Fuerzas y Cuerpos de Seguridad del Estado, jueces, fiscales, altos cargos de la Administración, secretarios de Estado y el Defensor del Pueblo.",
+        "explicacion": "El art. 70 CE excluye de ser diputado o senador, entre otros, a los miembros de órganos constitucionales (como el Defensor del Pueblo), militares profesionales, miembros de las Fuerzas y Cuerpos de Seguridad del Estado, jueces, fiscales, altos cargos de la Administración y secretarios de Estado. Un abogado, un docente universitario o un empresario privado, ajenos a esos colectivos, sí pueden serlo.",
         "id": "tema-3-q18"
       },
       {
@@ -3294,7 +3294,7 @@ const TEMAS = [
           "La potestad de planificar la actividad económica general a través del Consejo Económico y Social"
         ],
         "correcta": 0,
-        "explicacion": "El documento indica que las Cortes tienen potestad para crear tributos (art. 133) además de aprobar los presupuestos y autorizar la emisión de deuda pública.",
+        "explicacion": "El documento atribuye a las Cortes, dentro de la función financiera (art. 133 CE), la potestad para crear tributos. Además, aprueban los presupuestos, autorizan al Gobierno a emitir deuda pública y tienen iniciativa pública en la actividad económica mediante ley.",
         "id": "tema-3-q19"
       },
       {
@@ -3306,7 +3306,7 @@ const TEMAS = [
           "Es una función que ha desaparecido con el parlamentarismo racionalizado"
         ],
         "correcta": 1,
-        "explicacion": "El documento afirma literalmente que, siendo la titularidad de las Cámaras en su conjunto, \"el ejercicio real corresponde a la minoría\", es decir, a la oposición.",
+        "explicacion": "El documento señala literalmente que, aunque la titularidad de la función de control corresponde a las Cámaras en su conjunto, el ejercicio real corresponde a la minoría, es decir, a la oposición. Esto contrasta con la función legislativa, donde el principio mayoritario hace que las leyes reflejen la voluntad de las fuerzas mayoritarias.",
         "id": "tema-3-q20"
       },
       {
@@ -3318,7 +3318,7 @@ const TEMAS = [
           "Por mayoría cualificada de tres quintos en votación única"
         ],
         "correcta": 1,
-        "explicacion": "Los presidentes son elegidos por mayoría absoluta de las cámaras en una primera votación, y si no se obtuviera, por mayoría simple en una segunda votación.",
+        "explicacion": "Los presidentes de las cámaras se eligen por mayoría absoluta en una primera votación y, si no se obtiene, por mayoría simple en una segunda votación. Aunque suelen pertenecer a la mayoría, deben actuar con cierta imparcialidad porque cumplen y hacen cumplir el reglamento, interpretándolo en caso de duda.",
         "id": "tema-3-q21"
       },
       {
@@ -3330,7 +3330,7 @@ const TEMAS = [
           "Todo el año, sin periodos diferenciados"
         ],
         "correcta": 1,
-        "explicacion": "El art. 73.1 CE dispone que las cámaras se reúnen en dos periodos de sesiones ordinarias: de septiembre a diciembre y de febrero a junio.",
+        "explicacion": "El art. 73.1 CE fija dos periodos de sesiones ordinarias: de septiembre a diciembre y de febrero a junio. Enero, julio y agosto quedan fuera de esos periodos, cubiertos en su caso por sesiones extraordinarias o por la Diputación Permanente.",
         "id": "tema-3-q22"
       },
       {
@@ -3342,7 +3342,7 @@ const TEMAS = [
           "La presencia de todos los miembros de la cámara sin excepción"
         ],
         "correcta": 0,
-        "explicacion": "El art. 79.1 CE exige, para adoptar acuerdos, convocatoria específica, orden del día y quórum de asistencia igual a la mayoría de los miembros de la cámara.",
+        "explicacion": "El art. 79.1 CE exige, para adoptar acuerdos válidos, convocatoria específica, orden del día y un quórum de asistencia igual a la mayoría de los miembros de la cámara; no exige la presencia de todos ni un quórum de dos tercios o un tercio.",
         "id": "tema-3-q23"
       },
       {
@@ -3354,7 +3354,7 @@ const TEMAS = [
           "La aprobación de los presupuestos generales del Estado"
         ],
         "correcta": 1,
-        "explicacion": "El documento señala que, salvo para reforma constitucional, ley orgánica y reglamentos parlamentarios (que exigen mayoría cualificada), las decisiones se toman por mayoría simple.",
+        "explicacion": "Salvo para la reforma constitucional, la ley orgánica y los reglamentos parlamentarios —que exigen mayoría cualificada—, el resto de decisiones, incluidos los presupuestos, la investidura o una ley ordinaria, se adoptan por mayoría simple.",
         "id": "tema-3-q24"
       },
       {
@@ -3366,7 +3366,7 @@ const TEMAS = [
           "Un mínimo de 35 representantes"
         ],
         "correcta": 1,
-        "explicacion": "La Diputación Permanente asegura la continuidad institucional del Parlamento y su composición es de un mínimo de 21 representantes, proporcionales a la importancia numérica de los grupos parlamentarios.",
+        "explicacion": "La Diputación Permanente asegura la continuidad institucional del Parlamento cuando la cámara no está reunida (incluso disuelta o en vacaciones), y su composición mínima es de 21 representantes, proporcionales a la importancia numérica de los grupos parlamentarios.",
         "id": "tema-3-q25"
       },
       {
@@ -3378,7 +3378,7 @@ const TEMAS = [
           "Inglaterra y los Reinos españoles de la baja Edad Media"
         ],
         "correcta": 3,
-        "explicacion": "El texto sitúa el origen de las Cortes Generales en Inglaterra y los Reinos españoles de la baja Edad Media, a través de las Asambleas Medievales.",
+        "explicacion": "El documento sitúa el origen histórico de las Cortes Generales en Inglaterra y los Reinos españoles de la baja Edad Media, a través de las Asambleas Medievales, cuya composición inicial (nobles y clérigos) se amplió después a la burguesía con la Revolución Industrial.",
         "id": "tema-3-q26"
       },
       {
@@ -3390,7 +3390,7 @@ const TEMAS = [
           "Administrar justicia entre los nobles"
         ],
         "correcta": 0,
-        "explicacion": "Según el documento, nacieron principalmente con el objetivo de recaudar y así obtener la financiación suficiente para mantener la abultada e ineficiente estructura aristocrática.",
+        "explicacion": "Las Asambleas Medievales, precedentes de las Cortes Generales, nacieron principalmente para recaudar y así obtener financiación suficiente para mantener la abultada e ineficiente estructura aristocrática.",
         "id": "tema-3-q27"
       },
       {
@@ -3402,7 +3402,7 @@ const TEMAS = [
           "Título I"
         ],
         "correcta": 0,
-        "explicacion": "Las Cortes Generales se regulan en el Título III de la Constitución.",
+        "explicacion": "Las Cortes Generales se regulan en el Título III de la Constitución, situado entre la Corona (Título II) y el Gobierno (Título IV).",
         "id": "tema-3-q28"
       },
       {
@@ -3414,7 +3414,7 @@ const TEMAS = [
           "25 artículos (del 66 al 91)"
         ],
         "correcta": 2,
-        "explicacion": "El Título III abarca 30 artículos, del 66 al 96.",
+        "explicacion": "El Título III abarca 30 artículos, del 66 al 96, y se prefiere la rúbrica \"Cortes Generales\" a \"Poder Legislativo\" porque, entre otras razones, no agotan su actividad en esa función.",
         "id": "tema-3-q29"
       },
       {
@@ -3426,7 +3426,7 @@ const TEMAS = [
           "Artículo 66.1"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 66.1 CE establece el bicameralismo: Cortes Generales compuestas por Congreso y Senado.",
+        "explicacion": "El artículo 66.1 CE establece el bicameralismo: las Cortes Generales se componen del Congreso (cámara baja) y el Senado (cámara alta). Este bicameralismo se tacha de imperfecto porque el grueso de las funciones parlamentarias recae en el Congreso.",
         "id": "tema-3-q30"
       },
       {
@@ -3438,7 +3438,7 @@ const TEMAS = [
           "La reforma constitucional agravada del art. 168"
         ],
         "correcta": 2,
-        "explicacion": "El documento cita como competencias exclusivas del Congreso, sin participación del Senado, la autorización de referéndum (art. 92.2) y la intervención en estados excepcionales (art. 116).",
+        "explicacion": "El documento cita como competencias exclusivas del Congreso, sin participación del Senado, la autorización de referéndum (art. 92.2) y la intervención en los estados excepcionales (art. 116); en cambio, en decisiones conjuntas como la reforma agravada del art. 168 interviene también el Senado.",
         "id": "tema-3-q31"
       },
       {
@@ -3450,7 +3450,7 @@ const TEMAS = [
           "Ambas cámaras deben decidir por unanimidad"
         ],
         "correcta": 2,
-        "explicacion": "Tanto en el procedimiento agravado (art. 167) como en el simple, y en el art. 90.2, la voluntad del Congreso acaba prevaleciendo sobre la del Senado.",
+        "explicacion": "Tanto en el procedimiento de reforma constitucional (agravado y simple, art. 167) como en el art. 90.2, la voluntad del Congreso acaba siempre prevaleciendo sobre la del Senado; no es el Rey quien dirime el desacuerdo, ni se exige unanimidad.",
         "id": "tema-3-q32"
       },
       {
@@ -3462,7 +3462,7 @@ const TEMAS = [
           "La tradición romana del Senado"
         ],
         "correcta": 0,
-        "explicacion": "La razón principal fue la transición política: se creó el Senado para acoger las pretensiones territoriales en el debate constituyente y que todos los territorios tuvieran voz y voto.",
+        "explicacion": "La razón principal histórica de la bicameralidad es la transición política: se creó el Senado para acoger las pretensiones territoriales en el debate constituyente y que todos los territorios tuvieran voz y voto, aunque el documento señala que esto no se consiguió plenamente.",
         "id": "tema-3-q33"
       },
       {
@@ -3474,7 +3474,7 @@ const TEMAS = [
           "Artículo 70.1"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 68.1 CE determina la composición del Congreso.",
+        "explicacion": "El artículo 68.1 CE determina la composición del Congreso (entre 300 y 400 miembros). No lo confundas con el art. 66.1, que establece el bicameralismo, ni con el 69.1, referido al Senado.",
         "id": "tema-3-q34"
       },
       {
@@ -3486,7 +3486,7 @@ const TEMAS = [
           "La propia Constitución en su artículo 68.1"
         ],
         "correcta": 2,
-        "explicacion": "El artículo 68.1 CE fija un margen de 300 a 400 diputados; la LO 5/1985 (LOREG) concreta el número exacto en 350.",
+        "explicacion": "El artículo 68.1 CE solo fija un margen de 300 a 400 diputados; es la LO 5/1985 (LOREG) la que concreta el número exacto en 350.",
         "id": "tema-3-q35"
       },
       {
@@ -3498,7 +3498,7 @@ const TEMAS = [
           "Representación mínima para todas las provincias y sistema mayoritario a doble vuelta"
         ],
         "correcta": 1,
-        "explicacion": "La CE condiciona la composición del Congreso a que todas las provincias tengan representación mínima y a que el sistema electoral sea proporcional, excluyendo los sistemas mayoritarios.",
+        "explicacion": "La CE condiciona la composición del Congreso a que todas las provincias tengan representación mínima y a que el sistema electoral sea proporcional, excluyendo expresamente los sistemas mayoritarios; no exige distrito único ni voto obligatorio.",
         "id": "tema-3-q36"
       },
       {
@@ -3510,7 +3510,7 @@ const TEMAS = [
           "Tres diputados"
         ],
         "correcta": 2,
-        "explicacion": "El legislador electoral ha optado por que toda provincia tenga una representación mínima de dos diputados, con independencia de su población.",
+        "explicacion": "El legislador electoral ha optado por que toda provincia tenga una representación mínima de dos diputados, con independencia de su población. Ojo, no lo confundas con Ceuta y Melilla, que se quedan en un diputado cada una.",
         "id": "tema-3-q37"
       },
       {
@@ -3522,7 +3522,7 @@ const TEMAS = [
           "Tres diputados cada una"
         ],
         "correcta": 0,
-        "explicacion": "Para las ciudades autónomas de Ceuta y Melilla, la representación mínima queda restringida a un diputado cada una.",
+        "explicacion": "Para las ciudades autónomas de Ceuta y Melilla, la representación mínima queda restringida a un diputado cada una. Cuidado: en el Senado, en cambio, cada una elige 2 senadores.",
         "id": "tema-3-q38"
       },
       {
@@ -3534,7 +3534,7 @@ const TEMAS = [
           "Población total dividida entre 248"
         ],
         "correcta": 3,
-        "explicacion": "El documento recoge la fórmula: cuota de reparto = Población / 248.",
+        "explicacion": "El documento recoge la fórmula: cuota de reparto = Población / 248. A partir de esa cuota se calcula después el número de diputados de cada provincia, dividiendo su población entre la cuota.",
         "id": "tema-3-q39"
       },
       {
@@ -3546,7 +3546,7 @@ const TEMAS = [
           "Universal, libre, igual, directo y secreto"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 68.1 CE exige un sufragio universal, libre, igual, directo y secreto.",
+        "explicacion": "El artículo 68.1 CE exige un sufragio universal, libre, igual, directo y secreto. Ojo: aunque se le llama \"directo\", el propio documento matiza que no lo es tanto, porque las listas electorales son cerradas y bloqueadas.",
         "id": "tema-3-q40"
       },
       {
@@ -3558,7 +3558,7 @@ const TEMAS = [
           "Porque los diputados se eligen por sorteo entre los candidatos"
         ],
         "correcta": 0,
-        "explicacion": "El documento señala que el sistema directo no lo es tanto porque las listas son cerradas y bloqueadas, lo que ha generado críticas en los últimos años.",
+        "explicacion": "El documento señala que el carácter \"directo\" del sufragio no lo es tanto en la práctica porque las listas electorales son cerradas y bloqueadas, lo que ha generado críticas en los últimos años, aunque cambiarlo exigiría un cambio de cultura política.",
         "id": "tema-3-q41"
       },
       {
@@ -3570,7 +3570,7 @@ const TEMAS = [
           "Una circunscripción única nacional"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 68.2 CE establece que la circunscripción electoral es la provincia (Ceuta y Melilla representadas por un diputado cada una).",
+        "explicacion": "El artículo 68.2 CE establece que la circunscripción electoral del Congreso es la provincia (Ceuta y Melilla, representadas por un diputado cada una). No lo confundas con la Comunidad Autónoma, que no es circunscripción para el Congreso.",
         "id": "tema-3-q42"
       },
       {
@@ -3582,7 +3582,7 @@ const TEMAS = [
           "4 años"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 68.4 CE establece que el Congreso es elegido por 4 años.",
+        "explicacion": "El artículo 68.4 CE establece que el Congreso es elegido por 4 años, igual que el Senado (art. 69.6 CE).",
         "id": "tema-3-q43"
       },
       {
@@ -3594,7 +3594,7 @@ const TEMAS = [
           "Únicamente cuatro años después de su elección, sin excepción por disolución"
         ],
         "correcta": 2,
-        "explicacion": "El mandato de los diputados termina cuatro años después de su elección o el día de la disolución de la Cámara, lo que ocurra antes.",
+        "explicacion": "El mandato de los diputados termina cuatro años después de su elección o el día de la disolución de la Cámara, lo que ocurra antes; no hay plazo máximo distinto ni excepción que impida la disolución anticipada.",
         "id": "tema-3-q44"
       },
       {
@@ -3606,7 +3606,7 @@ const TEMAS = [
           "Entre 60 y 90 días"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 68.6 CE establece que las elecciones tendrán lugar entre los 30 y 60 días desde la terminación del mandato.",
+        "explicacion": "El artículo 68.6 CE establece que las elecciones tendrán lugar entre los 30 y 60 días desde la terminación del mandato. No lo confundas con el plazo de 25 días para convocar al Congreso ya electo tras la celebración de las elecciones.",
         "id": "tema-3-q45"
       },
       {
@@ -3618,7 +3618,7 @@ const TEMAS = [
           "Dentro de los 60 días siguientes"
         ],
         "correcta": 2,
-        "explicacion": "El Congreso electo deberá ser convocado dentro de los 25 días siguientes a la celebración de las elecciones.",
+        "explicacion": "El Congreso electo debe ser convocado dentro de los 25 días siguientes a la celebración de las elecciones. Ojo, no lo confundas con el plazo de 30 a 60 días del art. 68.6 CE, que es el que rige para celebrar las elecciones tras terminar el mandato.",
         "id": "tema-3-q46"
       },
       {
@@ -3630,7 +3630,7 @@ const TEMAS = [
           "Porque dos quintas partes de los senadores son elegidos por la Comunidad Autónoma a través de la Asamblea Legislativa"
         ],
         "correcta": 0,
-        "explicacion": "Solo una quinta parte de los senadores son elegidos por la CCAA (autonómicos); el resto se eligen por sus cuerpos electorales, esto es, por la provincia con criterio ideológico.",
+        "explicacion": "Solo una quinta parte de los senadores (los autonómicos) son elegidos por la Comunidad Autónoma a través de la Asamblea Legislativa; el resto se elige por sus cuerpos electorales, es decir, por la provincia, con criterio de representación ideológica de partidos.",
         "id": "tema-3-q47"
       },
       {
@@ -3642,7 +3642,7 @@ const TEMAS = [
           "El artículo 116 CE"
         ],
         "correcta": 0,
-        "explicacion": "El documento señala que las funciones del Senado no son de cámara territorial, a excepción del artículo 155 CE.",
+        "explicacion": "El artículo 155 CE es la excepción que señala el documento: es la única función atribuida por la CE al Senado que sí responde a su carácter de cámara territorial; el resto de sus funciones no tienen ese carácter.",
         "id": "tema-3-q48"
       },
       {
@@ -3654,7 +3654,7 @@ const TEMAS = [
           "Electos y designados por el Rey"
         ],
         "correcta": 0,
-        "explicacion": "De la composición del Senado se deducen dos tipos de senadores: autonómicos y provinciales o electos.",
+        "explicacion": "De la composición del Senado se deducen dos tipos de senadores: autonómicos (elegidos por las Asambleas Legislativas de las CCAA) y provinciales o electos (elegidos directamente en la provincia).",
         "id": "tema-3-q49"
       },
       {
@@ -3666,7 +3666,7 @@ const TEMAS = [
           "En proporción al número de provincias que integran la Comunidad Autónoma"
         ],
         "correcta": 1,
-        "explicacion": "Cada CCAA designa un senador por su Asamblea Legislativa, más otro por cada millón de habitantes.",
+        "explicacion": "Cada Comunidad Autónoma designa un senador por su Asamblea Legislativa, más otro senador adicional por cada millón de habitantes de su territorio. Al depender de la población, este número varía y no es fijo, a diferencia de los 209 senadores provinciales o electos.",
         "id": "tema-3-q50"
       },
       {
@@ -3678,7 +3678,7 @@ const TEMAS = [
           "El del último censo decenal"
         ],
         "correcta": 1,
-        "explicacion": "Se toma como referencia el censo de población publicado el 1 de enero del año en que se celebran las elecciones generales.",
+        "explicacion": "Se toma como referencia el censo de población publicado el 1 de enero del año en que se celebran las elecciones generales, ya que el número de senadores autonómicos varía al principio de cada legislatura según ese censo.",
         "id": "tema-3-q51"
       },
       {
@@ -3690,7 +3690,7 @@ const TEMAS = [
           "4"
         ],
         "correcta": 3,
-        "explicacion": "Cada provincia elige, con carácter general, 4 senadores.",
+        "explicacion": "Cada provincia peninsular elige, con carácter general, 4 senadores. Ojo, no lo confundas con las islas mayores (3), Ceuta y Melilla (2) o las islas menores (1), que tienen cifras distintas.",
         "id": "tema-3-q52"
       },
       {
@@ -3702,7 +3702,7 @@ const TEMAS = [
           "1 senador cada una"
         ],
         "correcta": 1,
-        "explicacion": "Las islas mayores (Gran Canaria, Mallorca y Tenerife) eligen 3 senadores cada una.",
+        "explicacion": "Las islas mayores (Gran Canaria, Mallorca y Tenerife) eligen 3 senadores cada una. Cuidado, no lo confundas con la regla general de las provincias peninsulares, que eligen 4.",
         "id": "tema-3-q53"
       },
       {
@@ -3714,7 +3714,7 @@ const TEMAS = [
           "4 senadores cada una"
         ],
         "correcta": 0,
-        "explicacion": "Ceuta y Melilla eligen 2 senadores cada una.",
+        "explicacion": "Ceuta y Melilla eligen 2 senadores cada una. Ojo, no lo confundas con el Congreso, donde Ceuta y Melilla solo tienen 1 diputado cada una.",
         "id": "tema-3-q54"
       },
       {
@@ -3726,7 +3726,7 @@ const TEMAS = [
           "4 senadores cada una"
         ],
         "correcta": 0,
-        "explicacion": "Las islas menores eligen 1 senador cada una.",
+        "explicacion": "Las islas menores eligen 1 senador cada una, la cifra más baja de todo el reparto de senadores provinciales (4 provincia, 3 isla mayor, 2 Ceuta y Melilla, 1 isla menor).",
         "id": "tema-3-q55"
       },
       {
@@ -3738,7 +3738,7 @@ const TEMAS = [
           "208"
         ],
         "correcta": 1,
-        "explicacion": "El número de senadores provinciales o electos alcanza los 209, según el documento.",
+        "explicacion": "El número de senadores provinciales o electos alcanza los 209, según el documento. Ojo, no lo confundas con los 350 diputados del Congreso ni con el número de senadores autonómicos, que es variable.",
         "id": "tema-3-q56"
       },
       {
@@ -3750,7 +3750,7 @@ const TEMAS = [
           "El municipio de mayor población de la isla"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 69.3 CE dispone que en las provincias insulares, cada isla o agrupación de ellas (con Cabildo o Consejo Insular) constituirá una circunscripción.",
+        "explicacion": "El artículo 69.3 CE dispone que en las provincias insulares cada isla o agrupación de islas, a través de su Cabildo o Consejo Insular, constituye una circunscripción propia para la elección de senadores.",
         "id": "tema-3-q57"
       },
       {
@@ -3762,7 +3762,7 @@ const TEMAS = [
           "A la Asamblea Legislativa de la Comunidad Autónoma"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 69.5 CE atribuye la designación a la Asamblea Legislativa (o, en su defecto, al órgano colegiado superior de la CA).",
+        "explicacion": "El artículo 69.5 CE atribuye la designación de los senadores autonómicos a la Asamblea Legislativa de la Comunidad Autónoma (o, en su defecto, a su órgano colegiado superior), de acuerdo con los estatutos y asegurando representación proporcional.",
         "id": "tema-3-q58"
       },
       {
@@ -3774,7 +3774,7 @@ const TEMAS = [
           "3 años"
         ],
         "correcta": 2,
-        "explicacion": "El artículo 69.6 CE establece que el Senado es elegido por 4 años, terminando el mandato de los senadores a los 4 años o el día de la disolución de la Cámara.",
+        "explicacion": "El artículo 69.6 CE establece que el Senado es elegido por 4 años, igual que el Congreso (art. 68.4 CE), terminando el mandato de los senadores a los 4 años de su elección o el día de la disolución de la Cámara.",
         "id": "tema-3-q59"
       },
       {
@@ -3786,7 +3786,7 @@ const TEMAS = [
           "Desde el 19 de mayo de 2025"
         ],
         "correcta": 2,
-        "explicacion": "El documento señala que desde el 19 de mayo de 2026, por la cuarta reforma constitucional, Formentera puede elegir senador propio sin agruparse con Ibiza.",
+        "explicacion": "La cuarta reforma constitucional produce efectos desde el 19 de mayo de 2026, según el documento, y afecta al artículo 69.3 CE para que Formentera pueda elegir senador propio.",
         "id": "tema-3-q60"
       },
       {
@@ -3798,7 +3798,7 @@ const TEMAS = [
           "Formentera elige dos senadores propios en lugar de uno"
         ],
         "correcta": 1,
-        "explicacion": "Formentera es ahora una circunscripción electoral propia para la elección de un representante en el Senado, sin agruparse con Ibiza como antes.",
+        "explicacion": "Formentera pasa a ser una circunscripción electoral propia para elegir un senador, sin agruparse ya con Ibiza como ocurría antes de la cuarta reforma constitucional que afecta al art. 69.3 CE.",
         "id": "tema-3-q61"
       },
       {
@@ -3810,7 +3810,7 @@ const TEMAS = [
           "Es posible siempre que se pertenezca al mismo grupo parlamentario"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 67.1 CE establece que no es posible acumular el acta de ambas cámaras al mismo tiempo.",
+        "explicacion": "El artículo 67.1 CE establece que no es posible acumular el acta de ambas cámaras al mismo tiempo; esta incompatibilidad no depende de una autorización de la Mesa ni se limita a la Diputación Permanente.",
         "id": "tema-3-q62"
       },
       {
@@ -3822,7 +3822,7 @@ const TEMAS = [
           "Que los parlamentarios deben votar siempre en el sentido que indique su partido"
         ],
         "correcta": 1,
-        "explicacion": "El mandato no es imperativo: los parlamentarios no pueden recibir instrucciones ni de los electores ni de los partidos, sin perjuicio del voto en bloque.",
+        "explicacion": "Que el mandato no sea imperativo implica que los parlamentarios no pueden recibir instrucciones ni de los electores ni de los partidos, sin perjuicio de que, en la práctica, los diputados y senadores de un mismo partido voten en bloque.",
         "id": "tema-3-q63"
       },
       {
@@ -3834,7 +3834,7 @@ const TEMAS = [
           "Las opiniones y votos emitidos en el ejercicio de la función parlamentaria"
         ],
         "correcta": 3,
-        "explicacion": "La inviolabilidad protege las opiniones y votos de los parlamentarios en el ejercicio de su función.",
+        "explicacion": "La inviolabilidad (art. 71.1 CE) protege las opiniones y votos emitidos en el ejercicio de la función parlamentaria; la jurisprudencia extiende esa protección también a los escritos parlamentarios y a la reproducción literal de esos actos.",
         "id": "tema-3-q64"
       },
       {
@@ -3846,7 +3846,7 @@ const TEMAS = [
           "En caso de flagrante delito"
         ],
         "correcta": 3,
-        "explicacion": "El parlamentario sólo podrá ser detenido en caso de flagrante delito.",
+        "explicacion": "El parlamentario solo puede ser detenido en caso de flagrante delito. Fuera de ese supuesto, la inmunidad (art. 71.2 CE) exige el suplicatorio previo a la cámara respectiva antes de cualquier procesamiento.",
         "id": "tema-3-q65"
       },
       {
@@ -3858,7 +3858,7 @@ const TEMAS = [
           "La Audiencia Nacional"
         ],
         "correcta": 2,
-        "explicacion": "El enjuiciamiento penal de un parlamentario corresponde a la Sala de lo Penal del Tribunal Supremo, previo suplicatorio.",
+        "explicacion": "El enjuiciamiento penal de un parlamentario corresponde a la Sala de lo Penal del Tribunal Supremo, previo suplicatorio a la cámara respectiva, que debe aprobarse por mayoría simple en el plazo de 60 días.",
         "id": "tema-3-q66"
       },
       {
@@ -3870,7 +3870,7 @@ const TEMAS = [
           "La comparecencia"
         ],
         "correcta": 0,
-        "explicacion": "Se exige el suplicatorio, que la cámara respectiva debe aprobar antes del enjuiciamiento.",
+        "explicacion": "El trámite previo exigido es el suplicatorio, que la cámara respectiva debe aprobar por mayoría simple en el plazo de 60 días; si no se aprueba en ese plazo, se entiende desestimado.",
         "id": "tema-3-q67"
       },
       {
@@ -3882,7 +3882,7 @@ const TEMAS = [
           "30 días"
         ],
         "correcta": 2,
-        "explicacion": "El suplicatorio debe aprobarse por mayoría simple en el plazo de 60 días; si no, se entiende desestimado.",
+        "explicacion": "El suplicatorio debe aprobarse por mayoría simple en el plazo de 60 días; si transcurre ese plazo sin aprobarse, se entiende DESESTIMADO, no concedido.",
         "id": "tema-3-q68"
       },
       {
@@ -3894,7 +3894,7 @@ const TEMAS = [
           "El Tribunal de Cuentas"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 71.4 CE atribuye la fijación de retribuciones a las propias cámaras, sin intervención del Gobierno, en virtud del principio de autonomía.",
+        "explicacion": "El artículo 71.4 CE atribuye a las propias cámaras, sin intervención del Gobierno, la fijación de las retribuciones de los parlamentarios, en virtud del principio de autonomía que preside su actuación; estarán a cargo de los presupuestos generales.",
         "id": "tema-3-q69"
       },
       {
@@ -3906,7 +3906,7 @@ const TEMAS = [
           "Un empresario del sector privado"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 70 CE señala que no podrán ser diputados ni senadores, entre otros, los jueces, fiscales, militares profesionales, miembros de las FCSE, altos cargos de la Administración, secretarios de Estado y el Defensor del Pueblo.",
+        "explicacion": "El artículo 70 CE excluye de ser diputado o senador a los jueces en activo, junto con fiscales, militares profesionales, miembros de las Fuerzas y Cuerpos de Seguridad del Estado, altos cargos de la Administración, secretarios de Estado y el Defensor del Pueblo. Un profesor universitario, un periodista o un empresario privado, ajenos a esos colectivos, sí pueden serlo.",
         "id": "tema-3-q70"
       },
       {
@@ -3918,7 +3918,7 @@ const TEMAS = [
           "Ejercer la potestad reglamentaria y controlar al Tribunal Constitucional"
         ],
         "correcta": 2,
-        "explicacion": "El artículo 66 CE atribuye a las Cortes Generales el ejercicio de la potestad legislativa del Estado, la aprobación de los presupuestos y el control de la acción del Gobierno.",
+        "explicacion": "El artículo 66 CE atribuye a las Cortes Generales el ejercicio de la potestad legislativa del Estado, la aprobación de los presupuestos, el control de la acción del Gobierno y las demás competencias que les atribuya la Constitución.",
         "id": "tema-3-q71"
       },
       {
@@ -3930,7 +3930,7 @@ const TEMAS = [
           "La función financiera"
         ],
         "correcta": 2,
-        "explicacion": "El documento califica la función legislativa como la más importante de las Cortes Generales.",
+        "explicacion": "El documento califica la función legislativa como la más importante de las Cortes Generales, por delante de la función financiera/presupuestaria y de la función de control.",
         "id": "tema-3-q72"
       },
       {
@@ -3942,7 +3942,7 @@ const TEMAS = [
           "Propuesta, veto y promulgación"
         ],
         "correcta": 1,
-        "explicacion": "La función legislativa se concreta en la iniciativa (proyectos y proposiciones de ley), tramitación y aprobación de leyes.",
+        "explicacion": "La función legislativa se concreta en la iniciativa (tanto de proyectos como de proposiciones de ley), la tramitación y la aprobación de las leyes. No debe confundirse con la publicación o derogación, que son fases distintas del ciclo de una norma.",
         "id": "tema-3-q73"
       },
       {
@@ -3954,7 +3954,7 @@ const TEMAS = [
           "Promulgarlos junto con el Rey"
         ],
         "correcta": 1,
-        "explicacion": "El Congreso convalida o deroga los decretos-leyes aprobados por el Gobierno.",
+        "explicacion": "El Congreso convalida o deroga los decretos-leyes aprobados por el Gobierno; esta potestad legislativa gubernamental está limitada y sometida, en todo caso, a esa ulterior convalidación del Congreso.",
         "id": "tema-3-q74"
       },
       {
@@ -3966,7 +3966,7 @@ const TEMAS = [
           "Artículo 133"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 133 CE atribuye la potestad para crear tributos, mencionada en la función financiera de las Cortes.",
+        "explicacion": "El artículo 133 CE atribuye a las Cortes la potestad para crear tributos, dentro de la función financiera/presupuestaria, que también incluye aprobar los presupuestos y autorizar al Gobierno a emitir deuda pública.",
         "id": "tema-3-q75"
       },
       {
@@ -3978,7 +3978,7 @@ const TEMAS = [
           "De la confianza del Congreso de los Diputados"
         ],
         "correcta": 3,
-        "explicacion": "El Gobierno nace, en última instancia, de la confianza del Congreso de los Diputados (art. 99 CE), confianza que debe mantener durante su gestión (art. 108 CE).",
+        "explicacion": "El Gobierno nace, en última instancia, de la confianza del Congreso de los Diputados (art. 99 CE), confianza que debe mantener durante su gestión y que puede otorgarse o retirarse mediante una moción; el Senado no interviene en esta relación de confianza.",
         "id": "tema-3-q76"
       },
       {
@@ -3990,7 +3990,7 @@ const TEMAS = [
           "El Congreso de los Diputados"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 108 CE establece que el Gobierno responde solidariamente de su gestión política ante el Congreso de los Diputados.",
+        "explicacion": "El artículo 108 CE establece que el Gobierno responde solidariamente de su gestión política ante el Congreso de los Diputados, no ante el Senado ni ante las Cortes en sesión conjunta.",
         "id": "tema-3-q77"
       },
       {
@@ -4002,7 +4002,7 @@ const TEMAS = [
           "Publicidad y secreto"
         ],
         "correcta": 0,
-        "explicacion": "El funcionamiento de las Cortes queda presidido por los principios de autonomía y autonormación.",
+        "explicacion": "El funcionamiento de las Cortes Generales queda presidido por los principios de autonomía y autonormación: son las propias cámaras las que aprueban sus reglamentos, solo controlables por el Tribunal Constitucional mediante recurso de inconstitucionalidad.",
         "id": "tema-3-q78"
       },
       {
@@ -4014,7 +4014,7 @@ const TEMAS = [
           "De junio a septiembre"
         ],
         "correcta": 1,
-        "explicacion": "El primer periodo de sesiones ordinarias va de septiembre a diciembre (art. 73.1 CE).",
+        "explicacion": "El primer periodo de sesiones ordinarias va de septiembre a diciembre (art. 73.1 CE); el segundo, de febrero a junio, dejando enero, julio y agosto fuera del funcionamiento ordinario de las cámaras.",
         "id": "tema-3-q79"
       },
       {
@@ -4026,7 +4026,7 @@ const TEMAS = [
           "Cualquier grupo parlamentario, sin necesidad de mayoría"
         ],
         "correcta": 1,
-        "explicacion": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de cualquiera de las cámaras (art. 73.2 CE).",
+        "explicacion": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de cualquiera de las cámaras (art. 73.2 CE); un grupo parlamentario aislado, sin mayoría, no puede solicitarlas.",
         "id": "tema-3-q80"
       },
       {
@@ -4038,7 +4038,7 @@ const TEMAS = [
           "Convocatoria genérica, unanimidad y publicidad"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 79.1 CE exige convocatoria específica, orden del día y quorum de asistencia igual a la mayoría de los miembros de la cámara.",
+        "explicacion": "El artículo 79.1 CE exige, para que las cámaras adopten acuerdos válidos, convocatoria específica, orden del día y quórum de asistencia igual a la mayoría de los miembros de la cámara; no exige mayoría de dos tercios ni sanción real.",
         "id": "tema-3-q81"
       },
       {
@@ -4050,7 +4050,7 @@ const TEMAS = [
           "Unanimidad"
         ],
         "correcta": 0,
-        "explicacion": "Por regla general, los acuerdos se adoptan por mayoría simple (la presente de la cámara), salvo los casos de mayoría cualificada.",
+        "explicacion": "Por regla general, los acuerdos de las cámaras se adoptan por mayoría simple (de los presentes), salvo los casos que exigen mayoría cualificada: reforma constitucional, ley orgánica y reglamentos parlamentarios.",
         "id": "tema-3-q82"
       },
       {
@@ -4062,7 +4062,7 @@ const TEMAS = [
           "La aprobación de una interpelación"
         ],
         "correcta": 1,
-        "explicacion": "Exigen mayoría cualificada la reforma constitucional, la Ley Orgánica y los reglamentos parlamentarios.",
+        "explicacion": "Exigen mayoría cualificada, en lugar de la mayoría simple general, la reforma constitucional, la Ley Orgánica y los reglamentos parlamentarios; la aprobación de una ley ordinaria o la convalidación de un decreto-ley se hacen por mayoría simple.",
         "id": "tema-3-q83"
       },
       {
@@ -4074,7 +4074,7 @@ const TEMAS = [
           "Sí, salvo que por mayoría absoluta se disponga lo contrario"
         ],
         "correcta": 3,
-        "explicacion": "Las sesiones plenarias son públicas, salvo que por mayoría absoluta se disponga lo contrario.",
+        "explicacion": "Las sesiones plenarias son públicas, salvo que por mayoría absoluta se disponga lo contrario; esta regla se aplica por igual al Congreso y al Senado, no solo a una de las dos cámaras.",
         "id": "tema-3-q84"
       },
       {
@@ -4086,7 +4086,7 @@ const TEMAS = [
           "Por mayoría absoluta en primera votación y, si no se obtiene, por mayoría simple en segunda votación"
         ],
         "correcta": 3,
-        "explicacion": "El Presidente se elige por mayoría absoluta en primera votación y, si no se obtiene, por mayoría simple en segunda votación.",
+        "explicacion": "El Presidente de cada Cámara se elige por mayoría absoluta en primera votación y, si no se obtiene, por mayoría simple en segunda votación. No hay designación real ni sorteo: los acuerdos ordinarios de la cámara, en cambio, se adoptan por mayoría simple directamente.",
         "id": "tema-3-q85"
       },
       {
@@ -4098,7 +4098,7 @@ const TEMAS = [
           "La Mesa"
         ],
         "correcta": 3,
-        "explicacion": "La Mesa es el órgano colegiado formado por el Presidente de la Cámara, los Vicepresidentes y los Secretarios.",
+        "explicacion": "La Mesa es el órgano colegiado formado por el presidente de la cámara, los vicepresidentes y los secretarios. No la confundas con la Junta de Portavoces, que reúne a los portavoces de los grupos parlamentarios bajo la presidencia del presidente de la cámara.",
         "id": "tema-3-q86"
       },
       {
@@ -4110,7 +4110,7 @@ const TEMAS = [
           "3"
         ],
         "correcta": 1,
-        "explicacion": "La Mesa del Congreso cuenta con 4 vicepresidentes.",
+        "explicacion": "La Mesa del Congreso cuenta con 4 vicepresidentes. Ojo: la Mesa del Senado solo tiene 2, aunque ambas cámaras coinciden en tener 4 secretarios.",
         "id": "tema-3-q87"
       },
       {
@@ -4122,7 +4122,7 @@ const TEMAS = [
           "1"
         ],
         "correcta": 1,
-        "explicacion": "La Mesa del Senado cuenta con 2 vicepresidentes, a diferencia de los 4 del Congreso.",
+        "explicacion": "Cuidado, no lo confundas con el Congreso: la Mesa del Senado tiene 2 vicepresidentes, frente a los 4 del Congreso. Los secretarios, en cambio, son 4 en ambas cámaras.",
         "id": "tema-3-q88"
       },
       {
@@ -4134,7 +4134,7 @@ const TEMAS = [
           "Declarar la guerra"
         ],
         "correcta": 1,
-        "explicacion": "Entre las funciones de la Mesa están ordenar los trabajos, elaborar los calendarios, ordenar los pagos y fijar las asignaciones presupuestarias.",
+        "explicacion": "Entre las funciones de la Mesa están ordenar los trabajos, elaborar los calendarios, ordenar los pagos y fijar las asignaciones presupuestarias; no le corresponde otorgar la confianza al Gobierno ni convalidar decretos-leyes, funciones del Pleno.",
         "id": "tema-3-q89"
       },
       {
@@ -4146,7 +4146,7 @@ const TEMAS = [
           "La Mesa"
         ],
         "correcta": 2,
-        "explicacion": "La Junta de Portavoces reúne a los portavoces de los grupos parlamentarios bajo la presidencia del Presidente de la cámara.",
+        "explicacion": "La Junta de Portavoces reúne a los portavoces de los grupos parlamentarios bajo la presidencia del presidente de la cámara; a sus reuniones puede asistir un miembro del Gobierno, con voz pero sin voto.",
         "id": "tema-3-q90"
       },
       {
@@ -4158,7 +4158,7 @@ const TEMAS = [
           "La sustitución del Pleno en todas las votaciones"
         ],
         "correcta": 0,
-        "explicacion": "La razón de ser de las comisiones parlamentarias es la división del trabajo parlamentario.",
+        "explicacion": "La razón de ser de las comisiones parlamentarias es la división del trabajo parlamentario. Pueden ser permanentes (legislativas y no legislativas) o no permanentes, como las comisiones de investigación.",
         "id": "tema-3-q91"
       },
       {
@@ -4170,7 +4170,7 @@ const TEMAS = [
           "De lo que decida el Rey"
         ],
         "correcta": 2,
-        "explicacion": "El número y denominación de las comisiones legislativas permanentes varía cada legislatura en función de los Departamentos Ministeriales existentes.",
+        "explicacion": "El número y la denominación de las comisiones legislativas permanentes varía cada legislatura en función de los Departamentos Ministeriales existentes, no del número de diputados electos ni de los grupos parlamentarios.",
         "id": "tema-3-q92"
       },
       {
@@ -4182,7 +4182,7 @@ const TEMAS = [
           "La Comisión General de las CCAA"
         ],
         "correcta": 2,
-        "explicacion": "Dentro de las comisiones no permanentes, las más importantes son las comisiones de investigación, creadas para un asunto concreto.",
+        "explicacion": "Dentro de las comisiones no permanentes, las más importantes son las comisiones de investigación, creadas para un asunto concreto. La Diputación Permanente y las comisiones legislativas, en cambio, son órganos o comisiones de carácter permanente.",
         "id": "tema-3-q93"
       },
       {
@@ -4194,7 +4194,7 @@ const TEMAS = [
           "Se transforman automáticamente en comisiones permanentes"
         ],
         "correcta": 0,
-        "explicacion": "Al ser creadas para un asunto concreto, las comisiones de investigación se extinguen tras su finalización (art. 51 Reglamento del Congreso).",
+        "explicacion": "Al ser creadas para un asunto concreto, las comisiones de investigación se extinguen tras su finalización, conforme al artículo 51 del Reglamento del Congreso; no se transforman en permanentes ni pasan a depender de la Diputación Permanente.",
         "id": "tema-3-q94"
       },
       {
@@ -4206,7 +4206,7 @@ const TEMAS = [
           "Al Presidente de la Cámara, sin necesidad de audiencia previa"
         ],
         "correcta": 0,
-        "explicacion": "La creación de otras comisiones no permanentes corresponde a la Mesa, previa audiencia de la Junta de Portavoces.",
+        "explicacion": "La creación de otras comisiones no permanentes, distintas de las de investigación, corresponde a la Mesa, previa audiencia de la Junta de Portavoces; no al Gobierno, ni al Pleno, ni al Presidente de forma unilateral.",
         "id": "tema-3-q95"
       },
       {
@@ -4218,7 +4218,7 @@ const TEMAS = [
           "Fijar las retribuciones de los parlamentarios"
         ],
         "correcta": 2,
-        "explicacion": "La Diputación Permanente asegura la continuidad institucional del Parlamento y vela por sus atribuciones cuando éste no está reunido.",
+        "explicacion": "La razón de ser de la Diputación Permanente es asegurar la continuidad institucional del Parlamento y velar por sus atribuciones cuando la cámara no está reunida, incluso cuando está disuelta o en vacaciones.",
         "id": "tema-3-q96"
       },
       {
@@ -4230,7 +4230,7 @@ const TEMAS = [
           "30 representantes"
         ],
         "correcta": 1,
-        "explicacion": "La Diputación Permanente tiene una composición mínima de 21 representantes de los grupos parlamentarios, en proporción a su importancia numérica.",
+        "explicacion": "La Diputación Permanente tiene una composición mínima de 21 representantes de los grupos parlamentarios, en proporción a su importancia numérica, la misma cifra mínima que exige el documento para este órgano.",
         "id": "tema-3-q97"
       },
       {
@@ -4242,7 +4242,7 @@ const TEMAS = [
           "Artículo 99"
         ],
         "correcta": 2,
-        "explicacion": "El artículo 110.1 CE permite obligar a los miembros del Gobierno a comparecer ante las Cámaras.",
+        "explicacion": "El artículo 110.1 CE permite obligar a los miembros del Gobierno a comparecer ante las Cámaras; junto a ello, el art. 111.1 regula preguntas e interpelaciones y el art. 109 la obligación de facilitar información a los diputados.",
         "id": "tema-3-q98"
       },
       {
@@ -4254,7 +4254,7 @@ const TEMAS = [
           "Una interpelación"
         ],
         "correcta": 2,
-        "explicacion": "Las cámaras pueden otorgar su confianza al Gobierno o retirársela por medio de una moción.",
+        "explicacion": "Las cámaras pueden otorgar su confianza al Gobierno o retirársela por medio de una moción; la comparecencia y la interpelación son, en cambio, instrumentos de control, no de otorgamiento o retirada de la confianza.",
         "id": "tema-3-q99"
       },
       {
@@ -4266,7 +4266,7 @@ const TEMAS = [
           "La potestad legislativa ordinaria"
         ],
         "correcta": 0,
-        "explicacion": "Entre las competencias no clasificables, el documento cita, a modo de ejemplo, la potestad para declarar la guerra.",
+        "explicacion": "Entre las competencias \"no clasificables\" que cita el documento, a modo de ejemplo, está la potestad para declarar la guerra, junto con la autorización de referéndum consultivo, la aprobación de la inhabilitación real o el nombramiento de altos cargos de la administración de justicia.",
         "id": "tema-3-q100"
       },
       {
@@ -4278,7 +4278,7 @@ const TEMAS = [
           "El Congreso tiene competencia exclusiva para autorizar la convocatoria de referéndum"
         ],
         "correcta": 1,
-        "explicacion": "Es al revés: es el Congreso, no el Senado, quien tiene competencia exclusiva en estados excepcionales (art. 116) y en la autorización de referéndum (art. 92.2); el Senado no interviene en estas decisiones.",
+        "explicacion": "Es al revés: es el Congreso, no el Senado, quien tiene competencia exclusiva en estados excepcionales (art. 116) y en la autorización de referéndum (art. 92.2); el Senado no interviene en esas decisiones. El bicameralismo se considera imperfecto precisamente porque el grueso de las funciones recae en el Congreso.",
         "nivel": "avanzado",
         "id": "tema-3-q101"
       },
@@ -4291,7 +4291,7 @@ const TEMAS = [
           "El Congreso tiene 350 diputados (LO 5/1985) y los senadores provinciales o electos alcanzan los 209"
         ],
         "correcta": 3,
-        "explicacion": "El Congreso tiene 350 diputados por la LO 5/1985, y los senadores provinciales o electos alcanzan los 209 (a los que se suman los autonómicos, de número variable).",
+        "explicacion": "El Congreso tiene 350 diputados por la LO 5/1985 (LOREG), y los senadores provinciales o electos alcanzan los 209, a los que se suman los senadores autonómicos, de número variable según la población de cada Comunidad Autónoma.",
         "nivel": "avanzado",
         "id": "tema-3-q102"
       },
@@ -4304,7 +4304,7 @@ const TEMAS = [
           "No es posible acumular el acta de diputado y senador al mismo tiempo (art. 67.1)"
         ],
         "correcta": 1,
-        "explicacion": "El mandato representativo NO es un mandato imperativo: los parlamentarios no pueden recibir instrucciones ni de los electores ni de los partidos.",
+        "explicacion": "El mandato representativo NO es un mandato imperativo: los parlamentarios no pueden recibir instrucciones ni de los electores ni de los partidos, aunque en la práctica voten en bloque. El resto de afirmaciones (duración de 4 años, irrevocabilidad, prohibición de acumular actas) son correctas.",
         "nivel": "avanzado",
         "id": "tema-3-q103"
       },
@@ -4317,7 +4317,7 @@ const TEMAS = [
           "El plazo para aprobar el suplicatorio es de 30 días, transcurridos los cuales se entiende concedido"
         ],
         "correcta": 3,
-        "explicacion": "El plazo real es de 60 días, y si no se aprueba en ese plazo el suplicatorio se entiende DESESTIMADO, no concedido.",
+        "explicacion": "El plazo real es de 60 días, no 30, y si el suplicatorio no se aprueba en ese plazo se entiende DESESTIMADO, no concedido; el resto de datos (mayoría simple, flagrante delito, competencia de la Sala de lo Penal del TS) son correctos.",
         "nivel": "avanzado",
         "id": "tema-3-q104"
       },
@@ -4330,7 +4330,7 @@ const TEMAS = [
           "4 por provincia peninsular, 2 por isla mayor, 3 por Ceuta y Melilla, 1 por isla menor"
         ],
         "correcta": 0,
-        "explicacion": "La combinación correcta es 4 por provincia, 3 por isla mayor (GC, Mallorca, Tenerife), 2 por Ceuta y Melilla, y 1 por isla menor.",
+        "explicacion": "La combinación correcta es 4 senadores por provincia peninsular, 3 por isla mayor (Gran Canaria, Mallorca y Tenerife), 2 por Ceuta y Melilla, y 1 por isla menor; el orden decreciente (4-3-2-1) ayuda a fijarlo.",
         "nivel": "avanzado",
         "id": "tema-3-q105"
       },
@@ -4343,7 +4343,7 @@ const TEMAS = [
           "Una vez elegidos, los senadores quedan ligados al grupo parlamentario, perdiendo su carácter territorial"
         ],
         "correcta": 1,
-        "explicacion": "Es falso que todos los senadores sean elegidos por las CCAA: solo una quinta parte lo son (los autonómicos); el resto son provinciales o electos.",
+        "explicacion": "Es falso que todos los senadores sean elegidos directamente por las Comunidades Autónomas: solo una quinta parte lo son (los autonómicos); el resto, la mayoría, son senadores provinciales o electos, elegidos en la provincia por criterio ideológico de partidos.",
         "nivel": "avanzado",
         "id": "tema-3-q106"
       },
@@ -4356,7 +4356,7 @@ const TEMAS = [
           "Debe aprobarse por mayoría simple en el plazo de 60 días, entendiéndose desestimado si no se aprueba en ese plazo"
         ],
         "correcta": 3,
-        "explicacion": "El suplicatorio debe aprobarse por mayoría simple en el plazo de 60 días; transcurrido ese plazo sin aprobación, se entiende desestimado.",
+        "explicacion": "El suplicatorio debe aprobarse por mayoría simple en el plazo de 60 días, entendiéndose desestimado si no se aprueba en ese plazo; no se exige mayoría absoluta ni de tres quintos, y el plazo sí existe y está tasado.",
         "nivel": "avanzado",
         "id": "tema-3-q107"
       },
@@ -4369,7 +4369,7 @@ const TEMAS = [
           "Los reglamentos parlamentarios exigen mayoría cualificada para su aprobación"
         ],
         "correcta": 2,
-        "explicacion": "La ley ordinaria se aprueba por mayoría simple, no cualificada; la mayoría cualificada se reserva a reforma constitucional, Ley Orgánica y reglamentos parlamentarios.",
+        "explicacion": "Cuidado: la ley ordinaria se aprueba por mayoría simple, no cualificada; la mayoría cualificada se reserva a la reforma constitucional, la Ley Orgánica y los reglamentos parlamentarios, y los periodos de sesiones ordinarias son correctamente septiembre-diciembre y febrero-junio.",
         "nivel": "avanzado",
         "id": "tema-3-q108"
       },
@@ -4382,7 +4382,7 @@ const TEMAS = [
           "El Presidente se elige por mayoría absoluta en primera votación y por mayoría simple en segunda votación, mientras que los acuerdos ordinarios se adoptan por mayoría simple de los presentes"
         ],
         "correcta": 3,
-        "explicacion": "El Presidente requiere mayoría absoluta en primera votación (mayoría simple en segunda); los acuerdos ordinarios se adoptan, por regla general, por mayoría simple de los presentes.",
+        "explicacion": "El Presidente requiere mayoría absoluta en primera votación (mayoría simple si no se logra en la segunda); los acuerdos ordinarios de la cámara, en cambio, se adoptan directamente por mayoría simple de los presentes, sin ese sistema de doble votación.",
         "nivel": "avanzado",
         "id": "tema-3-q109"
       },
@@ -4395,7 +4395,7 @@ const TEMAS = [
           "El Congreso y el Senado tienen el mismo número de Vicepresidentes en su Mesa"
         ],
         "correcta": 3,
-        "explicacion": "El Congreso tiene 4 vicepresidentes en su Mesa y el Senado sólo 2; no coinciden en número.",
+        "explicacion": "Al revés: el Congreso tiene 4 vicepresidentes en su Mesa y el Senado solo 2, así que NO coinciden en número. Los secretarios sí son 4 en ambas cámaras, y la Mesa se completa siempre con el presidente de la cámara respectiva.",
         "nivel": "avanzado",
         "id": "tema-3-q110"
       },
@@ -4408,7 +4408,7 @@ const TEMAS = [
           "Orden del día"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 79.1 CE exige convocatoria específica, orden del día y quorum de la mayoría de los miembros; no exige mayoría de dos tercios con carácter general.",
+        "explicacion": "El artículo 79.1 CE exige convocatoria específica, orden del día y quórum de asistencia igual a la mayoría de los miembros de la cámara; no exige, con carácter general, una mayoría de dos tercios de los presentes.",
         "nivel": "avanzado",
         "id": "tema-3-q111"
       },
@@ -4421,7 +4421,7 @@ const TEMAS = [
           "El número de comisiones legislativas permanentes varía en función de los Departamentos Ministeriales"
         ],
         "correcta": 1,
-        "explicacion": "Las comisiones de investigación son no permanentes: se crean para un asunto concreto y se extinguen tras su finalización (art. 51 Reglamento del Congreso).",
+        "explicacion": "Al revés: las comisiones de investigación son precisamente NO permanentes, se crean para un asunto concreto y se extinguen tras su finalización (art. 51 Reglamento del Congreso); las que sí varían según los Ministerios cada legislatura son las comisiones legislativas permanentes.",
         "nivel": "avanzado",
         "id": "tema-3-q112"
       },
@@ -4434,7 +4434,7 @@ const TEMAS = [
           "Sustituye de forma permanente al Pleno de la Cámara en todas sus funciones"
         ],
         "correcta": 1,
-        "explicacion": "La Diputación Permanente tiene un mínimo de 21 representantes y actúa cuando la cámara no está reunida, incluso disuelta o en vacaciones.",
+        "explicacion": "La Diputación Permanente tiene un mínimo de 21 representantes y actúa precisamente cuando la cámara no está reunida, incluso disuelta o en vacaciones; no se limita al periodo de sesiones ordinarias ni sustituye al Pleno en todas sus funciones.",
         "nivel": "avanzado",
         "id": "tema-3-q113"
       },
@@ -4447,7 +4447,7 @@ const TEMAS = [
           "El número de senadores autonómicos varía según la población, mientras que los provinciales o electos alcanzan un total fijo de 209"
         ],
         "correcta": 3,
-        "explicacion": "Los senadores autonómicos varían con la población de cada CCAA al inicio de cada legislatura, mientras que los provinciales o electos suman 209, número fijo según el documento.",
+        "explicacion": "El número de senadores autonómicos varía con la población de cada Comunidad Autónoma al inicio de cada legislatura (según el censo del 1 de enero del año electoral), mientras que los senadores provinciales o electos suman un total fijo de 209, según el documento.",
         "nivel": "avanzado",
         "id": "tema-3-q114"
       },
@@ -4460,7 +4460,7 @@ const TEMAS = [
           "El mandato de los diputados finaliza a los 4 años o el día de la disolución de la Cámara"
         ],
         "correcta": 2,
-        "explicacion": "La circunscripción electoral del Congreso es la PROVINCIA (art. 68.2 CE), no la Comunidad Autónoma.",
+        "explicacion": "Al revés: la circunscripción electoral del Congreso es la PROVINCIA (art. 68.2 CE), no la Comunidad Autónoma. El resto de datos sobre el Congreso (300-400 diputados, 2 diputados mínimos por provincia, mandato de 4 años) son correctos.",
         "nivel": "avanzado",
         "id": "tema-3-q115"
       },
@@ -4473,7 +4473,7 @@ const TEMAS = [
           "Las Cortes Generales ostentan toda la potestad legislativa existente en España, sin que las CCAA tengan potestad legislativa propia"
         ],
         "correcta": 3,
-        "explicacion": "Las Cortes Generales gozan de la potestad legislativa del Estado, pero no de toda la potestad legislativa: las CCAA disfrutan de potestad legislativa propia (arts. 137 y 152.1 CE).",
+        "explicacion": "Al revés: las Cortes Generales gozan de la potestad legislativa del Estado, pero no de toda la potestad legislativa en España, ya que las Comunidades Autónomas disfrutan de potestad legislativa propia (arts. 137 y 152.1 CE) ejercida por sus Asambleas Legislativas.",
         "nivel": "avanzado",
         "id": "tema-3-q116"
       },
@@ -4486,7 +4486,7 @@ const TEMAS = [
           "La función de control es competencia exclusiva del Senado"
         ],
         "correcta": 2,
-        "explicacion": "El documento señala que, pese a que la titularidad corresponde a las Cámaras en su conjunto, el ejercicio real de la función de control corresponde a la minoría.",
+        "explicacion": "El documento señala que, pese a que la titularidad de la función de control corresponde a las Cámaras en su conjunto, el ejercicio real corresponde a la minoría, es decir, a la oposición, y no a la mayoría gobernante ni en exclusiva al Senado.",
         "nivel": "avanzado",
         "id": "tema-3-q117"
       },
@@ -4499,7 +4499,7 @@ const TEMAS = [
           "La inmunidad opera en el ámbito de la detención policial y el enjuiciamiento penal"
         ],
         "correcta": 0,
-        "explicacion": "Ninguna de las dos prerrogativas protege el patrimonio económico: la inviolabilidad protege opiniones y votos, y la inmunidad opera frente a la detención y el enjuiciamiento penal.",
+        "explicacion": "Al revés: ninguna de las dos prerrogativas protege el patrimonio económico del parlamentario. La inviolabilidad protege sus opiniones y votos en el ejercicio de la función (y se considera la \"primera conquista\" frente al Rey), y la inmunidad opera frente a la detención policial y el enjuiciamiento penal.",
         "nivel": "avanzado",
         "id": "tema-3-q118"
       },
@@ -4512,7 +4512,7 @@ const TEMAS = [
           "Un profesional del sector privado sin vinculación con órganos constitucionales ni con los cuerpos mencionados en el artículo 70"
         ],
         "correcta": 3,
-        "explicacion": "El artículo 70 CE excluye expresamente a jueces, fiscales, militares profesionales, miembros de las FCSE, altos cargos de la Administración, secretarios de Estado y Defensor del Pueblo; un profesional privado ajeno a esos colectivos no está en esa lista de incompatibilidades.",
+        "explicacion": "El artículo 70 CE excluye expresamente a jueces, fiscales, militares profesionales, miembros de las Fuerzas y Cuerpos de Seguridad del Estado, altos cargos de la Administración, secretarios de Estado y el Defensor del Pueblo; un profesional del sector privado ajeno a esos colectivos no figura en esa lista de incompatibilidades y sí podría, en principio, ser diputado o senador.",
         "nivel": "avanzado",
         "id": "tema-3-q119"
       },
@@ -4525,7 +4525,7 @@ const TEMAS = [
           "Formentera nunca ha podido elegir senador propio ni antes ni después de la reforma"
         ],
         "correcta": 0,
-        "explicacion": "La cuarta reforma constitucional, con efectos desde el 19 de mayo de 2026, afecta al artículo 69.3 CE y hace de Formentera una circunscripción propia, separada de Ibiza.",
+        "explicacion": "La cuarta reforma constitucional, con efectos desde el 19 de mayo de 2026, afecta al artículo 69.3 CE (Senado, no Congreso) y convierte a Formentera en circunscripción propia para elegir un senador, sin agruparse con Ibiza como antes; no afecta a la representación de las islas menores en general.",
         "nivel": "avanzado",
         "id": "tema-3-q120"
       },
@@ -4538,7 +4538,7 @@ const TEMAS = [
           "Pueden ser solicitadas por la mayoría absoluta de cualquiera de las cámaras"
         ],
         "correcta": 1,
-        "explicacion": "El art. 73.2 CE no permite que un grupo parlamentario aislado convoque sesión extraordinaria: se requiere el Gobierno, la Diputación Permanente o la mayoría absoluta de una cámara.",
+        "explicacion": "El art. 73.2 CE no permite que un grupo parlamentario aislado, sin mayoría, convoque una sesión extraordinaria: se requiere el Gobierno, la Diputación Permanente o la mayoría absoluta de cualquiera de las cámaras.",
         "nivel": "avanzado",
         "id": "tema-3-q121"
       },
@@ -4551,7 +4551,7 @@ const TEMAS = [
           "Se divide directamente la población total entre 350"
         ],
         "correcta": 0,
-        "explicacion": "La cuota de reparto es Población/248; después, el número de diputados de cada provincia resulta de dividir su población entre esa cuota.",
+        "explicacion": "La cuota de reparto es Población total / 248; después, el número de diputados de cada provincia resulta de dividir su población entre esa cuota, no al revés ni multiplicando directamente por 350.",
         "nivel": "avanzado",
         "id": "tema-3-q122"
       },
@@ -4564,7 +4564,7 @@ const TEMAS = [
           "Entre ellas se encuentra el nombramiento de altos cargos de la administración de justicia"
         ],
         "correcta": 0,
-        "explicacion": "El documento aclara que estas competencias deben estar situadas en el ámbito de la propia Constitución: la autoatribución de potestades de otros órganos constitucionales no es conforme con el texto fundamental.",
+        "explicacion": "El documento aclara que estas competencias \"no clasificables\" (declarar la guerra, inhabilitación real, nombramiento de altos cargos de la administración de justicia, entre otras) deben estar situadas en el ámbito de la propia Constitución: las Cortes Generales no pueden autoatribuirse libremente potestades que la CE reserva a otros órganos constitucionales.",
         "nivel": "avanzado",
         "id": "tema-3-q123"
       },
@@ -4577,7 +4577,7 @@ const TEMAS = [
           "Las cámaras funcionan ordinariamente de febrero a junio y de septiembre a diciembre, quedando enero, julio y agosto para sesiones extraordinarias o la actuación de la Diputación Permanente"
         ],
         "correcta": 3,
-        "explicacion": "Según el calendario del art. 73 CE, los periodos ordinarios son febrero-junio y septiembre-diciembre; enero, julio y agosto quedan para sesiones extraordinarias o la Diputación Permanente.",
+        "explicacion": "Según el calendario del art. 73 CE, los periodos ordinarios son septiembre-diciembre y febrero-junio; enero, julio y agosto quedan para sesiones extraordinarias o para la actuación de la Diputación Permanente, no para un funcionamiento continuo sin interrupciones.",
         "nivel": "avanzado",
         "id": "tema-3-q124"
       },
@@ -4590,7 +4590,7 @@ const TEMAS = [
           "Los Reglamentos de las Cámaras no pueden determinar libremente el número y entidad de las comisiones, que vienen fijados en su totalidad por la Constitución"
         ],
         "correcta": 3,
-        "explicacion": "La Constitución deja libertad a los Reglamentos para determinar el número y entidad de las comisiones, si bien deben existir en todo caso Comisiones Legislativas Permanentes (art. 75.2 CE) y una Comisión Constitucional en el Congreso (art. 151.2 CE).",
+        "explicacion": "Al revés: la Constitución deja libertad a los Reglamentos de las Cámaras para determinar el número y entidad de las comisiones, si bien deben existir en todo caso las Comisiones Legislativas Permanentes (art. 75.2 CE) y una Comisión Constitucional en el Congreso (art. 151.2 CE); no todo viene fijado por la Constitución.",
         "nivel": "avanzado",
         "id": "tema-3-q125"
       }
@@ -4610,7 +4610,7 @@ const TEMAS = [
           "Título Preliminar, artículos 1 a 9"
         ],
         "correcta": 0,
-        "explicacion": "La Corona se regula en el Título II (arts. 56-65) bajo la rúbrica \"La Corona\", frente a los primeros textos constitucionales que hablaban de \"El Rey y sus ministros\".",
+        "explicacion": "Ojo, no confundir con el Título IX (arts. 159-165 CE), que es donde se regula el Tribunal Constitucional. La Corona se regula en el Título II, arts. 56 a 65 CE, bajo la rúbrica «La Corona». Es una novedad de 1978: los primeros textos constitucionales españoles hablaban de «El Rey y sus ministros».",
         "id": "tema-4-q1"
       },
       {
@@ -4622,7 +4622,7 @@ const TEMAS = [
           "pierde tanto su auctoritas como su potestas, careciendo de cualquier capacidad de influencia"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que en la monarquía parlamentaria el Rey pierde sus poderes, incluso los de naturaleza residual, manteniendo únicamente su auctoritas basada en su capacidad de influencia.",
+        "explicacion": "Al revés: no es que mantenga la potestas y pierda la auctoritas, es justo lo contrario. En la monarquía parlamentaria el Rey pierde toda su potestas, incluida la residual, pero conserva su auctoritas, basada en su capacidad de influencia como institución. Por eso no gobierna ni legisla: eso lo hacen el Gobierno y el Parlamento.",
         "id": "tema-4-q2"
       },
       {
@@ -4634,7 +4634,7 @@ const TEMAS = [
           "es preferida la línea anterior a las posteriores, en la misma línea el grado más próximo al más remoto, en el mismo grado la mujer sobre el varón y en el mismo sexo la persona de menor edad"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 57 CE establece literalmente este orden de preferencia, existiendo un trato discriminatorio hacia la mujer que la doctrina atribuye a la pura inercia histórica.",
+        "explicacion": "Cuidado, es fácil trastocar alguno de los cuatro criterios del art. 57.1 CE. El orden correcto es: línea anterior sobre las posteriores, dentro de la misma línea el grado más próximo sobre el más remoto, en igual grado el varón sobre la mujer y, en igual sexo, la persona de mayor edad. Es el único criterio de este orden con un componente de preferencia por sexo, que la doctrina atribuye a pura inercia histórica.",
         "id": "tema-4-q3"
       },
       {
@@ -4646,7 +4646,7 @@ const TEMAS = [
           "pierde solo el derecho a la regencia, manteniendo sus derechos sucesorios y los de su descendencia"
         ],
         "correcta": 0,
-        "explicacion": "El art. 57.4 CE prevé que quien contraiga matrimonio con expresa prohibición del Rey y las Cortes queda excluido de la sucesión, extendiéndose la prohibición a sus descendientes; el acuerdo de las Cortes se adopta por mayoría en sesión conjunta.",
+        "explicacion": "No es solo el contrayente: la exclusión de la sucesión se extiende también a sus descendientes, conforme al art. 57.4 CE. La prohibición debe ser expresa, del Rey y de las Cortes conjuntamente. El acuerdo de las Cortes se adopta por mayoría de los miembros de ambas cámaras reunidas en sesión conjunta.",
         "id": "tema-4-q4"
       },
       {
@@ -4658,7 +4658,7 @@ const TEMAS = [
           "la Ley Orgánica 3/2004, de 18 de junio"
         ],
         "correcta": 0,
-        "explicacion": "El texto cita expresamente que la abdicación de Don Juan Carlos I se hizo efectiva mediante la Ley Orgánica 3/2014, de 18 de junio, en aplicación del mandato del art. 57 CE de que estas cuestiones se resuelvan por ley orgánica.",
+        "explicacion": "Ojo con la fecha y el número: no es de julio ni la Ley Orgánica 1/2014. Fue la Ley Orgánica 3/2014, de 18 de junio, la que hizo efectiva la abdicación de Don Juan Carlos I. Es el instrumento que exige el art. 57 CE para resolver por ley orgánica las cuestiones relativas a la sucesión y la abdicación.",
         "id": "tema-4-q5"
       },
       {
@@ -4670,7 +4670,7 @@ const TEMAS = [
           "la minoría de edad del Rey y la extinción de las líneas sucesorias"
         ],
         "correcta": 0,
-        "explicacion": "El art. 59 CE prevé dos casos de regencia: la minoría de edad del Rey tras el fallecimiento de su antecesor y la inhabilitación del Rey reconocida por las Cortes Generales en sesión conjunta.",
+        "explicacion": "El art. 59 CE prevé solo dos supuestos de regencia: la minoría de edad del Rey y su inhabilitación reconocida por las Cortes. No contempla ni la ausencia temporal ni la renuncia voluntaria como causas de regencia; la inhabilitación debe declararla el pleno de las Cortes Generales en sesión conjunta.",
         "id": "tema-4-q6"
       },
       {
@@ -4682,7 +4682,7 @@ const TEMAS = [
           "El tutor testamentario designado por el Rey difunto, y en su defecto el padre o la madre"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que, tras el fallecimiento del Rey siendo el sucesor menor de edad, la regencia la desempeña el padre o la madre o, en su defecto, el pariente mayor de edad y más próximo a suceder en la Corona.",
+        "explicacion": "El orden es padre o madre primero; solo en su defecto entra el pariente mayor de edad más próximo a suceder según el orden constitucional, no cualquier familiar sin atender a ese orden. Así lo dispone el art. 59 CE para el supuesto de minoría de edad tras el fallecimiento del Rey.",
         "id": "tema-4-q7"
       },
       {
@@ -4694,7 +4694,7 @@ const TEMAS = [
           "Serán las Cortes quienes nombren la regencia, siendo esta de número impar hasta tres (uno o tres)"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que, si no se pudiera determinar el regente por la regla constitucional, serán las Cortes quienes lo nombren, con un número impar de hasta cinco personas, exigiéndose además que el regente sea español y mayor de edad.",
+        "explicacion": "No es un número par ni lo nombra el Gobierno: si no puede determinarse el regente por la regla constitucional, son las Cortes quienes lo nombran, siempre en número impar, hasta un máximo de cinco (uno, tres o cinco). Además, el regente debe ser español y mayor de edad.",
         "id": "tema-4-q8"
       },
       {
@@ -4706,7 +4706,7 @@ const TEMAS = [
           "parlamentaria, gubernativa y judicial"
         ],
         "correcta": 0,
-        "explicacion": "El texto distingue tutoría testamentaria (nombrada por el Rey difunto en testamento), tutoría legítima (padre o madre del sucesor) y tutoría parlamentaria (nombrada por las Cortes), reguladas al hilo del art. 60 CE.",
+        "explicacion": "Las tres modalidades del art. 60 CE son: testamentaria (la dispone el Rey difunto), legítima (padre o madre del sucesor) y parlamentaria (nombrada por las Cortes). No existen tutorías judicial ni gubernativa en este esquema constitucional.",
         "id": "tema-4-q9"
       },
       {
@@ -4718,7 +4718,7 @@ const TEMAS = [
           "el primero sea mayor de edad, dando lugar en caso contrario a la tutoría parlamentaria"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que en la tutoría legítima se exige que el padre o la madre siga viudo; si no se mantuviera viudo, dará lugar a la última tutoría (la parlamentaria).",
+        "explicacion": "Ojo, si el padre o la madre deja de estar viudo no se vuelve a la tutoría testamentaria, sino que se pasa a la parlamentaria, la última del orden. Por eso el texto exige expresamente que el progenitor tutor «siga viudo» para mantener la tutoría legítima.",
         "id": "tema-4-q10"
       },
       {
@@ -4730,7 +4730,7 @@ const TEMAS = [
           "la auctoritas y la potestas"
         ],
         "correcta": 0,
-        "explicacion": "La titularidad de la Jefatura del Estado supone, según el art. 56.3 CE, la inviolabilidad y la no responsabilidad del Rey como prerrogativas del estatuto personal.",
+        "explicacion": "Las dos prerrogativas del estatuto personal del Rey, ex art. 56.3 CE, son la inviolabilidad y la no responsabilidad; el mando de las Fuerzas Armadas o el derecho de gracia son funciones regias, no prerrogativas del estatuto. La auctoritas y la potestas, en cambio, son categorías de la evolución histórica de la monarquía, no del estatuto jurídico del Rey.",
         "id": "tema-4-q11"
       },
       {
@@ -4742,7 +4742,7 @@ const TEMAS = [
           "el Vicepresidente del Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "El texto distingue tres supuestos de refrendo: en leyes, el Presidente del Gobierno; en nombramientos, el Presidente del Congreso; y en decretos, los Ministros.",
+        "explicacion": "En las leyes refrenda el Presidente del Gobierno; no confundir con los nombramientos, que refrenda el presidente del Congreso, ni con los decretos, que refrendan los Ministros. El refrendo es la contrapartida necesaria de la irresponsabilidad del Rey: quien contrafirma asume la responsabilidad del acto.",
         "id": "tema-4-q12"
       },
       {
@@ -4754,7 +4754,7 @@ const TEMAS = [
           "ocho días"
         ],
         "correcta": 0,
-        "explicacion": "El art. 91 CE, citado literalmente en el texto, dispone que el Rey sancionará en el plazo de 15 días las leyes aprobadas por las Cortes Generales, promulgándolas y ordenando su inmediata publicación.",
+        "explicacion": "No son 20, 30 ni 8 días: el art. 91 CE fija en 15 días el plazo para que el Rey sancione las leyes aprobadas por las Cortes Generales. Tras sancionarlas, debe promulgarlas y ordenar su inmediata publicación.",
         "id": "tema-4-q13"
       },
       {
@@ -4766,7 +4766,7 @@ const TEMAS = [
           "propuesta del Presidente del Gobierno, sin necesidad de autorización parlamentaria, regulándose la forma por Real Decreto"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que la convocatoria de referéndum debe realizarse a propuesta del Presidente del Gobierno, previa autorización del Congreso de los Diputados, y que su forma ha sido regulada por la Ley Orgánica de 18 de enero de 1980.",
+        "explicacion": "Ojo, no es el Senado quien autoriza ni la LOTC la que regula la forma: la convocatoria de referéndum exige propuesta del Presidente del Gobierno y previa autorización del Congreso de los Diputados, y su forma se regula por la Ley Orgánica de 18 de enero de 1980, distinta de la LOTC de 1979.",
         "id": "tema-4-q14"
       },
       {
@@ -4778,7 +4778,7 @@ const TEMAS = [
           "queda reservado en exclusiva a los delitos cometidos por autoridades militares"
         ],
         "correcta": 0,
-        "explicacion": "Entre las funciones del Rey recogidas en los arts. 62 y 63 CE, el texto precisa que el derecho de gracia se ejerce con arreglo a la ley, la cual no podrá autorizar indultos generales.",
+        "explicacion": "El Rey ejerce el derecho de gracia con arreglo a la ley, pero esa ley no puede autorizar indultos generales, solo particulares. No se exige autorización previa de las Cortes para cada indulto individual.",
         "id": "tema-4-q15"
       },
       {
@@ -4790,7 +4790,7 @@ const TEMAS = [
           "sesenta días después de celebradas estas"
         ],
         "correcta": 0,
-        "explicacion": "El texto aclara, respecto de la facultad regia de convocar las Cortes, que la primera reunión tras las elecciones debe hacerse, conforme al art. 68 CE, en el plazo de veinte días desde su celebración.",
+        "explicacion": "No confundir con el plazo de sanción de leyes (15 días): la primera reunión de las Cortes tras las elecciones generales debe celebrarse, según el art. 68 CE, dentro de los veinte días siguientes a su celebración. Las siguientes convocatorias, en cambio, corresponden a los Presidentes de cada Cámara, no al Rey.",
         "id": "tema-4-q16"
       },
       {
@@ -4802,7 +4802,7 @@ const TEMAS = [
           "el Título II, artículos 56 a 65 CE, desarrollado por la Ley Orgánica del Tribunal Constitucional de 3 de octubre de 1979"
         ],
         "correcta": 0,
-        "explicacion": "El texto sitúa la regulación del Tribunal Constitucional en el Título IX (arts. 159-165 CE), desarrollado por la LOTC de 3 de octubre de 1979.",
+        "explicacion": "No es la Ley Orgánica del Poder Judicial ni el Título VI o el Título II: el Tribunal Constitucional se regula en el Título IX (arts. 159 a 165 CE), desarrollado por su propia Ley Orgánica, la LOTC de 3 de octubre de 1979.",
         "id": "tema-4-q17"
       },
       {
@@ -4814,7 +4814,7 @@ const TEMAS = [
           "un órgano consultivo del Gobierno, sometido solo a la Constitución y a la propia LOTC"
         ],
         "correcta": 0,
-        "explicacion": "El texto cita literalmente el art. 1 LOTC, que define al Tribunal Constitucional como intérprete supremo de la Constitución, independiente y sometido solo a la Constitución y a la LOTC.",
+        "explicacion": "El art. 1 LOTC lo define literalmente como «el intérprete supremo de la Constitución», independiente de los demás órganos constitucionales y sometido solo a la Constitución y a la propia LOTC; no forma parte del Poder Judicial ni actúa como órgano consultivo del Gobierno.",
         "id": "tema-4-q18"
       },
       {
@@ -4826,7 +4826,7 @@ const TEMAS = [
           "Cuatro a propuesta del Congreso por mayoría de 3/5, cuatro a propuesta del Senado por mayoría de 3/5, tres a propuesta del Gobierno y uno a propuesta del CGPJ"
         ],
         "correcta": 0,
-        "explicacion": "El texto detalla que el Rey nombra a los 12 Magistrados a propuesta de: cuatro del Congreso (mayoría de 3/5), cuatro del Senado (mayoría de 3/5), dos del Gobierno y dos del CGPJ.",
+        "explicacion": "No es mayoría absoluta sino de 3/5 para Congreso y Senado, y el reparto no es 6-2-2-2 ni 4-4-3-1: son cuatro magistrados a propuesta del Congreso (3/5), cuatro del Senado (3/5), dos del Gobierno y dos del CGPJ, hasta completar los 12 que nombra el Rey.",
         "id": "tema-4-q19"
       },
       {
@@ -4838,7 +4838,7 @@ const TEMAS = [
           "Seis años, renovándose por terceras partes cada dos años"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que el mandato de los Magistrados del Tribunal Constitucional es de 9 años, renovándose el Tribunal por terceras partes cada tres años, exigiéndose además más de 15 años de ejercicio profesional como jurista.",
+        "explicacion": "No se renuevan por mitades ni cada 4,5 años: el mandato es de 9 años y el Tribunal se renueva por terceras partes (4 magistrados) cada 3 años. Se exige además a los magistrados más de 15 años de ejercicio profesional como jurista.",
         "id": "tema-4-q20"
       },
       {
@@ -4850,7 +4850,7 @@ const TEMAS = [
           "Título VI, arts. 117 a 127"
         ],
         "correcta": 0,
-        "explicacion": "La Corona se regula en el Título II CE (arts. 56-65), bajo la rúbrica \"La Corona\".",
+        "explicacion": "No confundir con el Título IX (Tribunal Constitucional, arts. 159-165) ni el Título VI (Poder Judicial, arts. 117-127): la Corona se regula en el Título II CE, arts. 56 a 65. Ese mismo Título cierra en el art. 65, el que regula la dotación económica de la Casa del Rey y el nombramiento de su personal.",
         "id": "tema-4-q21"
       },
       {
@@ -4862,7 +4862,7 @@ const TEMAS = [
           "Con el Poder Judicial"
         ],
         "correcta": 1,
-        "explicacion": "El art. 56.1 CE establece que la Corona se identifica con la Jefatura del Estado.",
+        "explicacion": "El art. 56.1 CE identifica expresamente a la Corona con la Jefatura del Estado, no con ninguno de los tres poderes clásicos. Por eso la Corona se sitúa constitucionalmente en pie de igualdad con los órganos ejecutivo, legislativo y judicial, sin confundirse con ellos.",
         "id": "tema-4-q22"
       },
       {
@@ -4874,7 +4874,7 @@ const TEMAS = [
           "\"El Trono y el Gobierno\""
         ],
         "correcta": 2,
-        "explicacion": "La rúbrica \"La Corona\" es una novedad de la CE de 1978 respecto de los textos constitucionales anteriores, que recogían la expresión \"El Rey y sus ministros\".",
+        "explicacion": "La rúbrica «La Corona» es una novedad de la Constitución de 1978; los textos constitucionales históricos anteriores usaban la expresión «El Rey y sus ministros» para referirse a esta institución.",
         "id": "tema-4-q23"
       },
       {
@@ -4886,7 +4886,7 @@ const TEMAS = [
           "Están taxativamente tasados por la CE, sin poseer ninguna otra función que las que ésta establece"
         ],
         "correcta": 3,
-        "explicacion": "El texto señala que los poderes del Rey se encuentran taxativamente tasados por la CE, no poseyendo ninguna otra función ni poder que los que la propia CE establece.",
+        "explicacion": "No los amplía el Presidente del Gobierno ni una ley ordinaria: los poderes del Rey están taxativamente tasados por la Constitución, única norma que puede atribuirle funciones. Esto deriva de que todos los poderes del Estado emanan del pueblo, también los del Rey.",
         "id": "tema-4-q24"
       },
       {
@@ -4898,7 +4898,7 @@ const TEMAS = [
           "El reconocimiento de un poder residual del Rey compartido con la nación"
         ],
         "correcta": 0,
-        "explicacion": "En la monarquía absoluta el Rey constituye el máximo poder, quedando los demás poderes estamentales sometidos a la Corona en una relación de dependencia y jerarquía; hay simbiosis entre Estado y soberano.",
+        "explicacion": "En la monarquía absoluta no hay igualdad ni sometimiento del Rey a la ley (eso es propio de la limitada): el Rey concentra todo el poder y los demás poderes estamentales quedan sometidos a él en una relación de dependencia y jerarquía, dándose una simbiosis entre Estado y soberano.",
         "id": "tema-4-q25"
       },
       {
@@ -4910,7 +4910,7 @@ const TEMAS = [
           "En el siglo XVI, con el Renacimiento"
         ],
         "correcta": 1,
-        "explicacion": "La monarquía limitada y la constitucional se asientan a finales del siglo XVIII y principios del XIX, a través del Estado Liberal.",
+        "explicacion": "No es en la Edad Media ni en el siglo XVI: la monarquía limitada y la constitucional se asientan a finales del siglo XVIII y principios del XIX, de la mano del Estado liberal, la separación de poderes y el reconocimiento de derechos a los ciudadanos.",
         "id": "tema-4-q26"
       },
       {
@@ -4922,7 +4922,7 @@ const TEMAS = [
           "En la limitada el poder reside en la nación; en la constitucional es el propio Rey quien se autolimita"
         ],
         "correcta": 2,
-        "explicacion": "La diferencia es de carácter meramente conceptual: en la monarquía limitada es el propio Rey quien limita su poder a través de \"constituciones pactadas\", mientras que en la constitucional el poder reside en la nación o pueblo, siendo una constitución de origen popular la que limita al monarca.",
+        "explicacion": "La diferencia es meramente conceptual, pero no da igual quién limita a quién: en la limitada es el propio Rey quien se autolimita mediante «constituciones pactadas»; en la constitucional el poder reside en la nación y es una constitución de origen popular la que limita al monarca. En ambas, eso sí, el Rey conserva un poder residual sobre lo no atribuido a otros órganos.",
         "id": "tema-4-q27"
       },
       {
@@ -4934,7 +4934,7 @@ const TEMAS = [
           "auctoritas; potestas"
         ],
         "correcta": 3,
-        "explicacion": "En la monarquía parlamentaria el monarca pierde sus poderes (incluso los residuales) manteniendo, sin embargo, su auctoritas basada en su capacidad de influencia, perdiendo su potestas.",
+        "explicacion": "No es la inviolabilidad/responsabilidad ni la soberanía/representación: la clave está en auctoritas y potestas. El Rey mantiene su auctoritas, su influencia como institución social y políticamente relevante, pero pierde toda su potestas, incluida la residual, en la monarquía parlamentaria.",
         "id": "tema-4-q28"
       },
       {
@@ -4946,7 +4946,7 @@ const TEMAS = [
           "Monarquía Constitucional Limitada, enlazando con la Constitución canovista de 1876"
         ],
         "correcta": 0,
-        "explicacion": "El constituyente establece la Monarquía Parlamentaria Hereditaria, suponiendo la continuación de la tradición española y enlazando con la Constitución de 1876.",
+        "explicacion": "No es electiva ni enlaza con la Constitución de 1931 (de carácter republicano): la CE de 1978 instaura una Monarquía Parlamentaria Hereditaria que retoma la tradición española, enlazando con la Constitución canovista de 1876.",
         "id": "tema-4-q29"
       },
       {
@@ -4958,7 +4958,7 @@ const TEMAS = [
           "La Corona es la institución superior de la que el Rey recibe sus poderes personales"
         ],
         "correcta": 1,
-        "explicacion": "La Corona no cabe confundirla con el Rey, puesto que es una institución despersonalizada con el objetivo de significar su permanencia en el tiempo.",
+        "explicacion": "La Corona no es un órgano colegiado ni la fuente de poderes «personales» del Rey: es una institución despersonalizada, distinta de la persona del monarca, cuyo sentido es dar continuidad y permanencia a la Jefatura del Estado más allá de quien la ocupe.",
         "id": "tema-4-q30"
       },
       {
@@ -4970,7 +4970,7 @@ const TEMAS = [
           "La dinastía de Saboya"
         ],
         "correcta": 2,
-        "explicacion": "El art. 57 CE determina que la dinastía borbónica es, por derecho histórico, la encargada de ostentar la Jefatura del Estado, eliminando cualquier otra especulación dinástica.",
+        "explicacion": "No es Habsburgo, Trastámara ni Saboya: el art. 57 CE atribuye por derecho histórico la Jefatura del Estado a la dinastía borbónica, cerrando así cualquier otra especulación dinástica.",
         "id": "tema-4-q31"
       },
       {
@@ -4982,7 +4982,7 @@ const TEMAS = [
           "La línea anterior a las posteriores"
         ],
         "correcta": 3,
-        "explicacion": "El art. 57.1 CE dispone que es preferida la línea anterior a las posteriores.",
+        "explicacion": "Es el primer criterio del orden sucesorio del art. 57.1 CE: se prefiere la línea anterior a las posteriores, antes incluso de entrar a valorar el grado o el sexo de los llamados a suceder.",
         "id": "tema-4-q32"
       },
       {
@@ -4994,7 +4994,7 @@ const TEMAS = [
           "El grado se determina por la línea materna"
         ],
         "correcta": 0,
-        "explicacion": "En la misma línea, es preferido el grado más próximo al más remoto (art. 57.1 CE).",
+        "explicacion": "Dentro de la misma línea el criterio no es la edad ni la vía materna: se prefiere el grado más próximo al más remoto, según el art. 57.1 CE.",
         "id": "tema-4-q33"
       },
       {
@@ -5006,7 +5006,7 @@ const TEMAS = [
           "A quien tenga mejor formación académica"
         ],
         "correcta": 1,
-        "explicacion": "El art. 57.1 CE dispone que en el mismo grado se prefiere al varón sobre la mujer.",
+        "explicacion": "En igualdad de grado, el art. 57.1 CE prefiere al varón sobre la mujer; es el criterio de este orden sucesorio con un componente abiertamente discriminatorio, que la doctrina atribuye a pura inercia histórica.",
         "id": "tema-4-q34"
       },
       {
@@ -5018,7 +5018,7 @@ const TEMAS = [
           "Quien haya nacido en primer lugar dentro del mismo día"
         ],
         "correcta": 2,
-        "explicacion": "El art. 57.1 CE establece que en el mismo grado y sexo se prefiere a la persona de mayor edad.",
+        "explicacion": "En igualdad de grado y sexo se prefiere a la persona de mayor edad, no a la de menor edad ni a quien resida en España; es el último escalón del orden de preferencia del art. 57.1 CE.",
         "id": "tema-4-q35"
       },
       {
@@ -5030,7 +5030,7 @@ const TEMAS = [
           "No existe una prohibición para que la mujer acceda, pero sí existe un trato discriminatorio cuya razón de ser es la pura inercia histórica"
         ],
         "correcta": 3,
-        "explicacion": "No existe prohibición para que la mujer acceda a la Jefatura del Estado, pero sí un trato discriminatorio (preferencia del varón en igual grado) cuya razón de ser es la pura inercia histórica.",
+        "explicacion": "No hay una prohibición para que la mujer acceda al trono, pero sí una preferencia del varón en igualdad de grado que constituye un trato discriminatorio; el texto señala que su única razón de ser es la pura inercia histórica.",
         "id": "tema-4-q36"
       },
       {
@@ -5042,7 +5042,7 @@ const TEMAS = [
           "No tiene consecuencia jurídica alguna, al tratarse de una mera recomendación"
         ],
         "correcta": 0,
-        "explicacion": "El art. 57.4 CE dispone que se prohíbe reinar (se pierden los derechos sucesorios) a quien contraiga matrimonio con expresa prohibición del Rey y de las Cortes, extendiéndose la prohibición a sus descendientes.",
+        "explicacion": "La pérdida de derechos no se limita al contrayente: el art. 57.4 CE extiende la exclusión sucesoria también a sus descendientes cuando el matrimonio se celebra con expresa prohibición del Rey y de las Cortes.",
         "id": "tema-4-q37"
       },
       {
@@ -5054,7 +5054,7 @@ const TEMAS = [
           "Por unanimidad de las cámaras reunidas en sesión conjunta"
         ],
         "correcta": 1,
-        "explicacion": "El acuerdo de las Cortes se decide por mayoría de los miembros de las cámaras reunidas en sesión conjunta.",
+        "explicacion": "No se exige mayoría de 3/5 ni unanimidad, ni basta con el Congreso solo: el acuerdo de las Cortes para esta prohibición matrimonial se adopta por mayoría de los miembros de ambas cámaras reunidas en sesión conjunta.",
         "id": "tema-4-q38"
       },
       {
@@ -5066,7 +5066,7 @@ const TEMAS = [
           "Decidirá el Gobierno mediante Real Decreto-ley, oídas las Cortes"
         ],
         "correcta": 2,
-        "explicacion": "El art. 57.3 CE dispone que, extinguidas las líneas llamadas en Derecho, las Cortes proveerán a la sucesión en reunión conjunta, en la forma que más convenga a los intereses de España.",
+        "explicacion": "No hay sucesión automática ni interviene el Gobierno: si se extinguen todas las líneas llamadas a suceder, el art. 57.3 CE encomienda a las Cortes, reunidas en sesión conjunta, proveer a la sucesión del modo que más convenga a los intereses de España.",
         "id": "tema-4-q39"
       },
       {
@@ -5078,7 +5078,7 @@ const TEMAS = [
           "Ley orgánica"
         ],
         "correcta": 3,
-        "explicacion": "Serán las Cortes, representantes de la soberanía popular, las que resuelvan por medio de una ley orgánica las dudas de hecho y de derecho que se susciten en relación a la sucesión.",
+        "explicacion": "No es un simple acuerdo de las Cortes ni una sentencia del Tribunal Constitucional: las dudas de hecho o de derecho sobre la sucesión a la Corona se resuelven mediante ley orgánica, como representante de la soberanía popular.",
         "id": "tema-4-q40"
       },
       {
@@ -5090,7 +5090,7 @@ const TEMAS = [
           "La composición del Tribunal Constitucional"
         ],
         "correcta": 0,
-        "explicacion": "El art. 57 CE dispone que también se resolverá por ley orgánica cualquier aspecto relativo a la abdicación del Rey o la renuncia de cualquiera de las personas incluidas en la línea sucesoria.",
+        "explicacion": "El art. 57 CE reserva a la ley orgánica no solo las dudas sucesorias, sino también la abdicación del Rey y la renuncia de cualquier persona de la línea sucesoria; así se hizo, precisamente, con la abdicación de 2014.",
         "id": "tema-4-q41"
       },
       {
@@ -5102,7 +5102,7 @@ const TEMAS = [
           "Al poder legislativo, mediante ley orgánica general aplicable a todos los casos"
         ],
         "correcta": 1,
-        "explicacion": "Los precedentes históricos (1845, 1869 y 1876) reservaban al poder legislativo la solución de las cuestiones sucesorias, así como la autorización de la abdicación, mediante una ley especial para cada caso.",
+        "explicacion": "No era el poder judicial ni el propio monarca quien decidía: los precedentes de 1845, 1869 y 1876 reservaban al poder legislativo la solución de las cuestiones sucesorias, mediante una ley especial para cada caso, no una ley orgánica general.",
         "id": "tema-4-q42"
       },
       {
@@ -5114,7 +5114,7 @@ const TEMAS = [
           "La Ley Orgánica 1/2014, de 18 de junio"
         ],
         "correcta": 2,
-        "explicacion": "La abdicación del Rey Don Juan Carlos I se hizo efectiva mediante la Ley Orgánica 3/2014, de 18 de junio, en aplicación del mandato del art. 57 CE de que el acto regio se resuelva por ley orgánica.",
+        "explicacion": "Ojo con la fecha: no es de julio ni la Ley Orgánica 1/2014. La abdicación de Don Juan Carlos I se hizo efectiva mediante la Ley Orgánica 3/2014, de 18 de junio, siguiendo el mandato del art. 57 CE de resolver estos actos por ley orgánica.",
         "id": "tema-4-q43"
       },
       {
@@ -5126,7 +5126,7 @@ const TEMAS = [
           "Art. 59 CE"
         ],
         "correcta": 3,
-        "explicacion": "La regencia está regulada en el art. 59 CE.",
+        "explicacion": "La regencia se regula en el art. 59 CE, distinto del art. 57 (sucesión) o el art. 60 (tutela regia).",
         "id": "tema-4-q44"
       },
       {
@@ -5138,7 +5138,7 @@ const TEMAS = [
           "La minoría de edad y la extinción de las líneas sucesorias"
         ],
         "correcta": 0,
-        "explicacion": "El art. 59 CE dispone dos supuestos de regencia: la minoría de edad (tras el fallecimiento del Rey, su sucesor es menor de edad) y la inhabilitación del Rey.",
+        "explicacion": "Solo hay dos supuestos: la minoría de edad del Rey y su inhabilitación reconocida por las Cortes; no la ausencia temporal ni la renuncia voluntaria, que no están previstas en el art. 59 CE.",
         "id": "tema-4-q45"
       },
       {
@@ -5150,7 +5150,7 @@ const TEMAS = [
           "El tutor testamentario designado por el Rey difunto"
         ],
         "correcta": 1,
-        "explicacion": "En la minoría de edad, la regencia será desempeñada por el padre o la madre del Rey menor, o en su defecto, por el pariente mayor de edad y más próximo a suceder en la Corona según el orden establecido en la CE.",
+        "explicacion": "El primer llamado a la regencia en caso de minoría de edad es el padre o la madre del Rey menor, no el pariente más próximo ni el Presidente de las Cortes; el pariente solo entra en defecto de ambos progenitores.",
         "id": "tema-4-q46"
       },
       {
@@ -5162,7 +5162,7 @@ const TEMAS = [
           "El Congreso de los Diputados por mayoría de 3/5"
         ],
         "correcta": 2,
-        "explicacion": "La inhabilitación del Rey debe ser reconocida por las Cortes Generales, reunidas en sesión conjunta.",
+        "explicacion": "No la declara el Tribunal Constitucional ni el Consejo de Ministros: es a las Cortes Generales, reunidas en sesión conjunta, a quienes corresponde reconocer la inhabilitación del Rey.",
         "id": "tema-4-q47"
       },
       {
@@ -5174,7 +5174,7 @@ const TEMAS = [
           "Su sucesor (el príncipe heredero), y si éste no fuera mayor de edad, se aplica la misma solución que en la minoría de edad"
         ],
         "correcta": 3,
-        "explicacion": "En caso de inhabilitación, será regente su sucesor; si éste no fuera mayor de edad, se llegaría a la misma solución que en el supuesto de minoría de edad.",
+        "explicacion": "No queda vacante la Corona ni asume automáticamente el Presidente del Gobierno: si el Rey es inhabilitado, la regencia recae en su sucesor, y si éste tampoco fuera mayor de edad, se aplica la misma solución que en el supuesto de minoría de edad.",
         "id": "tema-4-q48"
       },
       {
@@ -5186,7 +5186,7 @@ const TEMAS = [
           "El Tribunal Constitucional, con un colegio de tres miembros"
         ],
         "correcta": 0,
-        "explicacion": "Si no se pudiera determinar el regente por la regla constitucional, serán las Cortes quienes lo nombren, siendo el número impar hasta 5 (pudiendo ser uno, tres o cinco).",
+        "explicacion": "No es un número par ni lo decide el Tribunal Constitucional: cuando no puede determinarse el regente por la regla constitucional, son las Cortes quienes lo nombran, en número impar de hasta cinco personas.",
         "id": "tema-4-q49"
       },
       {
@@ -5198,7 +5198,7 @@ const TEMAS = [
           "El regente pasa a ostentar la titularidad de la Corona"
         ],
         "correcta": 1,
-        "explicacion": "La regencia se ejerce por mandato constitucional y en nombre del Rey, siendo necesario que el regente sea español y mayor de edad.",
+        "explicacion": "No se ejerce en nombre propio del regente ni puede recaer en un extranjero, y el regente en ningún caso pasa a titular de la Corona: la regencia se ejerce por mandato constitucional y en nombre del Rey, exigiéndose que el regente sea español y mayor de edad.",
         "id": "tema-4-q50"
       },
       {
@@ -5210,7 +5210,7 @@ const TEMAS = [
           "El heredero renuncia a sus derechos sucesorios"
         ],
         "correcta": 2,
-        "explicacion": "La tutela regia se da cuando el Rey que debe reinar, tras el fallecimiento del anterior, es menor de edad (art. 60 CE).",
+        "explicacion": "No es un supuesto de ausencia ni de inhabilitación (eso da lugar a regencia, no a tutela): la tutela regia del art. 60 CE se produce cuando, tras fallecer el Rey anterior, quien debe reinar es menor de edad.",
         "id": "tema-4-q51"
       },
       {
@@ -5222,7 +5222,7 @@ const TEMAS = [
           "Lo dispone el Rey difunto en su testamento, debiendo el tutor ser español de nacimiento y mayor de edad"
         ],
         "correcta": 3,
-        "explicacion": "En la tutoría testamentaria, el Rey difunto dispone quién será el tutor en su testamento, siendo necesario que el tutor sea español de nacimiento y mayor de edad.",
+        "explicacion": "Ojo, no basta con ser español: se exige que el tutor sea español de nacimiento y mayor de edad. Es el propio Rey difunto quien lo designa en su testamento.",
         "id": "tema-4-q52"
       },
       {
@@ -5234,7 +5234,7 @@ const TEMAS = [
           "Que el testamento carece de validez si no lo ratifican las Cortes en sesión conjunta"
         ],
         "correcta": 0,
-        "explicacion": "Es cuestión discutida si el testamento debe o no ser refrendado; la doctrina mayoritariamente se decanta por el refrendo, en atención a la importante significación política del acto \"mortis causa\".",
+        "explicacion": "Aunque es una cuestión discutida, la doctrina mayoritaria se inclina por exigir el refrendo del testamento, dada la relevancia política de este acto «mortis causa» por el que se nombra tutor al Rey menor.",
         "id": "tema-4-q53"
       },
       {
@@ -5246,7 +5246,7 @@ const TEMAS = [
           "Cualquier pariente elegido libremente por las Cortes"
         ],
         "correcta": 1,
-        "explicacion": "En defecto de testamento será tutor el padre o la madre del sucesor, exigiéndose que el primero (el padre) siga viudo; si no se mantuviera viudo, dará lugar a la tutoría parlamentaria.",
+        "explicacion": "No es un hermano ni la libre elección de las Cortes: en defecto de testamento, la tutoría legítima corresponde al padre o la madre del sucesor, exigiéndose que el padre siga viudo (si deja de estarlo, se pasa a la tutoría parlamentaria).",
         "id": "tema-4-q54"
       },
       {
@@ -5258,7 +5258,7 @@ const TEMAS = [
           "Españoles mayores de edad, incluidos Diputados y Senadores en ejercicio"
         ],
         "correcta": 2,
-        "explicacion": "La tutoría parlamentaria es nombrada por las Cortes entre españoles mayores de edad que no ocupen cargos de representación política.",
+        "explicacion": "No pueden ser Diputados o Senadores en ejercicio, ni magistrados del TC ni ciudadanos de la UE en general: la tutoría parlamentaria se nombra por las Cortes entre españoles mayores de edad que no ocupen cargos de representación política.",
         "id": "tema-4-q55"
       },
       {
@@ -5270,7 +5270,7 @@ const TEMAS = [
           "Con la mayoría de edad del Rey"
         ],
         "correcta": 3,
-        "explicacion": "Solo está prevista en la Constitución la tutela del Rey menor, por lo que ésta cesará con la mayoría de edad del Rey.",
+        "explicacion": "La Constitución solo prevé la tutela del Rey menor, por lo que cesa automáticamente cuando éste alcanza la mayoría de edad, no por decisión de las Cortes ni por un plazo fijo de cinco años.",
         "id": "tema-4-q56"
       },
       {
@@ -5282,7 +5282,7 @@ const TEMAS = [
           "La no responsabilidad y el mando supremo de las Fuerzas Armadas"
         ],
         "correcta": 0,
-        "explicacion": "El art. 56.3 CE prevé como prerrogativas del estatuto personal del Rey la inviolabilidad y la no responsabilidad.",
+        "explicacion": "No hay fuero especial ante el Tribunal Supremo ni responsabilidad política ante las Cortes: el art. 56.3 CE basa el estatuto personal del Rey en la inviolabilidad y la no responsabilidad.",
         "id": "tema-4-q57"
       },
       {
@@ -5294,7 +5294,7 @@ const TEMAS = [
           "Puede ser sancionado administrativamente, pero no penalmente"
         ],
         "correcta": 1,
-        "explicacion": "La inviolabilidad supone que el monarca no puede ser detenido, ni juzgado, ni tampoco puede actuar en calidad de testigo.",
+        "explicacion": "La inviolabilidad no se limita a sus funciones oficiales ni admite sanción administrativa: implica que el Rey no puede ser detenido, ni juzgado, ni actuar como testigo, en ningún ámbito.",
         "id": "tema-4-q58"
       },
       {
@@ -5306,7 +5306,7 @@ const TEMAS = [
           "Únicamente a los actos que realice en su esfera de libre actuación (art. 65 CE), no a los de sus funciones constitucionales"
         ],
         "correcta": 2,
-        "explicacion": "En relación con la jurisdicción civil, el monarca queda exento tanto por los actos que realice en el ejercicio de sus funciones constitucionales como por los que pueda desempeñar en la esfera de libre actuación que reconoce el art. 65 CE.",
+        "explicacion": "No se limita a un solo ámbito: en jurisdicción civil, la exención del Rey alcanza tanto a los actos realizados en el ejercicio de sus funciones constitucionales como a los de su esfera de libre actuación reconocida en el art. 65 CE.",
         "id": "tema-4-q59"
       },
       {
@@ -5318,7 +5318,7 @@ const TEMAS = [
           "\"The king can do no wrong\""
         ],
         "correcta": 3,
-        "explicacion": "La regla de la absoluta irresponsabilidad regia es fiel reflejo del viejo aforismo británico \"the king can do no wrong\" (el Rey no puede hacer mal).",
+        "explicacion": "El texto lo cita literalmente: la irresponsabilidad regia absoluta refleja el viejo aforismo británico «the king can do no wrong» (el Rey no puede hacer mal).",
         "id": "tema-4-q60"
       },
       {
@@ -5330,7 +5330,7 @@ const TEMAS = [
           "El art. 56.3 CE, sobre el estatuto personal del Rey"
         ],
         "correcta": 0,
-        "explicacion": "En un Estado de Derecho como el nuestro, la no responsabilidad regia aparece como norma excepcional respecto a la regla general del art. 9.3 CE, según la cual todos los poderes públicos son responsables.",
+        "explicacion": "No es excepción al art. 1.3 CE (forma política) ni al art. 66 (Cortes Generales): la no responsabilidad del Rey es una excepción a la regla general del art. 9.3 CE, que somete a responsabilidad a todos los poderes públicos.",
         "id": "tema-4-q61"
       },
       {
@@ -5342,7 +5342,7 @@ const TEMAS = [
           "En que el Rey goza de inmunidad diplomática internacional"
         ],
         "correcta": 1,
-        "explicacion": "Esta excepcionalidad se fundamenta en la ausencia de poderes efectivos del monarca: el Rey no es responsable porque no puede adoptar decisiones con efectos jurídicos en el orden constitucional.",
+        "explicacion": "No es un simple privilegio histórico sin base jurídica ni deriva de estar fuera del Estado: la excepcionalidad se fundamenta en que el Rey carece de poderes efectivos y no puede adoptar decisiones con efectos jurídicos constitucionales por sí solo.",
         "id": "tema-4-q62"
       },
       {
@@ -5354,7 +5354,7 @@ const TEMAS = [
           "El refrendo solo es exigible en los actos de política exterior"
         ],
         "correcta": 2,
-        "explicacion": "El refrendo significa que todos los actos en los que intervenga el Rey deben ser validados o contrafirmados por otra persona que asumirá la responsabilidad del acto.",
+        "explicacion": "No requiere aprobación del Tribunal Constitucional ni firma notarial, ni se limita a la política exterior: el refrendo significa que todo acto del Rey debe ser contrafirmado por otra persona, que asume la responsabilidad que él no puede tener.",
         "id": "tema-4-q63"
       },
       {
@@ -5366,7 +5366,7 @@ const TEMAS = [
           "El presidente del Congreso"
         ],
         "correcta": 3,
-        "explicacion": "Conforme al esquema expuesto, en las leyes refrenda el Presidente del Gobierno, en los nombramientos el presidente del Congreso, y en los decretos los Ministros.",
+        "explicacion": "No es el Presidente del Gobierno ni los Ministros: los nombramientos del Rey los refrenda el presidente del Congreso, distinto del refrendo de las leyes (Presidente del Gobierno) y de los decretos (Ministros).",
         "id": "tema-4-q64"
       },
       {
@@ -5378,7 +5378,7 @@ const TEMAS = [
           "8 días"
         ],
         "correcta": 0,
-        "explicacion": "El art. 91 CE establece que el Rey sancionará en el plazo de 15 días las leyes aprobadas por las Cortes Generales, y las promulgará y ordenará su inmediata publicación.",
+        "explicacion": "No son 20, 30 ni 8 días: el art. 91 CE fija en 15 días el plazo para que el Rey sancione las leyes, promulgándolas después y ordenando su inmediata publicación.",
         "id": "tema-4-q65"
       },
       {
@@ -5390,7 +5390,7 @@ const TEMAS = [
           "Presidir el Tribunal Constitucional"
         ],
         "correcta": 1,
-        "explicacion": "Es función del Rey convocar y disolver las Cortes Generales y convocar elecciones generales en los términos previstos en la Constitución.",
+        "explicacion": "No elige libremente al Presidente del Gobierno ni legisla por decreto-ley: entre las funciones regias de los arts. 62 y 63 CE está convocar y disolver las Cortes Generales y convocar elecciones, siempre en los términos que fija la Constitución.",
         "id": "tema-4-q66"
       },
       {
@@ -5402,7 +5402,7 @@ const TEMAS = [
           "En el plazo de sesenta días después de celebradas éstas"
         ],
         "correcta": 2,
-        "explicacion": "La convocatoria de las Cortes tras las elecciones (primera reunión) debe hacerse, conforme al art. 68 CE, en el plazo de veinte días después de celebradas éstas.",
+        "explicacion": "No son 15, 30 ni 60 días: la primera reunión de las Cortes tras las elecciones debe hacerse, según el art. 68 CE, en el plazo de veinte días desde su celebración.",
         "id": "tema-4-q67"
       },
       {
@@ -5414,7 +5414,7 @@ const TEMAS = [
           "Los respectivos Presidentes de las Cámaras"
         ],
         "correcta": 3,
-        "explicacion": "Las demás reuniones de las Cortes, en periodos de sesiones ordinarias o extraordinarias, se convocan por los respectivos Presidentes de las Cámaras, no por el Rey.",
+        "explicacion": "Ojo, no las convoca el Rey en todo caso: solo la primera reunión tras las elecciones se vincula a la Corona por la vía del art. 68; las reuniones ordinarias y extraordinarias posteriores las convocan los respectivos Presidentes de las Cámaras.",
         "id": "tema-4-q68"
       },
       {
@@ -5426,7 +5426,7 @@ const TEMAS = [
           "Propuesta de las Cortes Generales, sin intervención del Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "La convocatoria de referéndum debe realizarse a propuesta del Presidente del Gobierno, previa autorización del Congreso de los Diputados.",
+        "explicacion": "No autoriza el Senado ni la propone el Presidente del Congreso: la convocatoria de referéndum exige propuesta del Presidente del Gobierno y previa autorización del Congreso de los Diputados.",
         "id": "tema-4-q69"
       },
       {
@@ -5438,7 +5438,7 @@ const TEMAS = [
           "La Ley Orgánica de 18 de enero de 1978"
         ],
         "correcta": 1,
-        "explicacion": "La forma de realizar el referéndum ha sido regulada por la Ley Orgánica de 18 de enero de 1980.",
+        "explicacion": "No es la LOTC de 1979 ni la ley de la abdicación de 2014: la forma de celebrar el referéndum regulado entre las funciones regias se fija en la Ley Orgánica de 18 de enero de 1980.",
         "id": "tema-4-q70"
       },
       {
@@ -5450,7 +5450,7 @@ const TEMAS = [
           "Ratificar la elección hecha por el Congreso, sin poder proponer candidato"
         ],
         "correcta": 2,
-        "explicacion": "Es función del Rey proponer el candidato a Presidente de Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones en los términos previstos en la Constitución.",
+        "explicacion": "No lo elige libremente ni lo nombra sin intervención del Congreso: corresponde al Rey proponer el candidato a Presidente del Gobierno y, en su caso, nombrarlo, así como poner fin a sus funciones, siempre en los términos constitucionales.",
         "id": "tema-4-q71"
       },
       {
@@ -5462,7 +5462,7 @@ const TEMAS = [
           "La iniciativa y responsabilidad de la propuesta recae en el Presidente del Gobierno"
         ],
         "correcta": 3,
-        "explicacion": "El Rey nombra y separa a los miembros del Gobierno a propuesta de su Presidente; la iniciativa y responsabilidad de estas propuestas recae en el Presidente del Gobierno (\"el Rey nombra pero no elige\").",
+        "explicacion": "La frase no significa que el Rey elija a los Ministros ni que el Congreso los designe: el Rey se limita a nombrar y separar a los miembros del Gobierno, mientras que la iniciativa y la responsabilidad de la propuesta recaen enteramente en el Presidente del Gobierno.",
         "id": "tema-4-q72"
       },
       {
@@ -5474,7 +5474,7 @@ const TEMAS = [
           "Vetarlos si no está de acuerdo"
         ],
         "correcta": 0,
-        "explicacion": "Entre las funciones del Rey se encuentra expedir los Decretos acordados en Consejo de Ministros.",
+        "explicacion": "No los redacta, deroga ni veta: la función del Rey respecto de los decretos acordados en Consejo de Ministros es únicamente expedirlos.",
         "id": "tema-4-q73"
       },
       {
@@ -5486,7 +5486,7 @@ const TEMAS = [
           "Únicamente durante los primeros cien días de cada legislatura"
         ],
         "correcta": 1,
-        "explicacion": "El Rey tiene derecho a ser informado de los asuntos de Estado y a presidir, a estos efectos, las sesiones del Consejo de Ministros cuando lo estime oportuno, a petición del Presidente del Gobierno.",
+        "explicacion": "No lo hace por iniciativa propia ni está limitado a leyes orgánicas o a los primeros cien días: el Rey solo preside el Consejo de Ministros, para ser informado de los asuntos de Estado, cuando lo estime oportuno y a petición del Presidente del Gobierno.",
         "id": "tema-4-q74"
       },
       {
@@ -5498,7 +5498,7 @@ const TEMAS = [
           "El Congreso de los Diputados"
         ],
         "correcta": 2,
-        "explicacion": "Entre las funciones del Rey se incluye el mando supremo de las Fuerzas Armadas.",
+        "explicacion": "No es el Presidente del Gobierno, el Ministro de Defensa ni el Congreso: el mando supremo de las Fuerzas Armadas corresponde constitucionalmente al Rey.",
         "id": "tema-4-q75"
       },
       {
@@ -5510,7 +5510,7 @@ const TEMAS = [
           "No podrá autorizar indultos generales"
         ],
         "correcta": 3,
-        "explicacion": "El Rey ejerce el derecho de gracia con arreglo a la ley, la cual no podrá autorizar indultos generales.",
+        "explicacion": "No exige informe del Tribunal Constitucional ni es competencia exclusiva del Ministerio de Justicia: la ley que regula el derecho de gracia que ejerce el Rey no puede, en ningún caso, autorizar indultos generales.",
         "id": "tema-4-q76"
       },
       {
@@ -5522,7 +5522,7 @@ const TEMAS = [
           "El Presidente del Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "Entre las funciones del Rey figura el Alto Patronazgo de las Reales Academias.",
+        "explicacion": "No corresponde al Ministerio de Educación, al Congreso ni al Presidente del Gobierno: el Alto Patronazgo de las Reales Academias es una función propia del Rey.",
         "id": "tema-4-q77"
       },
       {
@@ -5534,7 +5534,7 @@ const TEMAS = [
           "Presidir el Ministerio de Asuntos Exteriores"
         ],
         "correcta": 1,
-        "explicacion": "Es función del Rey acreditar a los embajadores y otros representantes, estando acreditados ante él los representantes extranjeros.",
+        "explicacion": "No los nombra libremente ni ratifica tratados sin refrendo: el Rey acredita a los embajadores y representantes españoles, y ante él se acreditan los representantes extranjeros.",
         "id": "tema-4-q78"
       },
       {
@@ -5546,7 +5546,7 @@ const TEMAS = [
           "Previa autorización exclusiva del Congreso de los Diputados"
         ],
         "correcta": 2,
-        "explicacion": "El Rey declara la guerra y hace la paz, previa autorización de las Cortes Generales.",
+        "explicacion": "No lo hace sin autorización ni basta con la del Congreso en solitario, ni interviene el Tribunal Constitucional: el Rey declara la guerra y hace la paz previa autorización de las Cortes Generales.",
         "id": "tema-4-q79"
       },
       {
@@ -5558,7 +5558,7 @@ const TEMAS = [
           "El Rey"
         ],
         "correcta": 3,
-        "explicacion": "Entre las funciones del Rey se incluye el nombramiento y relevo de los miembros civiles y militares de su Casa.",
+        "explicacion": "No corresponde al Consejo de Ministros, a las Cortes ni al Presidente del Gobierno: el nombramiento y relevo de los miembros civiles y militares de su Casa es función propia del Rey, ligada a la dotación económica que recibe para su sostenimiento (art. 65 CE).",
         "id": "tema-4-q80"
       },
       {
@@ -5570,7 +5570,7 @@ const TEMAS = [
           "Título VIII, arts. 137 a 158"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal Constitucional se regula en el Título IX de la Constitución, arts. 159 a 165.",
+        "explicacion": "No es el Título VI (Poder Judicial), el Título II (Corona) ni el Título VIII (organización territorial): el Tribunal Constitucional se regula en el Título IX, arts. 159 a 165 CE.",
         "id": "tema-4-q81"
       },
       {
@@ -5582,7 +5582,7 @@ const TEMAS = [
           "La Ley Orgánica del Tribunal Constitucional (LOTC), de 3 de octubre de 1980"
         ],
         "correcta": 1,
-        "explicacion": "El Tribunal Constitucional está desarrollado por la Ley Orgánica del Tribunal Constitucional (LOTC), de 3 de octubre de 1979.",
+        "explicacion": "No es la Ley Orgánica del Poder Judicial ni la ley de la Jurisdicción Contencioso-Administrativa, ni es de 1980: la norma que desarrolla el Tribunal Constitucional es la LOTC, de 3 de octubre de 1979.",
         "id": "tema-4-q82"
       },
       {
@@ -5594,7 +5594,7 @@ const TEMAS = [
           "Un órgano consultivo del Gobierno, sometido a la Constitución y a la Ley Orgánica del Poder Judicial"
         ],
         "correcta": 2,
-        "explicacion": "El art. 1 LOTC define al Tribunal Constitucional como el intérprete supremo de la Constitución, independiente de los demás órganos constitucionales y sometido solo a la Constitución y a la propia Ley Orgánica.",
+        "explicacion": "No es una Sala del Tribunal Supremo ni un órgano consultivo del Gobierno: el art. 1 LOTC define al Tribunal Constitucional como intérprete supremo de la Constitución, independiente y sometido solo a ésta y a su propia Ley Orgánica.",
         "id": "tema-4-q83"
       },
       {
@@ -5606,7 +5606,7 @@ const TEMAS = [
           "Un órgano ad hoc situado fuera del poder judicial ordinario, dotado de naturaleza jurisdiccional"
         ],
         "correcta": 3,
-        "explicacion": "El Tribunal Constitucional se configura como un órgano ad hoc situado fuera del poder judicial ordinario y dotado de naturaleza jurisdiccional.",
+        "explicacion": "No forma parte del Poder Judicial ni depende del Ministerio de Justicia, ni es una comisión parlamentaria: el Tribunal Constitucional se configura como un órgano ad hoc, situado fuera del poder judicial ordinario, con naturaleza jurisdiccional propia.",
         "id": "tema-4-q84"
       },
       {
@@ -5618,7 +5618,7 @@ const TEMAS = [
           "12 miembros nombrados por el CGPJ"
         ],
         "correcta": 0,
-        "explicacion": "El art. 159.1 CE prevé que el Tribunal Constitucional estará compuesto por 12 miembros nombrados por el Rey.",
+        "explicacion": "No son 15 ni 9, y no los nombra directamente el Congreso ni el CGPJ: el art. 159.1 CE fija en 12 los miembros del Tribunal Constitucional, formalmente nombrados por el Rey.",
         "id": "tema-4-q85"
       },
       {
@@ -5630,7 +5630,7 @@ const TEMAS = [
           "Dos, por mayoría de 3/5"
         ],
         "correcta": 1,
-        "explicacion": "Cuatro magistrados son propuestos por el Congreso de los Diputados por mayoría de 3/5.",
+        "explicacion": "No es mayoría absoluta ni mayoría simple, y no son seis: el Congreso propone cuatro magistrados por mayoría de 3/5 de sus miembros.",
         "id": "tema-4-q86"
       },
       {
@@ -5642,7 +5642,7 @@ const TEMAS = [
           "Seis, por mayoría de 3/5"
         ],
         "correcta": 2,
-        "explicacion": "Otros cuatro magistrados son propuestos por el Senado, también por mayoría de 3/5.",
+        "explicacion": "No es mayoría absoluta ni son solo dos: el Senado, igual que el Congreso, propone cuatro magistrados por mayoría de 3/5.",
         "id": "tema-4-q87"
       },
       {
@@ -5654,7 +5654,7 @@ const TEMAS = [
           "Dos el Gobierno y dos el CGPJ"
         ],
         "correcta": 3,
-        "explicacion": "De los 12 magistrados, dos son propuestos por el Gobierno y otros dos por el Consejo General del Poder Judicial (CGPJ).",
+        "explicacion": "No es un reparto desigual entre ambos: Gobierno y CGPJ proponen dos magistrados cada uno, completando así los doce junto a los ocho de Congreso y Senado.",
         "id": "tema-4-q88"
       },
       {
@@ -5666,7 +5666,7 @@ const TEMAS = [
           "El Pleno en su conjunto, por sorteo"
         ],
         "correcta": 0,
-        "explicacion": "El art. 90 LOTC otorga voto de calidad al Presidente del Tribunal Constitucional.",
+        "explicacion": "No es el Vicepresidente ni el magistrado más antiguo, ni se decide por sorteo: el art. 90 LOTC atribuye el voto de calidad al Presidente del Tribunal Constitucional, útil para desempatar votaciones.",
         "id": "tema-4-q89"
       },
       {
@@ -5678,7 +5678,7 @@ const TEMAS = [
           "Magistrados y Fiscales, Notarios y Registradores"
         ],
         "correcta": 1,
-        "explicacion": "La Constitución exige una cualificación técnico-jurídica, debiendo los magistrados pertenecer a alguna de las siguientes categorías: Magistrados y Fiscales, Profesores de Universidad, Funcionarios Públicos y Abogados.",
+        "explicacion": "No se limita a Magistrados del Tribunal Supremo ni incluye a Diputados o Senadores en activo: los magistrados del TC deben pertenecer a alguna de estas categorías: Magistrados y Fiscales, Profesores de Universidad, Funcionarios Públicos o Abogados.",
         "id": "tema-4-q90"
       },
       {
@@ -5690,7 +5690,7 @@ const TEMAS = [
           "Ser juristas de reconocida competencia con más de 10 años de ejercicio profesional"
         ],
         "correcta": 2,
-        "explicacion": "Todos los magistrados deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional.",
+        "explicacion": "No son 10 años, sino más de 15: además de pertenecer a una de las categorías tasadas, todo magistrado del TC debe ser jurista de reconocida competencia con más de 15 años de ejercicio profesional.",
         "id": "tema-4-q91"
       },
       {
@@ -5702,7 +5702,7 @@ const TEMAS = [
           "9 años"
         ],
         "correcta": 3,
-        "explicacion": "El mandato de los magistrados del Tribunal Constitucional es de 9 años.",
+        "explicacion": "No son 6, 12 ni 5 años: el mandato de los magistrados del Tribunal Constitucional es de 9 años.",
         "id": "tema-4-q92"
       },
       {
@@ -5714,7 +5714,7 @@ const TEMAS = [
           "Por terceras partes, cada cuatro años"
         ],
         "correcta": 0,
-        "explicacion": "El mandato de los magistrados es de 9 años, renovándose el Tribunal por terceras partes cada tres años.",
+        "explicacion": "No se renuevan todos a la vez ni por mitades: el Tribunal se renueva por terceras partes (4 de los 12 magistrados) cada tres años, dentro de un mandato total de nueve.",
         "id": "tema-4-q93"
       },
       {
@@ -5726,7 +5726,7 @@ const TEMAS = [
           "Los 12 miembros, debiendo estar presentes al menos la mitad de éstos para adoptar acuerdos"
         ],
         "correcta": 1,
-        "explicacion": "El Pleno está integrado por los 12 miembros del Tribunal, debiendo estar presentes para la adopción de acuerdos al menos 2/3 de éstos.",
+        "explicacion": "No basta con la mitad ni se exige unanimidad: el Pleno lo integran los 12 magistrados, requiriéndose la presencia de al menos 2/3 (es decir, 8) para adoptar acuerdos.",
         "id": "tema-4-q94"
       },
       {
@@ -5738,7 +5738,7 @@ const TEMAS = [
           "Seis magistrados, presidida por el magistrado decano, con quórum mínimo de la mitad"
         ],
         "correcta": 2,
-        "explicacion": "Cada Sala se compone de seis magistrados y está presidida por el Presidente y el Vicepresidente del Tribunal respectivamente, exigiéndose un quórum mínimo de 2/3 de sus miembros.",
+        "explicacion": "No son doce magistrados ni las preside el decano: cada Sala se compone de seis magistrados, presididas respectivamente por el Presidente y el Vicepresidente del Tribunal, con un quórum mínimo de 2/3 de sus miembros.",
         "id": "tema-4-q95"
       },
       {
@@ -5750,7 +5750,7 @@ const TEMAS = [
           "El respectivo Presidente (o quien le sustituya) y dos magistrados"
         ],
         "correcta": 3,
-        "explicacion": "El Pleno y las Salas constituirán Secciones compuestas por el respectivo Presidente, o quien le sustituya, y dos magistrados.",
+        "explicacion": "No se eligen por sorteo entre los doce ni equivalen a media Sala: las Secciones se componen del respectivo Presidente (o quien le sustituya) y dos magistrados más.",
         "id": "tema-4-q96"
       },
       {
@@ -5762,7 +5762,7 @@ const TEMAS = [
           "Resolver en exclusiva los conflictos entre órganos del Estado"
         ],
         "correcta": 0,
-        "explicacion": "Las Secciones se encargan del despacho ordinario y de la decisión o propuesta, según proceda, sobre la admisibilidad o inadmisibilidad de procesos constitucionales; también pueden resolver asuntos de amparo que la Sala correspondiente les defiera.",
+        "explicacion": "No dictan sentencia definitiva en amparo por sí solas, ni eligen al Presidente ni resuelven en exclusiva los conflictos entre órganos: las Secciones se ocupan del despacho ordinario y de decidir sobre la admisibilidad de los procesos constitucionales, aunque también pueden resolver amparos que la Sala les defiera.",
         "id": "tema-4-q97"
       },
       {
@@ -5774,7 +5774,7 @@ const TEMAS = [
           "El nombramiento de los miembros del Poder Judicial"
         ],
         "correcta": 1,
-        "explicacion": "El art. 161 CE recoge, entre otras, las competencias del TC en relación con la constitucionalidad de disposiciones con fuerza de ley, la protección de derechos fundamentales (recurso de amparo), los conflictos entre órganos del Estado y la materia autonómica.",
+        "explicacion": "No se limita a lo contencioso-administrativo ni incluye el nombramiento de jueces: el art. 161 CE atribuye al TC el control de constitucionalidad de normas con fuerza de ley, el recurso de amparo, los conflictos entre órganos del Estado y la materia autonómica.",
         "id": "tema-4-q98"
       },
       {
@@ -5786,7 +5786,7 @@ const TEMAS = [
           "Sí, está fijado de forma cerrada y exhaustiva en el art. 161 CE"
         ],
         "correcta": 2,
-        "explicacion": "El cuadro de competencias del TC no es cerrado, ya que según el art. 161 CE pueden atribuírsele otras nuevas por ley orgánica.",
+        "explicacion": "No es un cuadro cerrado ni exige reforma constitucional para ampliarse: el propio art. 161 CE permite que se atribuyan nuevas competencias al TC mediante ley orgánica, sin necesidad de un decreto del Gobierno ni de tocar la Constitución.",
         "id": "tema-4-q99"
       },
       {
@@ -5798,7 +5798,7 @@ const TEMAS = [
           "Los arts. 2 y 10 de la LOTC"
         ],
         "correcta": 3,
-        "explicacion": "Las competencias del Tribunal Constitucional en su orden interno están reguladas en los arts. 2 y 10 de la LOTC.",
+        "explicacion": "No es el art. 161 CE ni los arts. 1 o 90 de la LOTC: las competencias del Tribunal Constitucional relativas a su propio funcionamiento interno están reguladas en los arts. 2 y 10 de la LOTC.",
         "id": "tema-4-q100"
       },
       {
@@ -5810,7 +5810,7 @@ const TEMAS = [
           "Pertenecer a alguna de las categorías de Magistrado, Fiscal, Profesor de Universidad, Funcionario Público o Abogado"
         ],
         "correcta": 0,
-        "explicacion": "No se exige haber sido Diputado o Senador; los requisitos son ser jurista de reconocida competencia, más de 15 años de ejercicio y pertenecer a alguna de las categorías profesionales tasadas.",
+        "explicacion": "Ser Diputado o Senador no forma parte del perfil exigido: los requisitos reales son ser jurista de reconocida competencia, contar con más de 15 años de ejercicio profesional y pertenecer a una de las categorías tasadas (Magistrado, Fiscal, Profesor de Universidad, Funcionario o Abogado).",
         "nivel": "avanzado",
         "id": "tema-4-q101"
       },
@@ -5823,7 +5823,7 @@ const TEMAS = [
           "El Gobierno necesita mayoría de 3/5 del Consejo de Ministros para proponer a sus dos magistrados"
         ],
         "correcta": 1,
-        "explicacion": "Congreso (4) y Senado (4) proponen por mayoría de 3/5 de cada cámara; Gobierno (2) y CGPJ (2) completan los 12, sin que la Constitución exija a estos dos últimos una mayoría cualificada equivalente.",
+        "explicacion": "No todas las instituciones proponen igual ni con la misma mayoría: Congreso y Senado proponen cuatro magistrados cada uno por mayoría de 3/5, mientras que Gobierno y CGPJ proponen dos cada uno sin que la Constitución les exija una mayoría cualificada equivalente.",
         "nivel": "avanzado",
         "id": "tema-4-q102"
       },
@@ -5836,7 +5836,7 @@ const TEMAS = [
           "El quórum del Pleno es superior al número de magistrados que puede proponer el conjunto de las Cortes Generales"
         ],
         "correcta": 2,
-        "explicacion": "Congreso y Senado proponen conjuntamente 8 de los 12 magistrados (4+4); el quórum del Pleno exige la presencia de al menos 2/3 de los 12 miembros, es decir, 8 magistrados: ambas cifras coinciden numéricamente, aunque se trate de conceptos distintos.",
+        "explicacion": "Es una curiosidad numérica útil para memorizar: Congreso y Senado proponen conjuntamente 8 de los 12 magistrados, y el quórum del Pleno (2/3 de 12) también exige la presencia de 8. Son conceptos distintos que casualmente coinciden en la cifra.",
         "nivel": "avanzado",
         "id": "tema-4-q103"
       },
@@ -5849,7 +5849,7 @@ const TEMAS = [
           "El recurso de inconstitucionalidad lo interponen sujetos legitimados como el Presidente del Gobierno o 50 Diputados dentro de un plazo tasado desde la publicación de la norma, mientras que la cuestión la plantea un Juez o Tribunal durante un proceso judicial concreto"
         ],
         "correcta": 3,
-        "explicacion": "El recurso de inconstitucionalidad es un control directo y abstracto promovido por sujetos legitimados (Presidente del Gobierno, Defensor del Pueblo, 50 Diputados o Senadores, órganos de las CCAA) en plazo tasado, mientras que la cuestión de inconstitucionalidad la plantea un órgano judicial cuando, en un proceso concreto, duda de la constitucionalidad de una norma aplicable al caso.",
+        "explicacion": "No los plantean solo jueces de un lado y órganos políticos del otro: el recurso de inconstitucionalidad lo interponen sujetos legitimados (Presidente del Gobierno, Defensor del Pueblo, 50 Diputados o Senadores, órganos de las CCAA) dentro de un plazo tasado; la cuestión de inconstitucionalidad, en cambio, la plantea un Juez o Tribunal durante un proceso judicial concreto.",
         "nivel": "avanzado",
         "id": "tema-4-q104"
       },
@@ -5862,7 +5862,7 @@ const TEMAS = [
           "Seis meses desde su publicación"
         ],
         "correcta": 0,
-        "explicacion": "Conforme a la LOTC, el plazo general para interponer el recurso de inconstitucionalidad es de tres meses a partir de la publicación de la norma impugnada.",
+        "explicacion": "No es un mes, seis meses ni un año: el plazo general para interponer el recurso de inconstitucionalidad es de tres meses desde la publicación de la norma impugnada.",
         "nivel": "avanzado",
         "id": "tema-4-q105"
       },
@@ -5875,7 +5875,7 @@ const TEMAS = [
           "El Ministerio Fiscal, sin necesidad de que exista proceso judicial"
         ],
         "correcta": 1,
-        "explicacion": "La cuestión de inconstitucionalidad solo puede plantearla un órgano judicial, de oficio o a instancia de parte, cuando en un proceso considere que una norma con rango de ley aplicable al caso y de cuya validez dependa el fallo pueda ser contraria a la Constitución.",
+        "explicacion": "No puede plantearla cualquier ciudadano directamente ni el Ministerio Fiscal sin proceso: la cuestión de inconstitucionalidad solo la plantea un órgano judicial, de oficio o a instancia de parte, cuando la validez de una norma aplicable al caso condicione el fallo.",
         "nivel": "avanzado",
         "id": "tema-4-q106"
       },
@@ -5888,7 +5888,7 @@ const TEMAS = [
           "Tiene carácter subsidiario, por lo que en general exige el agotamiento previo de la vía judicial ordinaria"
         ],
         "correcta": 2,
-        "explicacion": "El recurso de amparo no procede directamente contra leyes; se dirige contra actos o resoluciones de los poderes públicos (incluidos los judiciales) que vulneren derechos fundamentales, siendo un recurso de carácter subsidiario tras agotar la vía judicial ordinaria.",
+        "explicacion": "Es falso que el amparo proceda directamente contra una ley: se dirige contra actos o resoluciones concretas de los poderes públicos que vulneren derechos fundamentales, y tiene carácter subsidiario, exigiendo en general agotar antes la vía judicial ordinaria. Protege esencialmente los derechos de los arts. 14 a 29 y 30.2 CE.",
         "nivel": "avanzado",
         "id": "tema-4-q107"
       },
@@ -5901,7 +5901,7 @@ const TEMAS = [
           "Al Estado frente a una Comunidad Autónoma, o a Comunidades Autónomas entre sí, además de conflictos entre órganos constitucionales del Estado y en defensa de la autonomía local"
         ],
         "correcta": 3,
-        "explicacion": "El Tribunal Constitucional conoce, entre otros, de los conflictos positivos y negativos de competencia entre el Estado y las Comunidades Autónomas o de éstas entre sí, de los conflictos entre órganos constitucionales del Estado y de los conflictos en defensa de la autonomía local.",
+        "explicacion": "No se limita a particulares ni a conflictos entre Ayuntamientos o entre juzgados: el TC resuelve conflictos de competencia entre el Estado y las Comunidades Autónomas, entre Comunidades Autónomas, entre órganos constitucionales del Estado, y en defensa de la autonomía local.",
         "nivel": "avanzado",
         "id": "tema-4-q108"
       },
@@ -5914,7 +5914,7 @@ const TEMAS = [
           "El recurso de amparo tiene como único objeto posible las leyes orgánicas"
         ],
         "correcta": 0,
-        "explicacion": "El recurso de amparo tutela derechos fundamentales frente a vulneraciones concretas de los poderes públicos, mientras que el recurso de inconstitucionalidad es un control abstracto y directo de la constitucionalidad de disposiciones con fuerza de ley, sin exigir litigio concreto.",
+        "explicacion": "No ambos exigen agotar la vía judicial, ni cualquier ciudadano puede plantear un recurso de inconstitucionalidad: el amparo protege derechos fundamentales frente a actos concretos de los poderes públicos, mientras que el recurso de inconstitucionalidad es un control abstracto de normas con fuerza de ley.",
         "nivel": "avanzado",
         "id": "tema-4-q109"
       },
@@ -5927,7 +5927,7 @@ const TEMAS = [
           "Competencias en materia de conflictos entre órganos del Estado"
         ],
         "correcta": 1,
-        "explicacion": "Las competencias del TC son: constitucionalidad de normas con fuerza de ley, recurso de amparo, conflictos entre órganos del Estado, materia autonómica y orden interno del Tribunal; la proclamación de resultados electorales corresponde a las Juntas Electorales, no al TC.",
+        "explicacion": "Eso no es función del TC: la proclamación de los resultados electorales corresponde a las Juntas Electorales, no al Tribunal Constitucional, cuyas competencias reales giran en torno a la constitucionalidad de normas, el amparo, los conflictos entre órganos y la materia autonómica.",
         "nivel": "avanzado",
         "id": "tema-4-q110"
       },
@@ -5940,7 +5940,7 @@ const TEMAS = [
           "El quórum de las Secciones es idéntico al de las Salas"
         ],
         "correcta": 2,
-        "explicacion": "El quórum mínimo de las Salas (compuestas por 6 magistrados) es de 2/3, es decir, 4 miembros; el del Pleno (12 miembros) es también de 2/3, es decir, 8 miembros; las Secciones, en cambio, se componen solo de 3 miembros (Presidente y dos magistrados).",
+        "explicacion": "El quórum de las Salas no es superior al del Pleno, sino proporcionalmente igual (2/3): al ser las Salas de seis magistrados, su quórum exige 4; el del Pleno, con doce miembros, exige 8.",
         "nivel": "avanzado",
         "id": "tema-4-q111"
       },
@@ -5953,7 +5953,7 @@ const TEMAS = [
           "9 años de mandato, renovándose el Tribunal por terceras partes cada 3 años"
         ],
         "correcta": 3,
-        "explicacion": "El mandato de cada magistrado es de 9 años, y el Tribunal se renueva por terceras partes (4 magistrados) cada 3 años.",
+        "explicacion": "No se renueva por mitades ni en bloque cada 6 o 12 años: cada magistrado del TC tiene un mandato de 9 años, y el Tribunal en su conjunto se renueva por terceras partes cada tres años.",
         "nivel": "avanzado",
         "id": "tema-4-q112"
       },
@@ -5966,7 +5966,7 @@ const TEMAS = [
           "Necesitan ser ratificadas por las Cortes Generales para desplegar efectos generales"
         ],
         "correcta": 0,
-        "explicacion": "Conforme al art. 164 CE, contra las sentencias del Tribunal Constitucional no cabe recurso alguno, y las que declaren la inconstitucionalidad de una ley tienen plenos efectos frente a todos a partir del día siguiente de su publicación en el BOE.",
+        "explicacion": "No cabe recurso alguno contra las sentencias del TC, ni necesitan ratificación de las Cortes ni vinculan solo a las partes del proceso: conforme al art. 164 CE, las que declaran la inconstitucionalidad de una ley producen efectos frente a todos desde su publicación en el BOE.",
         "nivel": "avanzado",
         "id": "tema-4-q113"
       },
@@ -5979,7 +5979,7 @@ const TEMAS = [
           "Deben ser juristas de reconocida competencia con más de 15 años de ejercicio profesional"
         ],
         "correcta": 1,
-        "explicacion": "Es el Rey quien nombra formalmente a los 12 magistrados, a propuesta del Congreso (4), el Senado (4), el Gobierno (2) y el CGPJ (2); no los nombran directamente las Cortes.",
+        "explicacion": "Es falso que las Cortes nombren directamente a los magistrados: formalmente los nombra el Rey, a propuesta del Congreso (4), el Senado (4), el Gobierno (2) y el CGPJ (2), siendo el Presidente del TC quien tiene voto de calidad.",
         "nivel": "avanzado",
         "id": "tema-4-q114"
       },
@@ -5992,7 +5992,7 @@ const TEMAS = [
           "Sustituyen íntegramente al Pleno en la resolución de conflictos de competencia"
         ],
         "correcta": 2,
-        "explicacion": "Las Secciones (formadas por el Presidente o quien le sustituya y dos magistrados) se encargan del despacho ordinario y la admisibilidad de procesos, pudiendo además resolver asuntos de amparo que la Sala correspondiente les defiera.",
+        "explicacion": "No sustituyen al Pleno en conflictos de competencia ni tienen seis magistrados como las Salas: las Secciones se encargan del despacho ordinario y la admisibilidad de procesos, y pueden además resolver los amparos que la Sala correspondiente les defiera.",
         "nivel": "avanzado",
         "id": "tema-4-q115"
       },
@@ -6005,7 +6005,7 @@ const TEMAS = [
           "El recurso de inconstitucionalidad está reservado a sujetos institucionales tasados (Presidente del Gobierno, Defensor del Pueblo, 50 Diputados o Senadores, órganos de las CCAA), mientras que el amparo puede interponerlo la persona directamente afectada por la vulneración de sus derechos"
         ],
         "correcta": 3,
-        "explicacion": "El recurso de inconstitucionalidad tiene una legitimación tasada y de carácter institucional; el recurso de amparo, en cambio, puede interponerlo la persona directamente afectada, además del Defensor del Pueblo y el Ministerio Fiscal.",
+        "explicacion": "No ambos recursos están abiertos a cualquier ciudadano ni exigen mayorías parlamentarias iguales: el recurso de inconstitucionalidad tiene una legitimación tasada de carácter institucional, mientras que el amparo puede interponerlo la persona directamente afectada, además del Defensor del Pueblo y el Ministerio Fiscal.",
         "nivel": "avanzado",
         "id": "tema-4-q116"
       },
@@ -6018,7 +6018,7 @@ const TEMAS = [
           "Está sometido solo a la Constitución y a su Ley Orgánica"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal Constitucional NO forma parte del Poder Judicial ordinario ni está subordinado al Tribunal Supremo; es un órgano constitucional autónomo, ad hoc, independiente de los demás órganos del Estado.",
+        "explicacion": "Es justo al revés: el Tribunal Constitucional no forma parte del Poder Judicial ordinario ni está sometido al Tribunal Supremo. Es un órgano ad hoc y autónomo, sometido solo a la Constitución y a su propia Ley Orgánica, e intérprete supremo de la norma fundamental.",
         "nivel": "avanzado",
         "id": "tema-4-q117"
       },
@@ -6031,7 +6031,7 @@ const TEMAS = [
           "La cuestión de inconstitucionalidad no está sujeta a plazo alguno"
         ],
         "correcta": 1,
-        "explicacion": "El recurso de inconstitucionalidad es un control abstracto, ajeno a la existencia de litigio, sujeto al plazo de tres meses desde la publicación de la norma; la cuestión de inconstitucionalidad surge dentro de un proceso judicial concreto, planteándose una vez concluso el procedimiento y dentro del plazo para dictar sentencia.",
+        "explicacion": "No ambos exigen litigio previo ni la cuestión carece de plazo: el recurso de inconstitucionalidad se interpone en un plazo tasado desde la publicación de la norma, exista o no litigio; la cuestión, en cambio, solo surge dentro de un proceso judicial ya iniciado, una vez concluso y dentro del plazo para dictar sentencia.",
         "nivel": "avanzado",
         "id": "tema-4-q118"
       },
@@ -6044,7 +6044,7 @@ const TEMAS = [
           "El regente debe ser español y mayor de edad"
         ],
         "correcta": 2,
-        "explicacion": "Aunque un Rey menor de edad puede estar sujeto simultáneamente a regencia (ejercicio de las funciones regias en su nombre) y a tutela (cuidado de su persona y bienes), son instituciones distintas con regímenes de nombramiento y requisitos diferentes, por lo que no comparten idéntico régimen jurídico.",
+        "explicacion": "Es falso que compartan idéntico régimen jurídico: aunque un Rey menor puede estar sujeto a la vez a regencia (ejercicio de las funciones regias en su nombre) y a tutela (cuidado de su persona), son instituciones distintas, con requisitos y formas de nombramiento diferentes.",
         "nivel": "avanzado",
         "id": "tema-4-q119"
       },
@@ -6057,7 +6057,7 @@ const TEMAS = [
           "La tutoría parlamentaria, nombrada por las Cortes"
         ],
         "correcta": 3,
-        "explicacion": "La tutoría legítima exige que el padre o la madre supérstite se mantenga viudo; si contrae nuevas nupcias (no se mantiene viudo), se pasa a la tutoría parlamentaria, nombrada por las Cortes entre españoles mayores de edad sin cargos de representación política.",
+        "explicacion": "No se mantiene la tutoría legítima ni se aplica retroactivamente la testamentaria: si el padre o la madre supérstite deja de estar viudo, la tutoría legítima decae y se activa la tutoría parlamentaria, nombrada por las Cortes.",
         "nivel": "avanzado",
         "id": "tema-4-q120"
       },
@@ -6070,7 +6070,7 @@ const TEMAS = [
           "En la monarquía constitucional el poder reside en el propio monarca, igual que en la absoluta"
         ],
         "correcta": 0,
-        "explicacion": "En ambas, la posición del monarca es privilegiada y conserva un poder residual en los supuestos no asumidos por otros órganos; la diferencia radica en si es el propio Rey quien se autolimita (limitada) o si el poder reside en la nación mediante constitución de origen popular (constitucional).",
+        "explicacion": "No es que el Rey conserve más poder en la constitucional que en la absoluta, ni que la limitada sea posterior a la parlamentaria: en ambas el monarca conserva una posición privilegiada con poder residual, y la diferencia real está en si es el propio Rey quien se autolimita (limitada) o si el poder reside en la nación (constitucional).",
         "nivel": "avanzado",
         "id": "tema-4-q121"
       },
@@ -6083,7 +6083,7 @@ const TEMAS = [
           "En el primer supuesto interviene el Gobierno y en el segundo el Tribunal Constitucional"
         ],
         "correcta": 1,
-        "explicacion": "El art. 57.3 CE atribuye a las Cortes, en reunión conjunta, la provisión de la sucesión cuando se extingan las líneas llamadas en Derecho; y el art. 57 CE también reserva a las Cortes, mediante ley orgánica, la resolución de las dudas de hecho o de derecho sobre la sucesión.",
+        "explicacion": "No interviene el Tribunal Constitucional ni el Gobierno en ninguno de los dos supuestos: el art. 57 CE atribuye a las Cortes tanto proveer directamente a la sucesión si se extinguen las líneas llamadas, como resolver mediante ley orgánica las dudas de hecho o de derecho que se planteen.",
         "nivel": "avanzado",
         "id": "tema-4-q122"
       },
@@ -6096,7 +6096,7 @@ const TEMAS = [
           "El refrendo de los decretos corresponde a los Ministros"
         ],
         "correcta": 2,
-        "explicacion": "El refrendo es la contrapartida necesaria de la irresponsabilidad regia y se exige, con carácter general, en todos los actos en que interviene el Rey; no es correcto afirmar que resulte innecesario en materia sucesoria o de regencia por su supuesto carácter automático.",
+        "explicacion": "Es falso que el refrendo sea innecesario en materia sucesoria o de regencia: al ser la contrapartida de la irresponsabilidad regia, se exige con carácter general en todos los actos del Rey, sin que exista ese pretendido «automatismo» que lo excluya.",
         "nivel": "avanzado",
         "id": "tema-4-q123"
       },
@@ -6109,7 +6109,7 @@ const TEMAS = [
           "El pariente mayor de edad y más próximo a suceder en la Corona según el orden establecido en la CE"
         ],
         "correcta": 3,
-        "explicacion": "En defecto de padre o madre, la regencia corresponde al pariente mayor de edad y más próximo a suceder en la Corona según el orden establecido en la Constitución.",
+        "explicacion": "No asume el Presidente del Congreso ni queda la regencia vacante: en defecto de padre y madre, la regencia corresponde al pariente mayor de edad y más próximo a suceder en la Corona, según el orden establecido en la Constitución.",
         "nivel": "avanzado",
         "id": "tema-4-q124"
       },
@@ -6122,7 +6122,7 @@ const TEMAS = [
           "Basta con la sola voluntad del Rey, sin necesidad de acuerdo de las Cortes, para que opere la exclusión sucesoria"
         ],
         "correcta": 0,
-        "explicacion": "El art. 57.4 CE dispone que quienes, teniendo derecho a la sucesión, contrajeren matrimonio contra la expresa prohibición del Rey y de las Cortes, quedarán excluidos en la sucesión, extendiéndose esta exclusión también a sus descendientes; se exige tanto la voluntad del Rey como el acuerdo de las Cortes.",
+        "explicacion": "No se limita al contrayente ni basta la sola voluntad del Rey: el art. 57.4 CE exige tanto la prohibición del Rey como el acuerdo de las Cortes, y la exclusión de los derechos sucesorios alcanza también a los descendientes de quien contrae el matrimonio prohibido.",
         "nivel": "avanzado",
         "id": "tema-4-q125"
       }
@@ -6142,7 +6142,7 @@ const TEMAS = [
           "Título III, artículos 97 a 107"
         ],
         "correcta": 0,
-        "explicacion": "El Gobierno se regula en el Título IV CE, bajo la rúbrica \"Del Gobierno y la Administración\", que abarca del artículo 97 al 107.",
+        "explicacion": "Ojo, no confundir con el Título V (arts. 108 a 116), que regula las relaciones Gobierno-Cortes. El Gobierno se regula en el Título IV CE, «Del Gobierno y la Administración», arts. 97 a 107. Dentro de ese título conviven dos instituciones distintas: el Gobierno y la Administración.",
         "id": "tema-5-q1"
       },
       {
@@ -6154,7 +6154,7 @@ const TEMAS = [
           "Un conjunto de órganos ocasional y dependiente directamente de las Cortes Generales que ejecuta las leyes"
         ],
         "correcta": 0,
-        "explicacion": "El tema recoge textualmente la definición de Garrido Falla: la Administración es un complejo orgánico, permanente y teóricamente independiente del Gobierno, que gestiona los intereses generales.",
+        "explicacion": "La Administración es, según Garrido Falla, un complejo orgánico, permanente y teóricamente independiente del Gobierno que gestiona los intereses generales. Se dice «teóricamente» independiente porque al frente de ella están los propios Ministros, que sí son miembros del Gobierno.",
         "id": "tema-5-q2"
       },
       {
@@ -6166,7 +6166,7 @@ const TEMAS = [
           "La política exterior, la Administración civil y militar y la defensa del Estado, junto con el Poder Judicial"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 97 CE establece literalmente que el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva y la potestad reglamentaria.",
+        "explicacion": "El art. 97 CE dice literalmente que el Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. No incluye la potestad legislativa ni la política económica: el mismo artículo añade que además ejerce la función ejecutiva y la potestad reglamentaria.",
         "id": "tema-5-q3"
       },
       {
@@ -6178,7 +6178,7 @@ const TEMAS = [
           "El artículo 100"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 98.1 CE establece que el Gobierno se compone del Presidente, los Vicepresidentes en su caso, los Ministros y los demás miembros que establezca la ley, en los mismos términos que el artículo 1 de la Ley 50/1997.",
+        "explicacion": "Es el art. 98.1 CE el que fija la composición del Gobierno, no el 97 (funciones), el 99 (nombramiento del Presidente) ni el 100 (nombramiento de otros miembros). El art. 1 de la Ley 50/1997 recoge la misma literalidad.",
         "id": "tema-5-q4"
       },
       {
@@ -6190,7 +6190,7 @@ const TEMAS = [
           "Solo si son nombrados por Real Decreto acordado en Consejo de Ministros"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala expresamente que \"los Secretarios de Estado en ningún caso son miembros del Gobierno\".",
+        "explicacion": "No es X: es Y. Los Secretarios de Estado en ningún caso son miembros del Gobierno, según se deduce del art. 98.1 CE y del art. 1 de la Ley 50/1997. Aunque dirijan una Secretaría de Estado con rango de Ministro o asistan a reuniones, no integran el Gobierno.",
         "id": "tema-5-q5"
       },
       {
@@ -6202,7 +6202,7 @@ const TEMAS = [
           "En Consejo de Ministros y en la Diputación Permanente de las Cortes"
         ],
         "correcta": 0,
-        "explicacion": "La Ley 50/1997 dispone que los miembros del Gobierno se reúnen en Consejo de Ministros y en Comisiones Delegadas del Gobierno, formas de reunirse del propio Gobierno.",
+        "explicacion": "La Ley 50/1997 dispone que los miembros del Gobierno se reúnen en Consejo de Ministros y en Comisiones Delegadas del Gobierno. No son órganos distintos del Gobierno, sino formas de reunirse este; por eso, en la práctica, se llama también «Consejo de Ministros» al propio Gobierno.",
         "id": "tema-5-q6"
       },
       {
@@ -6214,7 +6214,7 @@ const TEMAS = [
           "Mayoría de tres quintos del Congreso"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 99 CE exige mayoría absoluta del Congreso en la primera votación de investidura del candidato propuesto por el Rey.",
+        "explicacion": "El art. 99 CE exige mayoría absoluta del Congreso en la primera votación de investidura. Si no se logra, hay una segunda votación 48 horas después, en la que basta la mayoría simple.",
         "id": "tema-5-q7"
       },
       {
@@ -6226,7 +6226,7 @@ const TEMAS = [
           "Dos meses después, por mayoría simple"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 99 CE prevé una segunda votación 48 horas después de la primera, en la que basta la mayoría simple para obtener la confianza.",
+        "explicacion": "Ojo, no confundir con la moción de censura, que exige esperar 5 días, no 48 horas. En la investidura, si falla la primera votación (mayoría absoluta), la segunda se celebra 48 horas después y basta la mayoría simple.",
         "id": "tema-5-q8"
       },
       {
@@ -6238,7 +6238,7 @@ const TEMAS = [
           "El Consejo de Ministros en funciones asumirá la disolución, sin intervención del Rey"
         ],
         "correcta": 0,
-        "explicacion": "La CE prevé como sanción por la incapacidad parlamentaria que el Rey disuelva ambas Cámaras y convoque nuevas elecciones, decisión que refrenda el Presidente del Congreso.",
+        "explicacion": "Transcurridos dos meses desde la primera votación sin que ningún candidato logre la confianza, la CE prevé una sanción a la incapacidad parlamentaria: el Rey disuelve ambas Cámaras y convoca nuevas elecciones. De forma excepcional, esta decisión regia la refrenda el Presidente del Congreso, no el Presidente del Gobierno saliente.",
         "id": "tema-5-q9"
       },
       {
@@ -6250,7 +6250,7 @@ const TEMAS = [
           "Mayoría absoluta del Senado, con la petición planteada por un tercio de la Cámara, sin cabida a la gracia real"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que la responsabilidad penal especial por alta traición exige mayoría absoluta del Congreso, debiendo plantearse la petición por un cuarto de la Cámara, sin caber gracia real.",
+        "explicacion": "No es ante el Senado: la responsabilidad penal especial por alta traición se exige ante el Congreso, con mayoría absoluta y petición planteada por una cuarta parte de la Cámara. Además, en este supuesto no cabe la gracia real (indulto).",
         "id": "tema-5-q10"
       },
       {
@@ -6262,7 +6262,7 @@ const TEMAS = [
           "La disolución anticipada de las Cortes"
         ],
         "correcta": 0,
-        "explicacion": "El esquema del tema recoge que la responsabilidad política se exige mediante la moción de censura, frente a la responsabilidad civil (Sala civil del TS) y penal (Sala penal del TS).",
+        "explicacion": "La responsabilidad política del Presidente se exige mediante la moción de censura, no mediante la cuestión de confianza (que es una iniciativa del propio Presidente, no un mecanismo de exigencia de responsabilidad). El esquema del tema distingue también la responsabilidad civil (Sala Civil del TS) y penal (Sala Penal del TS).",
         "id": "tema-5-q11"
       },
       {
@@ -6274,7 +6274,7 @@ const TEMAS = [
           "El artículo 1 de la Ley 50/1997, integrándolo dentro de la composición del Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que el artículo 3 de la Ley 50/1997 concreta las funciones del Vicepresidente en la asunción de las que le encomiende el Presidente del Gobierno.",
+        "explicacion": "Como la Constitución no enumera funciones del Vicepresidente, es el art. 3 de la Ley 50/1997 el que las concreta, remitiéndolas a lo que le encomiende el Presidente. Por eso es una figura de perfiles borrosos, que en la práctica suele actuar como superministro coordinador.",
         "id": "tema-5-q12"
       },
       {
@@ -6286,7 +6286,7 @@ const TEMAS = [
           "Por el Congreso de los Diputados, a propuesta vinculante del Presidente, mediante Real Decreto"
         ],
         "correcta": 0,
-        "explicacion": "Conforme al artículo 57.3 de la Ley 40/2015, el nombramiento y cese de los Ministros corresponde al Rey a propuesta vinculante del Presidente, materializándose de facto mediante Real Decreto de este último.",
+        "explicacion": "El nombramiento y cese de los Ministros lo realiza el Rey, pero a propuesta vinculante del Presidente del Gobierno, por lo que de facto lo hace este mediante Real Decreto. Así lo recoge hoy el art. 57.3 de la Ley 40/2015.",
         "id": "tema-5-q13"
       },
       {
@@ -6298,7 +6298,7 @@ const TEMAS = [
           "El artículo 1"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 4.2 de la Ley 50/1997 (Ley del Gobierno) admite con carácter potestativo la existencia de ministros sin cartera, sin jefatura de un Ministerio concreto.",
+        "explicacion": "El art. 4.2 de la Ley 50/1997 admite, con carácter potestativo, la figura del ministro sin cartera, que conserva la condición de Ministro sin dirigir ningún Departamento.",
         "id": "tema-5-q14"
       },
       {
@@ -6310,7 +6310,7 @@ const TEMAS = [
           "El Rey, sancionando y promulgando las leyes"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 66.2 CE atribuye la potestad legislativa del Estado a las Cortes Generales, si bien el Gobierno dispone de un poder normativo subordinado a la Constitución y a la ley.",
+        "explicacion": "La potestad legislativa del Estado corresponde a las Cortes Generales (art. 66.2 CE). Esto no impide que el Gobierno disponga de un poder normativo propio, pero subordinado a la Constitución y a la ley.",
         "id": "tema-5-q15"
       },
       {
@@ -6322,7 +6322,7 @@ const TEMAS = [
           "Las Leyes de Bases y los Reales Decretos Legislativos autonómicos"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que, dentro de la función normativa, el Gobierno puede dictar Decretos Legislativos y Decretos-Leyes (arts. 82 a 86 CE), situados formalmente al mismo nivel que las leyes de las Cortes.",
+        "explicacion": "Los Decretos Legislativos y los Decretos-Leyes (arts. 82 a 86 CE) son los instrumentos que permiten al Gobierno dictar normas con rango de ley, situadas formalmente al mismo nivel que las de las Cortes.",
         "id": "tema-5-q16"
       },
       {
@@ -6334,7 +6334,7 @@ const TEMAS = [
           "Previa deliberación del Consejo de Ministros, sin intervención de las Cámaras"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que la decisión del Presidente del Gobierno de proponer el referéndum consultivo no es libre, sino que precisa la previa autorización del Congreso de los Diputados (art. 92.2 CE).",
+        "explicacion": "No es el Senado ni ambas Cámaras: la propuesta de referéndum consultivo del art. 92.2 CE requiere la previa autorización del Congreso de los Diputados. Es una de las limitaciones a la función de equilibrio institucional del Gobierno.",
         "id": "tema-5-q17"
       },
       {
@@ -6346,7 +6346,7 @@ const TEMAS = [
           "Mayoría de dos tercios del Senado"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que, previo requerimiento no atendido, el Gobierno podrá adoptar las medidas del artículo 155 CE con la aprobación por mayoría absoluta del Senado.",
+        "explicacion": "No es el Congreso: la vía del art. 155 CE exige la aprobación por mayoría absoluta del Senado, tras un requerimiento previo al Presidente autonómico no atendido.",
         "id": "tema-5-q18"
       },
       {
@@ -6358,7 +6358,7 @@ const TEMAS = [
           "\"Del control parlamentario y la responsabilidad del Gobierno\""
         ],
         "correcta": 0,
-        "explicacion": "El Título V CE (arts. 108-116) lleva por rúbrica \"Relaciones entre el Gobierno y las Cortes Generales\".",
+        "explicacion": "El Título V CE (arts. 108 a 116) se rubrica «Relaciones entre el Gobierno y las Cortes Generales», porque el Gobierno solo se relaciona institucionalmente con el poder legislativo, no con el judicial, que es independiente.",
         "id": "tema-5-q19"
       },
       {
@@ -6370,7 +6370,7 @@ const TEMAS = [
           "Ante el Rey, como Jefe del Estado"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 108 CE dispone literalmente que \"El Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados\".",
+        "explicacion": "El art. 108 CE dice literalmente que «el Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados», no ante el Senado ni ante las Cortes en sesión conjunta.",
         "id": "tema-5-q20"
       },
       {
@@ -6382,7 +6382,7 @@ const TEMAS = [
           "Una vez por período de sesiones"
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que, conforme a los Reglamentos de las Cámaras, la presencia de los miembros del Gobierno reclamada en virtud del artículo 110 CE es obligatoria una vez por semana.",
+        "explicacion": "Los Reglamentos de las Cámaras fijan en una vez por semana la presencia obligatoria de los miembros del Gobierno reclamada al amparo del art. 110 CE.",
         "id": "tema-5-q21"
       },
       {
@@ -6394,7 +6394,7 @@ const TEMAS = [
           "5 días desde su presentación, aprobada por mayoría de tres quintos"
         ],
         "correcta": 0,
-        "explicacion": "Según el anexo, la moción de censura (art. 114 CE) no podrá votarse hasta que transcurran 5 días desde su presentación y se aprueba únicamente por mayoría absoluta; además debe ser propuesta por al menos la décima parte de los Diputados.",
+        "explicacion": "Según el anexo, la moción de censura (art. 114 CE) no puede votarse hasta que transcurran 5 días desde su presentación, y se aprueba por mayoría absoluta. Además debe proponerla al menos la décima parte de los Diputados.",
         "id": "tema-5-q22"
       },
       {
@@ -6406,7 +6406,7 @@ const TEMAS = [
           "2 meses, exigiéndose mayoría absoluta en la segunda votación"
         ],
         "correcta": 0,
-        "explicacion": "El anexo señala que en la cuestión de confianza median 48 horas entre la primera y la segunda votación, entendiéndose otorgada la confianza cuando vote a favor la mayoría simple de los Diputados.",
+        "explicacion": "Ojo, no confundir con la investidura: el anexo señala que en la cuestión de confianza median 48 horas entre la primera y la segunda votación, bastando mayoría simple en la segunda para entenderla otorgada.",
         "id": "tema-5-q23"
       },
       {
@@ -6418,7 +6418,7 @@ const TEMAS = [
           "No hay plazo mínimo, solo la deliberación del Consejo de Ministros"
         ],
         "correcta": 0,
-        "explicacion": "El anexo indica que la propuesta de disolución de las Cortes Generales no podrá presentarse antes de que transcurra un año desde la anterior disolución, salvo lo dispuesto en el artículo 99.5 CE.",
+        "explicacion": "El anexo fija en un año el plazo mínimo desde la anterior disolución de las Cortes para poder proponer una nueva, salvo la excepción del art. 99.5 CE (disolución automática por falta de investidura).",
         "id": "tema-5-q24"
       },
       {
@@ -6430,7 +6430,7 @@ const TEMAS = [
           "Mayoría de dos tercios, conforme al artículo 114 CE"
         ],
         "correcta": 0,
-        "explicacion": "El anexo recoge que la moción simple derivada de una interpelación (art. 111 CE) se aprueba por mayoría simple del Congreso.",
+        "explicacion": "La moción simple que puede derivarse de una interpelación (art. 111 CE) se aprueba por mayoría simple, a diferencia de la moción de censura, que exige mayoría absoluta.",
         "id": "tema-5-q25"
       },
       {
@@ -6442,7 +6442,7 @@ const TEMAS = [
           "Título VI"
         ],
         "correcta": 1,
-        "explicacion": "El Gobierno se regula en el Título IV CE, arts. 97 a 107, bajo la rúbrica 'Del Gobierno y la Administración'.",
+        "explicacion": "Ojo, no confundir con el Título V (relaciones Gobierno-Cortes): el Gobierno se regula en el Título IV CE, arts. 97 a 107.",
         "id": "tema-5-q26"
       },
       {
@@ -6454,7 +6454,7 @@ const TEMAS = [
           "Un complejo orgánico, temporal y subordinado jerárquicamente al Congreso"
         ],
         "correcta": 1,
-        "explicacion": "Garrido Falla define la Administración como complejo orgánico, permanente y teóricamente independiente del Gobierno, que gestiona los intereses generales.",
+        "explicacion": "No es temporal ni depende del Congreso: Garrido Falla define la Administración como complejo orgánico, permanente y teóricamente independiente del Gobierno, que gestiona los intereses generales.",
         "id": "tema-5-q27"
       },
       {
@@ -6466,7 +6466,7 @@ const TEMAS = [
           "Dual, repartido entre el Presidente y el Rey"
         ],
         "correcta": 1,
-        "explicacion": "El constituyente consagra al Gobierno como órgano constitucional, poder unitario y no dual, separado de la Jefatura del Estado, cuya titularidad corresponde al Rey.",
+        "explicacion": "No es un poder dual repartido con el Rey: el Gobierno se configura como poder unitario, separado en todo caso de la Jefatura del Estado, cuya titularidad corresponde al Monarca.",
         "id": "tema-5-q28"
       },
       {
@@ -6478,7 +6478,7 @@ const TEMAS = [
           "De mera coordinación protocolaria sin preeminencia política"
         ],
         "correcta": 1,
-        "explicacion": "El Presidente destaca sobre los demás miembros del Gobierno como 'primus inter pares', al ser quien propone su nombramiento y separación libremente.",
+        "explicacion": "El Presidente destaca sobre los demás miembros del Gobierno como «primus inter pares», al ser quien propone libremente su nombramiento y separación. La Ley 50/1997 llega a decir que es «la cabeza del Estado de una manera real y efectiva».",
         "id": "tema-5-q29"
       },
       {
@@ -6490,7 +6490,7 @@ const TEMAS = [
           "Presidente, los Vicepresidentes en su caso, los Ministros y los Subsecretarios"
         ],
         "correcta": 1,
-        "explicacion": "Esta es la literalidad del art. 98.1 CE, recogida también en el art. 1 de la Ley del Gobierno.",
+        "explicacion": "El art. 98.1 CE compone el Gobierno de Presidente, Vicepresidentes en su caso, Ministros y los demás miembros que establezca la ley; ni Secretarios de Estado ni Subsecretarios entran en esa lista.",
         "id": "tema-5-q30"
       },
       {
@@ -6502,7 +6502,7 @@ const TEMAS = [
           "Solo los Secretarios de Estado con rango de Subsecretario"
         ],
         "correcta": 1,
-        "explicacion": "Los Secretarios de Estado no son miembros del Gobierno en ningún caso, según se deduce del art. 98.1 CE y del art. 1 de la Ley 50/1997.",
+        "explicacion": "No, en ningún caso: los Secretarios de Estado no son miembros del Gobierno, se deduzca del art. 98.1 CE o del art. 1 de la Ley 50/1997.",
         "id": "tema-5-q31"
       },
       {
@@ -6514,7 +6514,7 @@ const TEMAS = [
           "Órganos consultivos externos al Poder Ejecutivo"
         ],
         "correcta": 1,
-        "explicacion": "Se deduce que Consejo de Ministros y Comisiones Delegadas son formas de reunión del Gobierno, no instituciones separadas del mismo.",
+        "explicacion": "El Consejo de Ministros y las Comisiones Delegadas son formas de reunirse el Gobierno, no órganos distintos con miembros propios; de ahí que al Gobierno se le llame también Consejo de Ministros.",
         "id": "tema-5-q32"
       },
       {
@@ -6526,7 +6526,7 @@ const TEMAS = [
           "Ley 19/2013, de 9 de diciembre"
         ],
         "correcta": 1,
-        "explicacion": "La Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la Administración General del Estado, concreta ese régimen.",
+        "explicacion": "Ojo, no confundir con la Ley 50/1997 (organización del Gobierno) ni con la Ley 40/2015 (régimen jurídico del sector público): el estatuto e incompatibilidades de sus miembros se regula hoy en la Ley 3/2015, de 30 de marzo.",
         "id": "tema-5-q33"
       },
       {
@@ -6538,7 +6538,7 @@ const TEMAS = [
           "La Inspección General de Servicios de la Administración"
         ],
         "correcta": 1,
-        "explicacion": "Se crea la Oficina de Conflictos de Intereses para supervisar el cumplimiento del régimen de incompatibilidades.",
+        "explicacion": "La Oficina de Conflictos de Intereses es el órgano creado para supervisar el cumplimiento del régimen de incompatibilidades de los altos cargos.",
         "id": "tema-5-q34"
       },
       {
@@ -6550,7 +6550,7 @@ const TEMAS = [
           "El artículo 100 CE"
         ],
         "correcta": 1,
-        "explicacion": "El art. 99 CE regula el procedimiento de nombramiento del Presidente del Gobierno.",
+        "explicacion": "El nombramiento del Presidente del Gobierno se regula en el art. 99 CE.",
         "id": "tema-5-q35"
       },
       {
@@ -6562,7 +6562,7 @@ const TEMAS = [
           "El partido más votado propone directamente su candidato al Rey, sin consulta previa"
         ],
         "correcta": 1,
-        "explicacion": "El Rey interviene de forma directa proponiendo al Congreso un candidato, tras consultar con los grupos políticos con representación parlamentaria, situándose al margen de la lucha partidista.",
+        "explicacion": "No al Senado: el Rey propone un candidato al Congreso, tras consultar previamente con los grupos políticos con representación parlamentaria, situándose al margen de la lucha partidista.",
         "id": "tema-5-q36"
       },
       {
@@ -6574,7 +6574,7 @@ const TEMAS = [
           "Jurar acatamiento a la Constitución ante el Congreso"
         ],
         "correcta": 1,
-        "explicacion": "El candidato expone su programa político ante el Congreso y solicita la confianza de la Cámara mediante votación.",
+        "explicacion": "El candidato propuesto expone su programa político ante el Congreso y solicita la confianza de la Cámara mediante votación; el Senado no interviene en este trámite.",
         "id": "tema-5-q37"
       },
       {
@@ -6586,7 +6586,7 @@ const TEMAS = [
           "Mayoría de dos tercios"
         ],
         "correcta": 1,
-        "explicacion": "En la primera votación de investidura se requiere mayoría absoluta del Congreso.",
+        "explicacion": "La primera votación de investidura exige mayoría absoluta del Congreso.",
         "id": "tema-5-q38"
       },
       {
@@ -6598,7 +6598,7 @@ const TEMAS = [
           "Al mes siguiente, bastando mayoría simple"
         ],
         "correcta": 1,
-        "explicacion": "Transcurridas 48 horas desde la primera votación, se realiza una segunda en la que basta la mayoría simple.",
+        "explicacion": "Si falla la primera votación, la segunda se celebra 48 horas después y basta la mayoría simple, no la absoluta.",
         "id": "tema-5-q39"
       },
       {
@@ -6610,7 +6610,7 @@ const TEMAS = [
           "El candidato que hubiera obtenido más votos en la primera votación será investido automáticamente"
         ],
         "correcta": 1,
-        "explicacion": "Se trata de una sanción constitucional a la incapacidad parlamentaria: transcurridos dos meses sin investidura, el Rey disuelve ambas Cámaras y convoca elecciones.",
+        "explicacion": "Transcurridos dos meses desde la primera votación sin investidura, el Rey disuelve ambas Cámaras (no solo el Congreso) y convoca nuevas elecciones.",
         "id": "tema-5-q40"
       },
       {
@@ -6622,7 +6622,7 @@ const TEMAS = [
           "El Vicepresidente primero del Congreso"
         ],
         "correcta": 1,
-        "explicacion": "Esta decisión regia queda refrendada, de forma excepcional, por el Presidente del Congreso.",
+        "explicacion": "De forma excepcional a la regla general de refrendo por el Presidente del Gobierno, esta disolución la refrenda el Presidente del Congreso.",
         "id": "tema-5-q41"
       },
       {
@@ -6634,7 +6634,7 @@ const TEMAS = [
           "El artículo 98 CE"
         ],
         "correcta": 1,
-        "explicacion": "El art. 2.2 de la Ley 50/1997 tasa de manera exhaustiva las funciones del Presidente del Gobierno.",
+        "explicacion": "No es el art. 97 CE (que fija las funciones del Gobierno en general): es el art. 2.2 de la Ley 50/1997 el que tasa de forma exhaustiva las funciones propias del Presidente.",
         "id": "tema-5-q42"
       },
       {
@@ -6646,7 +6646,7 @@ const TEMAS = [
           "Autorización previa del Senado por mayoría absoluta"
         ],
         "correcta": 1,
-        "explicacion": "La propuesta de disolución exige, como requisito, la previa deliberación del Consejo de Ministros.",
+        "explicacion": "Proponer al Rey la disolución del Congreso, del Senado o de las Cortes Generales exige la previa deliberación del Consejo de Ministros, no autorización parlamentaria.",
         "id": "tema-5-q43"
       },
       {
@@ -6658,7 +6658,7 @@ const TEMAS = [
           "Previa deliberación del Consejo de Ministros, sin necesidad de autorización parlamentaria"
         ],
         "correcta": 0,
-        "explicacion": "La propuesta de referéndum consultivo requiere previa autorización del Congreso de los Diputados.",
+        "explicacion": "Al contrario que la disolución de Cámaras (que solo exige deliberación del Consejo de Ministros), proponer un referéndum consultivo exige la previa autorización del Congreso de los Diputados.",
         "id": "tema-5-q44"
       },
       {
@@ -6670,7 +6670,7 @@ const TEMAS = [
           "La legislación reguladora de la seguridad ciudadana"
         ],
         "correcta": 0,
-        "explicacion": "El Presidente dirige la política de defensa conforme a la legislación reguladora de la defensa nacional y la organización militar.",
+        "explicacion": "El Presidente dirige la política de defensa y ejerce, respecto de las Fuerzas Armadas, las funciones previstas en la legislación reguladora de la defensa nacional y de la organización militar.",
         "id": "tema-5-q45"
       },
       {
@@ -6682,7 +6682,7 @@ const TEMAS = [
           "Los artículos 108 y 112 de la Constitución"
         ],
         "correcta": 0,
-        "explicacion": "Esta función se ejerce de acuerdo con lo establecido en los arts. 64 y 91 CE.",
+        "explicacion": "Esta función de refrendo y de sometimiento de leyes a sanción real se ejerce de acuerdo con los arts. 64 y 91 CE, no con los preceptos del Título IV relativos al propio Gobierno.",
         "id": "tema-5-q46"
       },
       {
@@ -6694,7 +6694,7 @@ const TEMAS = [
           "A las Cortes Generales en sesión conjunta"
         ],
         "correcta": 1,
-        "explicacion": "El Presidente propone al Rey el nombramiento y separación de Vicepresidentes y Ministros, conforme al art. 100 CE y al art. 2.2 de la Ley 50/1997.",
+        "explicacion": "El Presidente propone al Rey el nombramiento y separación de Vicepresidentes y Ministros; es el Rey quien formalmente los nombra, según el art. 100 CE y el art. 2.2 de la Ley 50/1997.",
         "id": "tema-5-q47"
       },
       {
@@ -6706,7 +6706,7 @@ const TEMAS = [
           "La interpelación parlamentaria"
         ],
         "correcta": 1,
-        "explicacion": "La responsabilidad política se exige a través de la moción de censura, promovida por el Congreso.",
+        "explicacion": "La responsabilidad política se exige mediante la moción de censura, no mediante la cuestión de confianza (que parte del propio Presidente).",
         "id": "tema-5-q48"
       },
       {
@@ -6718,7 +6718,7 @@ const TEMAS = [
           "Ante el Congreso de los Diputados"
         ],
         "correcta": 1,
-        "explicacion": "La responsabilidad civil se exige por medio de la Sala de lo Civil del Tribunal Supremo.",
+        "explicacion": "La responsabilidad civil del Presidente se exige por medio de la Sala de lo Civil del Tribunal Supremo, no de la Sala Contencioso-Administrativa ni del Tribunal Constitucional.",
         "id": "tema-5-q49"
       },
       {
@@ -6730,7 +6730,7 @@ const TEMAS = [
           "La Audiencia Nacional"
         ],
         "correcta": 0,
-        "explicacion": "La responsabilidad penal general solo puede exigirse ante la Sala de lo Penal del Tribunal Supremo (art. 102 CE).",
+        "explicacion": "La responsabilidad penal general solo puede exigirse ante la Sala de lo Penal del Tribunal Supremo (art. 102 CE); junto a ella existe la responsabilidad penal especial por alta traición.",
         "id": "tema-5-q50"
       },
       {
@@ -6742,7 +6742,7 @@ const TEMAS = [
           "Mayoría de dos tercios del Congreso, planteada por un tercio de la Cámara"
         ],
         "correcta": 1,
-        "explicacion": "Se exige mayoría absoluta del Congreso para que sea juzgado, siendo la petición planteada por un cuarto de la Cámara.",
+        "explicacion": "La responsabilidad penal especial por alta traición exige mayoría absoluta del Congreso (no del Senado), con la petición planteada por una cuarta parte de la Cámara.",
         "id": "tema-5-q51"
       },
       {
@@ -6754,7 +6754,7 @@ const TEMAS = [
           "Sí, si lo concede el Rey a propuesta del Gobierno"
         ],
         "correcta": 1,
-        "explicacion": "En estos supuestos no cabe en ningún caso la gracia real, conforme al art. 102 CE.",
+        "explicacion": "En estos supuestos de alta traición no cabe en ningún caso la gracia real (indulto), a diferencia de otros delitos comunes.",
         "id": "tema-5-q52"
       },
       {
@@ -6766,7 +6766,7 @@ const TEMAS = [
           "Potestativa, pero limitada por ley a un máximo de dos"
         ],
         "correcta": 1,
-        "explicacion": "Es una figura de carácter potestativo: puede haber uno, varios o ningún Vicepresidente según decida el Presidente.",
+        "explicacion": "El Vicepresidente es una figura potestativa: puede haber uno, varios o ninguno, según decida el Presidente, sin que la ley fije un máximo.",
         "id": "tema-5-q53"
       },
       {
@@ -6778,7 +6778,7 @@ const TEMAS = [
           "No; es el art. 4.2 de la Ley 50/1997 el que las concreta"
         ],
         "correcta": 1,
-        "explicacion": "El texto constitucional no enumera funciones ni competencias del Vicepresidente; el art. 3 de la Ley 50/1997 las concreta remitiéndose a lo que le encomiende el Presidente.",
+        "explicacion": "La Constitución no enumera las funciones del Vicepresidente; es el art. 3 de la Ley 50/1997 el que las concreta remitiéndolas a lo que le encomiende el Presidente.",
         "id": "tema-5-q54"
       },
       {
@@ -6790,7 +6790,7 @@ const TEMAS = [
           "Únicamente durante la tramitación de una moción de censura"
         ],
         "correcta": 1,
-        "explicacion": "En la práctica, el Vicepresidente suple al Presidente en caso de vacante, ausencia o enfermedad.",
+        "explicacion": "En la práctica, el Vicepresidente suple al Presidente en caso de vacante, ausencia o enfermedad, además de ejercer de superministro coordinador en muchos gobiernos.",
         "id": "tema-5-q55"
       },
       {
@@ -6802,7 +6802,7 @@ const TEMAS = [
           "Alto Comisionado"
         ],
         "correcta": 1,
-        "explicacion": "El Vicepresidente que asuma la titularidad de un Departamento Ministerial ostenta además la condición de Ministro.",
+        "explicacion": "Si el Vicepresidente asume la titularidad de un Departamento Ministerial, ostenta además la condición de Ministro.",
         "id": "tema-5-q56"
       },
       {
@@ -6814,7 +6814,7 @@ const TEMAS = [
           "El Consejo de Ministros, por mayoría simple de sus miembros"
         ],
         "correcta": 1,
-        "explicacion": "El nombramiento y cese de Ministros lo hace el Rey, a propuesta del Presidente, siendo dicha propuesta rigurosamente vinculante, por lo que de facto lo realiza el Presidente mediante Real Decreto.",
+        "explicacion": "El Rey nombra y cesa a los Ministros, pero a propuesta del Presidente, siendo esta rigurosamente vinculante; de facto, quien lo materializa es el propio Presidente mediante Real Decreto.",
         "id": "tema-5-q57"
       },
       {
@@ -6826,7 +6826,7 @@ const TEMAS = [
           "La Ley 3/2015, de 30 de marzo"
         ],
         "correcta": 0,
-        "explicacion": "El art. 57.3 de la Ley 40/2015 regula esta materia, sustituyendo a la antigua LOFAGE.",
+        "explicacion": "Ojo, no confundir con la derogada LOFAGE ni con la Ley 50/1997: hoy es el art. 57.3 de la Ley 40/2015, de Régimen Jurídico del Sector Público, el que regula esta materia.",
         "id": "tema-5-q58"
       },
       {
@@ -6838,7 +6838,7 @@ const TEMAS = [
           "Sí, un número siempre impar de Ministros"
         ],
         "correcta": 1,
-        "explicacion": "La Constitución no señala ningún número rígido, ni siquiera aproximado, de Ministros que deban componer el gabinete.",
+        "explicacion": "No, la CE no fija ningún número rígido, ni siquiera aproximado, de Ministros; el tamaño del gabinete queda a criterio de cada Presidente.",
         "id": "tema-5-q59"
       },
       {
@@ -6850,7 +6850,7 @@ const TEMAS = [
           "Sí, con carácter obligatorio, según el art. 3 de la Ley 50/1997"
         ],
         "correcta": 1,
-        "explicacion": "El art. 4.2 de la Ley 50/1997 admite la existencia de ministros sin cartera con carácter potestativo.",
+        "explicacion": "Sí puede existir: el art. 4.2 de la Ley 50/1997 admite la figura del ministro sin cartera con carácter potestativo, sin que la Ley 40/2015 la haya suprimido.",
         "id": "tema-5-q60"
       },
       {
@@ -6862,7 +6862,7 @@ const TEMAS = [
           "Política y jurisdiccional"
         ],
         "correcta": 1,
-        "explicacion": "Los Ministros tienen naturaleza administrativa, al frente de un Departamento (art. 61 Ley 40/2015), y política, al participar en el Consejo de Ministros.",
+        "explicacion": "Los Ministros tienen naturaleza administrativa, al frente de un Departamento (art. 61 Ley 40/2015), y naturaleza política, al integrar el Consejo de Ministros.",
         "id": "tema-5-q61"
       },
       {
@@ -6874,7 +6874,7 @@ const TEMAS = [
           "La potestad tributaria originaria"
         ],
         "correcta": 1,
-        "explicacion": "El art. 97 CE atribuye al Gobierno la función ejecutiva y la potestad reglamentaria.",
+        "explicacion": "El art. 97 CE atribuye al Gobierno la función ejecutiva y la potestad reglamentaria, no la potestad legislativa ordinaria, que corresponde a las Cortes.",
         "id": "tema-5-q62"
       },
       {
@@ -6886,7 +6886,7 @@ const TEMAS = [
           "La función de dirección de la comunidad política y la función legislativa"
         ],
         "correcta": 1,
-        "explicacion": "La actividad del Gobierno se expresa en la función política (dirección de la comunidad política) y la función normativa, a las que se añade la función administrativa.",
+        "explicacion": "La actividad del Gobierno se expresa en dos funciones básicas, la de dirección de la comunidad política y la normativa, a las que se añade la función administrativa.",
         "id": "tema-5-q63"
       },
       {
@@ -6898,7 +6898,7 @@ const TEMAS = [
           "El Rey"
         ],
         "correcta": 1,
-        "explicacion": "El art. 66.2 CE atribuye a las Cortes Generales la potestad legislativa del Estado.",
+        "explicacion": "El art. 66.2 CE atribuye la potestad legislativa del Estado a las Cortes Generales, no al Gobierno ni al Congreso en exclusiva.",
         "id": "tema-5-q64"
       },
       {
@@ -6910,7 +6910,7 @@ const TEMAS = [
           "Solo en materia presupuestaria, mediante Ley de Presupuestos"
         ],
         "correcta": 1,
-        "explicacion": "Los Decretos Legislativos y los Decretos-Leyes, regulados en los arts. 82 a 86 CE, tienen rango de ley.",
+        "explicacion": "El Gobierno puede dictar normas con rango de ley mediante Decretos Legislativos y Decretos-Leyes (arts. 82 a 86 CE), no solo mediante Reales Decretos ordinarios.",
         "id": "tema-5-q65"
       },
       {
@@ -6922,7 +6922,7 @@ const TEMAS = [
           "Al Ministerio de Asuntos Exteriores, con independencia del Gobierno"
         ],
         "correcta": 1,
-        "explicacion": "Aunque la CE residencia la representación del Estado en el Monarca, encomienda la dirección de la política exterior al Gobierno.",
+        "explicacion": "Aunque la CE residencia la representación del Estado en el Monarca, es al Gobierno a quien el art. 97 encomienda la dirección de la política exterior.",
         "id": "tema-5-q66"
       },
       {
@@ -6934,7 +6934,7 @@ const TEMAS = [
           "El artículo 87 CE"
         ],
         "correcta": 0,
-        "explicacion": "El art. 92.2 CE regula esta propuesta de referéndum consultivo.",
+        "explicacion": "La propuesta al Rey de referéndum consultivo sobre decisiones políticas de especial trascendencia se regula en el art. 92.2 CE.",
         "id": "tema-5-q67"
       },
       {
@@ -6946,7 +6946,7 @@ const TEMAS = [
           "No, precisa la deliberación previa del Consejo de Ministros exclusivamente"
         ],
         "correcta": 1,
-        "explicacion": "Existe una limitación: la decisión no es libre, precisa la autorización del Congreso de los Diputados.",
+        "explicacion": "No, no es libre: precisa la autorización previa del Congreso de los Diputados, no del Senado.",
         "id": "tema-5-q68"
       },
       {
@@ -6958,7 +6958,7 @@ const TEMAS = [
           "Arts. 161.2 y 162.1 CE"
         ],
         "correcta": 0,
-        "explicacion": "El art. 161.2 CE regula la impugnación de actos autonómicos, y el art. 95.2 CE el requerimiento sobre la constitucionalidad de un Tratado.",
+        "explicacion": "La impugnación de disposiciones autonómicas se regula en el art. 161.2 CE, y el requerimiento al TC sobre la constitucionalidad de un Tratado en el art. 95.2 CE.",
         "id": "tema-5-q69"
       },
       {
@@ -6970,7 +6970,7 @@ const TEMAS = [
           "Funciones propias de competencia exclusiva autonómica"
         ],
         "correcta": 1,
-        "explicacion": "El Gobierno controla a las CCAA en el ejercicio de funciones delegadas de competencia exclusiva del Estado.",
+        "explicacion": "El Gobierno controla a las Comunidades Autónomas cuando ejercen funciones delegadas de competencia exclusiva del Estado, no en el ejercicio de sus propias competencias exclusivas.",
         "id": "tema-5-q70"
       },
       {
@@ -6982,7 +6982,7 @@ const TEMAS = [
           "Uno solo: el estado de sitio"
         ],
         "correcta": 1,
-        "explicacion": "La Constitución regula tres estados de anormalidad: alarma, excepción y sitio.",
+        "explicacion": "La Constitución regula tres tipos de estados de anormalidad: alarma, excepción y sitio.",
         "id": "tema-5-q71"
       },
       {
@@ -6994,7 +6994,7 @@ const TEMAS = [
           "Requerir al Presidente de la Comunidad Autónoma y, de no ser atendido, obtener la aprobación por mayoría simple del Senado"
         ],
         "correcta": 1,
-        "explicacion": "El art. 155 CE exige requerimiento previo al Presidente autonómico y, si no es atendido, aprobación por mayoría absoluta del Senado.",
+        "explicacion": "El art. 155 CE exige requerir previamente al Presidente autonómico y, si no atiende el requerimiento, obtener la aprobación por mayoría absoluta del Senado (no del Congreso).",
         "id": "tema-5-q72"
       },
       {
@@ -7006,7 +7006,7 @@ const TEMAS = [
           "Incumpla exclusivamente obligaciones de naturaleza tributaria"
         ],
         "correcta": 1,
-        "explicacion": "El art. 155 CE se activa por incumplimiento de obligaciones constitucionales/legales o atentado grave al interés general de España.",
+        "explicacion": "El art. 155 CE se activa cuando una Comunidad Autónoma incumple las obligaciones que le imponen la Constitución u otras leyes, o atenta gravemente contra el interés general de España.",
         "id": "tema-5-q73"
       },
       {
@@ -7018,7 +7018,7 @@ const TEMAS = [
           "La descentralización funcional"
         ],
         "correcta": 1,
-        "explicacion": "Garrido Falla señala que el principio por excelencia que debe presidir la Administración es el de neutralidad política.",
+        "explicacion": "Garrido Falla señala la neutralidad política como el principio «por excelencia» que debe presidir la actuación de la Administración.",
         "id": "tema-5-q74"
       },
       {
@@ -7030,7 +7030,7 @@ const TEMAS = [
           "12 millones de euros, conforme al art. 135 de la Ley 33/2003"
         ],
         "correcta": 1,
-        "explicacion": "El art. 317 TRLCSP fija el umbral de 12 millones de euros para exigir autorización del Gobierno.",
+        "explicacion": "El Gobierno debe autorizar los contratos administrativos de cuantía igual o superior a 12 millones de euros, conforme al art. 317 TRLCSP.",
         "id": "tema-5-q75"
       },
       {
@@ -7042,7 +7042,7 @@ const TEMAS = [
           "20 millones de euros, conforme al art. 317 TRLCSP"
         ],
         "correcta": 1,
-        "explicacion": "El art. 135 de la Ley 33/2003, del Patrimonio de las Administraciones Públicas, fija ese umbral de 20 millones de euros.",
+        "explicacion": "Ojo, no confundir con el umbral de contratos (12 millones): la enajenación de bienes inmuebles patrimoniales exige acuerdo del Gobierno a partir de 20 millones de euros, según el art. 135 de la Ley 33/2003.",
         "id": "tema-5-q76"
       },
       {
@@ -7054,7 +7054,7 @@ const TEMAS = [
           "El control del Consejo de Estado con carácter vinculante"
         ],
         "correcta": 1,
-        "explicacion": "El Gobierno está sometido a que los Tribunales controlen la legalidad de la actuación administrativa y su sometimiento a los fines que la justifican.",
+        "explicacion": "En su función administrativa, el Gobierno está sometido al control de los Tribunales sobre la legalidad de su actuación y su sometimiento a los fines que la justifican.",
         "id": "tema-5-q77"
       },
       {
@@ -7066,7 +7066,7 @@ const TEMAS = [
           "0 el Gobierno, 6 el Congreso y 6 el Senado"
         ],
         "correcta": 0,
-        "explicacion": "El Gobierno elige a dos miembros del Tribunal Constitucional, mientras que Congreso y Senado eligen otros 8, a razón de 4 cada Cámara.",
+        "explicacion": "El Gobierno elige a 2 miembros del Tribunal Constitucional, mientras que Congreso y Senado eligen 4 cada uno, hasta completar los 12 magistrados.",
         "id": "tema-5-q78"
       },
       {
@@ -7078,7 +7078,7 @@ const TEMAS = [
           "Solidariamente en su gestión política ante ambas Cámaras por igual"
         ],
         "correcta": 1,
-        "explicacion": "El art. 108 CE dispone que 'el Gobierno responde solidariamente en su gestión política ante el Congreso de los Diputados'.",
+        "explicacion": "El art. 108 CE establece que el Gobierno responde solidariamente en su gestión política, y lo hace ante el Congreso de los Diputados, no ante cada Ministro individualmente ni ante el Senado.",
         "id": "tema-5-q79"
       },
       {
@@ -7090,7 +7090,7 @@ const TEMAS = [
           "Exclusivamente mediante pregunta escrita al Presidente del Gobierno"
         ],
         "correcta": 1,
-        "explicacion": "El art. 109 CE dispone que las Cámaras y sus Comisiones recaban la información y ayuda a través de los Presidentes de aquéllas.",
+        "explicacion": "Según el art. 109 CE, las Cámaras y sus Comisiones recaban la información y ayuda que necesiten a través de los Presidentes de aquéllas, no directamente cada diputado.",
         "id": "tema-5-q80"
       },
       {
@@ -7102,7 +7102,7 @@ const TEMAS = [
           "Sí, pero los Reglamentos de las Cámaras la fijan solo una vez por período de sesiones"
         ],
         "correcta": 1,
-        "explicacion": "El art. 110 CE permite reclamar la presencia de los miembros del Gobierno, y los Reglamentos de las Cámaras fijan esa presencia como obligatoria al menos una vez por semana.",
+        "explicacion": "El art. 110 CE permite reclamar la presencia de los miembros del Gobierno, y los Reglamentos de las Cámaras la fijan como obligatoria al menos una vez por semana.",
         "id": "tema-5-q81"
       },
       {
@@ -7114,7 +7114,7 @@ const TEMAS = [
           "Se formulan por escrito y se contestan por escrito o de palabra, sin dar lugar a moción"
         ],
         "correcta": 1,
-        "explicacion": "Las interpelaciones se formulan por escrito, se contestan de palabra y pueden dar lugar a una moción.",
+        "explicacion": "Las interpelaciones del art. 111 CE se formulan por escrito, pero se contestan de palabra, y pueden dar lugar a una moción; no se formulan ni contestan siempre por escrito.",
         "id": "tema-5-q82"
       },
       {
@@ -7126,7 +7126,7 @@ const TEMAS = [
           "El nombramiento de un Vicepresidente concreto"
         ],
         "correcta": 1,
-        "explicacion": "El Presidente puede plantear la cuestión de confianza sobre su programa o sobre una declaración de política general.",
+        "explicacion": "La cuestión de confianza del art. 112 CE se plantea sobre el programa del Gobierno o sobre una declaración de política general, no sobre un proyecto de ley concreto.",
         "id": "tema-5-q83"
       },
       {
@@ -7138,7 +7138,7 @@ const TEMAS = [
           "Mayoría absoluta del Senado"
         ],
         "correcta": 1,
-        "explicacion": "La confianza se entenderá otorgada cuando vote a favor de la misma la mayoría simple de los Diputados.",
+        "explicacion": "La confianza se entiende otorgada cuando vota a favor la mayoría simple de los Diputados, a diferencia de la primera votación de investidura, que exige mayoría absoluta.",
         "id": "tema-5-q84"
       },
       {
@@ -7150,7 +7150,7 @@ const TEMAS = [
           "Solicitar una segunda votación 48 horas después"
         ],
         "correcta": 1,
-        "explicacion": "Si no obtiene la confianza del Congreso, el Presidente deberá dimitir ante el Rey.",
+        "explicacion": "Si no obtiene la confianza del Congreso, el Presidente debe dimitir ante el Rey; no hay una segunda votación como en la investidura.",
         "id": "tema-5-q85"
       },
       {
@@ -7162,7 +7162,7 @@ const TEMAS = [
           "Convalidar los Decretos-Leyes pendientes"
         ],
         "correcta": 1,
-        "explicacion": "Esta facultad tiene como razón de ser acabar con el deterioro político del Gobierno si el Presidente así lo estima conveniente.",
+        "explicacion": "La razón de ser típica de la cuestión de confianza es que el propio Presidente pueda acabar con su deterioro político si lo estima conveniente.",
         "id": "tema-5-q86"
       },
       {
@@ -7174,7 +7174,7 @@ const TEMAS = [
           "La mayoría absoluta del Senado, sin necesidad de incluir candidato"
         ],
         "correcta": 1,
-        "explicacion": "La moción de censura debe ser propuesta al menos por la décima parte de los Diputados y ha de incluir un candidato a la Presidencia del Gobierno.",
+        "explicacion": "La moción de censura debe proponerla al menos la décima parte de los Diputados, y ha de incluir necesariamente un candidato a la Presidencia del Gobierno.",
         "id": "tema-5-q87"
       },
       {
@@ -7186,7 +7186,7 @@ const TEMAS = [
           "Dos meses"
         ],
         "correcta": 1,
-        "explicacion": "La moción de censura no podrá ser votada hasta que transcurran cinco días desde su presentación.",
+        "explicacion": "La moción de censura no puede votarse hasta que transcurran cinco días desde su presentación, no 48 horas (eso es lo que rige en la investidura).",
         "id": "tema-5-q88"
       },
       {
@@ -7198,7 +7198,7 @@ const TEMAS = [
           "En los tres últimos días del plazo"
         ],
         "correcta": 0,
-        "explicacion": "En los dos primeros días del plazo de cinco días podrán presentarse mociones alternativas.",
+        "explicacion": "Dentro de ese plazo de cinco días, solo en los dos primeros pueden presentarse mociones alternativas.",
         "id": "tema-5-q89"
       },
       {
@@ -7210,7 +7210,7 @@ const TEMAS = [
           "Mayoría absoluta del Senado"
         ],
         "correcta": 1,
-        "explicacion": "La moción de censura se entiende aprobada cuando se consiga la mayoría absoluta del Congreso.",
+        "explicacion": "La moción de censura se entiende aprobada cuando obtiene mayoría absoluta del Congreso, no mayoría simple.",
         "id": "tema-5-q90"
       },
       {
@@ -7222,7 +7222,7 @@ const TEMAS = [
           "No, nunca más durante el resto de la legislatura"
         ],
         "correcta": 1,
-        "explicacion": "Si no fuere aprobada, sus signatarios no podrán presentar otra durante el mismo periodo de sesiones.",
+        "explicacion": "Si no fuera aprobada, sus signatarios no podrán presentar otra durante el mismo periodo de sesiones.",
         "id": "tema-5-q91"
       },
       {
@@ -7234,7 +7234,7 @@ const TEMAS = [
           "El candidato debe someterse a una nueva votación de investidura por mayoría absoluta"
         ],
         "correcta": 1,
-        "explicacion": "Si se aprueba, el Gobierno presenta su dimisión al Rey y el candidato incluido se entiende investido de la confianza de la Cámara a los efectos del art. 99 CE.",
+        "explicacion": "Si se aprueba, el Gobierno presenta su dimisión al Rey y el candidato incluido se entiende investido de la confianza de la Cámara a los efectos del art. 99 CE, sin necesidad de nueva votación de investidura.",
         "id": "tema-5-q92"
       },
       {
@@ -7246,7 +7246,7 @@ const TEMAS = [
           "Sometida a referéndum previo de ratificación popular"
         ],
         "correcta": 1,
-        "explicacion": "La propuesta de disolución, previa deliberación del Consejo de Ministros y bajo la exclusiva responsabilidad del Presidente, es decretada por el Rey.",
+        "explicacion": "Aunque la iniciativa y la responsabilidad exclusiva son del Presidente, previa deliberación del Consejo de Ministros, la disolución en sí la decreta formalmente el Rey.",
         "id": "tema-5-q93"
       },
       {
@@ -7258,7 +7258,7 @@ const TEMAS = [
           "20 a 40 días"
         ],
         "correcta": 1,
-        "explicacion": "El decreto de disolución fijará la fecha de las elecciones en un periodo de 30 a 60 días.",
+        "explicacion": "El decreto de disolución debe fijar la fecha de las elecciones dentro de un periodo de 30 a 60 días.",
         "id": "tema-5-q94"
       },
       {
@@ -7270,7 +7270,7 @@ const TEMAS = [
           "Cuando existan Presupuestos Generales del Estado prorrogados"
         ],
         "correcta": 0,
-        "explicacion": "La propuesta de disolución no podrá presentarse cuando esté en trámite una moción de censura.",
+        "explicacion": "La propuesta de disolución no puede presentarse mientras esté en trámite una moción de censura, precisamente para que el Gobierno no pueda esquivarla.",
         "id": "tema-5-q95"
       },
       {
@@ -7282,7 +7282,7 @@ const TEMAS = [
           "Cuatro años, coincidiendo con la legislatura ordinaria"
         ],
         "correcta": 1,
-        "explicacion": "No procederá nueva disolución antes de que transcurra un año desde la anterior, salvo lo dispuesto en el art. 99, apartado 5, CE.",
+        "explicacion": "Como regla general no procede nueva disolución antes de que transcurra un año desde la anterior, salvo la excepción del art. 99.5 CE.",
         "id": "tema-5-q96"
       },
       {
@@ -7294,7 +7294,7 @@ const TEMAS = [
           "El mismo día de expirar el plazo de dos meses"
         ],
         "correcta": 1,
-        "explicacion": "El real decreto de convocatoria se expide al día siguiente de la expiración del plazo de dos meses contados desde la primera votación de investidura.",
+        "explicacion": "En la disolución automática por falta de investidura, el real decreto de convocatoria se expide al día siguiente de expirar el plazo de dos meses contados desde la primera votación.",
         "id": "tema-5-q97"
       },
       {
@@ -7306,7 +7306,7 @@ const TEMAS = [
           "El día sexagésimo posterior a la convocatoria"
         ],
         "correcta": 2,
-        "explicacion": "El real decreto de convocatoria señala que las elecciones habrán de celebrarse el día quincuagésimo cuarto (54) posterior a la convocatoria.",
+        "explicacion": "En este supuesto especial, las elecciones deben celebrarse el día quincuagésimo cuarto (54) posterior a la convocatoria.",
         "id": "tema-5-q98"
       },
       {
@@ -7318,7 +7318,7 @@ const TEMAS = [
           "Mayoría de tres quintos, art. 114 CE"
         ],
         "correcta": 1,
-        "explicacion": "La moción simple derivada de una interpelación se aprueba por mayoría simple, en el marco del art. 111 CE.",
+        "explicacion": "La moción simple derivada de una interpelación se aprueba por mayoría simple, en el marco del art. 111 CE, no del 112 ni del 114.",
         "id": "tema-5-q99"
       },
       {
@@ -7330,7 +7330,7 @@ const TEMAS = [
           "Si prospera la moción de censura, el candidato incluido se entiende investido a los efectos del artículo 99 CE"
         ],
         "correcta": 1,
-        "explicacion": "Solo la cuestión de confianza exige previa deliberación del Consejo de Ministros (art. 112 CE); la moción de censura es iniciativa parlamentaria, no gubernamental, y no requiere deliberación del Consejo de Ministros.",
+        "explicacion": "Ojo, no confundir: solo la cuestión de confianza exige previa deliberación del Consejo de Ministros (art. 112 CE); la moción de censura es iniciativa parlamentaria y no requiere ese trámite gubernamental. Por eso esta es la afirmación incorrecta.",
         "nivel": "avanzado",
         "id": "tema-5-q100"
       },
@@ -7343,7 +7343,7 @@ const TEMAS = [
           "El requisito de incluir un candidato alternativo a la Presidencia"
         ],
         "correcta": 2,
-        "explicacion": "No es una diferencia porque, precisamente, en ambos casos la consecuencia de la derrota del Gobierno es la misma: la dimisión (arts. 114.1 y 114.2 CE); la moción de censura sí exige incluir un candidato, cosa que la cuestión de confianza no exige.",
+        "explicacion": "Cuidado, parece una diferencia pero es justo la única similitud real entre ambas figuras: si el Gobierno pierde, en los dos casos (arts. 114.1 y 114.2 CE) debe dimitir ante el Rey. Las verdaderas diferencias están en quién tiene la iniciativa, la mayoría exigida y la obligación de incluir candidato, exclusiva de la moción de censura.",
         "nivel": "avanzado",
         "id": "tema-5-q101"
       },
@@ -7356,7 +7356,7 @@ const TEMAS = [
           "Se convoca directamente una moción de censura contra el candidato"
         ],
         "correcta": 1,
-        "explicacion": "Conforme al art. 99 CE, tras la primera votación fallida se vota de nuevo a las 48 horas con mayoría simple; si sigue sin lograrse, se tramitan sucesivas propuestas hasta que transcurran dos meses desde la primera votación.",
+        "explicacion": "Conforme al art. 99 CE, tras la primera votación fallida se repite a las 48 horas con mayoría simple; si tampoco se logra, se tramitan sucesivas propuestas de candidatos hasta agotar los dos meses desde la primera votación, momento en que procede la disolución de las Cámaras.",
         "nivel": "avanzado",
         "id": "tema-5-q102"
       },
@@ -7369,7 +7369,7 @@ const TEMAS = [
           "El decreto de disolución de las Cortes fija la fecha de elecciones en un plazo de 30 a 60 días"
         ],
         "correcta": 2,
-        "explicacion": "La cuestión de confianza (art. 112 CE) se resuelve en una única votación por mayoría simple; el mecanismo de dos votaciones separadas por 48 horas corresponde a la investidura (art. 99 CE), no a la cuestión de confianza.",
+        "explicacion": "Al revés. La cuestión de confianza (art. 112 CE) se resuelve en una única votación por mayoría simple; el mecanismo de dos votaciones separadas por 48 horas es propio de la investidura (art. 99 CE), no de la cuestión de confianza.",
         "nivel": "avanzado",
         "id": "tema-5-q103"
       },
@@ -7382,7 +7382,7 @@ const TEMAS = [
           "En los dos primeros días del plazo de cinco días pueden presentarse mociones alternativas"
         ],
         "correcta": 2,
-        "explicacion": "Es falso: si la moción de censura no es aprobada, sus signatarios NO podrán presentar otra durante el mismo periodo de sesiones.",
+        "explicacion": "Al revés. Si la moción de censura no es aprobada, sus signatarios NO pueden presentar otra durante el mismo periodo de sesiones, a diferencia de lo que plantea esta opción.",
         "nivel": "avanzado",
         "id": "tema-5-q104"
       },
@@ -7395,7 +7395,7 @@ const TEMAS = [
           "El Gobierno continúa en funciones ordinarias hasta el final de la legislatura"
         ],
         "correcta": 1,
-        "explicacion": "Si el Congreso niega la confianza, el Gobierno presentará su dimisión al Rey, procediéndose a un nuevo proceso de investidura conforme al art. 99 CE.",
+        "explicacion": "Si el Congreso niega la confianza, el Gobierno debe presentar su dimisión ante el Rey, abriéndose un nuevo proceso de designación de Presidente conforme al art. 99 CE, sin disolución automática de las Cortes.",
         "nivel": "avanzado",
         "id": "tema-5-q105"
       },
@@ -7408,7 +7408,7 @@ const TEMAS = [
           "Sí, es una facultad libérrima del Presidente que prevalece sobre cualquier trámite parlamentario"
         ],
         "correcta": 1,
-        "explicacion": "La Constitución impide expresamente esta maniobra: la propuesta de disolución no puede presentarse cuando esté en trámite una moción de censura, precisamente para evitar que el Gobierno la esquive.",
+        "explicacion": "No, la Constitución lo impide expresamente: mientras esté en trámite una moción de censura, el Presidente no puede proponer la disolución de las Cortes, precisamente para que el Gobierno no pueda esquivarla.",
         "nivel": "avanzado",
         "id": "tema-5-q106"
       },
@@ -7421,7 +7421,7 @@ const TEMAS = [
           "Cuestión de confianza: mayoría absoluta"
         ],
         "correcta": 3,
-        "explicacion": "La cuestión de confianza se otorga por mayoría simple, no por mayoría absoluta; esta última es la exigida en la moción de censura y en la primera votación de investidura.",
+        "explicacion": "Al revés. La cuestión de confianza se otorga por mayoría simple, no por mayoría absoluta; esta última rige en la moción de censura y en la primera votación de investidura.",
         "nivel": "avanzado",
         "id": "tema-5-q107"
       },
@@ -7434,7 +7434,7 @@ const TEMAS = [
           "El Gobierno elige a dos miembros del Tribunal Constitucional, y el CGPJ se compone de 12 miembros elegidos por las Cortes"
         ],
         "correcta": 1,
-        "explicacion": "El Gobierno elige a 2 miembros del TC; el CGPJ tiene 20 miembros, 10 elegidos por el Congreso y 10 por el Senado.",
+        "explicacion": "El Gobierno elige a 2 magistrados del Tribunal Constitucional; el CGPJ, por su parte, se compone de 20 miembros elegidos por las Cortes, 10 por el Congreso y 10 por el Senado.",
         "nivel": "avanzado",
         "id": "tema-5-q108"
       },
@@ -7447,7 +7447,7 @@ const TEMAS = [
           "Proponer al Rey el nombramiento y separación de los Vicepresidentes y Ministros"
         ],
         "correcta": 2,
-        "explicacion": "El Presidente PROPONE al Rey el nombramiento y separación de Vicepresidentes y Ministros, pero el nombramiento formal corresponde al Rey; el Presidente no nombra directamente.",
+        "explicacion": "El Presidente PROPONE al Rey el nombramiento y separación de Vicepresidentes y Ministros (art. 2.2 Ley 50/1997), pero no los nombra directamente: el nombramiento formal corresponde siempre al Rey.",
         "nivel": "avanzado",
         "id": "tema-5-q109"
       },
@@ -7460,7 +7460,7 @@ const TEMAS = [
           "Responsabilidad penal por alta traición - mayoría simple del Senado, cabiendo gracia real"
         ],
         "correcta": 3,
-        "explicacion": "La responsabilidad penal especial por alta traición exige mayoría absoluta del Congreso (no simple del Senado), con petición de un cuarto de la Cámara, y NO cabe gracia real.",
+        "explicacion": "Al revés. La responsabilidad penal por alta traición exige mayoría absoluta del Congreso (no simple del Senado), con petición de una cuarta parte de la Cámara, y en ningún caso cabe la gracia real.",
         "nivel": "avanzado",
         "id": "tema-5-q110"
       },
@@ -7473,7 +7473,7 @@ const TEMAS = [
           "En la práctica actúa a menudo como superministro coordinador"
         ],
         "correcta": 1,
-        "explicacion": "Es falso: la Constitución NO enumera las funciones del Vicepresidente; es el art. 3 de la Ley 50/1997 el que las concreta remitiéndolas a lo que le encomiende el Presidente.",
+        "explicacion": "Al revés. La Constitución NO enumera las funciones del Vicepresidente; es el art. 3 de la Ley 50/1997 el que las concreta, remitiéndolas a lo que le encomiende el Presidente.",
         "nivel": "avanzado",
         "id": "tema-5-q111"
       },
@@ -7486,7 +7486,7 @@ const TEMAS = [
           "Sustituye obligatoriamente al Vicepresidente en su ausencia"
         ],
         "correcta": 1,
-        "explicacion": "El ministro sin cartera ostenta la condición de Ministro y forma parte del Gobierno sin ser jefe de ningún Ministerio, ejerciendo funciones de asesoramiento y colaboración; su existencia es potestativa (art. 4.2 Ley 50/1997).",
+        "explicacion": "El ministro sin cartera es miembro del Gobierno, no dirige ningún Departamento, pero conserva la condición de Ministro con funciones de asesoramiento y colaboración (art. 4.2 Ley 50/1997).",
         "nivel": "avanzado",
         "id": "tema-5-q112"
       },
@@ -7499,7 +7499,7 @@ const TEMAS = [
           "Tienen naturaleza administrativa y militar, careciendo de naturaleza política"
         ],
         "correcta": 1,
-        "explicacion": "Su faceta administrativa deriva de estar al frente de un Departamento Ministerial; su faceta política, de participar en el Consejo de Ministros y en la dirección política del Gabinete.",
+        "explicacion": "Los Ministros tienen naturaleza administrativa, al frente de un Departamento (art. 61 Ley 40/2015), y naturaleza política, al integrar el Consejo de Ministros y participar en la dirección política del Gabinete.",
         "nivel": "avanzado",
         "id": "tema-5-q113"
       },
@@ -7512,7 +7512,7 @@ const TEMAS = [
           "El poder normativo del Gobierno está subordinado a la Constitución y a la ley"
         ],
         "correcta": 1,
-        "explicacion": "Es falso: el Gobierno sí dispone de un poder normativo propio (potestad reglamentaria, Decretos Legislativos y Decretos-Leyes), aunque subordinado a la Constitución y la ley.",
+        "explicacion": "Al revés. El Gobierno sí dispone de poder normativo propio, aunque subordinado a la Constitución y a la ley: la potestad reglamentaria y, en su caso, los Decretos Legislativos y Decretos-Leyes.",
         "nivel": "avanzado",
         "id": "tema-5-q114"
       },
@@ -7525,7 +7525,7 @@ const TEMAS = [
           "Requerir al Tribunal Constitucional sobre la constitucionalidad de un Tratado (art. 95.2 CE)"
         ],
         "correcta": 2,
-        "explicacion": "La aprobación de los Estatutos de Autonomía corresponde a las Cortes Generales mediante ley orgánica, no es una atribución del Gobierno recogida en el tema.",
+        "explicacion": "La aprobación de los Estatutos de Autonomía corresponde a las Cortes Generales mediante ley orgánica, y no es una atribución del Gobierno dentro de su función de equilibrio institucional.",
         "nivel": "avanzado",
         "id": "tema-5-q115"
       },
@@ -7538,7 +7538,7 @@ const TEMAS = [
           "Aprobación directa por mayoría simple del Senado, sin requerimiento previo"
         ],
         "correcta": 1,
-        "explicacion": "El art. 155 CE exige requerimiento previo al Presidente autonómico y, si no es atendido, la aprobación por mayoría absoluta del SENADO (no del Congreso).",
+        "explicacion": "No es el Congreso: para acudir al art. 155 CE se requiere requerimiento previo al Presidente autonómico y, de no ser atendido, la aprobación por mayoría absoluta del Senado.",
         "nivel": "avanzado",
         "id": "tema-5-q116"
       },
@@ -7551,7 +7551,7 @@ const TEMAS = [
           "Aprobación de la oferta de empleo público, sin umbral económico asociado"
         ],
         "correcta": 2,
-        "explicacion": "El umbral de 12 millones de euros y el art. 317 TRLCSP corresponden a los contratos administrativos, no a la enajenación de inmuebles, que exige más de 20 millones conforme al art. 135 de la Ley 33/2003.",
+        "explicacion": "Al revés. El umbral de 12 millones de euros y el art. 317 TRLCSP corresponden a los contratos administrativos; la enajenación de inmuebles patrimoniales exige más de 20 millones conforme al art. 135 de la Ley 33/2003.",
         "nivel": "avanzado",
         "id": "tema-5-q117"
       },
@@ -7564,7 +7564,7 @@ const TEMAS = [
           "No existe refrendo en ningún caso, siendo un acto libérrimo del Rey"
         ],
         "correcta": 1,
-        "explicacion": "De forma excepcional respecto a la regla general de refrendo por el Presidente del Gobierno, en este supuesto refrenda el Presidente del Congreso.",
+        "explicacion": "A diferencia de la regla general (refrendo del Presidente del Gobierno), en la disolución automática del art. 99.5 CE refrenda excepcionalmente el Presidente del Congreso.",
         "nivel": "avanzado",
         "id": "tema-5-q118"
       },
@@ -7577,7 +7577,7 @@ const TEMAS = [
           "Requiere autorización previa del Tribunal Constitucional"
         ],
         "correcta": 3,
-        "explicacion": "No existe tal requisito de autorización del Tribunal Constitucional; los límites reales son la moción de censura en trámite, el plazo de un año (con la excepción del art. 99.5) y la previa deliberación del Consejo de Ministros.",
+        "explicacion": "No existe tal requisito de autorización del Tribunal Constitucional; los límites reales a la disolución son que no haya moción de censura en trámite, que haya transcurrido un año desde la anterior (salvo excepción del art. 99.5) y la previa deliberación del Consejo de Ministros.",
         "nivel": "avanzado",
         "id": "tema-5-q119"
       },
@@ -7590,7 +7590,7 @@ const TEMAS = [
           "Solo en la moción de censura interviene el Rey proponiendo candidato"
         ],
         "correcta": 1,
-        "explicacion": "El origen del candidato es distinto: en la investidura lo propone el Rey tras consultas; en la moción de censura, el candidato viene incluido por los propios Diputados que la promueven.",
+        "explicacion": "En la investidura, el candidato lo propone el Rey tras consultar a los grupos parlamentarios; en la moción de censura, en cambio, el candidato lo incluyen los propios Diputados que la promueven, sin intervención regia.",
         "nivel": "avanzado",
         "id": "tema-5-q120"
       },
@@ -7603,7 +7603,7 @@ const TEMAS = [
           "No, solo es posible si existen al menos dos Vicepresidentes"
         ],
         "correcta": 1,
-        "explicacion": "El Vicepresidente puede o no asumir un Departamento; solo si lo asume, ostenta además la condición de Ministro, pero no es obligatorio que lo haga.",
+        "explicacion": "Sí es conforme: el Vicepresidente es una figura de contornos borrosos cuyas funciones dependen de lo que le encomiende el Presidente, y solo si asume un Departamento ostenta además la condición de Ministro.",
         "nivel": "avanzado",
         "id": "tema-5-q121"
       },
@@ -7616,7 +7616,7 @@ const TEMAS = [
           "El Congreso de los Diputados debe ratificar cada nombramiento ministerial"
         ],
         "correcta": 3,
-        "explicacion": "No existe tal ratificación parlamentaria; el nombramiento y cese de Ministros es un acto del Rey a propuesta vinculante del Presidente, sin intervención del Congreso.",
+        "explicacion": "Al revés. No existe ratificación parlamentaria alguna: el nombramiento y cese de Ministros es un acto del Rey a propuesta vinculante del Presidente, sin intervención del Congreso.",
         "nivel": "avanzado",
         "id": "tema-5-q122"
       },
@@ -7629,7 +7629,7 @@ const TEMAS = [
           "Debe votarse obligatoriamente el día 2"
         ],
         "correcta": 1,
-        "explicacion": "No podrá votarse hasta que transcurran cinco días desde la presentación, y las mociones alternativas solo pueden presentarse en los dos primeros días de ese plazo.",
+        "explicacion": "No podrá votarse antes del día 6 (transcurridos los 5 días exigidos), y las mociones alternativas solo son admisibles en los dos primeros días de ese plazo, es decir, los días 2 y 3.",
         "nivel": "avanzado",
         "id": "tema-5-q123"
       },
@@ -7642,7 +7642,7 @@ const TEMAS = [
           "El Gobierno ostenta la representación del Estado en las relaciones internacionales"
         ],
         "correcta": 3,
-        "explicacion": "La representación del Estado, especialmente en las relaciones internacionales, corresponde al Rey (art. 56 CE), no al Gobierno, aunque este dirija la política exterior.",
+        "explicacion": "Al revés. La representación del Estado, especialmente en las relaciones internacionales, corresponde al Rey (art. 56 CE); el Gobierno dirige la política interior y exterior, pero no ostenta esa representación.",
         "nivel": "avanzado",
         "id": "tema-5-q124"
       }
@@ -7662,7 +7662,7 @@ const TEMAS = [
           "Título VIII, artículos 137 a 158"
         ],
         "correcta": 0,
-        "explicacion": "La CE regula el Poder Judicial en el Título VI, arts. 117 a 127.",
+        "explicacion": "El Poder Judicial se regula en el Título VI CE, arts. 117 a 127. Su desarrollo normativo fundamental es la LOPJ de 1 de julio de 1985.",
         "id": "tema-6-q1"
       },
       {
@@ -7674,7 +7674,7 @@ const TEMAS = [
           "Porque la LOPJ de 1985 así lo dispone en su artículo primero"
         ],
         "correcta": 0,
-        "explicacion": "El texto resalta que solo la justicia viene calificada de poder, denominación que no reciben ni el Ejecutivo (Gobierno/Administración) ni el Legislativo (Cortes Generales).",
+        "explicacion": "Solo el Poder Judicial recibe la denominación de 'poder' en la Constitución: al Ejecutivo lo llama Gobierno y Administración, y al Legislativo, Cortes Generales (Título III). Con ello se subraya la independencia de quienes administran justicia.",
         "id": "tema-6-q2"
       },
       {
@@ -7686,7 +7686,7 @@ const TEMAS = [
           "'El Poder Judicial emana del pueblo y se administra en su nombre'"
         ],
         "correcta": 0,
-        "explicacion": "El texto cita textualmente a Montesquieu: 'No hay verdadera libertad si el Poder Judicial no está separado del Legislativo y del Ejecutivo'.",
+        "explicacion": "Cuidado con la frase invertida: la cita original habla de 'verdadera libertad' (no de 'justicia') y sitúa al Poder Judicial como el que debe estar separado del Legislativo y el Ejecutivo. Se atribuye a Montesquieu y ilustra la separación de poderes como garantía del Estado de Derecho.",
         "id": "tema-6-q3"
       },
       {
@@ -7698,7 +7698,7 @@ const TEMAS = [
           "Ley Orgánica 6/1984, de 24 de mayo"
         ],
         "correcta": 0,
-        "explicacion": "El texto se refiere a ella como 'Ley Orgánica del Poder Judicial de 1 de julio de 1985 (LOPJ)' y posteriormente la identifica como 'Ley Orgánica del Poder Judicial 6/1985'.",
+        "explicacion": "Es la Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial (LOPJ), no otras combinaciones de número y fecha que se prestan a confusión. El texto la cita primero como 'LOPJ de 1 de julio de 1985' y después como 'LO 6/1985'.",
         "id": "tema-6-q4"
       },
       {
@@ -7710,7 +7710,7 @@ const TEMAS = [
           "Unidad jurisdiccional"
         ],
         "correcta": 2,
-        "explicacion": "Los cinco principios ordenadores citados son: origen popular, independencia, sometimiento a la ley, unidad jurisdiccional y exclusividad; la publicidad no se menciona entre ellos.",
+        "explicacion": "La publicidad no es uno de los principios ordenadores del Poder Judicial recogidos en el tema. Los cinco son: origen popular, independencia, sometimiento a la ley, unidad jurisdiccional y exclusividad.",
         "id": "tema-6-q5"
       },
       {
@@ -7722,7 +7722,7 @@ const TEMAS = [
           "en nombre de las Cortes Generales"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.1 CE dispone: 'La Justicia emana del pueblo y se administra en nombre del Rey...'.",
+        "explicacion": "Ojo con la confusión: la Justicia emana del pueblo, pero se administra en nombre del Rey, no de la Nación, el Estado ni las Cortes Generales (art. 117.1 CE). Es el fundamento del principio de origen popular de la Justicia.",
         "id": "tema-6-q6"
       },
       {
@@ -7734,7 +7734,7 @@ const TEMAS = [
           "El artículo 122"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 125 CE regula tanto la acción popular como la participación ciudadana mediante el jurado.",
+        "explicacion": "El artículo 125 CE, y no el 117, el 24 ni el 122, es el que da rango constitucional a la acción popular y al jurado. Ambas instituciones buscan asegurar la participación popular en la Justicia, aunque el jurado no nació históricamente como mecanismo democratizador sino como privilegio de ciertos estratos.",
         "id": "tema-6-q7"
       },
       {
@@ -7746,7 +7746,7 @@ const TEMAS = [
           "Nueve jurados sin magistrado, dentro del Tribunal Superior de Justicia"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que la composición actual es de nueve jurados más un magistrado dentro de la Audiencia Provincial, y que nunca aparecerá esta institución en delitos competencia de la Audiencia Nacional.",
+        "explicacion": "Cuidado con los números: son nueve jurados más un magistrado (no doce, ni siete), y se integran en la Audiencia Provincial (no en el Tribunal Supremo ni en la Audiencia Nacional). Además, el jurado nunca interviene en delitos competencia de la Audiencia Nacional, y se regula por la LO 5/1995.",
         "id": "tema-6-q8"
       },
       {
@@ -7758,7 +7758,7 @@ const TEMAS = [
           "los Jueces durante los primeros cinco años de ejercicio"
         ],
         "correcta": 0,
-        "explicacion": "El texto cita textualmente el art. 378 LOPJ: 'Gozarán de inamovilidad los Jueces y Magistrados que desempeñen cargos judiciales'.",
+        "explicacion": "El art. 378 LOPJ limita la inamovilidad a los Jueces y Magistrados que desempeñen cargos judiciales, no a todo el personal de la Administración de Justicia ni solo a los del Tribunal Supremo. Este precepto desarrolla el principio de inamovilidad ya formulado en el art. 117.1 y 2 CE.",
         "id": "tema-6-q9"
       },
       {
@@ -7770,7 +7770,7 @@ const TEMAS = [
           "el ejercicio de actividades artísticas o deportivas exclusivamente"
         ],
         "correcta": 0,
-        "explicacion": "El art. 127.2 CE remite a la ley para prohibir al Juez el ejercicio simultáneo de cualquier función pública o actividad profesional privada, con la excepción clásica de la docencia y otras actividades de escasa relación con la función jurisdiccional.",
+        "explicacion": "El art. 127.2 CE prohíbe compaginar la función judicial con cualquier función pública o actividad profesional privada, pero admite la excepción clásica de la docencia (y otras de escasa relación con la función jurisdiccional, como la investigación o actividades artísticas y deportivas). No es una prohibición absoluta ni se limita solo a los partidos políticos.",
         "id": "tema-6-q10"
       },
       {
@@ -7782,7 +7782,7 @@ const TEMAS = [
           "La jurisdicción del Tribunal Constitucional en materia contencioso-administrativa"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala como excepción a la unidad jurisdiccional la jurisdicción militar en el ámbito estrictamente castrense en tiempos de paz y los supuestos del estado de sitio, donde el Congreso puede determinar los delitos sometidos a ella.",
+        "explicacion": "La única excepción real a la unidad jurisdiccional es la jurisdicción militar en el ámbito estrictamente castrense en tiempos de paz, junto con los delitos que el Congreso puede someter a ella durante el estado de sitio. No existen excepciones de jurisdicción eclesiástica ni relacionadas con el Tribunal Constitucional.",
         "id": "tema-6-q11"
       },
       {
@@ -7794,7 +7794,7 @@ const TEMAS = [
           "Se traslada íntegramente al Tribunal Constitucional"
         ],
         "correcta": 0,
-        "explicacion": "La disposición adicional primera de la LO 1/2025 establece que cualquier mención a los Juzgados en el resto del articulado se entenderá realizada a los Tribunales o a los jueces, juezas, magistrados y magistradas que sirven en ellos, quedando suprimida su referencia en el título preliminar.",
+        "explicacion": "La LO 1/2025 suprime la referencia a los 'Juzgados' en el título preliminar de la LOPJ: la disposición adicional primera indica que cualquier mención a ellos se entenderá hecha a los Tribunales o a los jueces, juezas, magistrados y magistradas que sirven en ellos. No se crean nuevos Juzgados ni se traslada nada al Tribunal Constitucional.",
         "id": "tema-6-q12"
       },
       {
@@ -7806,7 +7806,7 @@ const TEMAS = [
           "Por el Presidente del Tribunal Supremo y diez vocales, nombrados por un periodo de cuatro años"
         ],
         "correcta": 0,
-        "explicacion": "El CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y por veinte miembros nombrados por el Rey por un periodo de cinco años, conforme al art. 122.3 CE.",
+        "explicacion": "Cuidado con los números invertidos: son veinte vocales (no diez ni quince) nombrados por el Rey por un periodo de cinco años (no cuatro), y preside el Consejo el Presidente del Tribunal Supremo, no el Rey ni el del Tribunal Constitucional (art. 122.3 CE).",
         "id": "tema-6-q13"
       },
       {
@@ -7818,7 +7818,7 @@ const TEMAS = [
           "Ocho: cuatro entre jueces y magistrados y cuatro entre juristas"
         ],
         "correcta": 0,
-        "explicacion": "El Congreso propone, por mayoría de 3/5, diez vocales: seis entre jueces y magistrados y cuatro entre juristas de reconocida competencia (el Senado propone otros diez en igual proporción, hasta un total de veinte).",
+        "explicacion": "El Congreso propone diez vocales por mayoría de 3/5: seis entre jueces y magistrados y cuatro entre juristas de reconocida competencia, no un reparto igualitario de cinco y cinco. El Senado propone otros diez en la misma proporción, hasta completar los veinte vocales del CGPJ.",
         "id": "tema-6-q14"
       },
       {
@@ -7830,7 +7830,7 @@ const TEMAS = [
           "Seis Salas, con sede en Madrid; la última fue la Sala Sexta, de lo Contencioso, en 1995"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal Supremo tiene su sede en la Villa de Madrid y se estructura en cinco Salas, siendo la Quinta, de lo Militar, creada en 1987 al desaparecer el Consejo Supremo de Justicia Militar.",
+        "explicacion": "El Tribunal Supremo tiene cinco Salas (no cuatro ni seis) y su sede está en la Villa de Madrid (no en Barcelona). La última en crearse fue la Sala Quinta, de lo Militar, en 1987, al desaparecer el Consejo Supremo de Justicia Militar.",
         "id": "tema-6-q15"
       },
       {
@@ -7842,7 +7842,7 @@ const TEMAS = [
           "Se creó en 1987, con sede en Madrid, y conoce exclusivamente de delitos militares"
         ],
         "correcta": 0,
-        "explicacion": "La Audiencia Nacional, creada en 1977 y con sede en Madrid, tiene jurisdicción en todo el territorio para determinados delitos, entre ellos terrorismo, delitos contra la Corona, económicos y de tráfico de drogas.",
+        "explicacion": "La Audiencia Nacional se creó en 1977 con sede en Madrid (no en 1985, 1987 ni en Barcelona), y su competencia se limita a determinados delitos, entre ellos terrorismo, contra la Corona, económicos y de tráfico de drogas, no a todos los delitos del territorio nacional.",
         "id": "tema-6-q16"
       },
       {
@@ -7854,7 +7854,7 @@ const TEMAS = [
           "En el Título Preliminar de la Constitución"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que de los derechos y libertades públicas se ocupa esencialmente la Sección 1ª del Capítulo II del Título I, bajo el epígrafe 'De los derechos fundamentales y libertades públicas'.",
+        "explicacion": "Los derechos fundamentales y libertades públicas se regulan en la Sección 1ª del Capítulo II del Título I CE, no en la Sección 2ª ni en el Título Preliminar ni en el Título VI (que es el del Poder Judicial).",
         "id": "tema-6-q17"
       },
       {
@@ -7866,7 +7866,7 @@ const TEMAS = [
           "STC 5/1985, de 30 de abril"
         ],
         "correcta": 0,
-        "explicacion": "El texto cita la STC 53/1985, de 11 de abril, relativa a la Ley Orgánica de despenalización del aborto, en relación con el derecho a la vida del art. 15 CE.",
+        "explicacion": "La sentencia sobre la despenalización del aborto y el derecho a la vida (art. 15 CE) es la STC 53/1985, de 11 de abril; no debe confundirse con la STC 26/1983 (tutela judicial efectiva) ni con la STC 23/1983 (libertad sindical), citadas en otros pasajes del tema.",
         "id": "tema-6-q18"
       },
       {
@@ -7878,7 +7878,7 @@ const TEMAS = [
           "La Ley Orgánica 8/1985, de 3 de julio"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que la libertad religiosa tuvo su desarrollo en la Ley Orgánica 7/1980, de 5 de junio, de libertad religiosa.",
+        "explicacion": "La libertad ideológica y religiosa del art. 16 CE se desarrolla en la LO 7/1980, de 5 de junio, de libertad religiosa. Esta libertad puede limitarse en sus manifestaciones por el mantenimiento del orden público, y nadie puede ser obligado a declarar sobre su ideología o creencias.",
         "id": "tema-6-q19"
       },
       {
@@ -7890,7 +7890,7 @@ const TEMAS = [
           "El Tribunal del Jurado"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que para salvaguardar el derecho a la libertad y seguridad (art. 17) es necesario atender a la institución del Hábeas Corpus, regulada en la LO 6/1984, de 24 de mayo.",
+        "explicacion": "La institución que protege la libertad y seguridad (art. 17 CE) frente a detenciones ilegales es el Hábeas Corpus, regulado por la LO 6/1984, de 24 de mayo, no el recurso de amparo ni la acción popular. Para este derecho también son relevantes los derechos del detenido y el plazo máximo de detención preventiva.",
         "id": "tema-6-q20"
       },
       {
@@ -7902,7 +7902,7 @@ const TEMAS = [
           "La Ley Orgánica 4/2001, de 12 de noviembre"
         ],
         "correcta": 0,
-        "explicacion": "El texto atribuye el desarrollo del derecho a la vida privada (honor, intimidad y propia imagen, art. 18.1) a la LO 1/1982, de 5 de mayo.",
+        "explicacion": "El derecho al honor, la intimidad y la propia imagen (art. 18.1 CE) se desarrolla en la LO 1/1982, de 5 de mayo, que no debe confundirse con la LO 15/1999, de protección de datos, que desarrolla el distinto derecho a la 'libertad informática' del art. 18.4.",
         "id": "tema-6-q21"
       },
       {
@@ -7914,7 +7914,7 @@ const TEMAS = [
           "La Ley Orgánica 11/1985, de 2 de agosto"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que la libertad informática (art. 18.4 CE) ha sido desarrollada por la LO 15/1999, de 13 de diciembre, de Protección de Datos de carácter personal.",
+        "explicacion": "La 'libertad informática' del art. 18.4 CE se desarrolla en la LO 15/1999, de 13 de diciembre, de Protección de Datos, distinta de la LO 1/1982 que protege el honor, la intimidad y la propia imagen del art. 18.1.",
         "id": "tema-6-q22"
       },
       {
@@ -7926,7 +7926,7 @@ const TEMAS = [
           "Que se comunique con un mes de antelación; se desarrolla en la LO 4/2001"
         ],
         "correcta": 0,
-        "explicacion": "El derecho de reunión (art. 21) deberá ser pacífica y sin armas, sin necesidad de autorización previa, y ha sido desarrollado por la LO 9/1983, de 15 de julio.",
+        "explicacion": "Al contrario de lo que sugiere el distractor, el derecho de reunión no exige autorización previa, solo que sea pacífica y sin armas (basta comunicación previa a la autoridad en reuniones en lugares públicos). Se desarrolla en la LO 9/1983, de 15 de julio.",
         "id": "tema-6-q23"
       },
       {
@@ -7938,7 +7938,7 @@ const TEMAS = [
           "La Ley Orgánica 11/1985, de 2 de agosto, modificada por la LO 1/1982"
         ],
         "correcta": 0,
-        "explicacion": "El derecho de asociación se rige por la LO 1/2002, de 22 de marzo, modificada por la LO 11/2007, de 22 de octubre, de los derechos y deberes de los miembros de la Guardia Civil, que les reconoce este derecho fundamental.",
+        "explicacion": "El derecho de asociación se regula por la LO 1/2002, de 22 de marzo, modificada por la LO 11/2007, de 22 de octubre, que reconoció este derecho a los miembros de la Guardia Civil. Distinto es el derecho de sindicación, vedado expresamente a las Fuerzas Armadas por la LO 9/2011.",
         "id": "tema-6-q24"
       },
       {
@@ -7950,7 +7950,7 @@ const TEMAS = [
           "El derecho a la libertad sindical y a la negociación colectiva"
         ],
         "correcta": 0,
-        "explicacion": "Conforme a la STC 26/1983, de 13 de abril, la tutela judicial efectiva implica el libre acceso a Jueces y Tribunales, obtener y hacer cumplir un fallo, el Juez natural, un letrado, un proceso público sin dilaciones, no declarar contra sí mismo, no confesarse culpable y la presunción de inocencia.",
+        "explicacion": "La STC 26/1983, de 13 de abril, enumera el contenido de la tutela judicial efectiva (art. 24 CE): acceso a Jueces y Tribunales, obtener y ejecutar un fallo, Juez natural, letrado, proceso público sin dilaciones, no autoincriminación y presunción de inocencia. No incluye derechos ajenos como la libertad sindical.",
         "id": "tema-6-q25"
       },
       {
@@ -7962,7 +7962,7 @@ const TEMAS = [
           "Título III, artículos 66 a 96"
         ],
         "correcta": 0,
-        "explicacion": "El Título VI CE (arts. 117 a 127) regula el Poder Judicial.",
+        "explicacion": "El Título VI CE (arts. 117 a 127) regula el Poder Judicial, no el Título III (Cortes Generales, arts. 66 a 96) ni el Título IV (Gobierno y Administración) ni el VIII (Organización Territorial). Es el único poder al que la Constitución llama expresamente 'poder'.",
         "id": "tema-6-q26"
       },
       {
@@ -7974,7 +7974,7 @@ const TEMAS = [
           "Administración Central"
         ],
         "correcta": 0,
-        "explicacion": "Solo la justicia es calificada de 'poder'; al ejecutivo la CE lo denomina Gobierno y Administración.",
+        "explicacion": "La Constitución evita llamar 'poder' al Ejecutivo y lo denomina Gobierno y Administración, igual que al Legislativo lo llama Cortes Generales. Solo la Justicia recibe la denominación de 'Poder Judicial'.",
         "id": "tema-6-q27"
       },
       {
@@ -7986,7 +7986,7 @@ const TEMAS = [
           "'El poder de los jueces'"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que se deja de lado la literalidad del constituyente de 1869: 'La administración de Justicia', por insuficiente.",
+        "explicacion": "El constituyente de 1869 hablaba de 'la administración de Justicia', expresión que la Constitución de 1978 abandona por insuficiente para reflejar la posición de Jueces y Magistrados como un verdadero poder del Estado.",
         "id": "tema-6-q28"
       },
       {
@@ -7998,7 +7998,7 @@ const TEMAS = [
           "Kelsen"
         ],
         "correcta": 0,
-        "explicacion": "La cita se atribuye a Montesquieu, en relación con la separación de poderes.",
+        "explicacion": "La cita 'No hay verdadera libertad si el Poder Judicial no está separado del Legislativo y del Ejecutivo' se atribuye a Montesquieu, no a Rousseau, Locke ni Kelsen, y sintetiza la idea de separación de poderes como garantía del Estado de Derecho.",
         "id": "tema-6-q29"
       },
       {
@@ -8010,7 +8010,7 @@ const TEMAS = [
           "Como la suma de los tribunales colegiados existentes"
         ],
         "correcta": 0,
-        "explicacion": "El tema define el Poder Judicial como el conjunto de órganos que ejercen la potestad de administrar Justicia.",
+        "explicacion": "El Poder Judicial se define como el conjunto de órganos que llevan a cabo la potestad de administrar Justicia, y no como el conjunto de leyes procesales ni como el órgano de gobierno de los jueces (que es el CGPJ).",
         "id": "tema-6-q30"
       },
       {
@@ -8022,7 +8022,7 @@ const TEMAS = [
           "La Ley de Demarcación y Planta Judicial de 1988"
         ],
         "correcta": 0,
-        "explicacion": "La LOPJ, de 1 de julio de 1985, desarrolla el Título VI CE relativo al Poder Judicial.",
+        "explicacion": "La LOPJ, de 1 de julio de 1985, es la que desarrolla el Título VI CE dedicado al Poder Judicial; su complemento indispensable en la organización territorial es la Ley de Demarcación y Planta Judicial, de 1988.",
         "id": "tema-6-q31"
       },
       {
@@ -8034,7 +8034,7 @@ const TEMAS = [
           "Unidad de jurisdicción, oficialidad, gratuidad, dispositivo y contradicción"
         ],
         "correcta": 0,
-        "explicacion": "El tema enumera cinco principios ordenadores: origen popular, independencia, sometimiento a la ley, unidad jurisdiccional y exclusividad.",
+        "explicacion": "Los cinco principios ordenadores del Poder Judicial son: origen popular, independencia, sometimiento a la ley, unidad jurisdiccional y exclusividad. No deben confundirse con principios procesales (oralidad, inmediación) ni con notas de la Administración de Justicia como la gratuidad.",
         "id": "tema-6-q32"
       },
       {
@@ -8046,7 +8046,7 @@ const TEMAS = [
           "Que la Justicia emana de las Cortes Generales"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.1 CE dispone que 'La Justicia emana del pueblo y se administra en nombre del Rey'.",
+        "explicacion": "Cuidado con la inversión: la Justicia emana del pueblo, no del Rey, y se administra en nombre del Rey, no de las Cortes ni del Parlamento (art. 117.1 CE). Es la base del principio de origen popular de la Justicia.",
         "id": "tema-6-q33"
       },
       {
@@ -8058,7 +8058,7 @@ const TEMAS = [
           "Cualquier ciudadano pueda recurrir directamente ante el Tribunal Constitucional"
         ],
         "correcta": 0,
-        "explicacion": "El art. 125 CE reconoce que los ciudadanos podrán ejercer la acción popular para defender intereses públicos como miembros de la colectividad.",
+        "explicacion": "El art. 125 CE reconoce la acción popular como la posibilidad de que cualquier persona defienda intereses públicos actuando como miembro de la colectividad, no una facultad exclusiva del Ministerio Fiscal ni de la víctima. El mismo artículo da rango constitucional también a la institución del jurado.",
         "id": "tema-6-q34"
       },
       {
@@ -8070,7 +8070,7 @@ const TEMAS = [
           "Surgió como sustituto directo de la Audiencia Nacional"
         ],
         "correcta": 0,
-        "explicacion": "El tema aclara que el jurado, en su composición primaria, era un privilegio de ciertos estratos sociales, no un elemento democratizador.",
+        "explicacion": "Aunque hoy se percibe como un instrumento democratizador, el tema aclara que en su origen el jurado no nació así, sino como un privilegio que beneficiaba a ciertos estratos sociales por su composición primaria. Hoy se regula por la LO 5/1995 y se integra en la Audiencia Provincial.",
         "id": "tema-6-q35"
       },
       {
@@ -8082,7 +8082,7 @@ const TEMAS = [
           "La Ley de Demarcación y Planta Judicial de 1988"
         ],
         "correcta": 0,
-        "explicacion": "La institución del jurado queda regulada por la LO 5/1995, del Tribunal del Jurado.",
+        "explicacion": "El Tribunal del Jurado se regula por la LO 5/1995, distinta de la LOPJ (LO 6/1985) o de la LO 1/2025 de eficiencia de la Justicia. Se compone de nueve jurados más un magistrado dentro de la Audiencia Provincial.",
         "id": "tema-6-q36"
       },
       {
@@ -8094,7 +8094,7 @@ const TEMAS = [
           "Siete Jurados sin Magistrado, dentro del Tribunal Superior de Justicia"
         ],
         "correcta": 0,
-        "explicacion": "El Tribunal del Jurado se compone de nueve Jurados más un Magistrado, dentro de la Audiencia Provincial.",
+        "explicacion": "Son nueve jurados más un magistrado, integrados en la Audiencia Provincial, no doce jurados en el Tribunal Supremo ni nueve con tres magistrados en la Audiencia Nacional. Además, el jurado nunca conoce de delitos competencia de la Audiencia Nacional.",
         "id": "tema-6-q37"
       },
       {
@@ -8106,7 +8106,7 @@ const TEMAS = [
           "En los delitos contra el medio ambiente"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que el jurado solo interviene en los delitos del art. 1 de la LO 5/1995 y nunca en los que sean competencia de la Audiencia Nacional.",
+        "explicacion": "El jurado nunca interviene en los delitos que sean competencia de la Audiencia Nacional; su ámbito son los delitos tasados del art. 1 de la LO 5/1995 (como los cometidos contra la vida humana) dentro de la Audiencia Provincial.",
         "id": "tema-6-q38"
       },
       {
@@ -8118,7 +8118,7 @@ const TEMAS = [
           "Los delitos contra la seguridad del tráfico"
         ],
         "correcta": 0,
-        "explicacion": "El art. 1 LO 5/1995 incluye entre los delitos competencia del jurado los cometidos contra la vida humana.",
+        "explicacion": "Entre los delitos que atribuye al jurado el art. 1 de la LO 5/1995 están los cometidos contra la vida humana; en cambio, ni la Hacienda Pública, ni el terrorismo, ni la seguridad del tráfico están entre sus competencias (el terrorismo es, de hecho, competencia de la Audiencia Nacional, vedada al jurado).",
         "id": "tema-6-q39"
       },
       {
@@ -8130,7 +8130,7 @@ const TEMAS = [
           "Los delitos urbanísticos"
         ],
         "correcta": 0,
-        "explicacion": "Entre los delitos competencia del jurado figuran los cometidos por funcionarios públicos en el ejercicio de sus cargos.",
+        "explicacion": "El art. 1 de la LO 5/1995 también atribuye al jurado los delitos cometidos por funcionarios públicos en el ejercicio de sus cargos, junto con otros como los delitos contra el honor o contra el medio ambiente; no los delitos societarios, de Seguridad Social ni urbanísticos.",
         "id": "tema-6-q40"
       },
       {
@@ -8142,7 +8142,7 @@ const TEMAS = [
           "Artículo 127.2 CE"
         ],
         "correcta": 0,
-        "explicacion": "El principio de inamovilidad se formula en el art. 117.1 CE y se desarrolla en el art. 117.2.",
+        "explicacion": "El principio de inamovilidad se formula en el art. 117.1 CE y se desarrolla en su apartado 2, no en el art. 122.3 (composición del CGPJ) ni en el 127.2 (incompatibilidades).",
         "id": "tema-6-q41"
       },
       {
@@ -8154,7 +8154,7 @@ const TEMAS = [
           "Por resolución del Congreso de los Diputados"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.2 CE exige causa legal y garantías previstas en la ley para separar, suspender, trasladar o jubilar a Jueces y Magistrados.",
+        "explicacion": "El art. 117.2 CE exige que cualquier separación, suspensión, traslado o jubilación de Jueces y Magistrados se ajuste a causas y garantías previstas en la ley, no a una decisión discrecional del Ministerio de Justicia, el Gobierno o el Congreso.",
         "id": "tema-6-q42"
       },
       {
@@ -8166,7 +8166,7 @@ const TEMAS = [
           "El artículo 54"
         ],
         "correcta": 0,
-        "explicacion": "El art. 378 LOPJ recoge textualmente el principio de inamovilidad de Jueces y Magistrados.",
+        "explicacion": "Es el art. 378 LOPJ el que recoge textualmente que 'gozarán de inamovilidad los Jueces y Magistrados que desempeñen cargos judiciales', no el 26 (organización de Tribunales) ni el 122 (composición del CGPJ).",
         "id": "tema-6-q43"
       },
       {
@@ -8178,7 +8178,7 @@ const TEMAS = [
           "Formar parte de asociaciones profesionales de jueces"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que, en activo, no podrán desempeñar otros cargos públicos ni pertenecer a partidos políticos o sindicatos.",
+        "explicacion": "El régimen de incompatibilidades impide a Jueces, Magistrados y Fiscales en activo desempeñar otros cargos públicos o pertenecer a partidos políticos y sindicatos, no limita su lugar de residencia ni la publicación de artículos jurídicos.",
         "id": "tema-6-q44"
       },
       {
@@ -8190,7 +8190,7 @@ const TEMAS = [
           "El periodismo"
         ],
         "correcta": 0,
-        "explicacion": "La excepción clásica reconocida es la docencia.",
+        "explicacion": "La excepción clásica que permite el art. 127.2 CE a la prohibición de actividad simultánea es la docencia, junto a otras de escasa relación con la función jurisdiccional como la investigación o actividades artísticas y deportivas; no la abogacía, la notaría ni el periodismo.",
         "id": "tema-6-q45"
       },
       {
@@ -8202,7 +8202,7 @@ const TEMAS = [
           "La abogacía en asuntos privados"
         ],
         "correcta": 0,
-        "explicacion": "El tema cita como excepciones la investigación y otras actividades de escasa relación con la función jurisdiccional, como las artísticas y deportivas.",
+        "explicacion": "Además de la docencia, se permiten actividades de escasa relación con la función jurisdiccional como la investigación y las actividades artísticas y deportivas, no la representación mercantil, la notaría ni la abogacía privada.",
         "id": "tema-6-q46"
       },
       {
@@ -8214,7 +8214,7 @@ const TEMAS = [
           "Debe atender a las directrices del Ministerio Fiscal"
         ],
         "correcta": 0,
-        "explicacion": "El sometimiento exclusivo a la ley significa que el Juez no debe obediencia a nada ni a nadie salvo a ella.",
+        "explicacion": "El sometimiento exclusivo a la ley (art. 117.1 CE) significa que el Juez no debe obediencia jerárquica a nadie, ni siquiera al Tribunal Supremo o al CGPJ, sino solo a la ley como expresión de la soberanía popular.",
         "id": "tema-6-q47"
       },
       {
@@ -8226,7 +8226,7 @@ const TEMAS = [
           "Solo como la Constitución y los tratados internacionales"
         ],
         "correcta": 0,
-        "explicacion": "El tema aclara que el Juez está sometido a ley y Derecho, no solo a las normas emanadas del Poder Legislativo.",
+        "explicacion": "El sometimiento del Juez a la 'ley' no se entiende en sentido formal, sino como ley y Derecho, es decir, todo el ordenamiento jurídico, y no solo las normas emanadas del Poder Legislativo.",
         "id": "tema-6-q48"
       },
       {
@@ -8238,7 +8238,7 @@ const TEMAS = [
           "El artículo 3 LOPJ"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.5 CE consagra la unidad jurisdiccional como base de la organización de los Tribunales.",
+        "explicacion": "El art. 117.5 CE es el que consagra la unidad jurisdiccional como base de la organización y funcionamiento de los Tribunales, no el 117.3 (exclusividad) ni el 122.1.",
         "id": "tema-6-q49"
       },
       {
@@ -8250,7 +8250,7 @@ const TEMAS = [
           "El recurso de casación"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.6 CE veda los Tribunales de Excepción, aunque permite órdenes jurisdiccionales especializados.",
+        "explicacion": "El art. 117.6 CE veda los Tribunales de Excepción, pero no prohíbe los órdenes jurisdiccionales especializados (civil, penal, contencioso-administrativo...), que sí son compatibles con la unidad jurisdiccional.",
         "id": "tema-6-q50"
       },
       {
@@ -8262,7 +8262,7 @@ const TEMAS = [
           "La jurisdicción arbitral internacional"
         ],
         "correcta": 0,
-        "explicacion": "La jurisdicción militar, en el ámbito estrictamente castrense en tiempos de paz, constituye una excepción a la unidad jurisdiccional.",
+        "explicacion": "La jurisdicción militar, en el ámbito estrictamente castrense y en tiempos de paz, es la excepción reconocida a la unidad jurisdiccional, junto con los supuestos de estado de sitio en que el Congreso puede ampliar los delitos sometidos a ella.",
         "id": "tema-6-q51"
       },
       {
@@ -8274,7 +8274,7 @@ const TEMAS = [
           "El artículo 122.3"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.3 CE consagra el principio de exclusividad de la potestad jurisdiccional.",
+        "explicacion": "El art. 117.3 CE es el que consagra el principio de exclusividad de la potestad jurisdiccional, distinto del 117.5 (unidad jurisdiccional), que regula otro principio diferente.",
         "id": "tema-6-q52"
       },
       {
@@ -8286,7 +8286,7 @@ const TEMAS = [
           "Las Cortes Generales"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.3 CE atribuye en exclusiva la potestad jurisdiccional a los Juzgados y Tribunales determinados por las leyes.",
+        "explicacion": "El art. 117.3 CE atribuye en exclusiva el ejercicio de la potestad jurisdiccional a los Juzgados y Tribunales determinados por las leyes, no al CGPJ (órgano de gobierno de los jueces, sin funciones jurisdiccionales) ni al Tribunal Constitucional ni a las Cortes Generales.",
         "id": "tema-6-q53"
       },
       {
@@ -8298,7 +8298,7 @@ const TEMAS = [
           "La Ley de Régimen Jurídico del Sector Público"
         ],
         "correcta": 0,
-        "explicacion": "La Ley de Demarcación y Planta Judicial, de 28 de diciembre de 1988, complementa a la LOPJ en la organización territorial.",
+        "explicacion": "La Ley de Demarcación y Planta Judicial, de 28 de diciembre de 1988, es el complemento indispensable de la LOPJ en la organización territorial del Poder Judicial, no la Ley de Enjuiciamiento Criminal ni el Estatuto del Ministerio Fiscal.",
         "id": "tema-6-q54"
       },
       {
@@ -8310,7 +8310,7 @@ const TEMAS = [
           "La LO 4/2001, reguladora del derecho de petición"
         ],
         "correcta": 0,
-        "explicacion": "La LO 1/2025, de 2 de enero, de medidas de eficiencia del Servicio Público de Justicia, reforma este planteamiento.",
+        "explicacion": "La LO 1/2025, de 2 de enero, de medidas de eficiencia del Servicio Público de Justicia, es la que ha reformado el modelo tradicional de la Ley de Demarcación y Planta Judicial, sustituyendo los juzgados unipersonales por órganos colegiados.",
         "id": "tema-6-q55"
       },
       {
@@ -8322,7 +8322,7 @@ const TEMAS = [
           "Juzgados Municipales"
         ],
         "correcta": 0,
-        "explicacion": "Los antiguos Juzgados de Paz pasan a llamarse 'Jueces y juezas de Paz'.",
+        "explicacion": "Tras la LO 1/2025, los antiguos Juzgados de Paz pasan a denominarse 'Jueces y juezas de Paz', siendo la única excepción a la regla general de que en primera instancia existirá un órgano colegiado.",
         "id": "tema-6-q56"
       },
       {
@@ -8334,7 +8334,7 @@ const TEMAS = [
           "Los Tribunales Superiores de Justicia"
         ],
         "correcta": 0,
-        "explicacion": "Los Tribunales de Instancia integran, como órganos colegiados, las antiguas competencias de esos juzgados unipersonales.",
+        "explicacion": "Los Tribunales de Instancia son el nuevo órgano colegiado, regulado en el art. 26 LOPJ, que sustituye a los antiguos Juzgados de Primera Instancia e Instrucción, Mercantil, Violencia sobre la Mujer, Penal, Contencioso-Administrativo, Social, Menores y Vigilancia Penitenciaria.",
         "id": "tema-6-q57"
       },
       {
@@ -8346,7 +8346,7 @@ const TEMAS = [
           "El artículo 54 LOPJ"
         ],
         "correcta": 0,
-        "explicacion": "El art. 123.1 CE atribuye al Tribunal Supremo la condición de órgano jurisdiccional superior salvo en garantías constitucionales.",
+        "explicacion": "El art. 123.1 CE es el que consagra al Tribunal Supremo como órgano jurisdiccional superior en todos los órdenes salvo en materia de garantías constitucionales (que corresponde al Tribunal Constitucional), no el art. 117.3 ni el 122.3.",
         "id": "tema-6-q58"
       },
       {
@@ -8358,7 +8358,7 @@ const TEMAS = [
           "El Fiscal General del Estado"
         ],
         "correcta": 0,
-        "explicacion": "El Presidente del Tribunal Supremo es también Presidente del CGPJ.",
+        "explicacion": "El Presidente del Tribunal Supremo preside también el Consejo General del Poder Judicial, no lo hace un magistrado rotatorio ni el Presidente del Gobierno.",
         "id": "tema-6-q59"
       },
       {
@@ -8370,7 +8370,7 @@ const TEMAS = [
           "Seis"
         ],
         "correcta": 0,
-        "explicacion": "El TS se estructura en cinco Salas: Civil, Penal, Contencioso-Administrativo, Social y Militar.",
+        "explicacion": "El Tribunal Supremo se estructura en cinco Salas: Civil, Penal, Contencioso-Administrativo, Social y Militar, esta última creada en 1987.",
         "id": "tema-6-q60"
       },
       {
@@ -8382,7 +8382,7 @@ const TEMAS = [
           "De lo Militar"
         ],
         "correcta": 0,
-        "explicacion": "La Sala Primera del TS es la Sala de lo Civil.",
+        "explicacion": "La Sala Primera del Tribunal Supremo es la de lo Civil; la Segunda es de lo Penal, la Tercera de lo Contencioso-Administrativo, la Cuarta de lo Social y la Quinta de lo Militar.",
         "id": "tema-6-q61"
       },
       {
@@ -8394,7 +8394,7 @@ const TEMAS = [
           "En 1995, con la LO del Tribunal del Jurado"
         ],
         "correcta": 0,
-        "explicacion": "La Sala Quinta se creó en 1987 al desaparecer el Consejo Supremo de Justicia Militar.",
+        "explicacion": "La Sala Quinta, de lo Militar, se creó en 1987 al desaparecer el Consejo Supremo de Justicia Militar, y no coincide con la fecha de la Constitución (1978) ni con la de la LOPJ (1985).",
         "id": "tema-6-q62"
       },
       {
@@ -8406,7 +8406,7 @@ const TEMAS = [
           "En cada capital de Comunidad Autónoma"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que la sede del TS está en la Villa de Madrid.",
+        "explicacion": "El Tribunal Supremo tiene su sede en la Villa de Madrid, no en Barcelona, Toledo ni de forma rotatoria por comunidades autónomas.",
         "id": "tema-6-q63"
       },
       {
@@ -8418,7 +8418,7 @@ const TEMAS = [
           "Veinticinco"
         ],
         "correcta": 0,
-        "explicacion": "El CGPJ está integrado por el Presidente del TS y veinte vocales, según el art. 122.3 CE.",
+        "explicacion": "El CGPJ está compuesto por el Presidente del Tribunal Supremo y veinte vocales, no doce, quince ni veinticinco, según el art. 122.3 CE.",
         "id": "tema-6-q64"
       },
       {
@@ -8430,7 +8430,7 @@ const TEMAS = [
           "El Tribunal Supremo, por un período de diez años"
         ],
         "correcta": 0,
-        "explicacion": "Según el art. 122.3 CE, los veinte vocales son nombrados por el Rey por un período de cinco años.",
+        "explicacion": "Los veinte vocales del CGPJ son nombrados por el Rey por un período de cinco años (no cuatro, ni seis, ni diez), conforme al art. 122.3 CE, aunque la propuesta corresponde al Congreso y al Senado.",
         "id": "tema-6-q65"
       },
       {
@@ -8442,7 +8442,7 @@ const TEMAS = [
           "Seis vocales, por mayoría simple"
         ],
         "correcta": 0,
-        "explicacion": "El Congreso propone 10 vocales del CGPJ, por mayoría de 3/5.",
+        "explicacion": "El Congreso propone diez vocales del CGPJ por mayoría de tres quintos, no ocho por mayoría absoluta ni doce por dos tercios. El Senado propone otros diez en igual proporción, completando los veinte vocales.",
         "id": "tema-6-q66"
       },
       {
@@ -8454,7 +8454,7 @@ const TEMAS = [
           "Es elegido por sorteo entre los vocales del Consejo"
         ],
         "correcta": 0,
-        "explicacion": "El Presidente del CGPJ es propuesto por el Pleno del propio Consejo, entre miembros de la carrera judicial o juristas de reconocida competencia.",
+        "explicacion": "El Presidente del CGPJ es propuesto por el propio Pleno del Consejo, entre miembros de la carrera judicial o juristas de reconocida competencia, no elegido directamente por el Congreso ni nombrado libremente por el Gobierno.",
         "id": "tema-6-q67"
       },
       {
@@ -8466,7 +8466,7 @@ const TEMAS = [
           "En 1995"
         ],
         "correcta": 0,
-        "explicacion": "La Audiencia Nacional fue creada en 1977.",
+        "explicacion": "La Audiencia Nacional se creó en 1977, antes incluso de la Constitución de 1978, y no en 1985 ni en 1995.",
         "id": "tema-6-q68"
       },
       {
@@ -8478,7 +8478,7 @@ const TEMAS = [
           "Sede en Madrid, pero solo con competencia en la Comunidad de Madrid"
         ],
         "correcta": 0,
-        "explicacion": "La Audiencia Nacional tiene su sede en Madrid y jurisdicción en todo el territorio para determinados delitos.",
+        "explicacion": "La Audiencia Nacional tiene su sede en Madrid y jurisdicción en todo el territorio nacional, pero solo para determinados delitos (como terrorismo o delitos contra la Corona), no una competencia limitada a la Comunidad de Madrid ni exclusiva de Cataluña.",
         "id": "tema-6-q69"
       },
       {
@@ -8490,7 +8490,7 @@ const TEMAS = [
           "Delitos urbanísticos de ámbito autonómico"
         ],
         "correcta": 0,
-        "explicacion": "El tema cita, entre otros, los delitos contra la Corona, económicos y de tráfico de drogas como competencia de la AN.",
+        "explicacion": "Además del terrorismo, la Audiencia Nacional conoce de los delitos contra la Corona, económicos y de tráfico de drogas, no de delitos leves, electorales municipales ni urbanísticos autonómicos, que corresponden a otros órganos.",
         "id": "tema-6-q70"
       },
       {
@@ -8502,7 +8502,7 @@ const TEMAS = [
           "Dos: penal y civil"
         ],
         "correcta": 0,
-        "explicacion": "La Audiencia Nacional tiene cuatro Salas: penal, contencioso-administrativo, social y apelación.",
+        "explicacion": "La Audiencia Nacional tiene cuatro Salas: penal, contencioso-administrativo, social y apelación; no las cinco del Tribunal Supremo ni solo dos o tres.",
         "id": "tema-6-q71"
       },
       {
@@ -8514,7 +8514,7 @@ const TEMAS = [
           "A los antiguos Juzgados de Primera Instancia"
         ],
         "correcta": 0,
-        "explicacion": "Los TSJ sustituyen a las antiguas Audiencias Territoriales.",
+        "explicacion": "Los Tribunales Superiores de Justicia sustituyen a las antiguas Audiencias Territoriales, no a las Audiencias Provinciales (que siguen existiendo) ni al Tribunal Supremo. Se componen de tres Salas: civil-penal, social y contencioso-administrativo.",
         "id": "tema-6-q72"
       },
       {
@@ -8526,7 +8526,7 @@ const TEMAS = [
           "En el Capítulo IV del Título I, relativo a las garantías"
         ],
         "correcta": 0,
-        "explicacion": "La Sección 1ª del Capítulo II del Título I CE se titula «De los derechos fundamentales y libertades públicas».",
+        "explicacion": "Los derechos y libertades públicas se regulan esencialmente en la Sección 1ª del Capítulo II del Título I CE, bajo el epígrafe 'De los derechos fundamentales y libertades públicas', no en la Sección 2ª ni en el Capítulo I o IV.",
         "id": "tema-6-q73"
       },
       {
@@ -8538,7 +8538,7 @@ const TEMAS = [
           "Derechos de primera y de segunda generación"
         ],
         "correcta": 0,
-        "explicacion": "El tema distingue derechos de ámbito personal, de la esfera privada y de participación, antes de analizar las libertades públicas.",
+        "explicacion": "El tema distingue, dentro de los derechos fundamentales, los de ámbito personal, los de la esfera privada y los de participación, antes de analizar aparte las libertades públicas; no se trata de una simple división en civiles, políticos y sociales.",
         "id": "tema-6-q74"
       },
       {
@@ -8550,7 +8550,7 @@ const TEMAS = [
           "Su carácter no fundamental dentro del catálogo constitucional"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que el derecho a la vida plantea el problema de delimitar su comienzo y su final.",
+        "explicacion": "El derecho a la vida (art. 15 CE) plantea el problema de delimitar su comienzo y su final, cuestión sobre la que se pronunció el TC con la STC 53/1985 relativa a la despenalización del aborto.",
         "id": "tema-6-q75"
       },
       {
@@ -8562,7 +8562,7 @@ const TEMAS = [
           "Montesquieu"
         ],
         "correcta": 0,
-        "explicacion": "El tema atribuye esta definición a Jorge de Esteban.",
+        "explicacion": "Fue Jorge de Esteban quien definió el derecho a la integridad física y moral (art. 15 CE) como el derecho a no ser sometido contra la propia voluntad a tratamientos que anulen o hieran la voluntad, ideas o sentimientos, no Kelsen, Jellinek ni Montesquieu (citados en el tema en otros contextos).",
         "id": "tema-6-q76"
       },
       {
@@ -8574,7 +8574,7 @@ const TEMAS = [
           "Las creencias religiosas de la mayoría de los ciudadanos"
         ],
         "correcta": 0,
-        "explicacion": "El art. 16 CE permite limitar las manifestaciones de la libertad ideológica y religiosa por razones de orden público.",
+        "explicacion": "La libertad ideológica y religiosa (art. 16 CE) solo puede limitarse en sus manifestaciones por el mantenimiento del orden público, no por conveniencia gubernamental ni por la opinión mayoritaria; además, nadie puede ser obligado a declarar sobre su ideología o creencias.",
         "id": "tema-6-q77"
       },
       {
@@ -8586,7 +8586,7 @@ const TEMAS = [
           "La Ley Orgánica 6/1984, de 24 de mayo"
         ],
         "correcta": 0,
-        "explicacion": "La LO 7/1980, de 5 de junio, desarrolla la libertad religiosa reconocida en el art. 16 CE.",
+        "explicacion": "La libertad religiosa del art. 16 CE se desarrolla en la LO 7/1980, de 5 de junio, distinta de la LO 8/1985 (educación) o la LO 1/1982 (honor e intimidad).",
         "id": "tema-6-q78"
       },
       {
@@ -8598,7 +8598,7 @@ const TEMAS = [
           "La cuestión de inconstitucionalidad"
         ],
         "correcta": 0,
-        "explicacion": "El Hábeas Corpus, ligado al art. 17 CE, permite el control judicial inmediato de la detención.",
+        "explicacion": "El Hábeas Corpus es la institución que permite el control judicial inmediato de una detención vinculada al derecho de libertad y seguridad (art. 17 CE), distinta de la acción popular o del recurso de amparo.",
         "id": "tema-6-q79"
       },
       {
@@ -8610,7 +8610,7 @@ const TEMAS = [
           "Status civitatis"
         ],
         "correcta": 0,
-        "explicacion": "Jellinek denominó 'status libertatis' al conjunto de derechos de la esfera privada en que el individuo se mueve libremente.",
+        "explicacion": "Jellinek denominó 'status libertatis' al conjunto de derechos de la esfera privada, no al 'status activae civitatis' (que corresponde a los derechos de participación) ni a otras categorías como el status subiectionis o civitatis.",
         "id": "tema-6-q80"
       },
       {
@@ -8622,7 +8622,7 @@ const TEMAS = [
           "La Ley Orgánica 9/1983, de 15 de julio"
         ],
         "correcta": 0,
-        "explicacion": "La LO 1/1982, de 5 de mayo, desarrolla la protección civil del honor, la intimidad y la propia imagen.",
+        "explicacion": "El honor, la intimidad y la propia imagen (art. 18.1 CE) se desarrollan en la LO 1/1982, de 5 de mayo, distinta de la LO 15/1999 (protección de datos, art. 18.4) o la LO 7/1980 (libertad religiosa, art. 16).",
         "id": "tema-6-q81"
       },
       {
@@ -8634,7 +8634,7 @@ const TEMAS = [
           "Cuando exista denuncia de un vecino"
         ],
         "correcta": 0,
-        "explicacion": "El art. 18.2 CE permite la entrada sin consentimiento ni resolución judicial únicamente en caso de flagrante delito.",
+        "explicacion": "El art. 18.2 CE solo permite la entrada o registro del domicilio sin consentimiento ni resolución judicial en caso de flagrante delito, no por sospecha policial, autorización municipal ni denuncia vecinal.",
         "id": "tema-6-q82"
       },
       {
@@ -8646,7 +8646,7 @@ const TEMAS = [
           "La Ley Orgánica 11/1985, de 2 de agosto"
         ],
         "correcta": 0,
-        "explicacion": "La LO 15/1999, de 13 de diciembre, de Protección de Datos, desarrolla el art. 18.4 CE.",
+        "explicacion": "La 'libertad informática' del art. 18.4 CE se desarrolla en la LO 15/1999, de Protección de Datos, no en la LO 1/1982 (que protege el honor y la intimidad del art. 18.1) ni en otras leyes orgánicas del tema.",
         "id": "tema-6-q83"
       },
       {
@@ -8658,7 +8658,7 @@ const TEMAS = [
           "El derecho a la negociación colectiva"
         ],
         "correcta": 0,
-        "explicacion": "El TC engloba en el art. 20 CE la libertad de expresión, creación, cátedra, comunicación e información.",
+        "explicacion": "El TC engloba en el art. 20 CE la libertad de expresión, la creación literaria, artística, científica y técnica, la libertad de cátedra y el derecho a la información, un contenido mucho más amplio que la mera libertad de prensa escrita.",
         "id": "tema-6-q84"
       },
       {
@@ -8670,7 +8670,7 @@ const TEMAS = [
           "Que sea convocada por un partido político"
         ],
         "correcta": 0,
-        "explicacion": "El art. 21 CE exige que la reunión sea pacífica y sin armas, sin necesidad de autorización previa.",
+        "explicacion": "El derecho de reunión (art. 21 CE) exige que sea pacífica y sin armas, pero no requiere autorización previa en ningún caso; en reuniones en lugares de tránsito público basta con comunicación previa a la autoridad.",
         "id": "tema-6-q85"
       },
       {
@@ -8682,7 +8682,7 @@ const TEMAS = [
           "La Ley Orgánica 4/2001, de 12 de noviembre"
         ],
         "correcta": 0,
-        "explicacion": "La LO 9/1983, de 15 de julio, desarrolla el derecho de reunión del art. 21 CE.",
+        "explicacion": "El derecho de reunión se desarrolla por la LO 9/1983, de 15 de julio, no por la LO 1/2002 (que regula el derecho de asociación) ni por otras leyes orgánicas del tema.",
         "id": "tema-6-q86"
       },
       {
@@ -8694,7 +8694,7 @@ const TEMAS = [
           "Las asociaciones sin ánimo de lucro"
         ],
         "correcta": 0,
-        "explicacion": "El art. 22 CE prohíbe las asociaciones secretas y las de carácter paramilitar.",
+        "explicacion": "El art. 22 CE prohíbe expresamente las asociaciones secretas y las de carácter paramilitar, no las asociaciones profesionales de jueces y fiscales ni las religiosas no católicas, que sí son lícitas.",
         "id": "tema-6-q87"
       },
       {
@@ -8706,7 +8706,7 @@ const TEMAS = [
           "La Ley Orgánica 11/1985, de 2 de agosto"
         ],
         "correcta": 0,
-        "explicacion": "La LO 1/2002, de 22 de marzo, reguladora del derecho de asociación, desarrolla el art. 22 CE.",
+        "explicacion": "El derecho de asociación (art. 22 CE) se regula actualmente por la LO 1/2002, de 22 de marzo, distinta de la LO 9/1983 (reunión) o la LO 11/1985 (libertad sindical).",
         "id": "tema-6-q88"
       },
       {
@@ -8718,7 +8718,7 @@ const TEMAS = [
           "El derecho de asociación sindical"
         ],
         "correcta": 0,
-        "explicacion": "El art. 23 CE engloba el derecho de sufragio y el acceso en igualdad a funciones y cargos públicos.",
+        "explicacion": "El derecho de participación política (art. 23 CE) engloba tanto el derecho de sufragio como el acceso en condiciones de igualdad a funciones y cargos públicos, no solo uno de los dos aspectos por separado.",
         "id": "tema-6-q89"
       },
       {
@@ -8730,7 +8730,7 @@ const TEMAS = [
           "La Ley Orgánica 1/1982, de 5 de mayo"
         ],
         "correcta": 0,
-        "explicacion": "La LO 4/2001, de 12 de noviembre, desarrolla el derecho de petición individual y colectiva.",
+        "explicacion": "El derecho de petición (art. 29 CE) se desarrolla en la LO 4/2001, de 12 de noviembre, distinta de la LO 9/1983 (reunión) o la LO 1/1982 (honor e intimidad).",
         "id": "tema-6-q90"
       },
       {
@@ -8742,7 +8742,7 @@ const TEMAS = [
           "La presunción de inocencia"
         ],
         "correcta": 0,
-        "explicacion": "La STC 26/1983 enumera, entre otros contenidos, el libre acceso a Jueces y Tribunales, el proceso sin dilaciones y la presunción de inocencia; no incluye ningún 'derecho a la insumisión'.",
+        "explicacion": "La STC 26/1983 no reconoce ningún 'derecho a la insumisión'; su contenido abarca el acceso a Jueces y Tribunales, el proceso sin dilaciones y la presunción de inocencia, entre otros elementos de la tutela judicial efectiva.",
         "id": "tema-6-q91"
       },
       {
@@ -8754,7 +8754,7 @@ const TEMAS = [
           "La STC de 2 de julio de 1981"
         ],
         "correcta": 0,
-        "explicacion": "La STC 23/1983, de 5 de marzo, precisó ese doble contenido del derecho de sindicación.",
+        "explicacion": "Es la STC 23/1983, de 5 de marzo, la que reconoce el doble contenido del derecho de sindicación (organizarse y que el sindicato defienda a sus afiliados), no la STC 53/1985 (aborto) ni la 26/1983 (tutela judicial).",
         "id": "tema-6-q92"
       },
       {
@@ -8766,7 +8766,7 @@ const TEMAS = [
           "El Real Decreto-Ley 17/1977, de 4 de marzo"
         ],
         "correcta": 0,
-        "explicacion": "La LO 11/1985, de 2 de agosto, de Libertad Sindical, desarrolla el derecho de sindicación.",
+        "explicacion": "El derecho de sindicación (art. 28.1 CE) se regula por la LO 11/1985, de Libertad Sindical, no por la LO 9/2011 (derechos de las FAS, que precisamente veda este derecho a los militares) ni por la LO 1/2002.",
         "id": "tema-6-q93"
       },
       {
@@ -8778,7 +8778,7 @@ const TEMAS = [
           "La Ley Orgánica 5/1985, de 19 de junio"
         ],
         "correcta": 0,
-        "explicacion": "El derecho a la huelga se regula por el RDL 17/1977, de 4 de marzo, sobre relaciones laborales.",
+        "explicacion": "A falta de ley orgánica postconstitucional, el derecho a la huelga (art. 28.2 CE) sigue regulándose por el RDL 17/1977, de 4 de marzo, una norma preconstitucional, y no por la LO 11/1985 (que regula la libertad sindical).",
         "id": "tema-6-q94"
       },
       {
@@ -8790,7 +8790,7 @@ const TEMAS = [
           "El embargo preventivo automático"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que la función social de la propiedad se articula a través de la expropiación forzosa.",
+        "explicacion": "La función social de la propiedad privada (art. 33 CE) se articula históricamente a través de la expropiación forzosa, no mediante confiscación generalizada ni nacionalización obligatoria.",
         "id": "tema-6-q95"
       },
       {
@@ -8802,7 +8802,7 @@ const TEMAS = [
           "El derecho a elegir libremente el horario laboral"
         ],
         "correcta": 0,
-        "explicacion": "La STC de 2 de julio de 1981 concreta el derecho al trabajo en el acceso en igualdad y la continuidad en el empleo.",
+        "explicacion": "La STC de 2 de julio de 1981 concreta el derecho al trabajo (art. 35 CE) en el acceso en igualdad a un puesto de trabajo según capacitación y en la continuidad en el empleo, no en un derecho absoluto a no ser despedido ni en el salario mínimo.",
         "id": "tema-6-q96"
       },
       {
@@ -8814,7 +8814,7 @@ const TEMAS = [
           "Una manifestación del derecho de huelga"
         ],
         "correcta": 0,
-        "explicacion": "La STC de 30 de abril de 1985 califica la negociación colectiva como garantía básica de situaciones jurídicas individualizadas.",
+        "explicacion": "La STC de 30 de abril de 1985 califica la negociación colectiva (art. 37.1 CE) como garantía básica de situaciones jurídicas individualizadas que mejora las condiciones de trabajo, no como un derecho exclusivo de los empresarios ni una simple manifestación de la huelga.",
         "id": "tema-6-q97"
       },
       {
@@ -8826,7 +8826,7 @@ const TEMAS = [
           "El derecho a recibir subvenciones públicas de forma automática"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que la libertad de empresa consiste en iniciar y mantener libremente la actividad empresarial dentro de la regulación legal.",
+        "explicacion": "La libertad de empresa (art. 38 CE) consiste en iniciar y mantener libremente la actividad empresarial dentro de la regulación legal, no en un derecho absoluto sin ningún control ni en un privilegio exclusivo de grandes corporaciones.",
         "id": "tema-6-q98"
       },
       {
@@ -8838,7 +8838,7 @@ const TEMAS = [
           "La Ley Orgánica 4/2001, de 12 de noviembre"
         ],
         "correcta": 0,
-        "explicacion": "La LO 8/1985, de 3 de julio, reguladora del Derecho a la Educación (LODE), desarrolla el art. 27 CE.",
+        "explicacion": "El derecho a la educación (art. 27 CE) se desarrolla por la LO 8/1985, de 3 de julio (LODE), distinta de la LO 7/1980 (libertad religiosa) o la LO 1/1982 (honor e intimidad).",
         "id": "tema-6-q99"
       },
       {
@@ -8850,7 +8850,7 @@ const TEMAS = [
           "Materia excluida del sistema educativo público"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que la Religión es de oferta obligatoria en los centros públicos y de elección voluntaria para los alumnos.",
+        "explicacion": "Cuidado con la inversión: la Religión es de oferta obligatoria para los centros públicos, pero de elección voluntaria para los alumnos, no al revés ni obligatoria para ambos.",
         "id": "tema-6-q100"
       },
       {
@@ -8862,7 +8862,7 @@ const TEMAS = [
           "La independencia se garantiza, entre otras técnicas, mediante la inamovilidad y el régimen de incompatibilidades"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.3 CE atribuye la potestad jurisdiccional en exclusiva a Juzgados y Tribunales; ninguna Administración puede ejercerla.",
+        "explicacion": "Es justo lo contrario: el art. 117.3 CE reserva la potestad jurisdiccional en exclusiva a los Juzgados y Tribunales; ninguna Administración Pública puede ejercer funciones jurisdiccionales, ni siquiera por razones de urgencia. Las demás afirmaciones sobre unidad, sometimiento a la ley e independencia sí son correctas.",
         "nivel": "avanzado",
         "id": "tema-6-q101"
       },
@@ -8875,7 +8875,7 @@ const TEMAS = [
           "La unidad jurisdiccional se refiere solo al ámbito penal, y la exclusividad al ámbito civil"
         ],
         "correcta": 0,
-        "explicacion": "La unidad jurisdiccional (117.5, con la prohibición de Tribunales de Excepción del 117.6) y la exclusividad (117.3) son principios distintos aunque complementarios.",
+        "explicacion": "La unidad jurisdiccional (art. 117.5 CE, con la prohibición de Tribunales de Excepción del 117.6) y la exclusividad (art. 117.3 CE) son principios distintos y se regulan en apartados diferentes del mismo artículo; solo la unidad admite la excepción de la jurisdicción militar en tiempo de paz.",
         "nivel": "avanzado",
         "id": "tema-6-q102"
       },
@@ -8888,7 +8888,7 @@ const TEMAS = [
           "La jurisdicción eclesiástica en materia matrimonial"
         ],
         "correcta": 0,
-        "explicacion": "Los órdenes jurisdiccionales especializados (civil, penal, contencioso-administrativo...) no rompen la unidad jurisdiccional; son manifestación de ella. Las verdaderas excepciones son la jurisdicción militar en tiempo de paz y los supuestos de estado de sitio.",
+        "explicacion": "Los órdenes jurisdiccionales especializados (civil, penal, contencioso-administrativo, etc.) no rompen la unidad jurisdiccional, sino que son manifestación de ella; las verdaderas excepciones son la jurisdicción militar en tiempo de paz y los supuestos de estado de sitio.",
         "nivel": "avanzado",
         "id": "tema-6-q103"
       },
@@ -8901,7 +8901,7 @@ const TEMAS = [
           "Solo cabe separar, suspender, trasladar o jubilar a un Juez por causas y con garantías previstas en la ley"
         ],
         "correcta": 0,
-        "explicacion": "El art. 117.2 CE exige causa legal y garantías para cualquier traslado, suspensión, separación o jubilación; no cabe un traslado libre por el Ministerio de Justicia.",
+        "explicacion": "Es falso que el Ministerio de Justicia pueda trasladar libremente a Jueces y Magistrados: el art. 117.2 CE exige siempre causa legal y garantías previstas en la ley para cualquier separación, suspensión, traslado o jubilación.",
         "nivel": "avanzado",
         "id": "tema-6-q104"
       },
@@ -8914,7 +8914,7 @@ const TEMAS = [
           "Las actividades artísticas y deportivas de escasa relación con la función jurisdiccional"
         ],
         "correcta": 0,
-        "explicacion": "El art. 127.2 CE prohíbe la actividad profesional privada simultánea (como la abogacía); las excepciones citadas son la docencia y actividades de escasa relación como investigación, artísticas y deportivas.",
+        "explicacion": "El ejercicio simultáneo de la abogacía privada no es una excepción al régimen de incompatibilidades, sino precisamente lo que el art. 127.2 CE prohíbe; las excepciones reales son la docencia y actividades de escasa relación con la función jurisdiccional, como la investigación o las artísticas y deportivas.",
         "nivel": "avanzado",
         "id": "tema-6-q105"
       },
@@ -8927,7 +8927,7 @@ const TEMAS = [
           "El Tribunal del Jurado se compone de doce jurados y tres magistrados, dentro del Tribunal Supremo"
         ],
         "correcta": 0,
-        "explicacion": "El Jurado se compone de nueve jurados más un magistrado dentro de la Audiencia Provincial, y nunca interviene en delitos competencia de la AN.",
+        "explicacion": "El Tribunal del Jurado se integra dentro de la Audiencia Provincial (no la sustituye, ni se integra en el Tribunal Supremo) y nunca interviene en delitos competencia de la Audiencia Nacional; su composición es de nueve jurados y un magistrado, no doce y tres.",
         "nivel": "avanzado",
         "id": "tema-6-q106"
       },
@@ -8940,7 +8940,7 @@ const TEMAS = [
           "Los antiguos Juzgados de Paz pasan a denominarse Jueces y juezas de Paz"
         ],
         "correcta": 0,
-        "explicacion": "La LO 1/2025 suprime la naturaleza unipersonal de esos juzgados, integrándolos como Tribunales de Instancia de carácter colegiado.",
+        "explicacion": "Es justo lo contrario: la LO 1/2025 suprime la naturaleza unipersonal de los antiguos Juzgados de Primera Instancia e Instrucción, integrándolos en los nuevos Tribunales de Instancia, órganos colegiados; la única excepción son los antiguos Juzgados de Paz, que pasan a llamarse Jueces y juezas de Paz.",
         "nivel": "avanzado",
         "id": "tema-6-q107"
       },
@@ -8953,7 +8953,7 @@ const TEMAS = [
           "La Audiencia Nacional"
         ],
         "correcta": 0,
-        "explicacion": "Las Audiencias Territoriales fueron sustituidas por los Tribunales Superiores de Justicia y no figuran en el art. 26 LOPJ vigente.",
+        "explicacion": "Las Audiencias Territoriales no figuran en el art. 26 LOPJ porque fueron sustituidas hace tiempo por los Tribunales Superiores de Justicia; sí figuran los Tribunales de Instancia, el Tribunal Central de Instancia y la Audiencia Nacional, entre otros.",
         "nivel": "avanzado",
         "id": "tema-6-q108"
       },
@@ -8966,7 +8966,7 @@ const TEMAS = [
           "El Tribunal Supremo fue creado en 1977, al igual que la Audiencia Nacional"
         ],
         "correcta": 0,
-        "explicacion": "El TS (art. 123.1 CE) es superior en todos los órdenes salvo garantías constitucionales; la AN, creada en 1977, tiene competencia limitada a determinados delitos y materias en todo el territorio.",
+        "explicacion": "El Tribunal Supremo (art. 123.1 CE) es superior en todos los órdenes salvo en garantías constitucionales, mientras que la Audiencia Nacional, creada también en 1977, solo tiene competencia en todo el territorio para determinados delitos y materias, no en todos los órdenes.",
         "nivel": "avanzado",
         "id": "tema-6-q109"
       },
@@ -8979,7 +8979,7 @@ const TEMAS = [
           "Los vocales son nombrados por el Rey por un período de cinco años, conforme al art. 122.3 CE"
         ],
         "correcta": 0,
-        "explicacion": "Tanto el Congreso como el Senado proponen sus 10 vocales por mayoría de 3/5, no por mayoría absoluta.",
+        "explicacion": "Tanto el Congreso como el Senado proponen sus diez vocales por mayoría de tres quintos, no por mayoría absoluta; de esos veinte vocales, doce proceden de la carrera judicial y ocho de juristas de reconocida competencia, y son nombrados por el Rey por cinco años.",
         "nivel": "avanzado",
         "id": "tema-6-q110"
       },
@@ -8992,7 +8992,7 @@ const TEMAS = [
           "La Sala Quinta conoce de lo Militar, creada en 1987"
         ],
         "correcta": 0,
-        "explicacion": "La Sala Cuarta conoce de lo Social, no de lo Militar; lo Militar corresponde a la Sala Quinta, creada en 1987.",
+        "explicacion": "La Sala Cuarta del Tribunal Supremo conoce de lo Social, no de lo Militar; lo Militar corresponde a la Sala Quinta, creada en 1987 al desaparecer el Consejo Supremo de Justicia Militar.",
         "nivel": "avanzado",
         "id": "tema-6-q111"
       },
@@ -9005,7 +9005,7 @@ const TEMAS = [
           "La Audiencia Nacional se compone de tres Salas y el TSJ de cuatro"
         ],
         "correcta": 0,
-        "explicacion": "El TSJ tiene tres Salas y la AN cuatro, según el tema; la AN tiene competencia estatal para determinados delitos, no autonómica.",
+        "explicacion": "El Tribunal Superior de Justicia se compone de tres Salas (civil-penal, social y contencioso-administrativo), mientras que la Audiencia Nacional tiene cuatro (penal, contencioso-administrativo, social y apelación); la AN tiene competencia estatal para determinados delitos, no limitada a una Comunidad Autónoma.",
         "nivel": "avanzado",
         "id": "tema-6-q112"
       },
@@ -9018,7 +9018,7 @@ const TEMAS = [
           "Los derechos de participación configuran el 'status activae civilitatis'"
         ],
         "correcta": 0,
-        "explicacion": "Es al revés: la esfera privada es el 'status libertatis' y la participación es el 'status activae civilitatis'.",
+        "explicacion": "Es al revés: los derechos de la esfera privada constituyen el 'status libertatis', y los de participación configuran el 'status activae civilitatis'; los de ámbito personal se consideran presupuesto de ejercicio de los demás derechos.",
         "nivel": "avanzado",
         "id": "tema-6-q113"
       },
@@ -9031,7 +9031,7 @@ const TEMAS = [
           "La Ley Orgánica 5/1992, de 29 de octubre, de Regulación del Tratamiento Automatizado de los Datos de Carácter Personal"
         ],
         "correcta": 0,
-        "explicacion": "La LO 7/1980 desarrolla la libertad religiosa (art. 16 CE), no ningún derecho del art. 18; la LO 1/1982 desarrolla el art. 18.1 y la LO 15/1999 el art. 18.4.",
+        "explicacion": "La LO 7/1980 desarrolla la libertad religiosa del art. 16 CE, no ningún derecho del art. 18; en cambio, la LO 1/1982 desarrolla el art. 18.1 (honor e intimidad) y la LO 15/1999 el art. 18.4 (protección de datos).",
         "nivel": "avanzado",
         "id": "tema-6-q114"
       },
@@ -9044,7 +9044,7 @@ const TEMAS = [
           "Basta la autorización del Ayuntamiento para entrar en cualquier domicilio sin consentimiento del titular"
         ],
         "correcta": 0,
-        "explicacion": "El art. 18.2 CE solo permite la entrada sin consentimiento ni resolución judicial en caso de flagrante delito.",
+        "explicacion": "La entrada en el domicilio sin consentimiento del titular ni resolución judicial solo cabe en caso de flagrante delito (art. 18.2 CE); no basta la autorización de un agente ni de un Ayuntamiento, y la inviolabilidad del domicilio sí admite esa única excepción.",
         "nivel": "avanzado",
         "id": "tema-6-q115"
       },
@@ -9057,7 +9057,7 @@ const TEMAS = [
           "Derecho de petición (art. 29) - Ley Orgánica 4/2001, de 12 de noviembre"
         ],
         "correcta": 0,
-        "explicacion": "El derecho de reunión se desarrolla por la LO 9/1983, de 15 de julio, no por la LO 1/2002 (que regula el derecho de asociación).",
+        "explicacion": "El derecho de reunión (art. 21 CE) se desarrolla por la LO 9/1983, de 15 de julio, no por la LO 1/2002, que en realidad regula el derecho de asociación (art. 22 CE).",
         "nivel": "avanzado",
         "id": "tema-6-q116"
       },
@@ -9070,7 +9070,7 @@ const TEMAS = [
           "Se regula por la LO 1/2002, de 22 de marzo"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que el derecho de sindicación (no el de asociación en general) está expresamente vedado a las FAS por la LO 9/2011; la LO 11/2007 lo que hizo fue reconocer el derecho de asociación a la Guardia Civil, no a las FAS.",
+        "explicacion": "La LO 1/2002 no reconoce sin límites el derecho de asociación a las Fuerzas Armadas: es el derecho de sindicación (no el de asociación en general) el que está expresamente vedado a las FAS por la LO 9/2011; la LO 11/2007 sí reconoció el derecho de asociación a la Guardia Civil.",
         "nivel": "avanzado",
         "id": "tema-6-q117"
       },
@@ -9083,7 +9083,7 @@ const TEMAS = [
           "El derecho a no declarar contra sí mismo y a la presunción de inocencia"
         ],
         "correcta": 0,
-        "explicacion": "La STC 26/1983 no reconoce ninguna indemnización automática; su contenido son el acceso a la jurisdicción, el fallo y su cumplimiento, juez natural, letrado, proceso sin dilaciones, no autoincriminación y presunción de inocencia.",
+        "explicacion": "La STC 26/1983 no reconoce ninguna indemnización automática del Estado; su contenido se centra en el acceso a la jurisdicción, el fallo y su cumplimiento, el juez natural, el letrado, el proceso sin dilaciones, la no autoincriminación y la presunción de inocencia.",
         "nivel": "avanzado",
         "id": "tema-6-q118"
       },
@@ -9096,7 +9096,7 @@ const TEMAS = [
           "Ninguno de los dos derechos puede ser objeto de suspensión ni limitación en ningún caso"
         ],
         "correcta": 0,
-        "explicacion": "El de sindicación (art. 28.1) se rige por la LO 11/1985 y está vedado a las FAS; el de huelga (art. 28.2) se rige por el RDL 17/1977 y es suspendible conforme al art. 55 CE.",
+        "explicacion": "El derecho de sindicación (art. 28.1 CE) se rige por la LO 11/1985 y está vedado a las Fuerzas Armadas, mientras que el derecho a la huelga (art. 28.2 CE) se rige por el preconstitucional RDL 17/1977 y sí puede suspenderse en estado de excepción o de sitio (art. 55 CE).",
         "nivel": "avanzado",
         "id": "tema-6-q119"
       },
@@ -9109,7 +9109,7 @@ const TEMAS = [
           "Está recogido en el artículo 28.2 de la Constitución"
         ],
         "correcta": 0,
-        "explicacion": "El tema indica expresamente que la huelga se regula por el RDL 17/1977, preconstitucional, al no existir ley orgánica postconstitucional específica; su desarrollo se remite al tema de Derecho Administrativo.",
+        "explicacion": "Es al revés: no existe una ley orgánica postconstitucional específica sobre la huelga; a falta de ella, sigue rigiendo el preconstitucional RDL 17/1977, de 4 de marzo, sobre relaciones laborales, cuyo desarrollo se remite al temario de Derecho Administrativo.",
         "nivel": "avanzado",
         "id": "tema-6-q120"
       },
@@ -9122,7 +9122,7 @@ const TEMAS = [
           "El derecho al trabajo se regula en el art. 37 CE y la negociación colectiva en el art. 35 CE"
         ],
         "correcta": 0,
-        "explicacion": "Son sentencias distintas: STC de 2-7-1981 sobre el derecho al trabajo (art. 35) y STC de 30-4-1985 sobre negociación colectiva (art. 37.1).",
+        "explicacion": "Son sentencias distintas: la STC de 2 de julio de 1981 interpretó el derecho al trabajo (art. 35 CE) en clave de acceso e igualdad, mientras que la STC de 30 de abril de 1985 calificó la negociación colectiva (art. 37.1 CE) como garantía básica de situaciones jurídicas individualizadas.",
         "nivel": "avanzado",
         "id": "tema-6-q121"
       },
@@ -9135,7 +9135,7 @@ const TEMAS = [
           "La elección de cursar Religión es voluntaria para los alumnos"
         ],
         "correcta": 0,
-        "explicacion": "Según el tema, la oferta de Religión es obligatoria para los centros públicos, aunque la elección de cursarla es voluntaria para los alumnos; no es voluntaria para los centros.",
+        "explicacion": "La oferta de Religión es obligatoria para los centros públicos, no voluntaria; lo que sí es voluntario es la elección de cursarla por parte del alumnado, conforme a la LO 8/1985 que desarrolla el art. 27 CE.",
         "nivel": "avanzado",
         "id": "tema-6-q122"
       },
@@ -9148,7 +9148,7 @@ const TEMAS = [
           "Derecho al trabajo - artículo 35 CE"
         ],
         "correcta": 0,
-        "explicacion": "La libertad de empresa se recoge en el art. 38 CE, no en el art. 33, que corresponde a la propiedad privada y la herencia.",
+        "explicacion": "La libertad de empresa se recoge en el art. 38 CE, no en el art. 33 (que corresponde a la propiedad privada y la herencia); el derecho de fundación está en el art. 34 y el derecho al trabajo en el art. 35.",
         "nivel": "avanzado",
         "id": "tema-6-q123"
       },
@@ -9161,7 +9161,7 @@ const TEMAS = [
           "Implica que el Juez puede apartarse de la ley cuando la considere injusta, en aplicación del principio de equidad"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que el sometimiento del Juez es a la ley y al Derecho en su conjunto, no a la mera jerarquía ni a la ley en sentido puramente formal.",
+        "explicacion": "El sometimiento a la ley del Juez implica obediencia a la ley y al Derecho en su conjunto —todo el ordenamiento jurídico—, no una obediencia jerárquica a órganos superiores ni la posibilidad de apartarse de la ley por criterios de equidad.",
         "nivel": "avanzado",
         "id": "tema-6-q124"
       },
@@ -9174,7 +9174,7 @@ const TEMAS = [
           "El jurado, en su composición primaria, beneficiaba a ciertos estratos sociales"
         ],
         "correcta": 0,
-        "explicacion": "El tema aclara expresamente que el jurado no nació como elemento democratizador, sino como un privilegio que beneficiaba a ciertos estratos sociales.",
+        "explicacion": "Es al revés: el jurado, en su composición primaria, no nació como mecanismo democratizador sino como un privilegio que beneficiaba a ciertos estratos sociales; la acción popular, en cambio, sí permite a cualquier ciudadano defender intereses públicos como miembro de la colectividad.",
         "nivel": "avanzado",
         "id": "tema-6-q125"
       }
@@ -9194,7 +9194,7 @@ const TEMAS = [
           "La igualdad ante la ley"
         ],
         "correcta": 3,
-        "explicacion": "El art. 10 CE menciona la dignidad de la persona, los derechos inviolables inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás; la igualdad ante la ley no figura en esta enumeración.",
+        "explicacion": "Igualdad ante la ley no figura en el art. 10 CE, aunque encaje con el contexto. El art. 10.1 CE cita como fundamento del orden político y la paz social la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás. Este artículo abre el Título I y sirve de base al resto de derechos y deberes constitucionales.",
         "id": "tema-7-q1"
       },
       {
@@ -9206,7 +9206,7 @@ const TEMAS = [
           "14 años"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica expresamente que el artículo 12 marca que los españoles son mayores de edad a los dieciocho años.",
+        "explicacion": "No es a los 16 ni a los 21: el art. 12 CE fija la mayoría de edad en los 18 años. Es un artículo breve, situado entre la regulación de la nacionalidad (art. 11) y la de los derechos de los extranjeros (art. 13).",
         "id": "tema-7-q2"
       },
       {
@@ -9218,7 +9218,7 @@ const TEMAS = [
           "El acceso a la función pública en condiciones de igualdad"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que solo los españoles serán titulares de los derechos del art. 23, salvo que por criterios de reciprocidad se establezca por tratado o ley el sufragio activo y pasivo en elecciones municipales.",
+        "explicacion": "La reciprocidad del art. 13 CE solo permite reconocer a los extranjeros el sufragio activo y pasivo en elecciones municipales, no en las generales ni en las europeas. Solo los españoles son, con carácter general, titulares de los derechos del art. 23 CE. Ese mismo principio de reciprocidad rige también, en este artículo, la concesión de la extradición.",
         "id": "tema-7-q3"
       },
       {
@@ -9230,7 +9230,7 @@ const TEMAS = [
           "Del artículo 15 al 38, incluyendo el 30.2 (objeción de conciencia)"
         ],
         "correcta": 0,
-        "explicacion": "El texto dice que el Capítulo Segundo empieza en el 15 y muere en el 29, incluyendo el 30.2 relativo a la objeción de conciencia.",
+        "explicacion": "Ni empieza en el 14 (que queda fuera, es la igualdad) ni llega hasta el 38 (eso ya pertenece a la Sección 2ª). La Sección 1ª de derechos fundamentales comprende del art. 15 al 29, sumando el art. 30.2 (objeción de conciencia). Por integrarse aquí, la objeción de conciencia goza de la protección reforzada propia de un derecho fundamental.",
         "id": "tema-7-q4"
       },
       {
@@ -9242,7 +9242,7 @@ const TEMAS = [
           "Solo tiene la consideración de Derecho Fundamental cuando se invoca conjuntamente con el artículo 9.2 CE"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que, siendo tan abstracto y controvertido, ni el constituyente ni el Tribunal Constitucional han creído conveniente introducir la igualdad como Derecho Fundamental.",
+        "explicacion": "Ojo: no es que el Tribunal Constitucional sí lo calificara y el constituyente no (ni al revés) — ninguno de los dos ha introducido formalmente la igualdad como Derecho Fundamental, precisamente por su contenido abstracto y controvertido. Pese a ello, el art. 14 CE no queda fuera de la tutela reforzada, ya que el propio art. 53.2 CE lo cita junto a la Sección 1ª a efectos de recurso de amparo.",
         "id": "tema-7-q5"
       },
       {
@@ -9254,7 +9254,7 @@ const TEMAS = [
           "Es una especificidad del artículo 16, pero al no regularse por Ley Orgánica pierde su condición de derecho fundamental"
         ],
         "correcta": 1,
-        "explicacion": "La nota del texto aclara que se protege mediante amparo por ser especificidad del art. 16, aunque la falta de Ley Orgánica se deba más a explicaciones políticas que doctrinales.",
+        "explicacion": "Cuidado con el test: aunque no exija Ley Orgánica para su regulación (algo más por razones políticas que doctrinales), la objeción de conciencia del art. 30.2 CE sí es formalmente un derecho fundamental, al ser una especificidad del art. 16 CE, y por ello se protege mediante recurso de amparo. Es una de las trampas clásicas de este tema.",
         "id": "tema-7-q6"
       },
       {
@@ -9266,7 +9266,7 @@ const TEMAS = [
           "La propiedad privada y la herencia, sin más limitación que el interés público (art. 33)"
         ],
         "correcta": 1,
-        "explicacion": "La libertad sindical (art. 28) pertenece a la Sección Primera (derechos fundamentales), no a la relación de derechos de los arts. 30 a 38 citada en el texto.",
+        "explicacion": "La libertad sindical (art. 28) no está en esta lista porque pertenece a la Sección 1ª de derechos fundamentales, no a la Sección 2ª (arts. 30-38) que agrupa derechos como el matrimonio, la propiedad o la negociación colectiva. Precisamente por estar en la Sección 1ª, la libertad sindical sí exige regulación por Ley Orgánica, a diferencia de estos otros derechos.",
         "id": "tema-7-q7"
       },
       {
@@ -9278,7 +9278,7 @@ const TEMAS = [
           "Materias reservadas en todo caso a Real Decreto-Ley por razones de urgencia"
         ],
         "correcta": 1,
-        "explicacion": "El texto define los deberes como proposiciones jurídicas incompletas, no jurídicamente exigibles hasta concretarse en obligación.",
+        "explicacion": "Los deberes constitucionales (defender a España, sostener el gasto público, trabajar) se formulan como proposiciones jurídicas incompletas, no como mandatos sancionables por sí mismos. Su vulneración no genera sanción hasta que la ley los concrete en una obligación jurídicamente exigible.",
         "id": "tema-7-q8"
       },
       {
@@ -9290,7 +9290,7 @@ const TEMAS = [
           "Normativas, administrativas y jurisdiccionales"
         ],
         "correcta": 0,
-        "explicacion": "El texto establece expresamente tres vías: garantías normativas, garantías jurisdiccionales y garantías institucionales.",
+        "explicacion": "El sistema de protección de derechos se articula en tres vías: garantías normativas, jurisdiccionales e institucionales. No se trata de una clasificación administrativa/judicial/internacional, sino de esta tríada específica que recorre todo el tema.",
         "id": "tema-7-q9"
       },
       {
@@ -9302,7 +9302,7 @@ const TEMAS = [
           "Ley ordinaria"
         ],
         "correcta": 2,
-        "explicacion": "El texto indica que las normas de desarrollo de los derechos fundamentales han de ser necesariamente Leyes Orgánicas (art. 81 CE).",
+        "explicacion": "El desarrollo de los derechos fundamentales y libertades públicas exige Ley Orgánica (art. 81 CE), no ley ordinaria ni normas del Gobierno como el Real Decreto-Ley o el Real Decreto Legislativo. Esta reserva de Ley Orgánica supone que su aprobación requiere una mayoría cualificada, buscando el consenso.",
         "id": "tema-7-q10"
       },
       {
@@ -9314,7 +9314,7 @@ const TEMAS = [
           "El artículo 169 CE, aplicable en tiempo de guerra o vigencia de los estados excepcionales"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que la reforma de esa sección se realiza por el procedimiento del art. 168 CE, el más rígido de los previstos.",
+        "explicacion": "La reforma de la Sección 1ª del Capítulo II del Título I se tramita por el art. 168 CE, el procedimiento agravado y más rígido de los dos previstos en la Constitución (frente al del art. 167, más flexible). No confundir con el art. 81 CE, que regula el desarrollo ordinario de estos derechos mediante Ley Orgánica, no su reforma.",
         "id": "tema-7-q11"
       },
       {
@@ -9326,7 +9326,7 @@ const TEMAS = [
           "Reserva de Real Decreto-Ley"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que el art. 53.1 CE establece el principio de reserva de ley para todo el Capítulo II del Título I.",
+        "explicacion": "El art. 53.1 CE establece la reserva de ley, no de reglamento, para todo el Capítulo II del Título I. Esto implica que estos derechos solo pueden regularse por el Poder Legislativo, quedando excluida la potestad reglamentaria del Gobierno.",
         "id": "tema-7-q12"
       },
       {
@@ -9338,7 +9338,7 @@ const TEMAS = [
           "La cuestión de inconstitucionalidad exclusivamente"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que la vía constitucional se articula mediante el recurso de amparo (frente a actos) y el recurso de inconstitucionalidad (frente a normas con rango legal).",
+        "explicacion": "La vía constitucional se articula mediante dos recursos distintos: el de amparo (frente a actos) y el de inconstitucionalidad (frente a normas con rango legal), no uno solo ni figuras de la jurisdicción ordinaria como la casación. Antes de acudir a esta vía constitucional siempre hay que haber agotado la vía judicial ordinaria.",
         "id": "tema-7-q13"
       },
       {
@@ -9350,7 +9350,7 @@ const TEMAS = [
           "6 meses"
         ],
         "correcta": 2,
-        "explicacion": "La nota del texto sobre los plazos de interposición del recurso de amparo fija 3 meses cuando la lesión procede de una decisión parlamentaria.",
+        "explicacion": "3 meses es el plazo cuando la lesión procede de una decisión parlamentaria; no confundir con los 20 días (actos de la Administración) ni los 30 días (Poder Judicial). El plazo más largo de todos, 6 meses, corresponde en realidad al recurso ante el Tribunal Europeo de Derechos Humanos, ya agotada la vía interna.",
         "id": "tema-7-q14"
       },
       {
@@ -9362,7 +9362,7 @@ const TEMAS = [
           "6 meses"
         ],
         "correcta": 0,
-        "explicacion": "El texto fija 20 días como plazo de interposición del recurso de amparo cuando la lesión proviene de la Administración.",
+        "explicacion": "20 días es el plazo frente a disposiciones o actos de la Administración; no confundir con los 30 días si la lesión viene del Poder Judicial ni con los 3 meses si procede de una decisión parlamentaria. Estos plazos varían según quién causa la lesión del derecho fundamental.",
         "id": "tema-7-q15"
       },
       {
@@ -9374,7 +9374,7 @@ const TEMAS = [
           "Cualquier ciudadano, sin necesidad de haber sido parte en un proceso previo ni de denunciar la violación"
         ],
         "correcta": 1,
-        "explicacion": "El texto enumera como legitimados al Ministerio Fiscal, al Defensor del Pueblo y a quienes hayan sido parte del proceso judicial previo y hayan denunciado la violación del derecho.",
+        "explicacion": "La legitimación no se limita al Ministerio Fiscal en solitario ni se abre a cualquier ciudadano sin más: están legitimados el Ministerio Fiscal, el Defensor del Pueblo y quien haya sido parte en el proceso judicial previo y haya denunciado la violación del derecho. Este último requisito conecta con la exigencia general de agotar antes la vía judicial ordinaria.",
         "id": "tema-7-q16"
       },
       {
@@ -9386,7 +9386,7 @@ const TEMAS = [
           "1 año"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que el plazo de interposición del recurso ante el TEDH es de 6 meses tras haber agotado los recursos internos del país.",
+        "explicacion": "6 meses es el plazo para acudir al TEDH tras agotar los recursos internos, no 3 meses (ese es el plazo del amparo frente a decisiones parlamentarias) ni 30 días. El TEDH fue creado por el Convenio Europeo de Derechos Humanos de Roma de 1950, en coherencia con el art. 10.2 CE.",
         "id": "tema-7-q17"
       },
       {
@@ -9398,7 +9398,7 @@ const TEMAS = [
           "Un órgano integrado en el Poder Judicial, como sala especializada del Tribunal Supremo"
         ],
         "correcta": 1,
-        "explicacion": "El texto precisa que no se trata de un órgano constitucional ya que su status no aparece en la Constitución, remitiéndose el art. 54 CE a la Ley Orgánica 13/1981.",
+        "explicacion": "El Defensor del Pueblo no es un órgano constitucional, pues su estatus no figura en el articulado de la Constitución: el art. 54 CE se limita a remitirlo a su ley de desarrollo, la Ley Orgánica 13/1981. Se configura como alto comisionado de las Cortes, no como órgano dependiente del Gobierno.",
         "id": "tema-7-q18"
       },
       {
@@ -9410,7 +9410,7 @@ const TEMAS = [
           "Mayoría simple de las Cortes Generales, por un periodo de 5 años, cabiendo prórroga"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que es elegido por mayoría de 3/5 por cada cámara, por un periodo de 5 años, cabiendo prórroga.",
+        "explicacion": "Es elegido por mayoría de 3/5 en cada cámara (no por mayoría absoluta ni por mayoría simple de las Cortes), por un periodo de 5 años que sí admite prórroga. Si en primera votación no se alcanza esa mayoría, en segunda votación basta 3/5 en el Congreso y mayoría absoluta en el Senado.",
         "id": "tema-7-q19"
       },
       {
@@ -9422,7 +9422,7 @@ const TEMAS = [
           "El Congreso de los Diputados, mediante procedimiento de suplicatorio"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que se establece un fuero especial para el Defensor del Pueblo, atribuyendo la instrucción y el enjuiciamiento a la Sala de lo Penal del Tribunal Supremo.",
+        "explicacion": "Su fuero especial atribuye la instrucción y el enjuiciamiento a la Sala de lo Penal del Tribunal Supremo, no al Tribunal Constitucional ni a la Audiencia Nacional. Fuera del ejercicio de sus funciones, solo puede ser detenido en caso de flagrante delito, igual que ocurre con los parlamentarios.",
         "id": "tema-7-q20"
       },
       {
@@ -9434,7 +9434,7 @@ const TEMAS = [
           "El artículo 53 CE"
         ],
         "correcta": 0,
-        "explicacion": "El art. 10 CE abre el Título I estableciendo la dignidad de la persona, los derechos inviolables inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás como fundamento del orden político y la paz social.",
+        "explicacion": "El art. 10 CE es el que abre el Título I estableciendo la dignidad de la persona, los derechos inviolables inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás como fundamento del orden político y la paz social. Sirve de base interpretativa para el resto de derechos y deberes del Título.",
         "id": "tema-7-q21"
       },
       {
@@ -9446,7 +9446,7 @@ const TEMAS = [
           "El libre desarrollo de la personalidad"
         ],
         "correcta": 1,
-        "explicacion": "El art. 10.1 CE cita la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás; la separación de poderes no figura en este precepto.",
+        "explicacion": "La separación de poderes no aparece en el art. 10.1 CE, que enumera la dignidad de la persona, los derechos inviolables inherentes, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos de los demás. Estos cuatro elementos son la base sobre la que se asientan el resto de derechos y deberes constitucionales.",
         "id": "tema-7-q22"
       },
       {
@@ -9458,7 +9458,7 @@ const TEMAS = [
           "Conforme al derecho comparado de los países de nuestro entorno, sin referencia a tratados"
         ],
         "correcta": 2,
-        "explicacion": "El art. 10.2 CE dispone que las normas relativas a derechos fundamentales se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales ratificados por España.",
+        "explicacion": "El art. 10.2 CE ordena interpretar las normas relativas a derechos fundamentales de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales ratificados por España, no solo con la jurisprudencia del Tribunal Constitucional ni con criterio de las Cortes Generales. Este mandato es la base, entre otras cosas, de la protección del TEDH a través del Convenio de Roma de 1950.",
         "id": "tema-7-q23"
       },
       {
@@ -9470,7 +9470,7 @@ const TEMAS = [
           "la personalidad"
         ],
         "correcta": 3,
-        "explicacion": "El precepto se refiere literalmente al libre desarrollo de la personalidad, junto a la dignidad de la persona, los derechos inviolables inherentes y el respeto a la ley y a los derechos de los demás.",
+        "explicacion": "El art. 10.1 CE habla literalmente del libre desarrollo de la personalidad, no de la propiedad, la empresa ni la actividad económica (otros derechos regulados en artículos posteriores, como el 33 o el 38). Junto a este elemento figuran la dignidad de la persona, los derechos inviolables inherentes y el respeto a la ley y a los derechos de los demás.",
         "id": "tema-7-q24"
       },
       {
@@ -9482,7 +9482,7 @@ const TEMAS = [
           "Establece el procedimiento agravado de reforma constitucional"
         ],
         "correcta": 0,
-        "explicacion": "El art. 10 CE, como introducción al Título I, establece los principios y valores que configuran el fundamento del orden político y la paz social y la base sobre la que se asienta el resto de derechos y deberes constitucionales.",
+        "explicacion": "El art. 10 CE actúa como introducción del Título I, fijando los principios y valores que sirven de base al resto de derechos y deberes, no como una enumeración cerrada de derechos fundamentales ni como norma de reforma constitucional. La regulación de la nacionalidad, por ejemplo, se sitúa en el art. 11 CE, no en el 10.",
         "id": "tema-7-q25"
       },
       {
@@ -9494,7 +9494,7 @@ const TEMAS = [
           "decisión discrecional del Gobierno"
         ],
         "correcta": 1,
-        "explicacion": "El art. 11.1 CE remite a la ley la regulación de la adquisición, conservación y pérdida de la nacionalidad española.",
+        "explicacion": "La adquisición, conservación y pérdida de la nacionalidad española se remite por el art. 11.1 CE a lo que establezca la ley, no directamente a la Constitución ni a un tratado internacional en todo caso. En cambio, el art. 11.2 CE sí protege directamente al español de origen frente a la pérdida de su nacionalidad.",
         "id": "tema-7-q26"
       },
       {
@@ -9506,7 +9506,7 @@ const TEMAS = [
           "Sí, si reside permanentemente en el extranjero durante más de 10 años"
         ],
         "correcta": 2,
-        "explicacion": "El art. 11.2 CE establece que ningún español de origen podrá ser privado de su nacionalidad.",
+        "explicacion": "No, el art. 11.2 CE protege expresamente al español de origen: ningún español de origen podrá ser privado de su nacionalidad, ni siquiera mediante Ley Orgánica o sentencia judicial. La adquisición, conservación y pérdida de la nacionalidad, en general, sí se remite a lo que disponga la ley (art. 11.1 CE).",
         "id": "tema-7-q27"
       },
       {
@@ -9518,7 +9518,7 @@ const TEMAS = [
           "A los 18 años"
         ],
         "correcta": 3,
-        "explicacion": "El art. 12 CE fija la mayoría de edad en los 18 años.",
+        "explicacion": "El art. 12 CE fija la mayoría de edad en los 18 años, no a los 14, 16 ni 21. Es la referencia que marca, entre otras cosas, el pleno ejercicio de derechos como el sufragio activo del art. 23 CE.",
         "id": "tema-7-q28"
       },
       {
@@ -9530,7 +9530,7 @@ const TEMAS = [
           "Los españoles y los extranjeros con reciprocidad automática en todo tipo de elecciones"
         ],
         "correcta": 0,
-        "explicacion": "El art. 13.2 CE dispone que solamente los españoles serán titulares de los derechos reconocidos en el art. 23, salvo lo previsto para el sufragio municipal.",
+        "explicacion": "Con carácter general, solo los españoles son titulares de los derechos del art. 23 CE, no los extranjeros residentes ni los ciudadanos de la UE sin más. La única excepción que contempla el art. 13 CE es la del sufragio municipal, reconocible por tratado o ley con criterios de reciprocidad.",
         "id": "tema-7-q29"
       },
       {
@@ -9542,7 +9542,7 @@ const TEMAS = [
           "El art. 13 CE nunca permite reconocer sufragio a los extranjeros, ni siquiera por tratado"
         ],
         "correcta": 1,
-        "explicacion": "El art. 13.2 CE permite, atendiendo a criterios de reciprocidad, establecer por tratado o ley el derecho de sufragio activo y pasivo de los extranjeros en las elecciones municipales.",
+        "explicacion": "El sufragio a extranjeros solo puede reconocerse, por tratado o ley, para las elecciones municipales y siempre atendiendo a criterios de reciprocidad; nunca para las elecciones generales, y el art. 13 CE sí contempla esta vía (no la excluye por completo). No confundir esta reciprocidad electoral con la que rige, en el mismo artículo, la extradición.",
         "id": "tema-7-q30"
       },
       {
@@ -9554,7 +9554,7 @@ const TEMAS = [
           "un acuerdo bilateral exclusivamente, sin posible base legal"
         ],
         "correcta": 2,
-        "explicacion": "El art. 13.3 CE condiciona la extradición al cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad.",
+        "explicacion": "La extradición solo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad; no depende de una orden judicial internacional directa ni de una decisión discrecional del Consejo de Ministros. El mismo art. 13 CE excluye de la extradición los delitos políticos.",
         "id": "tema-7-q31"
       },
       {
@@ -9566,7 +9566,7 @@ const TEMAS = [
           "Los delitos políticos"
         ],
         "correcta": 3,
-        "explicacion": "El art. 13.3 CE excluye de la extradición los delitos políticos.",
+        "explicacion": "Los excluidos de la extradición son los delitos políticos, no los económicos ni los militares. Precisamente por eso el art. 13 CE precisa que los actos de terrorismo no se consideran delitos políticos a estos efectos, por lo que sí caben de extradición.",
         "id": "tema-7-q32"
       },
       {
@@ -9578,7 +9578,7 @@ const TEMAS = [
           "Depende de la gravedad del acto, según valoración judicial"
         ],
         "correcta": 0,
-        "explicacion": "El propio art. 13.3 CE precisa que no se considerarán delitos políticos los actos de terrorismo, por lo que sí cabe su extradición.",
+        "explicacion": "No: el art. 13.3 CE precisa expresamente que los actos de terrorismo no se consideran delitos políticos, por lo que sí son extraditables, sin necesidad de tratado en contrario ni valoración judicial caso por caso. Es la excepción a la exclusión general de los delitos políticos de la extradición.",
         "id": "tema-7-q33"
       },
       {
@@ -9590,7 +9590,7 @@ const TEMAS = [
           "la libertad personal (art. 17 CE)"
         ],
         "correcta": 1,
-        "explicacion": "El Capítulo Segundo se abre con el derecho a la igualdad del art. 14 CE.",
+        "explicacion": "El Capítulo Segundo se abre con el derecho a la igualdad del art. 14 CE, no con el derecho a la vida (art. 15), que es el primero de los derechos fundamentales en sentido estricto de la Sección 1ª. La igualdad se sitúa antes de esa enumeración estricta.",
         "id": "tema-7-q34"
       },
       {
@@ -9602,7 +9602,7 @@ const TEMAS = [
           "Porque fue derogado por una reforma constitucional posterior"
         ],
         "correcta": 2,
-        "explicacion": "La igualdad, por su contenido abstracto y controvertido, no se ha introducido formalmente como Derecho Fundamental en la enumeración estricta que va del art. 15 al 29.",
+        "explicacion": "No es una cuestión de ubicación en otro capítulo ni de exclusión del amparo: la igualdad no se incluyó como Derecho Fundamental en la enumeración estricta (15-29) por ser un contenido demasiado abstracto y controvertido, algo que ni el constituyente ni el Tribunal Constitucional quisieron zanjar así. Pese a ello, el art. 14 CE conserva la tutela reforzada del recurso de amparo junto con la Sección 1ª.",
         "id": "tema-7-q35"
       },
       {
@@ -9614,7 +9614,7 @@ const TEMAS = [
           "los artículos 15 a 29, incluyendo el 30.2"
         ],
         "correcta": 3,
-        "explicacion": "La enumeración de derechos fundamentales empieza en el art. 15 y termina en el 29, incluyendo el art. 30.2 (objeción de conciencia).",
+        "explicacion": "En sentido estricto, la Sección 1ª va del art. 15 al 29, sumando el 30.2 (objeción de conciencia); no incluye el art. 14 (igualdad, que la abre pero queda fuera de la enumeración) ni llega hasta el 38. Es esta franja de artículos la que constituye los derechos fundamentales y libertades públicas en sentido propio.",
         "id": "tema-7-q36"
       },
       {
@@ -9626,7 +9626,7 @@ const TEMAS = [
           "El derecho a contraer matrimonio"
         ],
         "correcta": 0,
-        "explicacion": "El art. 30.2 CE reconoce la objeción de conciencia, incluida dentro de la enumeración de derechos fundamentales de la Sección 1ª.",
+        "explicacion": "El art. 30.2 CE recoge la objeción de conciencia, no la propiedad privada, la negociación colectiva ni el matrimonio (derechos regulados en los arts. 33, 37 y 32, respectivamente). Aunque numéricamente está en la Sección 2ª, se incluye dentro de la enumeración de derechos fundamentales por su vínculo con el art. 16 CE.",
         "id": "tema-7-q37"
       },
       {
@@ -9638,7 +9638,7 @@ const TEMAS = [
           "el artículo 24 CE (tutela judicial efectiva)"
         ],
         "correcta": 1,
-        "explicacion": "La objeción de conciencia es una especificidad del art. 16 CE, lo que justifica su contenido de derecho fundamental.",
+        "explicacion": "La objeción de conciencia es una especificidad del art. 16 CE (libertad ideológica, religiosa y de culto), no del derecho a la vida, la libertad de expresión ni la tutela judicial efectiva. De ahí que, pese a estar numerada en el art. 30.2, tenga contenido de derecho fundamental.",
         "id": "tema-7-q38"
       },
       {
@@ -9650,7 +9650,7 @@ const TEMAS = [
           "se regula en el Capítulo Primero del Título I"
         ],
         "correcta": 2,
-        "explicacion": "Pese a no requerir regulación por Ley Orgánica, la objeción de conciencia se afirma formalmente como derecho fundamental; el documento avisa de que es un dato relevante para el test.",
+        "explicacion": "Cuidado con el test: la objeción de conciencia formalmente es un derecho fundamental, aunque no necesite regularse por Ley Orgánica (algo que obedece más a razones políticas que doctrinales). No se limita a los objetores del servicio militar ni se ubica en el Capítulo Primero del Título I.",
         "id": "tema-7-q39"
       },
       {
@@ -9662,7 +9662,7 @@ const TEMAS = [
           "El artículo 30 CE"
         ],
         "correcta": 3,
-        "explicacion": "El art. 30 CE recoge tanto el derecho como el deber de defender a España.",
+        "explicacion": "El art. 30 CE recoge tanto el derecho como el deber de defender a España, no el 29, el 31 ni el 35 (que regulan otras materias, como el sostenimiento del gasto público o el trabajo). Es uno de los pocos preceptos del Título I que formula a la vez un derecho y un deber.",
         "id": "tema-7-q40"
       },
       {
@@ -9674,7 +9674,7 @@ const TEMAS = [
           "sin ninguna referencia constitucional a la igualdad jurídica"
         ],
         "correcta": 0,
-        "explicacion": "El art. 32.1 CE reconoce el derecho a contraer matrimonio con plena igualdad jurídica entre el hombre y la mujer.",
+        "explicacion": "El art. 32.1 CE reconoce el matrimonio con plena igualdad jurídica entre el hombre y la mujer, sin exigir consentimiento paterno ni limitarlo sin más matiz a personas de distinto sexo. Se sitúa dentro de la Sección 2ª, entre los derechos de los ciudadanos regulados del 30 al 38 CE.",
         "id": "tema-7-q41"
       },
       {
@@ -9686,7 +9686,7 @@ const TEMAS = [
           "ningún límite, al ser un derecho absoluto"
         ],
         "correcta": 1,
-        "explicacion": "El art. 33 CE reconoce la propiedad privada y la herencia con el único límite del interés público.",
+        "explicacion": "El único límite que fija el art. 33 CE a la propiedad privada y la herencia es el interés público, no el interés general de la UE ni la voluntad del legislador autonómico; tampoco es un derecho absoluto sin límite alguno. Este artículo forma parte de la Sección 2ª de derechos de los ciudadanos (arts. 30-38).",
         "id": "tema-7-q42"
       },
       {
@@ -9698,7 +9698,7 @@ const TEMAS = [
           "El artículo 34 CE"
         ],
         "correcta": 3,
-        "explicacion": "El art. 34 CE reconoce el derecho de fundación para fines de interés general.",
+        "explicacion": "El derecho de fundación para fines de interés general se recoge en el art. 34 CE, no en el 33 (propiedad), el 36 ni el 22. Se sitúa entre los derechos de la Sección 2ª relacionados en el tema, junto al trabajo (35) y la negociación colectiva (37).",
         "id": "tema-7-q43"
       },
       {
@@ -9710,7 +9710,7 @@ const TEMAS = [
           "sexo"
         ],
         "correcta": 3,
-        "explicacion": "El art. 35.1 CE prohíbe expresamente la discriminación por razón de sexo en materia de remuneración.",
+        "explicacion": "El art. 35.1 CE prohíbe expresamente la discriminación por razón de sexo en materia de remuneración, no por edad, nacionalidad ni ideología. Este mismo artículo reconoce el derecho al trabajo y a la libre elección de oficio, y recoge también el correlativo deber de trabajar.",
         "id": "tema-7-q44"
       },
       {
@@ -9722,7 +9722,7 @@ const TEMAS = [
           "El derecho de reunión y manifestación"
         ],
         "correcta": 0,
-        "explicacion": "El art. 37 CE recoge la negociación colectiva.",
+        "explicacion": "El art. 37 CE recoge la negociación colectiva, no la libertad sindical (derecho fundamental del art. 28, fuera de esta relación), ni el derecho de huelga o de reunión. Se sitúa entre los derechos de la Sección 2ª junto al trabajo (35) y la libertad de empresa (38).",
         "id": "tema-7-q45"
       },
       {
@@ -9734,7 +9734,7 @@ const TEMAS = [
           "el interés exclusivo de las comunidades autónomas"
         ],
         "correcta": 2,
-        "explicacion": "El art. 38 CE reconoce la libertad de empresa en el marco de la economía de mercado, correspondiendo a los poderes públicos garantizar y proteger su ejercicio.",
+        "explicacion": "El art. 38 CE reconoce la libertad de empresa en el marco de la economía de mercado, no de una planificación estatal exclusiva ni de una libre competencia sin ninguna intervención pública. Corresponde a los poderes públicos garantizar y proteger su ejercicio.",
         "id": "tema-7-q46"
       },
       {
@@ -9746,7 +9746,7 @@ const TEMAS = [
           "las exigencias de la economía general y, en su caso, de la planificación"
         ],
         "correcta": 3,
-        "explicacion": "La defensa de la productividad se hace de acuerdo con las exigencias de la economía general y, en su caso, de la planificación.",
+        "explicacion": "La defensa de la productividad se hace de acuerdo con las exigencias de la economía general y, en su caso, de la planificación, no solo con directrices del Gobierno central ni con normativa autonómica prioritaria. Este mandato acompaña, en el mismo art. 38 CE, al reconocimiento de la libertad de empresa.",
         "id": "tema-7-q47"
       },
       {
@@ -9758,7 +9758,7 @@ const TEMAS = [
           "normas de aplicación exclusivamente autonómica"
         ],
         "correcta": 0,
-        "explicacion": "El documento califica los deberes constitucionales como proposiciones jurídicas incompletas.",
+        "explicacion": "Los deberes constitucionales se formulan como proposiciones jurídicas incompletas, no como mandatos sancionables por sí mismos ni como principios rectores de la política social y económica (categoría distinta del Título I). Por eso su vulneración no genera sanción hasta concretarse en obligación.",
         "id": "tema-7-q48"
       },
       {
@@ -9770,7 +9770,7 @@ const TEMAS = [
           "Que son directamente exigibles ante el Tribunal Constitucional sin más trámite"
         ],
         "correcta": 1,
-        "explicacion": "La vulneración de un deber constitucional no comporta sanción hasta que se concrete en obligación.",
+        "explicacion": "La consecuencia de formular los deberes como proposiciones jurídicas incompletas es que su vulneración no comporta por sí sola ninguna sanción, no que carezcan de todo valor normativo ni que exijan Ley Orgánica. Necesitan concretarse en el concepto de obligación para ser jurídicamente exigibles.",
         "id": "tema-7-q49"
       },
       {
@@ -9782,7 +9782,7 @@ const TEMAS = [
           "sea ratificado mediante referéndum"
         ],
         "correcta": 2,
-        "explicacion": "El concepto de deber necesita concretarse en el concepto de obligación para ser jurídicamente exigible.",
+        "explicacion": "Para que un deber constitucional sea jurídicamente exigible, debe concretarse en el concepto de obligación, no basta con un tratado internacional, un reglamento del Gobierno ni un referéndum. Esta es la diferencia clave entre deber y obligación que señala el tema.",
         "id": "tema-7-q50"
       },
       {
@@ -9794,7 +9794,7 @@ const TEMAS = [
           "Defender a España, el sostenimiento del gasto público y el deber de trabajar"
         ],
         "correcta": 3,
-        "explicacion": "El documento enumera como deberes constitucionales: defender a España (30), el sostenimiento del gasto público (31) y el deber de trabajar (35).",
+        "explicacion": "Los tres deberes constitucionales del tema son: defender a España (30), el sostenimiento del gasto público (31) y el deber de trabajar (35); no incluyen el servicio militar obligatorio ni el deber de votar, que no figuran en esta relación. Nótese que defender a España aparece a la vez como derecho y como deber en el mismo art. 30.",
         "id": "tema-7-q51"
       },
       {
@@ -9806,7 +9806,7 @@ const TEMAS = [
           "35 CE"
         ],
         "correcta": 0,
-        "explicacion": "El art. 31 CE recoge el deber de contribuir al sostenimiento del gasto público.",
+        "explicacion": "El deber de sostenimiento del gasto público se recoge en el art. 31 CE, no en el 30 (defender a España), el 33 (propiedad) ni el 35 (trabajo). Es uno de los tres deberes constitucionales que señala el tema, junto con defender a España y trabajar.",
         "id": "tema-7-q52"
       },
       {
@@ -9818,7 +9818,7 @@ const TEMAS = [
           "remite en exclusiva a los tratados internacionales suscritos por España"
         ],
         "correcta": 1,
-        "explicacion": "La Constitución, como norma fundamental, solo ha establecido las bases del sistema de protección, correspondiendo a las leyes de desarrollo su concreción.",
+        "explicacion": "La Constitución solo ha establecido las bases del sistema de protección de derechos, dejando su concreción a las leyes de desarrollo; no lo regula de forma completa ni delega toda la protección en el Defensor del Pueblo ni en los tratados internacionales en exclusiva. De ahí surgen las tres vías de garantía: normativas, jurisdiccionales e institucionales.",
         "id": "tema-7-q53"
       },
       {
@@ -9830,7 +9830,7 @@ const TEMAS = [
           "Garantías normativas, garantías jurisdiccionales y garantías institucionales"
         ],
         "correcta": 3,
-        "explicacion": "El documento identifica tres vías: garantías normativas, jurisdiccionales e institucionales.",
+        "explicacion": "Las tres vías son garantías normativas, jurisdiccionales e institucionales, no administrativas/internacionales, parlamentarias/autonómicas ni penales/civiles. Esta tríada estructura todo el sistema de protección de derechos que desarrolla el tema.",
         "id": "tema-7-q54"
       },
       {
@@ -9842,7 +9842,7 @@ const TEMAS = [
           "Reglamento del Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "El art. 81 CE exige Ley Orgánica para el desarrollo de los derechos fundamentales y libertades públicas.",
+        "explicacion": "El desarrollo normativo de los derechos fundamentales exige Ley Orgánica (art. 81 CE), no Real Decreto-Ley, Real Decreto Legislativo ni un simple reglamento del Gobierno. Esta reserva de Ley Orgánica es una de las garantías normativas del sistema de protección.",
         "id": "tema-7-q55"
       },
       {
@@ -9854,7 +9854,7 @@ const TEMAS = [
           "Unanimidad de los grupos parlamentarios"
         ],
         "correcta": 1,
-        "explicacion": "La exigencia de Ley Orgánica supone la necesidad de consenso mediante mayoría cualificada.",
+        "explicacion": "La exigencia de Ley Orgánica implica una mayoría cualificada, no una mayoría simple ni la unanimidad de los grupos parlamentarios; tampoco coincide con la mayoría de 3/5 que se usa para elegir al Defensor del Pueblo, que es un procedimiento distinto. Con ello se busca un mayor consenso en el desarrollo de estos derechos.",
         "id": "tema-7-q56"
       },
       {
@@ -9866,7 +9866,7 @@ const TEMAS = [
           "53 CE"
         ],
         "correcta": 2,
-        "explicacion": "La reforma de la Sección 1ª se realiza por el procedimiento del art. 168 CE, el más rígido de los previstos en la Constitución.",
+        "explicacion": "La reforma de la Sección 1ª se tramita por el procedimiento agravado del art. 168 CE, no por el 167 (el otro procedimiento de reforma, más flexible), el 81 (que regula el desarrollo por Ley Orgánica, no la reforma) ni el 53. Es el más rígido de los dos cauces de reforma constitucional previstos.",
         "id": "tema-7-q57"
       },
       {
@@ -9878,7 +9878,7 @@ const TEMAS = [
           "el más rígido de los dos procedimientos de reforma previstos en la Constitución"
         ],
         "correcta": 3,
-        "explicacion": "El procedimiento del art. 168 CE es el más rígido de los dos previstos en la Constitución.",
+        "explicacion": "El procedimiento del art. 168 CE es el más rígido de los dos previstos para la reforma constitucional, no el más flexible ni uno reservado a tratados internacionales; sí se aplica, precisamente, a la reforma de los derechos fundamentales de la Sección 1ª. Frente a él, el art. 167 CE regula el procedimiento ordinario, más sencillo.",
         "id": "tema-7-q58"
       },
       {
@@ -9890,7 +9890,7 @@ const TEMAS = [
           "todo el Título I, incluidos los principios rectores"
         ],
         "correcta": 0,
-        "explicacion": "El art. 53.1 CE establece la reserva de ley para todo el Capítulo II del Título I.",
+        "explicacion": "La reserva de ley del art. 53.1 CE se extiende a todo el Capítulo II del Título I, no solo a la Sección 1ª ni al Capítulo I; tampoco alcanza a los principios rectores del Capítulo III. Esto incluye tanto los derechos fundamentales (Sección 1ª) como los derechos de los ciudadanos (Sección 2ª).",
         "id": "tema-7-q59"
       },
       {
@@ -9902,7 +9902,7 @@ const TEMAS = [
           "quedan excluidos de cualquier tipo de desarrollo normativo"
         ],
         "correcta": 1,
-        "explicacion": "La reserva de ley supone que estos derechos son materia que solo puede regularse por el Poder Legislativo.",
+        "explicacion": "La reserva de ley implica que estos derechos solo pueden regularse por el Poder Legislativo, no por reglamento del Gobierno ni por las Comunidades Autónomas; tampoco quedan excluidos de todo desarrollo normativo, sino reservados a la ley. Es la garantía normativa central del art. 53.1 CE.",
         "id": "tema-7-q60"
       },
       {
@@ -9914,7 +9914,7 @@ const TEMAS = [
           "el artículo 168 CE"
         ],
         "correcta": 2,
-        "explicacion": "La eficacia directa de los derechos fundamentales se vincula con el art. 9.1 CE.",
+        "explicacion": "La eficacia directa de los derechos fundamentales, sin necesidad de desarrollo normativo, se vincula al art. 9.1 CE, no al 53.2 (garantías jurisdiccionales), el 81 (Ley Orgánica) ni el 168 (reforma constitucional). Esta eficacia directa es otra de las garantías normativas señaladas en el tema.",
         "id": "tema-7-q61"
       },
       {
@@ -9926,7 +9926,7 @@ const TEMAS = [
           "toda potestad reglamentaria del Gobierno en materias que afecten al desarrollo de los derechos y libertades de los Capítulos II y III del Título I"
         ],
         "correcta": 3,
-        "explicacion": "Una consecuencia de la reserva de ley es la exclusión de toda potestad reglamentaria del Gobierno en materias que afecten al desarrollo de los derechos y libertades de los Capítulos II y III del Título I.",
+        "explicacion": "La reserva de ley del art. 53.1 CE excluye toda potestad reglamentaria del Gobierno en materias que afecten al desarrollo de los derechos y libertades de los Capítulos II y III del Título I, no la potestad legislativa de las Cortes ni el control del Tribunal Constitucional. Es una de las consecuencias prácticas más importantes de esta reserva.",
         "id": "tema-7-q62"
       },
       {
@@ -9938,7 +9938,7 @@ const TEMAS = [
           "Sí, si cuenta con dictamen favorable del Consejo de Estado"
         ],
         "correcta": 0,
-        "explicacion": "Estos derechos quedan vedados a la regulación mediante Real Decreto-Ley.",
+        "explicacion": "No, estos derechos quedan vedados a la regulación mediante Real Decreto-Ley, sin excepción por urgencia ni por convalidación posterior en el Congreso, y tampoco cabe salvarlo con dictamen favorable del Consejo de Estado. Es otra de las consecuencias de la reserva de ley del art. 53.1 CE.",
         "id": "tema-7-q63"
       },
       {
@@ -9950,7 +9950,7 @@ const TEMAS = [
           "Se prohíbe únicamente respecto a los deberes constitucionales"
         ],
         "correcta": 1,
-        "explicacion": "Existe una prohibición de desarrollo mediante Real Decreto Legislativo de la Sección 1ª del Capítulo II del Título I.",
+        "explicacion": "La prohibición se refiere concretamente al desarrollo mediante Real Decreto Legislativo de la Sección 1ª del Capítulo II del Título I, no a todo el Título I sin excepción ni a los deberes constitucionales. Junto al veto al Real Decreto-Ley, es otra de las garantías normativas frente al Gobierno.",
         "id": "tema-7-q64"
       },
       {
@@ -9962,7 +9962,7 @@ const TEMAS = [
           "la vía civil y la vía laboral, exclusivamente"
         ],
         "correcta": 0,
-        "explicacion": "El art. 53.2 CE recoge dos mecanismos: la vía ordinaria y la vía constitucional.",
+        "explicacion": "El art. 53.2 CE contempla dos mecanismos de garantía jurisdiccional: la vía ordinaria y la vía constitucional, no la administrativa/penal, la autonómica/estatal ni solo la civil/laboral. Cada una tiene su propio órgano competente y su propio procedimiento.",
         "id": "tema-7-q65"
       },
       {
@@ -9974,7 +9974,7 @@ const TEMAS = [
           "contradicción y doble instancia"
         ],
         "correcta": 1,
-        "explicacion": "La vía ordinaria se articula mediante procedimientos basados en los principios de preferencia y sumariedad.",
+        "explicacion": "La vía ordinaria se basa en los principios de preferencia y sumariedad, no en la oralidad y publicidad ni en la economía procesal y celeridad como tales. Se utiliza siempre antes de acudir, en su caso, a la vía constitucional.",
         "id": "tema-7-q66"
       },
       {
@@ -9986,7 +9986,7 @@ const TEMAS = [
           "Exclusivamente para actos de la Administración tributaria"
         ],
         "correcta": 1,
-        "explicacion": "La vía ordinaria opera para actos que violen derechos fundamentales y, en todo caso, ante normas de rango reglamentario que los violen.",
+        "explicacion": "La vía ordinaria protege frente a actos que violen derechos fundamentales y, en todo caso, frente a normas con rango de reglamento que los violen; no se limita a actos de particulares ni a actos legislativos o tributarios. Debe agotarse siempre antes de acudir a la vía constitucional.",
         "id": "tema-7-q67"
       },
       {
@@ -9998,7 +9998,7 @@ const TEMAS = [
           "acudir antes a la vía ordinaria (judicial)"
         ],
         "correcta": 3,
-        "explicacion": "La vía ordinaria debe utilizarse siempre antes de acudir a la vía constitucional.",
+        "explicacion": "Para acudir a la vía constitucional es necesario haber pasado antes por la vía ordinaria (judicial), no presentar ambos recursos a la vez ni pedir autorización previa al Defensor del Pueblo. Este requisito de agotamiento previo es uno de los presupuestos clásicos del recurso de amparo.",
         "id": "tema-7-q68"
       },
       {
@@ -10010,7 +10010,7 @@ const TEMAS = [
           "el recurso contencioso-administrativo"
         ],
         "correcta": 0,
-        "explicacion": "El recurso de amparo procede cuando se recurre un acto.",
+        "explicacion": "Si lo que se recurre es un acto, el mecanismo dentro de la vía constitucional es el recurso de amparo, no el de inconstitucionalidad (para normas con rango legal), la cuestión de inconstitucionalidad ni el contencioso-administrativo. Esta distinción acto/norma es la clave para diferenciar ambos recursos constitucionales.",
         "id": "tema-7-q69"
       },
       {
@@ -10022,7 +10022,7 @@ const TEMAS = [
           "el recurso de casación"
         ],
         "correcta": 2,
-        "explicacion": "El recurso de inconstitucionalidad procede cuando se recurre una norma con rango legal.",
+        "explicacion": "Si lo que se recurre es una norma con rango legal, el mecanismo es el recurso de inconstitucionalidad, no el amparo (reservado a actos), el habeas corpus ni la casación. El amparo y la inconstitucionalidad son los dos cauces de la vía constitucional, según se impugne un acto o una norma.",
         "id": "tema-7-q70"
       },
       {
@@ -10034,7 +10034,7 @@ const TEMAS = [
           "15 a 29 CE, más el art. 30.2 CE (objeción de conciencia)"
         ],
         "correcta": 3,
-        "explicacion": "El amparo protege los derechos del 15 al 29 CE, más el 30.2 relativo a la objeción de conciencia.",
+        "explicacion": "El amparo protege los derechos del 15 al 29 CE, más el 30.2 (objeción de conciencia), no toda la franja 14-38 ni los arts. 10-29 o 1-9. Coincide exactamente con la Sección 1ª de derechos fundamentales, incluida su ampliación por la objeción de conciencia.",
         "id": "tema-7-q71"
       },
       {
@@ -10046,7 +10046,7 @@ const TEMAS = [
           "Contra cualquier acto, público o privado, si vulnera un derecho fundamental"
         ],
         "correcta": 0,
-        "explicacion": "El amparo solo cabe para actos del poder público, nunca contra actos privados.",
+        "explicacion": "El amparo solo cabe contra actos del poder público, nunca contra actos privados, por muy graves que sean; para conflictos entre particulares existen las vías judiciales ordinarias correspondientes (civil, laboral, etc.). Además, siempre exige haber agotado antes la vía judicial previa.",
         "id": "tema-7-q72"
       },
       {
@@ -10058,7 +10058,7 @@ const TEMAS = [
           "2 días"
         ],
         "correcta": 0,
-        "explicacion": "El plazo de amparo frente a lesiones provenientes del Poder Judicial es de 30 días.",
+        "explicacion": "30 días es el plazo si la lesión proviene del Poder Judicial, no 20 días (Administración), 3 meses (decisión parlamentaria) ni 2 días (ese plazo tan breve corresponde a materia electoral, no a este supuesto general). Cada plazo depende del autor de la lesión del derecho fundamental.",
         "id": "tema-7-q73"
       },
       {
@@ -10070,7 +10070,7 @@ const TEMAS = [
           "2 días"
         ],
         "correcta": 1,
-        "explicacion": "El plazo de amparo contra disposiciones o actos administrativos es de 20 días.",
+        "explicacion": "20 días es el plazo frente a disposiciones o actos de la Administración, no 30 días (Poder Judicial) ni 3 meses (decisión parlamentaria). Los plazos de amparo se gradúan según quién haya causado la lesión del derecho.",
         "id": "tema-7-q74"
       },
       {
@@ -10082,7 +10082,7 @@ const TEMAS = [
           "6 meses"
         ],
         "correcta": 2,
-        "explicacion": "El plazo de amparo frente a decisiones parlamentarias es de 3 meses.",
+        "explicacion": "3 meses es el plazo cuando la lesión procede de una decisión parlamentaria, no 30 días (Poder Judicial), 20 días (Administración) ni 6 meses (plazo distinto, para acudir al TEDH). Hay cuatro plazos distintos según el origen de la lesión del derecho fundamental.",
         "id": "tema-7-q75"
       },
       {
@@ -10094,7 +10094,7 @@ const TEMAS = [
           "El Ministerio Fiscal, el Defensor del Pueblo, y quienes hayan sido parte en el proceso judicial previo y hayan denunciado la violación del derecho"
         ],
         "correcta": 3,
-        "explicacion": "Están legitimados el Ministerio Fiscal, el Defensor del Pueblo y quienes hayan sido parte del proceso judicial previo y hayan denunciado la violación.",
+        "explicacion": "Están legitimados el Ministerio Fiscal, el Defensor del Pueblo y quien haya sido parte en el proceso judicial previo y haya denunciado la violación del derecho, no el Gobierno ni cualquier ciudadano sin más. Este último requisito enlaza con la exigencia de agotar antes la vía judicial ordinaria.",
         "id": "tema-7-q76"
       },
       {
@@ -10106,7 +10106,7 @@ const TEMAS = [
           "No existen diferencias de órgano entre ambas vías"
         ],
         "correcta": 0,
-        "explicacion": "La principal diferencia de órgano radica en que la vía ordinaria admite cualquier órgano del Poder Judicial, mientras que la constitucional solo admite al Tribunal Constitucional.",
+        "explicacion": "En la vía ordinaria puede conocer cualquier órgano encuadrado en el Poder Judicial, mientras que en la vía constitucional solo puede hacerlo el Tribunal Constitucional; no es al revés, ni conoce el Tribunal Constitucional en ambas vías. Además, la vía ordinaria no sigue un procedimiento único, sino específico de cada orden jurisdiccional.",
         "id": "tema-7-q77"
       },
       {
@@ -10118,7 +10118,7 @@ const TEMAS = [
           "El recurso de súplica"
         ],
         "correcta": 1,
-        "explicacion": "El procedimiento de Habeas Corpus es la garantía específica frente a las detenciones ilegales del art. 17 CE.",
+        "explicacion": "El procedimiento de Habeas Corpus es la garantía específica frente a las detenciones ilegales del art. 17 CE, no el amparo directo, el procedimiento civil ordinario ni el recurso de súplica. Es un ejemplo de los procedimientos específicos que existen dentro de cada orden jurisdiccional en la vía ordinaria.",
         "id": "tema-7-q78"
       },
       {
@@ -10130,7 +10130,7 @@ const TEMAS = [
           "El Tribunal Penal Internacional"
         ],
         "correcta": 1,
-        "explicacion": "Internacionalmente, el TEDH ofrece protección especial en coherencia con el art. 10.2 CE.",
+        "explicacion": "El TEDH, no el Tribunal de Justicia de la UE, la Corte Internacional de Justicia ni el Tribunal Penal Internacional, es el que ofrece esta protección internacional en coherencia con el art. 10.2 CE. Fue creado por el Convenio Europeo de Derechos Humanos de Roma de 1950.",
         "id": "tema-7-q79"
       },
       {
@@ -10142,7 +10142,7 @@ const TEMAS = [
           "1 año"
         ],
         "correcta": 2,
-        "explicacion": "El plazo de interposición del recurso ante el TEDH tras agotar los recursos internos del país es de 6 meses.",
+        "explicacion": "6 meses es el plazo para acudir al TEDH tras agotar los recursos internos, no 3 meses, 30 días ni 1 año. Es un plazo distinto de los que rigen el recurso de amparo interno ante el Tribunal Constitucional.",
         "id": "tema-7-q80"
       },
       {
@@ -10154,7 +10154,7 @@ const TEMAS = [
           "el Tribuno de la plebe romano"
         ],
         "correcta": 0,
-        "explicacion": "El Defensor del Pueblo se inspira en el Ombudsman de los países nórdicos.",
+        "explicacion": "El Defensor del Pueblo se inspira en el Ombudsman de los países nórdicos, no en el Attorney General estadounidense, el Procurador General francés ni el Tribuno de la plebe romano. Se configura en nuestro ordenamiento como alto comisionado de las Cortes Generales.",
         "id": "tema-7-q81"
       },
       {
@@ -10166,7 +10166,7 @@ const TEMAS = [
           "No existe consenso, pero la Constitución lo define expresamente como órgano constitucional"
         ],
         "correcta": 1,
-        "explicacion": "El Defensor del Pueblo no es un órgano constitucional, ya que su estatus no aparece en la Constitución, que remite a su ley de desarrollo (art. 54 CE).",
+        "explicacion": "No es un órgano constitucional: su estatus no aparece regulado en la Constitución, que en su art. 54 se limita a remitirlo a una ley de desarrollo, la Ley Orgánica 13/1981. Tampoco integra el Poder Judicial ni depende del Gobierno.",
         "id": "tema-7-q82"
       },
       {
@@ -10178,7 +10178,7 @@ const TEMAS = [
           "1985, año de la Ley reguladora de los Defensores del Pueblo autonómicos"
         ],
         "correcta": 2,
-        "explicacion": "Existe una comisión mixta desde 1992 encargada de relacionarse con el Defensor del Pueblo.",
+        "explicacion": "La comisión mixta encargada de relacionarse con el Defensor del Pueblo existe desde 1992, no desde 1978, 1981 (año de su Ley Orgánica reguladora) ni 1985 (Ley de los Defensores del Pueblo autonómicos). Son fechas distintas que conviene no mezclar.",
         "id": "tema-7-q83"
       },
       {
@@ -10190,7 +10190,7 @@ const TEMAS = [
           "La defensa de los derechos comprendidos en el Título I de la Constitución"
         ],
         "correcta": 3,
-        "explicacion": "La misión del Defensor del Pueblo es la defensa de los derechos comprendidos en el Título I.",
+        "explicacion": "Su misión es la defensa de los derechos comprendidos en todo el Título I, no solo los de la Sección 1ª, ni los derechos de los funcionarios en particular, ni el control de constitucionalidad de las leyes (función del Tribunal Constitucional). Para ello supervisa la actividad de la Administración.",
         "id": "tema-7-q84"
       },
       {
@@ -10202,7 +10202,7 @@ const TEMAS = [
           "solo si lo solicita expresamente el Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "La supervisión puede realizarse de oficio o a instancia de parte, siempre de forma gratuita.",
+        "explicacion": "La supervisión puede iniciarse de oficio o a instancia de parte, y siempre de forma gratuita, no solo a instancia de parte con tasa, ni únicamente de oficio, ni solo a petición del Gobierno. Esta gratuidad facilita el acceso de cualquier ciudadano a esta garantía institucional.",
         "id": "tema-7-q85"
       },
       {
@@ -10214,7 +10214,7 @@ const TEMAS = [
           "política o de opinión pública, careciendo de competencias ejecutivas"
         ],
         "correcta": 3,
-        "explicacion": "El Defensor del Pueblo tiene una proyección más política o de opinión pública que jurídica, careciendo de competencias ejecutivas.",
+        "explicacion": "Su proyección es más política o de opinión pública que jurídica, careciendo de competencias ejecutivas, no al revés. Por eso sus actuaciones no pueden imponerse coactivamente a la Administración, aunque sí puede promover recursos ante el Tribunal Constitucional.",
         "id": "tema-7-q86"
       },
       {
@@ -10226,7 +10226,7 @@ const TEMAS = [
           "Suspender derechos fundamentales en caso de urgencia"
         ],
         "correcta": 0,
-        "explicacion": "Entre sus competencias está la de promover el recurso de amparo y el de inconstitucionalidad ante el Tribunal Constitucional.",
+        "explicacion": "Entre sus competencias está promover el recurso de amparo y el de inconstitucionalidad ante el Tribunal Constitucional, no dictar sentencias de amparo (eso corresponde al propio Tribunal Constitucional), aprobar leyes orgánicas ni suspender derechos fundamentales. También puede instar el habeas corpus.",
         "id": "tema-7-q87"
       },
       {
@@ -10238,7 +10238,7 @@ const TEMAS = [
           "las Cortes Generales"
         ],
         "correcta": 3,
-        "explicacion": "El Defensor del Pueblo elabora un informe anual dirigido a las Cortes Generales sobre la gestión realizada.",
+        "explicacion": "El informe anual del Defensor del Pueblo se dirige a las Cortes Generales, no al Gobierno, al Rey ni al Tribunal Constitucional. Debe presentarlo cuando las cámaras estén reunidas en periodo ordinario de sesiones, y dirigirlo a sus diputaciones permanentes si no lo están.",
         "id": "tema-7-q88"
       },
       {
@@ -10250,7 +10250,7 @@ const TEMAS = [
           "3/5 por el Congreso y mayoría absoluta por el Senado, en primera votación"
         ],
         "correcta": 0,
-        "explicacion": "El Defensor del Pueblo es elegido por mayoría de 3/5 en cada cámara.",
+        "explicacion": "Es elegido por mayoría de 3/5 en cada cámara, no por mayoría absoluta en cada una, mayoría simple del Congreso, ni por 3/5 del Congreso y mayoría absoluta del Senado en primera votación (esa combinación solo se aplica, en su caso, en segunda votación). Su mandato es de 5 años, cabiendo prórroga.",
         "id": "tema-7-q89"
       },
       {
@@ -10262,7 +10262,7 @@ const TEMAS = [
           "7 años, improrrogables"
         ],
         "correcta": 1,
-        "explicacion": "El mandato del Defensor del Pueblo se fija en 5 años, cabiendo prórroga.",
+        "explicacion": "El mandato del Defensor del Pueblo es de 5 años, cabiendo prórroga, no de 4, 6 ni 7 años. Este periodo, más largo que una legislatura, busca alejarlo de las críticas partidistas del momento.",
         "id": "tema-7-q90"
       },
       {
@@ -10274,7 +10274,7 @@ const TEMAS = [
           "está exento del pago de impuestos"
         ],
         "correcta": 2,
-        "explicacion": "La inviolabilidad e irresponsabilidad, similar a la de los parlamentarios, protege al Defensor del Pueblo por las opiniones y actos realizados en el ejercicio de sus competencias.",
+        "explicacion": "La inviolabilidad e irresponsabilidad, similar a la de los parlamentarios, protege al Defensor del Pueblo por las opiniones y actos realizados en el ejercicio de sus competencias, no le confiere inmunidad absoluta en toda circunstancia ni le exime de impuestos. Fuera de esas funciones, solo puede ser detenido en caso de flagrante delito.",
         "id": "tema-7-q91"
       },
       {
@@ -10286,7 +10286,7 @@ const TEMAS = [
           "la Sala de lo Penal del Tribunal Supremo"
         ],
         "correcta": 3,
-        "explicacion": "El órgano competente para la instrucción y el enjuiciamiento del Defensor del Pueblo es la Sala de lo Penal del Tribunal Supremo.",
+        "explicacion": "El fuero especial atribuye la instrucción y el enjuiciamiento del Defensor del Pueblo a la Sala de lo Penal del Tribunal Supremo, no a la Audiencia Nacional, al Tribunal Constitucional ni a un juzgado ordinario. Es el mismo tipo de fuero especial de otros altos cargos del Estado.",
         "id": "tema-7-q92"
       },
       {
@@ -10298,7 +10298,7 @@ const TEMAS = [
           "la Ley Orgánica 2/1979"
         ],
         "correcta": 0,
-        "explicacion": "La Ley 36/1985 es la norma que regula la relación entre los Defensores del Pueblo autonómicos y el estatal.",
+        "explicacion": "La Ley 36/1985 regula la relación entre los Defensores del Pueblo autonómicos y el estatal, no la Ley Orgánica 3/1981 (en realidad es la 13/1981, reguladora del propio Defensor del Pueblo), la Ley 50/1997 ni la Ley Orgánica 2/1979. Su existencia confirma que puede haber Defensores del Pueblo también a nivel autonómico.",
         "id": "tema-7-q93"
       },
       {
@@ -10310,7 +10310,7 @@ const TEMAS = [
           "El artículo 169 CE"
         ],
         "correcta": 1,
-        "explicacion": "El art. 55 CE regula la suspensión general e individual de los derechos y libertades constitucionales.",
+        "explicacion": "La suspensión de derechos y libertades se regula en el art. 55 CE, no en el 53 (que regula su protección general), el 116 (que regula en sí los estados de alarma, excepción y sitio) ni el 169. Ambos artículos están relacionados pero regulan cuestiones distintas.",
         "id": "tema-7-q94"
       },
       {
@@ -10322,7 +10322,7 @@ const TEMAS = [
           "una simple declaración gubernativa sin control parlamentario"
         ],
         "correcta": 2,
-        "explicacion": "El art. 55.1 CE prevé la suspensión general de determinados derechos únicamente con la declaración de los estados de excepción o de sitio.",
+        "explicacion": "La suspensión general del art. 55.1 CE se vincula a los estados de excepción o de sitio, no al estado de alarma ni a una simple declaración gubernativa sin control parlamentario. Es importante no confundir los tres estados excepcionales del art. 116 CE a estos efectos.",
         "id": "tema-7-q95"
       },
       {
@@ -10334,7 +10334,7 @@ const TEMAS = [
           "No, el art. 55 CE solo prevé la suspensión de derechos en los estados de excepción y de sitio, no en el de alarma"
         ],
         "correcta": 3,
-        "explicacion": "El art. 55.1 CE circunscribe la suspensión general de derechos a los estados de excepción y de sitio, excluyendo el estado de alarma.",
+        "explicacion": "No, el estado de alarma queda fuera: el art. 55.1 CE solo permite la suspensión general de derechos con la declaración de los estados de excepción o de sitio. Tampoco puede autorizarla el Defensor del Pueblo, cuya función es de supervisión y garantía, no de suspensión de derechos.",
         "id": "tema-7-q96"
       },
       {
@@ -10346,7 +10346,7 @@ const TEMAS = [
           "declaración previa del estado de sitio"
         ],
         "correcta": 0,
-        "explicacion": "El art. 55.2 CE exige que una Ley Orgánica determine la forma y los casos de suspensión individual, con intervención judicial necesaria y control parlamentario adecuado.",
+        "explicacion": "La suspensión individual del art. 55.2 CE exige Ley Orgánica, intervención judicial necesaria y control parlamentario adecuado, no solo una orden gubernativa motivada ni la autorización del Defensor del Pueblo; tampoco requiere la previa declaración de un estado de sitio. Se vincula específicamente a investigaciones sobre bandas armadas o terrorismo.",
         "id": "tema-7-q97"
       },
       {
@@ -10358,7 +10358,7 @@ const TEMAS = [
           "el derecho de reunión y manifestación"
         ],
         "correcta": 1,
-        "explicacion": "El art. 18.2 y 18.3 CE reconocen la inviolabilidad del domicilio y el secreto de las comunicaciones, derechos susceptibles de suspensión individual conforme al art. 55.2 CE.",
+        "explicacion": "El art. 18, apartados 2 y 3, CE reconoce la inviolabilidad del domicilio y el secreto de las comunicaciones, no la libertad de expresión, la libertad de circulación ni el derecho de reunión (regulados en otros artículos). Son, junto al art. 17.2 CE, los derechos que puede afectar la suspensión individual del art. 55.2 CE.",
         "id": "tema-7-q98"
       },
       {
@@ -10370,7 +10370,7 @@ const TEMAS = [
           "La nulidad automática de la ley orgánica que la ampare"
         ],
         "correcta": 2,
-        "explicacion": "El art. 55.2 CE establece que la utilización injustificada o abusiva de estas facultades producirá responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes.",
+        "explicacion": "La utilización injustificada o abusiva de estas facultades de suspensión individual genera responsabilidad penal, como violación de los derechos y libertades reconocidos por las leyes, no una simple sanción disciplinaria ni la nulidad automática de la ley orgánica. Es una garantía frente al posible abuso de esta suspensión excepcional.",
         "id": "tema-7-q99"
       },
       {
@@ -10382,7 +10382,7 @@ const TEMAS = [
           "28.2 y 37.2 CE"
         ],
         "correcta": 3,
-        "explicacion": "El art. 55.1 CE incluye entre los derechos susceptibles de suspensión general el derecho de huelga (art. 28.2 CE) y el derecho a adoptar medidas de conflicto colectivo (art. 37.2 CE).",
+        "explicacion": "El derecho de huelga y la adopción de medidas de conflicto colectivo susceptibles de suspensión general se recogen en los arts. 28.2 y 37.2 CE, no en el 35 y 37, el 21 y 23 ni el 33 y 34. La suspensión general del art. 55.1 CE afecta a un catálogo amplio de derechos, entre ellos estos dos.",
         "id": "tema-7-q100"
       },
       {
@@ -10394,7 +10394,7 @@ const TEMAS = [
           "Goza de eficacia directa sin necesidad de desarrollo normativo, conforme al art. 9.1 CE"
         ],
         "correcta": 2,
-        "explicacion": "El desarrollo de la Sección 1ª del Capítulo II del Título I mediante Real Decreto Legislativo está expresamente prohibido; sí es cierto lo demás (LO ex art. 81, reforma ex art. 168, eficacia directa ex art. 9.1).",
+        "explicacion": "Es falso que pueda desarrollarse por Real Decreto Legislativo si media urgente necesidad: precisamente ese es un cauce expresamente prohibido para la Sección 1ª del Capítulo II del Título I. Sí son ciertas, en cambio, la exigencia de Ley Orgánica (art. 81 CE), la reforma agravada (art. 168 CE) y la eficacia directa (art. 9.1 CE).",
         "nivel": "avanzado",
         "id": "tema-7-q101"
       },
@@ -10407,7 +10407,7 @@ const TEMAS = [
           "Derecho de reunión (art. 21)"
         ],
         "correcta": 1,
-        "explicacion": "El art. 55.1 CE exceptúa expresamente el apartado 3 del art. 17 CE de la suspensión en el estado de excepción; los demás derechos citados sí son susceptibles de suspensión general.",
+        "explicacion": "El art. 55.1 CE exceptúa expresamente el art. 17.3 CE (derecho a ser informado de las razones de la detención y a la asistencia de letrado) de la suspensión en el estado de excepción, mientras que la libertad de expresión, la inviolabilidad del domicilio y el derecho de reunión sí son susceptibles de suspensión general. Es una de las garantías mínimas que se mantienen incluso en situaciones excepcionales.",
         "nivel": "avanzado",
         "id": "tema-7-q102"
       },
@@ -10420,7 +10420,7 @@ const TEMAS = [
           "La suspensión general afecta a un catálogo más amplio de derechos que la individual, que se limita a los arts. 17.2 y 18.2-3 CE"
         ],
         "correcta": 2,
-        "explicacion": "El art. 55.2 CE limita la suspensión individual a los derechos de los arts. 17.2 y 18, apartados 2 y 3, un catálogo mucho más reducido que el de la suspensión general del art. 55.1 CE.",
+        "explicacion": "Es falso que la suspensión individual pueda afectar a los mismos derechos que la general sin límite alguno: el art. 55.2 CE la circunscribe a los derechos de los arts. 17.2 y 18, apartados 2 y 3, un catálogo mucho más reducido que el de la suspensión general del art. 55.1 CE. Las demás afirmaciones sobre ambos tipos de suspensión sí son correctas.",
         "nivel": "avanzado",
         "id": "tema-7-q103"
       },
@@ -10433,7 +10433,7 @@ const TEMAS = [
           "Puede interponerse directamente sin necesidad de agotar ninguna vía previa, dada la preferencia constitucional de este recurso"
         ],
         "correcta": 3,
-        "explicacion": "El recurso de amparo exige haber agotado previamente la vía judicial ordinaria; no cabe interponerlo directamente saltándose esa vía.",
+        "explicacion": "Es falso que el amparo pueda interponerse directamente sin agotar ninguna vía previa: al contrario, exige haber agotado antes la vía judicial ordinaria. Sí son correctas las demás afirmaciones: solo cabe frente a actos del poder público y protege los derechos de los arts. 15 a 29 CE más el 30.2 CE.",
         "nivel": "avanzado",
         "id": "tema-7-q104"
       },
@@ -10446,7 +10446,7 @@ const TEMAS = [
           "Ambas vías exigen necesariamente el agotamiento previo de la vía internacional ante el TEDH"
         ],
         "correcta": 2,
-        "explicacion": "En la vía constitucional solo puede conocer el Tribunal Constitucional, mientras que en la vía ordinaria puede conocer cualquier órgano encuadrado en el Poder Judicial, a través de procedimientos específicos de cada orden jurisdiccional.",
+        "explicacion": "Al revés de lo que sugieren las primeras opciones: en la vía constitucional el único órgano competente es el Tribunal Constitucional, mientras que en la vía ordinaria puede conocer cualquier órgano encuadrado en el Poder Judicial. Además, la vía ordinaria no sigue un procedimiento único, sino procedimientos específicos de cada orden jurisdiccional (laboral, civil, Habeas Corpus, etc.).",
         "nivel": "avanzado",
         "id": "tema-7-q105"
       },
@@ -10459,7 +10459,7 @@ const TEMAS = [
           "6 meses si la lesión proviene de una decisión parlamentaria"
         ],
         "correcta": 3,
-        "explicacion": "El plazo correcto frente a decisiones parlamentarias es de 3 meses; los 6 meses corresponden al plazo para acudir al TEDH tras agotar los recursos internos.",
+        "explicacion": "6 meses no es un plazo de amparo, sino el plazo para acudir al TEDH tras agotar los recursos internos; frente a una decisión parlamentaria, el plazo correcto de amparo es de 3 meses. Los otros plazos citados (30 días Poder Judicial, 20 días Administración) sí son correctos.",
         "nivel": "avanzado",
         "id": "tema-7-q106"
       },
@@ -10472,7 +10472,7 @@ const TEMAS = [
           "Cualquier partido político con representación parlamentaria, sin necesidad de haber sido parte en el proceso previo"
         ],
         "correcta": 3,
-        "explicacion": "Los legitimados son el Ministerio Fiscal, el Defensor del Pueblo y quienes hayan sido parte del proceso judicial previo y hayan denunciado la violación; un partido político sin esa condición no está legitimado.",
+        "explicacion": "Un partido político con representación parlamentaria no está legitimado por sí solo para interponer el recurso de amparo si no ha sido parte en el proceso judicial previo. Los legitimados son el Ministerio Fiscal, el Defensor del Pueblo y quienes hayan sido parte de ese proceso previo y hayan denunciado la violación del derecho.",
         "nivel": "avanzado",
         "id": "tema-7-q107"
       },
@@ -10485,7 +10485,7 @@ const TEMAS = [
           "Su regulación se remite a una ley orgánica de desarrollo (art. 54 CE)"
         ],
         "correcta": 0,
-        "explicacion": "El Defensor del Pueblo no es un órgano constitucional, pues su estatus no aparece en la Constitución, que se limita a remitirlo a su ley orgánica de desarrollo.",
+        "explicacion": "Es falso que sea un órgano constitucional expresamente configurado como tal: el Defensor del Pueblo no aparece regulado en el articulado de la Constitución, que se limita a remitirlo (art. 54 CE) a su ley orgánica de desarrollo. Las demás afirmaciones sí son correctas: se inspira en el Ombudsman nórdico y se configura como alto comisionado de las Cortes.",
         "nivel": "avanzado",
         "id": "tema-7-q108"
       },
@@ -10498,7 +10498,7 @@ const TEMAS = [
           "El mandato es de 5 años improrrogables"
         ],
         "correcta": 1,
-        "explicacion": "El Defensor del Pueblo se elige por mayoría de 3/5 en cada cámara; en segunda votación basta 3/5 en el Congreso y mayoría absoluta en el Senado.",
+        "explicacion": "No se elige por mayoría absoluta en primera votación en ambas cámaras, ni exclusivamente por el Congreso, ni con mandato improrrogable: se elige por mayoría de 3/5 en cada cámara, bastando en segunda votación 3/5 en el Congreso y mayoría absoluta en el Senado. Su mandato es de 5 años, con posibilidad de prórroga.",
         "nivel": "avanzado",
         "id": "tema-7-q109"
       },
@@ -10511,7 +10511,7 @@ const TEMAS = [
           "Dictar resoluciones ejecutivas de obligado cumplimiento para la Administración"
         ],
         "correcta": 3,
-        "explicacion": "El Defensor del Pueblo carece de competencias ejecutivas; su proyección es más política o de opinión pública que jurídica.",
+        "explicacion": "Dictar resoluciones ejecutivas de obligado cumplimiento no es una competencia del Defensor del Pueblo, ya que carece de competencias ejecutivas y su proyección es más política que jurídica. Sí puede, en cambio, promover el amparo y la inconstitucionalidad, instar el habeas corpus y acceder al Registro de Bienes de Altos Cargos.",
         "nivel": "avanzado",
         "id": "tema-7-q110"
       },
@@ -10524,7 +10524,7 @@ const TEMAS = [
           "Está sujeto a las instrucciones que le curse el Gobierno en el ejercicio de sus funciones de supervisión"
         ],
         "correcta": 3,
-        "explicacion": "El Defensor del Pueblo goza de plena autonomía, no estando sujeto a mandato imperativo ni recibiendo órdenes o instrucciones de ninguna autoridad, incluido el Gobierno.",
+        "explicacion": "Es falso que esté sujeto a las instrucciones del Gobierno: goza de plena autonomía, sin sujeción a mandato imperativo ni recepción de órdenes de ninguna autoridad. Las demás características de su estatuto sí son correctas: inviolabilidad e irresponsabilidad parlamentaria, fuero especial ante la Sala de lo Penal del Tribunal Supremo y detención solo en flagrante delito.",
         "nivel": "avanzado",
         "id": "tema-7-q111"
       },
@@ -10537,7 +10537,7 @@ const TEMAS = [
           "La reserva de ley del art. 53.1 CE no impide el desarrollo mediante Real Decreto-Ley"
         ],
         "correcta": 0,
-        "explicacion": "La exclusión de la potestad reglamentaria del Gobierno se extiende a las materias que afecten al desarrollo de los derechos y libertades contenidos en los Capítulos II y III del Título I.",
+        "explicacion": "La exclusión de la potestad reglamentaria del Gobierno alcanza a las materias que afecten al desarrollo de los derechos y libertades de los Capítulos II y III del Título I, no solo a la Sección 1ª ni de forma libre al Capítulo III. La reserva de ley del art. 53.1 CE tampoco deja abierta la puerta al Real Decreto-Ley.",
         "nivel": "avanzado",
         "id": "tema-7-q112"
       },
@@ -10550,7 +10550,7 @@ const TEMAS = [
           "Se aplica exclusivamente a los deberes constitucionales"
         ],
         "correcta": 1,
-        "explicacion": "La prohibición de desarrollo mediante Real Decreto Legislativo se circunscribe a la Sección 1ª del Capítulo II del Título I.",
+        "explicacion": "La prohibición de desarrollo mediante Real Decreto Legislativo se aplica solo a la Sección 1ª del Capítulo II del Título I, no a todo el Título I sin excepción ni exclusivamente a los deberes constitucionales; y sí existe tal prohibición, no es libre su desarrollo. Es una de las garantías normativas frente al Gobierno junto con el veto al Real Decreto-Ley.",
         "nivel": "avanzado",
         "id": "tema-7-q113"
       },
@@ -10563,7 +10563,7 @@ const TEMAS = [
           "La reserva de Ley Orgánica no exige mayoría cualificada"
         ],
         "correcta": 1,
-        "explicacion": "La Ley Orgánica del art. 81 CE se exige solo para el desarrollo de la Sección 1ª (derechos fundamentales y libertades públicas), mientras que la reserva de ley ordinaria del art. 53.1 CE alcanza a todo el Capítulo II, incluida la Sección 2ª de derechos de los ciudadanos.",
+        "explicacion": "No coinciden en ámbito: la reserva de Ley Orgánica del art. 81 CE se predica solo del desarrollo de los derechos fundamentales y libertades públicas (Sección 1ª), mientras que la reserva de ley ordinaria del art. 53.1 CE alcanza a todo el Capítulo II, incluida la Sección 2ª de derechos de los ciudadanos. La Ley Orgánica sí exige mayoría cualificada, a diferencia de la ley ordinaria.",
         "nivel": "avanzado",
         "id": "tema-7-q114"
       },
@@ -10576,7 +10576,7 @@ const TEMAS = [
           "Se ubica sistemáticamente en la Sección 2ª (art. 30.2) aunque materialmente se vincula a un derecho de la Sección 1ª"
         ],
         "correcta": 2,
-        "explicacion": "El documento advierte expresamente que, pese a su naturaleza formal de derecho fundamental, la objeción de conciencia no necesita regularse por Ley Orgánica, por razones más doctrinales que jurídicas; es un dato clásico de trampa en el test.",
+        "explicacion": "Es la trampa clásica de este tema: pese a ser formalmente un derecho fundamental protegido por amparo, la objeción de conciencia no necesita regularse por Ley Orgánica, por razones más políticas que doctrinales. Sí son correctas las demás afirmaciones: es especificidad del art. 16 CE y se ubica sistemáticamente en la Sección 2ª (art. 30.2).",
         "nivel": "avanzado",
         "id": "tema-7-q115"
       },
@@ -10589,7 +10589,7 @@ const TEMAS = [
           "Se sitúa formalmente dentro de la Sección 1ª aunque doctrinalmente se discuta su alcance como Derecho Fundamental"
         ],
         "correcta": 2,
-        "explicacion": "El hecho de que la igualdad no se incluya en la enumeración estricta de derechos fundamentales (15-29) no supone su exclusión de toda tutela jurisdiccional.",
+        "explicacion": "Es falso que quede plenamente excluida de tutela jurisdiccional: aunque la igualdad no figure en la enumeración estricta de derechos fundamentales (15-29), el propio art. 53.2 CE la incluye junto a la Sección 1ª a efectos de recurso de amparo. Las demás afirmaciones sí son correctas: abre el Capítulo Segundo y su calificación como Derecho Fundamental resulta controvertida.",
         "nivel": "avanzado",
         "id": "tema-7-q116"
       },
@@ -10602,7 +10602,7 @@ const TEMAS = [
           "La extradición no atiende en ningún caso al principio de reciprocidad"
         ],
         "correcta": 1,
-        "explicacion": "El art. 13.3 CE condiciona la extradición a tratado o ley y al principio de reciprocidad, excluyendo los delitos políticos, sin que se consideren tales los actos de terrorismo.",
+        "explicacion": "La extradición solo se concede en cumplimiento de un tratado o de la ley y con criterio de reciprocidad, no por decisión libre del Ministerio de Justicia ni sin atender nunca a la reciprocidad. Quedan excluidos los delitos políticos, pero no los actos de terrorismo, que expresamente no se consideran como tales.",
         "nivel": "avanzado",
         "id": "tema-7-q117"
       },
@@ -10615,7 +10615,7 @@ const TEMAS = [
           "El art. 13 CE reconoce automáticamente el sufragio activo y pasivo en elecciones generales a todo extranjero residente legal"
         ],
         "correcta": 3,
-        "explicacion": "El art. 13 CE solo permite reconocer por tratado o ley el sufragio de extranjeros en elecciones municipales, atendiendo a reciprocidad, no en elecciones generales.",
+        "explicacion": "Es falso que el art. 13 CE reconozca automáticamente el sufragio general a cualquier extranjero residente: solo permite, por tratado o ley y con criterios de reciprocidad, el sufragio activo y pasivo en elecciones municipales. Las demás afirmaciones sí son correctas, incluida la reserva general del art. 23 CE a los españoles.",
         "nivel": "avanzado",
         "id": "tema-7-q118"
       },
@@ -10628,7 +10628,7 @@ const TEMAS = [
           "Garantías diplomáticas"
         ],
         "correcta": 3,
-        "explicacion": "El documento señala como vías de protección las garantías normativas, jurisdiccionales e institucionales; no existe una categoría de \"garantías diplomáticas\".",
+        "explicacion": "Las garantías diplomáticas no existen como categoría en este esquema: el documento distingue únicamente garantías normativas, jurisdiccionales e institucionales. Esta tríada es la base de todo el sistema de protección de derechos que desarrolla el tema.",
         "nivel": "avanzado",
         "id": "tema-7-q119"
       },
@@ -10641,7 +10641,7 @@ const TEMAS = [
           "Solo pueden desarrollarse mediante Ley Orgánica, igual que los derechos fundamentales"
         ],
         "correcta": 1,
-        "explicacion": "Los deberes constitucionales se formulan como proposiciones jurídicas incompletas; su vulneración no comporta sanción hasta que se concretan en el concepto de obligación.",
+        "explicacion": "Los deberes constitucionales no generan sanción penal automática ni gozan de la eficacia directa de los derechos fundamentales, ni exigen Ley Orgánica: se formulan como proposiciones jurídicas incompletas, cuya vulneración no comporta sanción hasta que se concretan en una obligación jurídicamente exigible. Esta es la diferencia esencial entre deber y obligación.",
         "nivel": "avanzado",
         "id": "tema-7-q120"
       },
@@ -10654,7 +10654,7 @@ const TEMAS = [
           "El recurso de amparo puede dirigirse indistintamente contra actos públicos o privados"
         ],
         "correcta": 1,
-        "explicacion": "Dentro de la vía constitucional, el amparo se dirige contra actos, mientras que el recurso de inconstitucionalidad se dirige contra normas con rango legal.",
+        "explicacion": "Dentro de la vía constitucional, el amparo procede frente a actos y el recurso de inconstitucionalidad frente a normas con rango legal; no protegen ambos exclusivamente frente a actos, ni el de inconstitucionalidad exige agotar la vía judicial (eso es propio del amparo), ni el amparo cabe contra actos privados. Esta distinción acto/norma es la clave para diferenciarlos.",
         "nivel": "avanzado",
         "id": "tema-7-q121"
       },
@@ -10667,7 +10667,7 @@ const TEMAS = [
           "Puede recurrirse directamente ante el TEDH sin necesidad de agotar previamente los recursos internos del Estado"
         ],
         "correcta": 3,
-        "explicacion": "El recurso ante el TEDH exige haber agotado previamente los recursos internos del país, disponiendo entonces de un plazo de 6 meses para su interposición.",
+        "explicacion": "Es falso que pueda recurrirse directamente ante el TEDH sin agotar los recursos internos: es un requisito previo indispensable, tras el cual se dispone de 6 meses para interponer el recurso. Las demás afirmaciones sí son correctas: fue creado por el Convenio de Roma de 1950 y su intervención enlaza con el art. 10.2 CE.",
         "nivel": "avanzado",
         "id": "tema-7-q122"
       },
@@ -10680,7 +10680,7 @@ const TEMAS = [
           "La existencia de Defensores del Pueblo autonómicos suprime la competencia del Defensor del Pueblo estatal en el territorio autonómico correspondiente"
         ],
         "correcta": 2,
-        "explicacion": "Existen Defensores del Pueblo autonómicos, cuya regulación y relación con el Defensor del Pueblo estatal se contiene en la Ley 36/1985.",
+        "explicacion": "Los Defensores del Pueblo autonómicos existen y no dependen jerárquicamente del estatal, ni su existencia suprime la competencia de este en el territorio autonómico: su regulación y relación con el Defensor del Pueblo de la nación se contiene en la Ley 36/1985. Tampoco hay ninguna reserva competencial estatal que impida su creación.",
         "nivel": "avanzado",
         "id": "tema-7-q123"
       },
@@ -10693,7 +10693,7 @@ const TEMAS = [
           "Solo puede afectar a los derechos de reunión y manifestación"
         ],
         "correcta": 1,
-        "explicacion": "El art. 55.1 CE enumera el catálogo de derechos susceptibles de suspensión general en estado de excepción o de sitio, exceptuando expresamente el art. 17.3 CE en el estado de excepción.",
+        "explicacion": "El catálogo de derechos suspendibles con carácter general (arts. 17, 18.2 y 3, 19, 20.1 a) y d) y 20.5, 21, 28.2 y 37.2 CE) se declara con el estado de excepción o de sitio, no solo con el de alarma, y sí admite una excepción expresa: el art. 17.3 CE queda a salvo en el estado de excepción. No se limita, por tanto, solo al derecho de reunión y manifestación.",
         "nivel": "avanzado",
         "id": "tema-7-q124"
       },
@@ -10706,7 +10706,7 @@ const TEMAS = [
           "Necesidad de ratificación mediante referéndum de cualquier ley que desarrolle un derecho fundamental"
         ],
         "correcta": 3,
-        "explicacion": "El documento no exige referéndum para las leyes de desarrollo de derechos fundamentales; las consecuencias señaladas son la exclusión de la potestad reglamentaria, el veto al Real Decreto-Ley y la prohibición del Real Decreto Legislativo para la Sección 1ª.",
+        "explicacion": "No se exige referéndum para las leyes de desarrollo de derechos fundamentales: las consecuencias reales de la reserva de ley del art. 53.1 CE son la exclusión de la potestad reglamentaria del Gobierno, el veto al Real Decreto-Ley y la prohibición del Real Decreto Legislativo para la Sección 1ª del Capítulo II.",
         "nivel": "avanzado",
         "id": "tema-7-q125"
       }
@@ -10726,7 +10726,7 @@ const TEMAS = [
           "La Ley 29/1998, reguladora de la Jurisdicción Contencioso-Administrativa"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que la personalidad jurídica de la AP del Estado 'se reconoce en la Ley 40/2015 de Régimen Jurídico del Sector Público, que sustituye a la antigua LOFAGE (Ley 6/1997, de 14 de abril)'.",
+        "explicacion": "La Ley 39/2015 regula el procedimiento administrativo común, no la personalidad jurídica. Es la Ley 40/2015, de Régimen Jurídico del Sector Público, la que reconoce esa personalidad y sustituye a la antigua LOFAGE. La LOFAGE era la Ley 6/1997, de 14 de abril, de Organización y Funcionamiento de la AGE.",
         "id": "tema-8-q1"
       },
       {
@@ -10738,7 +10738,7 @@ const TEMAS = [
           "Personalidad jurídica compartida con el resto de Administraciones Públicas"
         ],
         "correcta": 1,
-        "explicacion": "El texto reproduce literalmente el art. 3.4: 'Cada una de las Administraciones Públicas del artículo 2 actúa para el cumplimiento de sus fines con personalidad jurídica única'.",
+        "explicacion": "Cada Administración Pública actúa con personalidad jurídica única, no plural ni delegada de otra: así lo establece el art. 3.4 de la Ley 40/2015. Es esta misma ley la que sustituyó a la antigua LOFAGE de 1997.",
         "id": "tema-8-q2"
       },
       {
@@ -10750,7 +10750,7 @@ const TEMAS = [
           "A la doctrina italiana de los órganos de relevancia constitucional"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que la personalidad jurídica 'es una mera ficción de creación dogmática (2ª mitad del siglo XIX por profesores Alemanes)'.",
+        "explicacion": "No confundir: los iuspublicistas alemanes de la tercera década del siglo XIX acuñaron el concepto de 'Estado de Derecho', no el de personalidad jurídica. La personalidad jurídica de la Administración es una ficción de creación dogmática de profesores alemanes de la segunda mitad del siglo XIX, pensada para someterla a la legalidad y hacerla responsable ante los tribunales.",
         "id": "tema-8-q3"
       },
       {
@@ -10762,7 +10762,7 @@ const TEMAS = [
           "'El Derecho propio y peculiar de las Administraciones Públicas'"
         ],
         "correcta": 1,
-        "explicacion": "El texto cita literalmente: 'En palabras de Montesquieu es el brazo ejecutor de los fines del Estado, dentro de un sistema de división de poderes'.",
+        "explicacion": "Cuidado: 'el conjunto de órganos y entes públicos con personalidad jurídica que sirve con objetividad los intereses generales' es la definición de Administración Pública que da el propio texto, no la de Montesquieu. Este la definió como 'el brazo ejecutor de los fines del Estado, dentro de un sistema de división de poderes'.",
         "id": "tema-8-q4"
       },
       {
@@ -10774,7 +10774,7 @@ const TEMAS = [
           "Teoría de las inmunidades del poder"
         ],
         "correcta": 1,
-        "explicacion": "El texto explica que 'la concepción orgánica-subjetiva entiende que la clave es el sujeto... Sólo lo que realice este sujeto es propiamente Derecho Administrativo'.",
+        "explicacion": "No mezclar con otros conceptos del tema: la 'procura existencial' es de Forsthoff y las 'inmunidades del poder' son de García de Enterría, ambos referidos al Estado de Derecho, no a esta clasificación. La teoría que pone el acento en el sujeto (la Administración como organización o persona jurídica), y no en la función que realiza, es la orgánica-subjetiva, frente a la objetiva o funcional.",
         "id": "tema-8-q5"
       },
       {
@@ -10786,7 +10786,7 @@ const TEMAS = [
           "El Consejo de Estado"
         ],
         "correcta": 3,
-        "explicacion": "El Consejo de Estado aparece en el texto dentro de las Administraciones no territoriales, como Administración Consultiva, no entre las territoriales.",
+        "explicacion": "El Consejo de Estado no es una Administración territorial: el texto lo clasifica entre las no territoriales, como Administración Consultiva. Las territoriales son solo tres: la Administración del Estado, las Comunidades Autónomas y los Entes Locales (Municipios, Provincias e Islas).",
         "id": "tema-8-q6"
       },
       {
@@ -10798,7 +10798,7 @@ const TEMAS = [
           "Tipo Corporativo"
         ],
         "correcta": 1,
-        "explicacion": "El texto clasifica expresamente al 'Tribunal de Cuentas' dentro de la 'Administración de Control'.",
+        "explicacion": "El Tribunal de Cuentas se clasifica como Administración de Control, no Consultiva (ese tipo lo representan el Consejo de Estado y el Consejo Consultivo). Dentro de las Administraciones no territoriales el texto distingue cuatro tipos: Consultiva, de Control, Institucional (ej. Insalud) y Corporativa (ej. Colegio de Abogados, Cámara de Comercio).",
         "id": "tema-8-q7"
       },
       {
@@ -10810,7 +10810,7 @@ const TEMAS = [
           "De control"
         ],
         "correcta": 2,
-        "explicacion": "El texto los sitúa dentro de 'Corporativa: Colegio de Abogados, Cámara de Comercio'.",
+        "explicacion": "Son ejemplo de Administración Corporativa, no Institucional (ese tipo lo ilustra el texto con el Insalud). Las Administraciones no territoriales se dividen en Consultiva, de Control, Institucional y Corporativa.",
         "id": "tema-8-q8"
       },
       {
@@ -10822,7 +10822,7 @@ const TEMAS = [
           "Los denominados órganos constitucionales"
         ],
         "correcta": 3,
-        "explicacion": "El texto afirma literalmente que 'quedan fuera del concepto de AP los denominados órganos constitucionales cuya existencia responde a una finalidad específica diseñada constitucionalmente'.",
+        "explicacion": "El art. 2.3 de la Ley 39/2015 solo reconoce como Administraciones Públicas a la AGE, las Administraciones de las Comunidades Autónomas y las Entidades de la Administración Local. Los órganos constitucionales quedan fuera de ese concepto, aunque algunos de sus actos puedan considerarse materialmente administrativos.",
         "id": "tema-8-q9"
       },
       {
@@ -10834,7 +10834,7 @@ const TEMAS = [
           "Nunca, quedan excluidas de dicha Ley"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que 'sujetarán su actividad a la presente Ley cuando ejerzan potestades administrativas, sometiéndose en el resto de su actividad a lo que dispongan sus normas de creación'.",
+        "explicacion": "Estas entidades del Sector Público Institucional no quedan sujetas a la Ley 39/2015 para toda su actividad, sino únicamente cuando ejercen potestades administrativas; en lo demás se rigen por sus propias normas de creación. Aun así, tienen la consideración de Administración Pública aunque no figuren en la lista del art. 2.3.",
         "id": "tema-8-q10"
       },
       {
@@ -10846,7 +10846,7 @@ const TEMAS = [
           "El Gobierno, el Tribunal de Cuentas y las Asambleas Legislativas autonómicas"
         ],
         "correcta": 0,
-        "explicacion": "El texto los enumera: 'la Corona... (Título II), las Cortes Generales (Título III), el Gobierno (Título IV), el Tribunal Constitucional (Título IX), el Consejo General del Poder Judicial (art. 122)'.",
+        "explicacion": "No confundir: el Tribunal de Cuentas y el Defensor del Pueblo son, según el texto, órganos 'de relevancia constitucional', no órganos constitucionales en sentido estricto. Estos últimos son cinco: la Corona (Título II), las Cortes Generales (Título III), el Gobierno (Título IV), el Tribunal Constitucional (Título IX) y el Consejo General del Poder Judicial (art. 122).",
         "id": "tema-8-q11"
       },
       {
@@ -10858,7 +10858,7 @@ const TEMAS = [
           "El Título III, artículos 66 y siguientes"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que 'Nuestra Constitución de 1978 regula el Gobierno y la Administración (civil y militar) en el título IV (art. 97 y ss.)'.",
+        "explicacion": "No confundir con otros títulos de la Constitución: el Título II (arts. 56 y ss.) regula la Corona, el Título III (arts. 66 y ss.) las Cortes Generales y el art. 122 (Título IX) el Consejo General del Poder Judicial. El Gobierno y la Administración, civil y militar, se regulan en el Título IV, arts. 97 y siguientes.",
         "id": "tema-8-q12"
       },
       {
@@ -10870,7 +10870,7 @@ const TEMAS = [
           "Forsthoff"
         ],
         "correcta": 1,
-        "explicacion": "El texto cita esta idea entre paréntesis atribuyéndola a Miguel Artola.",
+        "explicacion": "Cuidado con no mezclar autores del tema: Otto Mayer definió el 'Estado de Derecho Administrativo bien ordenado', Forsthoff acuñó la 'procura existencial' y Pérez Royo se refiere a la legitimación democrática del poder. La frase 'el Gobierno cambia y la Administración Pública permanece' se atribuye a Miguel Artola.",
         "id": "tema-8-q13"
       },
       {
@@ -10882,7 +10882,7 @@ const TEMAS = [
           "La revisión de la oportunidad política de la decisión"
         ],
         "correcta": 3,
-        "explicacion": "El texto solo cita como excepciones controlables la protección de derechos fundamentales, los elementos reglados y las indemnizaciones procedentes; la oportunidad política no se menciona como controlable.",
+        "explicacion": "El texto cita solo tres materias por las que las decisiones políticas del Gobierno quedan sometidas al Derecho Administrativo, según el art. 2 de la Ley 29/1998: la protección jurisdiccional de los derechos fundamentales, los elementos reglados y la determinación de las indemnizaciones procedentes. La oportunidad política de la decisión queda, en cambio, fuera de ese control.",
         "id": "tema-8-q14"
       },
       {
@@ -10894,7 +10894,7 @@ const TEMAS = [
           "La Constitución española de 1812"
         ],
         "correcta": 2,
-        "explicacion": "El texto indica que la expresión 'se deriva en España del art. 1.1 de la Constitución de 1978, tomado a su vez de la Ley Fundamental de Bonn de 1949'.",
+        "explicacion": "No confundir con la consagración legislativa de la división de poderes, que el texto vincula a la Constitución americana de 1787 y a la Declaración de los Derechos del Hombre y del Ciudadano de 1789. La expresión 'Estado Social y Democrático de Derecho' del art. 1.1 CE procede, según el texto, de la Ley Fundamental de Bonn de 1949.",
         "id": "tema-8-q15"
       },
       {
@@ -10906,7 +10906,7 @@ const TEMAS = [
           "'El brazo ejecutor de los fines del Estado'"
         ],
         "correcta": 1,
-        "explicacion": "El texto atribuye a Otto Mayer la definición del 'Estado de Derecho Administrativo bien ordenado'.",
+        "explicacion": "No confundir con Forsthoff, autor de la 'procura existencial' del Estado Social. Otto Mayer definió lo específico del Estado de Derecho de aquel periodo como el 'Estado de Derecho Administrativo bien ordenado'.",
         "id": "tema-8-q16"
       },
       {
@@ -10918,7 +10918,7 @@ const TEMAS = [
           "La 'legitimación democrática del poder'"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que 'el Estado Social fue concebido por los alemanes como el Estado que se responsabiliza por la procura existencial', concepto de Forsthoff.",
+        "explicacion": "No confundir con García de Enterría, autor de las 'inmunidades del poder'. Forsthoff concibió el Estado Social como aquel que se responsabiliza por la 'procura existencial', es decir, por garantizar al individuo un espacio vital de posibilidades de existencia.",
         "id": "tema-8-q17"
       },
       {
@@ -10930,7 +10930,7 @@ const TEMAS = [
           "La Constitución de 1978"
         ],
         "correcta": 0,
-        "explicacion": "El texto afirma que 'En España aparece por primera vez en la Constitución de 1812'.",
+        "explicacion": "El principio de división de poderes aparece en España por primera vez en la Constitución de 1812, no en la de 1978, que ya lo recoge como algo consolidado. Su formulación doctrinal se debe a Montesquieu sobre la base de Locke, y su consagración legislativa se sitúa antes, en la Constitución americana de 1787 y en la Declaración de los Derechos del Hombre y del Ciudadano de 1789.",
         "id": "tema-8-q18"
       },
       {
@@ -10942,7 +10942,7 @@ const TEMAS = [
           "128.2 y 128.3 de la Ley 39/2015"
         ],
         "correcta": 0,
-        "explicacion": "El texto localiza esta cláusula en 'el 9.1 (de manera implícita) y 103.1 de la CE'.",
+        "explicacion": "No confundir con otros artículos citados en el tema: el 97 y el 122 CE regulan el Gobierno y el CGPJ, y el 128.2 y 128.3 son preceptos de la Ley 39/2015, no de la Constitución. La cláusula del principio de legalidad se localiza en los arts. 9.1 (de forma implícita) y 103.1 de la CE.",
         "id": "tema-8-q19"
       },
       {
@@ -10954,7 +10954,7 @@ const TEMAS = [
           "Ser vulneradas por una resolución administrativa de carácter particular, aunque proceda de un órgano de igual o superior jerarquía"
         ],
         "correcta": 1,
-        "explicacion": "El texto reproduce que dichas disposiciones 'no podrán tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público'.",
+        "explicacion": "No mezcles los distintos apartados citados en el tema: la reserva de materias a favor de las Cortes también está en el 128.2 pero en otro inciso, el orden de jerarquía normativa es el art. 128.3, y que un acto no vulnere una disposición general es el art. 37.1. Lo que dice este inciso del art. 128.2 es que, en su función de desarrollo o colaboración con la ley, los reglamentos y disposiciones administrativas no podrán tipificar delitos, faltas o infracciones administrativas, ni establecer penas, sanciones o tributos.",
         "id": "tema-8-q20"
       },
       {
@@ -10966,7 +10966,7 @@ const TEMAS = [
           "Podrán tipificar infracciones administrativas siempre que exista habilitación legal previa"
         ],
         "correcta": 1,
-        "explicacion": "El texto reproduce el art. 37.1: las resoluciones particulares 'no podrán vulnerar lo establecido en una disposición de carácter general, aunque aquéllas procedan de un órgano de igual o superior jerarquía al que dictó la disposición general'.",
+        "explicacion": "No lo confundas con el art. 128.2 (no vulnerar la Constitución ni regular materias reservadas a las Cortes) ni con el 128.3 (orden de jerarquía entre disposiciones). El art. 37.1 establece que las resoluciones administrativas de carácter particular (actos) no podrán vulnerar lo dispuesto en una disposición de carácter general, aunque procedan de un órgano de igual o superior jerarquía al que dictó esa disposición.",
         "id": "tema-8-q21"
       },
       {
@@ -10978,7 +10978,7 @@ const TEMAS = [
           "El recurso de amparo ante el Tribunal Constitucional"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que 'primero recursos en vía administrativa; alzada o potestativo de reposición... si el recurso no ha sido estimado en vía administrativa se abre la vía contencioso-administrativa'.",
+        "explicacion": "No confundir el orden de las vías de recurso: primero se agota la vía administrativa (alzada o potestativo de reposición); si no prospera, se abre la vía contencioso-administrativa; y solo cuando el acto afecte a derechos y libertades fundamentales cabrá, antes del amparo, el recurso preferente y sumario. El recurso de amparo ante el Tribunal Constitucional queda como último escalón, en su caso.",
         "id": "tema-8-q22"
       },
       {
@@ -10990,7 +10990,7 @@ const TEMAS = [
           "'Un Derecho especial y estatutario, distinto del Derecho común que rige las relaciones entre sujetos privados'"
         ],
         "correcta": 1,
-        "explicacion": "El texto recoge entre los elementos esenciales adoptados por la doctrina que el Derecho Administrativo 'Es el Derecho común y general de las AAPP (GARCÍA DE ENTERRÍA)'.",
+        "explicacion": "Cuidado: calificar el Derecho Administrativo como Derecho especial y estatutario, distinto del común de las relaciones entre particulares, es la caracterización general que hace el propio texto, no la fórmula de García de Enterría. Este autor lo define en concreto como 'el Derecho común y general de las Administraciones Públicas'.",
         "id": "tema-8-q23"
       },
       {
@@ -11002,7 +11002,7 @@ const TEMAS = [
           "LRJSP, LPAC y LOFAGE"
         ],
         "correcta": 0,
-        "explicacion": "El texto cita 'normas estatales con rango de ley (como la LRJSP, la LPAC, la LJCA o la LEF) aplicables a todas las Administraciones públicas' como legislación administrativa general.",
+        "explicacion": "Cuidado con incluir la LOFAGE: quedó sustituida por la Ley 40/2015 (LRJSP) y no forma parte de esta relación. La legislación administrativa general, aplicable a todas las Administraciones Públicas, la integran la LRJSP, la LPAC, la LJCA y la LEF.",
         "id": "tema-8-q24"
       },
       {
@@ -11014,7 +11014,7 @@ const TEMAS = [
           "La regulación del alcance y los límites de las potestades exorbitantes de la Administración"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala como segundo eje 'la regulación de la gestión interna de los recursos públicos atribuidos a la Administración', destinada a garantizar transparencia, objetividad y eficiencia.",
+        "explicacion": "Ojo, no repitas el primer eje: la regulación del alcance y los límites de las potestades exorbitantes (con su atribución legal y su control judicial) ya es el primero. El segundo eje, distinto, es la regulación de la gestión interna de los recursos públicos atribuidos a la Administración, orientada a garantizar transparencia, objetividad y eficiencia.",
         "id": "tema-8-q25"
       }
     ]
@@ -11033,7 +11033,7 @@ const TEMAS = [
           "el reconocimiento del derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre todas ellas, sin mención expresa a la unidad de la Nación"
         ],
         "correcta": 0,
-        "explicacion": "El artículo 2 CE dispone literalmente que la Constitución se fundamenta en la indisoluble unidad de la Nación española.",
+        "explicacion": "No lo confundas con el art. 1.1 (Estado social y democrático de Derecho) ni con el art. 1.2 CE (soberanía nacional). El art. 2 CE se fundamenta en la indisoluble unidad de la Nación española, y ese mismo artículo, no otro, es el que además reconoce el derecho a la autonomía de las nacionalidades y regiones y la solidaridad entre ellas.",
         "id": "tema-9-q1"
       },
       {
@@ -11045,7 +11045,7 @@ const TEMAS = [
           "derivado, pero de naturaleza exclusivamente consultiva ante el Estado"
         ],
         "correcta": 1,
-        "explicacion": "El documento señala que las CCAA se constituyen con facultades de autogobierno, es decir, con poder político y no meramente administrativo.",
+        "explicacion": "Cuidado, no equipares la autonomía a la soberanía: es un poder político, no meramente administrativo, pero sigue siendo un poder derivado y limitado de las CCAA, no originario e ilimitado como el del Estado central. Esa nota de \"originario e ilimitado\" es precisamente la que define a la soberanía, que reside en el pueblo español.",
         "id": "tema-9-q2"
       },
       {
@@ -11057,7 +11057,7 @@ const TEMAS = [
           "En febrero de 1981, coincidiendo con el intento de golpe de Estado"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que tras las primeras elecciones democráticas, en junio de 1977, se restablecieron las autonomías de Cataluña y País Vasco.",
+        "explicacion": "No lo confundas con la aprobación de la Constitución (diciembre de 1978) ni con la de los Estatutos catalán y vasco (octubre de 1979). Las autonomías de Cataluña y País Vasco se restablecieron ya en junio de 1977, tras las primeras elecciones democráticas, y el modelo se extendió después a Navarra, Galicia, Aragón, Comunidad Valenciana y Canarias.",
         "id": "tema-9-q3"
       },
       {
@@ -11069,7 +11069,7 @@ const TEMAS = [
           "Mediante ley marco, en el marco de los principios fijados por el Estado"
         ],
         "correcta": 2,
-        "explicacion": "El texto señala que se faculta a las Cortes Generales, mediante ley orgánica y por motivos de interés nacional, la constitución de CCAA en territorios que no reúnan las condiciones del art. 143.1.",
+        "explicacion": "No lo confundas con la ley marco (art. 150.1 CE) ni con la ley de armonización (art. 150.3 CE), que son instrumentos distintos de reparto competencial. Para constituir una Comunidad Autónoma en territorios que no cumplan el art. 143.1, la Constitución exige ley orgánica de las Cortes Generales por motivos de interés nacional, como ocurrió con la Comunidad de Madrid.",
         "id": "tema-9-q4"
       },
       {
@@ -11081,7 +11081,7 @@ const TEMAS = [
           "solo puede iniciarse a instancia del Gobierno de la Nación, nunca de los territorios"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que la creación de una CA no es una imposición constitucional, sino un derecho que ha de pedirse por las entidades interesadas.",
+        "explicacion": "Al revés: la creación de una Comunidad Autónoma no es una imposición constitucional, sino un derecho que deben pedir las entidades interesadas. Es el llamado principio de voluntariedad, que junto con el de peculiaridad configura el proceso autonómico.",
         "id": "tema-9-q5"
       },
       {
@@ -11093,7 +11093,7 @@ const TEMAS = [
           "las competencias se asignan exclusivamente en función del número de habitantes de cada territorio"
         ],
         "correcta": 1,
-        "explicacion": "Según el texto, la peculiaridad supone que no hay un modelo único, sino un marco de competencias posibles adaptado a las necesidades de cada territorio.",
+        "explicacion": "Al revés: la peculiaridad significa justo lo contrario de un modelo único, pues reconoce las características históricas, culturales y económicas propias de cada territorio a la hora de fijar su marco de competencias. Por eso el estatuto de cada Comunidad se redacta inicialmente por sus propios órganos representativos.",
         "id": "tema-9-q6"
       },
       {
@@ -11105,7 +11105,7 @@ const TEMAS = [
           "País Vasco, Navarra y Galicia"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica expresamente que por la vía del artículo 151 accedieron a la autonomía Cataluña, País Vasco y Galicia.",
+        "explicacion": "Cuidado, aunque Andalucía y la Comunidad Valenciana asumieron competencias plenas desde el principio, no accedieron por la vía del art. 151: según el texto, solo Cataluña, País Vasco y Galicia lo hicieron. Valencia y Canarias accedieron por la vía del art. 143, pero asumieron desde el primer momento la totalidad de competencias, como si hubiesen ido por el 151.",
         "id": "tema-9-q7"
       },
       {
@@ -11117,7 +11117,7 @@ const TEMAS = [
           "2010 y 2011"
         ],
         "correcta": 1,
-        "explicacion": "El documento señala que en 2005 y 2006 se aprobaron los nuevos Estatutos de Autonomía de la Comunidad Valenciana, Cataluña y Andalucía.",
+        "explicacion": "No lo confundas con otras fechas cercanas del proceso autonómico. Los nuevos Estatutos de la Comunidad Valenciana, Cataluña y Andalucía, que ampliaron competencias e incidieron en elementos simbólicos, se aprobaron en 2005 y 2006.",
         "id": "tema-9-q8"
       },
       {
@@ -11129,7 +11129,7 @@ const TEMAS = [
           "En el Rey, como jefe del Estado y símbolo de su unidad"
         ],
         "correcta": 1,
-        "explicacion": "El artículo 1.2 CE establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
+        "explicacion": "No lo confundas con las Cortes Generales, que actuaron en nombre del pueblo pero no son ellas las soberanas, ni con el Rey. El art. 1.2 CE establece que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.",
         "id": "tema-9-q9"
       },
       {
@@ -11141,7 +11141,7 @@ const TEMAS = [
           "no existe diferencia jurídica relevante entre ambas, pues las CCAA disponen de verdadero poder constituyente"
         ],
         "correcta": 2,
-        "explicacion": "El texto precisa que la soberanía se configura como poder originario e ilimitado del Estado, mientras que la autonomía es un poder derivado y limitado.",
+        "explicacion": "Ojo, no inviertas los términos: es la soberanía la que es poder originario e ilimitado, y corresponde al Estado central, mientras que la autonomía es poder derivado y limitado, propio de las nacionalidades y regiones. Por eso las Comunidades Autónomas no disponen de verdadero poder constituyente.",
         "id": "tema-9-q10"
       },
       {
@@ -11153,7 +11153,7 @@ const TEMAS = [
           "Como un tratado entre el Estado y la Comunidad Autónoma"
         ],
         "correcta": 1,
-        "explicacion": "El texto define el Estatuto de Autonomía como la norma institucional básica de la Comunidad Autónoma, que fija sus competencias y organización.",
+        "explicacion": "El Estatuto de Autonomía es la norma institucional básica de cada Comunidad, no una ley ordinaria ni un reglamento de desarrollo constitucional. Fija las competencias asumidas dentro del marco de la Constitución y la organización político-institucional propia de la Comunidad.",
         "id": "tema-9-q11"
       },
       {
@@ -11165,7 +11165,7 @@ const TEMAS = [
           "Las competencias asumidas dentro del marco constitucional y las bases del traspaso de servicios"
         ],
         "correcta": 2,
-        "explicacion": "El art. 147.2 CE exige denominación, delimitación territorial, denominación/organización/sede de instituciones propias y competencias asumidas; un sistema tributario propio no figura entre los contenidos citados en el texto.",
+        "explicacion": "No lo confundas con los contenidos que sí exige el art. 147.2 CE: denominación, delimitación territorial, denominación/organización/sede de las instituciones propias y las competencias asumidas con las bases del traspaso de servicios. Un sistema tributario propio no figura entre esos contenidos mínimos.",
         "id": "tema-9-q12"
       },
       {
@@ -11177,7 +11177,7 @@ const TEMAS = [
           "indirecto, mediante compromisarios designados por los ayuntamientos"
         ],
         "correcta": 1,
-        "explicacion": "El art. 152.1 CE establece una Asamblea Legislativa elegida por sufragio universal con un sistema de representación proporcional que asegure la representación de las diversas zonas del territorio.",
+        "explicacion": "No lo confundas con un sistema mayoritario ni con uno proporcional puro sin más matices: el art. 152.1 CE exige sufragio universal con representación proporcional que además asegure la representación de las diversas zonas del territorio. Este modelo se aplica a las CCAA que accedieron por la vía del art. 151.",
         "id": "tema-9-q13"
       },
       {
@@ -11189,7 +11189,7 @@ const TEMAS = [
           "investido por el Senado"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que el Presidente, elegido por la Asamblea de entre sus miembros, es nombrado por el Rey.",
+        "explicacion": "No lo confundas con el Presidente del Gobierno de la Nación: el Presidente autonómico es elegido por la Asamblea Legislativa de entre sus miembros, pero quien lo nombra formalmente es el Rey. A él le corresponde la dirección del Consejo de Gobierno y la representación ordinaria del Estado en su Comunidad.",
         "id": "tema-9-q14"
       },
       {
@@ -11201,7 +11201,7 @@ const TEMAS = [
           "El Consejo de Estado"
         ],
         "correcta": 2,
-        "explicacion": "El texto señala que el Tribunal Superior de Justicia, sin perjuicio de la jurisdicción del Tribunal Supremo, culmina la organización judicial en el ámbito territorial de la Comunidad Autónoma.",
+        "explicacion": "No lo confundas con el Tribunal Constitucional, que resuelve conflictos de competencia entre Estado y CCAA, ni con la Audiencia Nacional. El Tribunal Superior de Justicia culmina la organización judicial en el territorio de cada Comunidad Autónoma, sin perjuicio de la jurisdicción que corresponde al Tribunal Supremo.",
         "id": "tema-9-q15"
       },
       {
@@ -11213,7 +11213,7 @@ const TEMAS = [
           "Diez años"
         ],
         "correcta": 1,
-        "explicacion": "El art. 148.2 CE establece que transcurridos cinco años desde la aprobación de sus Estatutos, esas CCAA podían ampliar sus competencias reformando sus Estatutos.",
+        "explicacion": "No lo confundas con otros plazos constitucionales cercanos. El art. 148.2 CE fija en cinco años, desde la aprobación de sus Estatutos, el plazo tras el cual las CCAA que accedieron por la vía del art. 143 (todas menos Cataluña, País Vasco y Galicia) podían ampliar sus competencias reformando sus Estatutos.",
         "id": "tema-9-q16"
       },
       {
@@ -11225,7 +11225,7 @@ const TEMAS = [
           "Ley orgánica de transferencia"
         ],
         "correcta": 0,
-        "explicacion": "El art. 150.1 CE regula la denominada ley marco, mediante la cual las Cortes Generales atribuyen a las CCAA la facultad de dictar normas legislativas en el marco fijado por una ley estatal.",
+        "explicacion": "No lo confundas con la ley orgánica de transferencia o delegación (art. 150.2) ni con la ley de armonización (art. 150.3). El instrumento del art. 150.1 CE, por el que las Cortes atribuyen a las CCAA la facultad de dictar normas legislativas dentro del marco de una ley estatal, se llama ley marco, y es revocable en cualquier momento.",
         "id": "tema-9-q17"
       },
       {
@@ -11237,7 +11237,7 @@ const TEMAS = [
           "Real Decreto-ley aprobado por el Consejo de Ministros"
         ],
         "correcta": 1,
-        "explicacion": "El art. 150.2 CE dispone que el Estado podrá transferir o delegar competencias en las CCAA mediante ley orgánica (leyes de transferencia o delegación).",
+        "explicacion": "No lo confundas con la ley marco del art. 150.1 (que atribuye facultad legislativa dentro de un marco fijado por el Estado) ni con la ley de armonización del art. 150.3. El art. 150.2 CE permite transferir o delegar en las CCAA competencias estatales mediante ley orgánica, las llamadas leyes de transferencia o delegación, que exigen dictamen del Consejo de Estado.",
         "id": "tema-9-q18"
       },
       {
@@ -11249,7 +11249,7 @@ const TEMAS = [
           "mayoría de tres quintos del Senado"
         ],
         "correcta": 0,
-        "explicacion": "El texto precisa que corresponde a las Cortes Generales, por mayoría absoluta de cada Cámara, la apreciación de la necesidad de dictar leyes de armonización.",
+        "explicacion": "No lo confundas con la mayoría simple del Congreso ni con mayorías reforzadas del Senado. La apreciación de la necesidad de dictar una ley de armonización corresponde a las Cortes Generales por mayoría absoluta de cada Cámara, cuando así lo exija el interés general, aunque la materia esté atribuida a las CCAA.",
         "id": "tema-9-q19"
       },
       {
@@ -11261,7 +11261,7 @@ const TEMAS = [
           "Competencias indistintas"
         ],
         "correcta": 2,
-        "explicacion": "El texto define las competencias compartidas como aquellas en que dos instancias distintas ejercen una misma función sobre idéntica materia, como cuando al Estado corresponde la legislación básica y a la Comunidad el desarrollo legislativo.",
+        "explicacion": "No lo confundas con las competencias exclusivas limitadas (donde una sola instancia asume toda una función, legislativa o ejecutiva) ni con las indistintas (donde ambas disponen de idénticas facultades). Se habla de competencias compartidas cuando dos instancias distintas ejercen la misma función sobre la misma materia, como cuando el Estado dicta la legislación básica y la Comunidad su desarrollo legislativo.",
         "id": "tema-9-q20"
       },
       {
@@ -11273,7 +11273,7 @@ const TEMAS = [
           "el Real Decreto Legislativo 781/1986"
         ],
         "correcta": 0,
-        "explicacion": "El sistema de protección jurisdiccional se regula en los artículos 161 y siguientes de la CE y en la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.",
+        "explicacion": "No lo confundas con la LBRL ni con la LOREG, que regulan régimen local y elecciones, no al Tribunal Constitucional. El sistema de protección jurisdiccional frente a conflictos de competencia se regula en los arts. 161 y siguientes CE y en la Ley Orgánica 2/1979, de 3 de octubre, del Tribunal Constitucional.",
         "id": "tema-9-q21"
       },
       {
@@ -11285,7 +11285,7 @@ const TEMAS = [
           "ha sido derogada por la Ley Orgánica 2/1979"
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que, según el Tribunal Constitucional, la supletoriedad no es un título universal de competencia que permita al Estado invadir las competencias exclusivas de las CCAA.",
+        "explicacion": "Al revés: el Tribunal Constitucional ha señalado que la supletoriedad del derecho estatal no es un título universal de competencia que permita al Estado invadir las competencias exclusivas de las CCAA. La prevalencia del derecho estatal, en cambio, solo opera en caso de conflicto, es decir, en materias concurrentes.",
         "id": "tema-9-q22"
       },
       {
@@ -11297,7 +11297,7 @@ const TEMAS = [
           "supletoriedad del derecho estatal (art. 149.3 CE)"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que la CE regula el régimen local sobre la base de los principios de autonomía (arts. 137 y 140) y descentralización política (art. 103.1).",
+        "explicacion": "No lo confundas con la supletoriedad del derecho estatal (art. 149.3) ni con la unidad de mercado (art. 139), que son principios de otro ámbito. El régimen local se asienta en los principios de autonomía (arts. 137 y 140 CE) y de descentralización política (art. 103.1 CE).",
         "id": "tema-9-q23"
       },
       {
@@ -11309,7 +11309,7 @@ const TEMAS = [
           "Las Áreas Metropolitanas"
         ],
         "correcta": 2,
-        "explicacion": "El texto enumera como entidades locales del art. 3 LBRL al Municipio, la Provincia, la Isla, las Comarcas, las Áreas Metropolitanas y las Mancomunidades de Municipios; la Diputación Provincial es el órgano de gobierno y administración de la provincia, no una entidad local distinta enumerada en ese listado.",
+        "explicacion": "Cuidado, no confundas la Provincia (que sí es entidad local del art. 3 LBRL) con la Diputación Provincial, que es su órgano de gobierno y administración, no una entidad distinta. El listado del art. 3 LBRL incluye Municipio, Provincia, Isla, Comarcas, Áreas Metropolitanas y Mancomunidades de Municipios.",
         "id": "tema-9-q24"
       },
       {
@@ -11321,7 +11321,7 @@ const TEMAS = [
           "3.500"
         ],
         "correcta": 1,
-        "explicacion": "El texto precisa que el Real Decreto-ley 6/2023 modificó la LBRL reduciendo el número mínimo de habitantes para constituir un municipio de 5.000 a 4.000.",
+        "explicacion": "No lo confundas con otras cifras cercanas. El Real Decreto-ley 6/2023, que reformó la LBRL impulsando además la digitalización y la gestión colaborativa, redujo el número mínimo de habitantes exigido para constituir un municipio de 5.000 a 4.000.",
         "id": "tema-9-q25"
       }
     ]
@@ -11340,7 +11340,7 @@ const TEMAS = [
           "Una sumisión parcial al Derecho de los actos estatales, quedando sometidos únicamente los actos de poder del Estado, mientras que los actos comunes quedarían excluidos"
         ],
         "correcta": 0,
-        "explicacion": "Es el primero de los tres modos de sumisión del Estado al Derecho descritos en el tema: la doctrina del Fisco implica sumisión parcial, quedando sometidos los actos que no se diferencian de los de un particular, mientras que los actos de poder quedan fuera.",
+        "explicacion": "Ojo con la opción invertida: no son los actos de poder los que quedan sometidos, sino justo los que no se diferencian de los de un particular. La doctrina del Fisco es sumisión PARCIAL, y los actos de poder del Estado quedan fuera del Derecho. Es el primero de los tres modos de sumisión del tema, junto al rule of law y el régimen administrativo.",
         "id": "tema-10-q1"
       },
       {
@@ -11352,7 +11352,7 @@ const TEMAS = [
           "El Estado se somete totalmente al Derecho Especial de sus actos, sin necesidad de someterse al Derecho Común"
         ],
         "correcta": 1,
-        "explicacion": "El tema define el 'rule of law' como la sumisión total al Derecho Común de los actos del Estado, sin especial situación jurídica de este, sometiéndose únicamente a Derecho Común y no al Especial.",
+        "explicacion": "No lo confundas con el régimen administrativo (sumisión total pero CON prerrogativa) ni con la doctrina del Fisco (sumisión solo parcial). El rule of law es sumisión total al Derecho Común, sin especial situación jurídica del Estado. Es el segundo de los tres modos de sumisión que recoge el tema.",
         "id": "tema-10-q2"
       },
       {
@@ -11364,7 +11364,7 @@ const TEMAS = [
           "La prerrogativa constituye un trato de favor de la Administración ajeno al ordenamiento jurídico, sin relación con la presunción de legitimidad"
         ],
         "correcta": 1,
-        "explicacion": "El texto señala que la prerrogativa no es un trato de favor, sino que se presume la legitimidad de los actos administrativos (ejecutivos), presunción que admite prueba en contrario a cargo del particular.",
+        "explicacion": "Cuidado, no es al revés: la carga de la prueba de la ilegalidad recae en el particular, no en la Administración. La prerrogativa supone presumir legítimos y ejecutivos los actos administrativos, aunque esa presunción admite prueba en contrario. El texto aclara además que no es un trato de favor: si el acto es realmente ilegal, la jurisdicción contencioso-administrativa puede declarar su nulidad.",
         "id": "tema-10-q3"
       },
       {
@@ -11376,7 +11376,7 @@ const TEMAS = [
           "Principio de temporalidad"
         ],
         "correcta": 2,
-        "explicacion": "El tema recoge tres principios de relación entre normas: jerarquía, competencia y especialidad; este último se define como la prevalencia de la ley especial sobre la ley general.",
+        "explicacion": "El tema recoge solo tres principios de relación entre normas: jerarquía, competencia y especialidad (la 'temporalidad' no figura entre ellos). El de especialidad es el que hace prevalecer la ley especial sobre la general.",
         "id": "tema-10-q4"
       },
       {
@@ -11388,7 +11388,7 @@ const TEMAS = [
           "García de Enterría"
         ],
         "correcta": 1,
-        "explicacion": "El tema atribuye expresamente esta definición al profesor Garrido Falla.",
+        "explicacion": "Es Garrido Falla quien da esta definición. No lo confundas con los otros autores citados en el tema: Heller (sobre los principios generales como puerta de entrada de la realidad social) y Santos Briz (sobre la jurisprudencia como fuente real e institucional).",
         "id": "tema-10-q5"
       },
       {
@@ -11400,7 +11400,7 @@ const TEMAS = [
           "La Ley, la doctrina científica y la costumbre"
         ],
         "correcta": 1,
-        "explicacion": "El tema reproduce literalmente el artículo 1 del Código Civil: «las fuentes del ordenamiento jurídico español son: la Ley, la costumbre y los principios generales del Derecho».",
+        "explicacion": "No lo mezcles con las fuentes indirectas (Tratados internacionales, Jurisprudencia y doctrina científica). El artículo 1 CC dice literalmente que las fuentes son la Ley, la costumbre y los principios generales del Derecho, y sobre esa lista construye el tema la clasificación de fuentes directas.",
         "id": "tema-10-q6"
       },
       {
@@ -11412,7 +11412,7 @@ const TEMAS = [
           "La Constitución, los Tratados internacionales y el Reglamento"
         ],
         "correcta": 1,
-        "explicacion": "El tema enumera como fuentes directas la Ley, la costumbre y los principios generales del Derecho, y como indirectas los Tratados internacionales, la Jurisprudencia y la doctrina científica.",
+        "explicacion": "No lo confundas con las fuentes indirectas (Tratados internacionales, Jurisprudencia y doctrina científica), que son justo las que faltan aquí. Las fuentes DIRECTAS son la Ley, la costumbre y los principios generales del Derecho, coincidiendo con las del artículo 1 CC.",
         "id": "tema-10-q7"
       },
       {
@@ -11424,7 +11424,7 @@ const TEMAS = [
           "La Constitución, los Tratados internacionales y el Reglamento"
         ],
         "correcta": 1,
-        "explicacion": "El tema clasifica como fuentes indirectas los Tratados internacionales, la Jurisprudencia y la doctrina científica o doctrina de los autores.",
+        "explicacion": "Es el reverso de la pregunta sobre fuentes directas: no metas aquí la Ley, la costumbre ni los principios generales, que son directas. Las fuentes INDIRECTAS son los Tratados internacionales, la Jurisprudencia y la doctrina científica o de los autores.",
         "id": "tema-10-q8"
       },
       {
@@ -11436,7 +11436,7 @@ const TEMAS = [
           "La Ley y la Jurisprudencia"
         ],
         "correcta": 2,
-        "explicacion": "El tema señala que son fuentes primarias la Ley (en sentido amplio, incluyendo el Reglamento, la Constitución y los Tratados Internacionales) y fuentes secundarias la costumbre y los principios generales del Derecho.",
+        "explicacion": "No lo confundas con las fuentes primarias, que son la Ley en sentido amplio (incluye Reglamento, Constitución y Tratados Internacionales). Las fuentes SECUNDARIAS son la costumbre y los principios generales del Derecho, la misma pareja de fuentes no escritas que ya aparecía como directa.",
         "id": "tema-10-q9"
       },
       {
@@ -11448,7 +11448,7 @@ const TEMAS = [
           "Prevalecerán siempre sobre la Constitución Española una vez publicados en el Boletín Oficial del Estado"
         ],
         "correcta": 1,
-        "explicacion": "El tema cita el artículo 1.5 del Código Civil, que exige la publicación íntegra del tratado en el BOE para su incorporación al ordenamiento interno y su aplicación directa.",
+        "explicacion": "Al revés: la sola firma del Gobierno no basta, y sin publicación íntegra en el BOE el tratado no es de aplicación directa. Este artículo 1.5 CC es precisamente la base por la que el tema califica a los Tratados internacionales como fuente indirecta del Derecho Administrativo.",
         "id": "tema-10-q10"
       },
       {
@@ -11460,7 +11460,7 @@ const TEMAS = [
           "Con independencia de que exista o no ley aplicable, siempre que no sea contraria a la moral o al orden público y resulte probada"
         ],
         "correcta": 0,
-        "explicacion": "El tema recoge que el apartado 3 del artículo 1 CC determina el valor de la costumbre: rige solo en defecto de ley aplicable, no contraria a la moral u orden público, y debe resultar probada.",
+        "explicacion": "Los tres requisitos van siempre juntos y basta con que falte uno (por ejemplo que no esté probada) para que la costumbre no pueda aplicarse: que no haya ley aplicable, que no sea contraria a la moral o al orden público, y que resulte probada. Recuerda que, por eso mismo, el tema insiste en que su aplicación real en el Derecho Administrativo es muy escasa.",
         "id": "tema-10-q11"
       },
       {
@@ -11472,7 +11472,7 @@ const TEMAS = [
           "Carecen de aplicación práctica al ser meras orientaciones doctrinales sin carácter informador"
         ],
         "correcta": 1,
-        "explicacion": "El apartado 4 del artículo 1 CC proclama que los principios generales del Derecho «se aplicarán en defecto de Ley o costumbre, sin perjuicio de su carácter informador del ordenamiento jurídico».",
+        "explicacion": "Al contrario de lo que su importancia sugiere: son fuente subsidiaria, no preferente, y se aplican en defecto de Ley O costumbre, ambas por igual. Eso sí, conservan siempre su carácter informador del ordenamiento jurídico, que es lo que los distingue de una simple orientación doctrinal.",
         "id": "tema-10-q12"
       },
       {
@@ -11484,7 +11484,7 @@ const TEMAS = [
           "La doctrina reiterada del Tribunal Supremo al interpretar la Ley"
         ],
         "correcta": 1,
-        "explicacion": "El tema los define como convicciones ético-jurídicas de la comunidad política que expresan valores materiales del ordenamiento jurídico, no siendo preciso que se trate de una norma escrita.",
+        "explicacion": "No los confundas con la jurisprudencia ni con la costumbre (que sí es el uso reiterado de un grupo social local). El tema los define como convicciones ético-jurídicas de la comunidad política que expresan valores materiales del ordenamiento, sin que sea preciso que consten en una norma escrita.",
         "id": "tema-10-q13"
       },
       {
@@ -11496,7 +11496,7 @@ const TEMAS = [
           "El artículo 35.1.c de la Ley 39/2015"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica, en nota a pie de página, que un ejemplo de positivización de principios generales son los enunciados en el artículo 9.3 de la CE.",
+        "explicacion": "No lo confundas con el artículo 53.2 CE, que en este tema aparece referido al recurso de amparo. El ejemplo de principios generales ya positivizados que cita el tema es el artículo 9.3 de la Constitución Española.",
         "id": "tema-10-q14"
       },
       {
@@ -11508,7 +11508,7 @@ const TEMAS = [
           "La Ley de Bases de Régimen Local"
         ],
         "correcta": 2,
-        "explicacion": "El tema señala en nota que este proceso de positivización comienza con la Ley de Expropiación Forzosa de 1954, que incorpora el principio de responsabilidad de las administraciones públicas.",
+        "explicacion": "No es ni la Constitución de 1978 ni la Ley 39/2015: el proceso arranca antes. El tema sitúa el inicio de esta positivización en la Ley de Expropiación Forzosa de 1954, que ya incorporaba el principio de responsabilidad de las Administraciones Públicas.",
         "id": "tema-10-q15"
       },
       {
@@ -11520,7 +11520,7 @@ const TEMAS = [
           "La adopción de un criterio interpretativo por la Administración vinculante para el futuro"
         ],
         "correcta": 1,
-        "explicacion": "El tema define expresamente la costumbre como el uso reiterado, duradero y constante de un comportamiento con la convicción de cumplir una obligación jurídica de un grupo social local o regional.",
+        "explicacion": "No la confundas con la jurisprudencia (doctrina reiterada del TS) ni con el precedente administrativo (un criterio de la propia Administración). La costumbre es el uso reiterado, duradero y constante de un comportamiento con la convicción de cumplir una obligación jurídica, propio de un grupo social local o regional.",
         "id": "tema-10-q16"
       },
       {
@@ -11532,7 +11532,7 @@ const TEMAS = [
           "Por lo dispuesto en la Ley de Aguas, y en su defecto por el uso o la costumbre local"
         ],
         "correcta": 1,
-        "explicacion": "El tema recoge que la Ley de Bases de Régimen Local determina que los Concejos Abiertos se regirán, en primer lugar, por el uso, la costumbre o tradición local y, en su defecto, por la Ley y las leyes autonómicas sobre régimen local.",
+        "explicacion": "Al revés: aquí es la costumbre la que va primero. La Ley de Bases de Régimen Local da preferencia, en primer lugar, al uso, la costumbre o la tradición local, y solo en su defecto entran esa Ley y las leyes autonómicas de régimen local. Es uno de los pocos casos en que una ley llama a la costumbre en primer lugar, junto con el aprovechamiento de bienes comunales de la Ley de Aguas.",
         "id": "tema-10-q17"
       },
       {
@@ -11544,7 +11544,7 @@ const TEMAS = [
           "La jurisprudencia del Tribunal Supremo"
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que en materias reguladas por la Ley de Aguas se concede preferencia a las reglas consuetudinarias de las Comunidades de Usuarios o Regantes.",
+        "explicacion": "No lo mezcles con el supuesto de los Concejos Abiertos, que se rige por la Ley de Bases de Régimen Local. Aquí es la Ley de Aguas la que da preferencia a las reglas consuetudinarias de las Comunidades de Usuarios o Regantes, otro de los escasos casos en que la costumbre tiene aplicación práctica en el Derecho Administrativo.",
         "id": "tema-10-q18"
       },
       {
@@ -11556,7 +11556,7 @@ const TEMAS = [
           "Solo cuando el precedente tiene más de veinte años de antigüedad"
         ],
         "correcta": 1,
-        "explicacion": "El tema recoge que la generalidad de la doctrina reconoce fuerza vinculante al precedente cuando existe identidad subjetiva y objetiva sustancial, fundamentándolo en los principios de seguridad jurídica e interdicción de la arbitrariedad y en el derecho a la igualdad (arts. 9.3 y 14 CE); no hace falta cierto grado de reiteración o antigüedad.",
+        "explicacion": "Cuidado, no hace falta ninguna antigüedad o reiteración determinada (a diferencia de la costumbre). La fuerza vinculante del precedente exige identidad subjetiva y objetiva sustancial entre los casos, y se fundamenta en los principios de seguridad jurídica, interdicción de la arbitrariedad y el derecho a la igualdad (arts. 9.3 y 14 CE).",
         "id": "tema-10-q19"
       },
       {
@@ -11568,7 +11568,7 @@ const TEMAS = [
           "En los mismos dos supuestos previstos en la ley, si bien la Administración no está obligada a motivar su decisión en ningún caso"
         ],
         "correcta": 0,
-        "explicacion": "El tema indica dos supuestos: cuando el precedente invocado es ilegal, y cuando concurre un interés público que aconseja un criterio diverso, exigiéndose en este último caso motivación conforme al art. 35.1.c de la Ley 39/2015.",
+        "explicacion": "Ojo, en el supuesto de interés público la Administración SÍ está obligada a motivar su decisión, conforme al artículo 35.1.c de la Ley 39/2015. Los dos únicos casos para apartarse del precedente son que este sea ilegal (gana la legalidad) o que exista un interés público que aconseje un criterio distinto.",
         "id": "tema-10-q20"
       },
       {
@@ -11580,7 +11580,7 @@ const TEMAS = [
           "Jerarquía, temporalidad y especialidad"
         ],
         "correcta": 0,
-        "explicacion": "El tema afirma expresamente que las relaciones entre las normas jurídicas se rigen por los principios de jerarquía, de competencia y de especialidad.",
+        "explicacion": "No metas aquí la 'temporalidad', que no es uno de estos tres principios. Las relaciones entre las normas jurídicas se rigen por los principios de jerarquía, competencia y especialidad.",
         "id": "tema-10-q21"
       },
       {
@@ -11592,7 +11592,7 @@ const TEMAS = [
           "El orden jerárquico entre la Constitución, los Tratados Internacionales, las leyes del Estado, las leyes de las Comunidades Autónomas y los Reglamentos, con exclusión de la costumbre y los principios generales"
         ],
         "correcta": 1,
-        "explicacion": "El tema explica que el principio de jerarquía normativa alude, por una parte, a la primacía del derecho estatal frente a la costumbre y los principios generales, y por otra, a la jerarquía de las normas según el órgano del que emanan.",
+        "explicacion": "No lo confundas con el principio de competencia, que es el que alude a la distribución de competencias entre Administraciones. El de jerarquía normativa tiene un doble sentido: la primacía del derecho estatal frente a la costumbre y los principios generales, y la jerarquía de las normas según el órgano del que emanan.",
         "id": "tema-10-q22"
       },
       {
@@ -11604,7 +11604,7 @@ const TEMAS = [
           "El artículo 53.2 CE"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica que el sistema de distribución de competencias se establece en la CE en su Título VIII, dedicado a la organización territorial del Estado.",
+        "explicacion": "No lo confundas con el Título I (derechos y deberes fundamentales) ni con el Título Preliminar. El sistema de distribución de competencias entre Administraciones Públicas se regula en el Título VIII CE, 'De la organización territorial del Estado'.",
         "id": "tema-10-q23"
       },
       {
@@ -11616,7 +11616,7 @@ const TEMAS = [
           "Carece de cualquier valor jurídico en el Derecho Administrativo"
         ],
         "correcta": 1,
-        "explicacion": "El tema cita textualmente esta previsión del Código Civil, señalando además que la jurisprudencia relativa al Derecho Administrativo la crea la Sala III del Tribunal Supremo.",
+        "explicacion": "Ojo, la jurisprudencia sigue sin ser fuente formal al mismo nivel que la Ley: el tema la califica más bien de fuente real e institucional, según Santos Briz. Lo que dice literalmente el Título Preliminar es que complementa el ordenamiento con la doctrina reiterada del Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales; recuerda además que la jurisprudencia relativa al Derecho Administrativo la crea la Sala III del TS.",
         "id": "tema-10-q24"
       },
       {
@@ -11628,7 +11628,7 @@ const TEMAS = [
           "El recurso de amparo procede únicamente frente a actos de los órganos legislativos"
         ],
         "correcta": 0,
-        "explicacion": "El tema explica que el art. 5 LOPJ otorga a la CE valor de norma suprema vinculante para todos los jueces y tribunales, y que las actuaciones administrativas no conformes con ella pueden revisarse mediante el recurso de amparo del art. 53.2 CE.",
+        "explicacion": "Al revés: la CE vincula a TODOS los jueces y tribunales, no solo al Tribunal Constitucional. El artículo 5 LOPJ obliga a interpretar leyes y reglamentos conforme a los preceptos constitucionales, y las actuaciones administrativas contrarias a los derechos fundamentales pueden revisarse mediante el recurso de amparo del artículo 53.2 CE.",
         "id": "tema-10-q25"
       }
     ]
@@ -11647,7 +11647,7 @@ const TEMAS = [
           "la configura como una simple superley, modificable por mayoría absoluta del Congreso sin otros requisitos"
         ],
         "correcta": 0,
-        "explicacion": "El art. 5 LOPJ establece que la CE ocupa la cúspide del ordenamiento jurídico e incorpora el sistema de valores esenciales que han de presidir la convivencia política.",
+        "explicacion": "No es una norma meramente programática, como se entendía antes de 1978: el art. 5 LOPJ consagra que la CE ocupa la cúspide del ordenamiento jurídico e incorpora el sistema de valores esenciales de la convivencia política. Además vincula por igual a ciudadanos y poderes públicos, incluido el Legislativo y sus leyes (cláusula del art. 9.1 CE).",
         "id": "tema-11-q1"
       },
       {
@@ -11659,7 +11659,7 @@ const TEMAS = [
           "Otras resoluciones"
         ],
         "correcta": 1,
-        "explicacion": "El esquema del tema sitúa, de mayor a menor rango: Constitución, Ley Orgánica, Decreto-Ley/Ley, Decreto, Orden Ministerial y Otras resoluciones.",
+        "explicacion": "Cuidado, la Orden Ministerial va un peldaño más abajo: justo debajo de la Ley y el Decreto-Ley se sitúa el Decreto. El esquema completo, de mayor a menor rango, es: Constitución, Ley Orgánica, Decreto-Ley/Ley, Decreto, Orden Ministerial y Otras resoluciones.",
         "id": "tema-11-q2"
       },
       {
@@ -11671,7 +11671,7 @@ const TEMAS = [
           "únicamente los Jueces y Tribunales quedan vinculados por la Constitución, no el resto de poderes públicos"
         ],
         "correcta": 2,
-        "explicacion": "El art. 9.1 CE recoge literalmente que ciudadanos y poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico, lo que incluye al Legislativo y sus leyes.",
+        "explicacion": "Al revés: la cláusula no distingue entre unos y otros, sino que ciudadanos y poderes públicos están igualmente sujetos a la Constitución y al resto del ordenamiento jurídico (art. 9.1 CE). De ahí se deduce, precisamente, que también el Legislativo y sus leyes quedan sometidos a la CE.",
         "id": "tema-11-q3"
       },
       {
@@ -11683,7 +11683,7 @@ const TEMAS = [
           "En el pueblo español"
         ],
         "correcta": 3,
-        "explicacion": "El art. 1.2 CE dispone que la soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado; de ahí que el Poder Constituyente sea la fuente de producción del Derecho constitucional.",
+        "explicacion": "No reside en las Cortes Generales ni en el Rey, sino en el pueblo español, del que emanan los poderes del Estado (art. 1.2 CE). Por eso es el Poder Constituyente, y no el Legislativo, la fuente de producción del Derecho constitucional.",
         "id": "tema-11-q4"
       },
       {
@@ -11695,7 +11695,7 @@ const TEMAS = [
           "25 Diputados o 50 Senadores"
         ],
         "correcta": 0,
-        "explicacion": "Según el art. 162.1 CE y la LOTC, están legitimados, entre otros, el Gobierno, 50 Diputados, 50 Senadores, el Defensor del Pueblo y las Asambleas legislativas o Gobiernos de las CCAA.",
+        "explicacion": "No hay que confundir estas cifras con las de la proposición de ley: para el recurso de inconstitucionalidad se exigen 50 Diputados o 50 Senadores, el mismo número en ambas cámaras (art. 162.1 CE y LOTC). También están legitimados el Gobierno, el Defensor del Pueblo y las Asambleas o Gobiernos de las CCAA, estos últimos solo frente a leyes que afecten a su propio ámbito de autonomía.",
         "id": "tema-11-q5"
       },
       {
@@ -11707,7 +11707,7 @@ const TEMAS = [
           "un mínimo de 50 Diputados o 50 Senadores ante el Tribunal Constitucional"
         ],
         "correcta": 1,
-        "explicacion": "El art. 163 CE reserva la cuestión de inconstitucionalidad a cualquier Juez o Tribunal que deba fallar un asunto cuya resolución dependa de la validez de una norma con rango de ley, exigiendo que la duda sea motivada.",
+        "explicacion": "No basta con que el Juez actúe de oficio sin más: el art. 163 CE exige que sea un Juez o Tribunal que deba fallar un asunto cuya resolución dependa de la norma cuestionada, y que la duda de inconstitucionalidad esté motivada. Ni el Defensor del Pueblo ni un grupo de parlamentarios pueden plantearla, esa vía corresponde al recurso de inconstitucionalidad.",
         "id": "tema-11-q6"
       },
       {
@@ -11719,7 +11719,7 @@ const TEMAS = [
           "no ha sido sometida a dictamen previo del Consejo de Estado antes de su aprobación"
         ],
         "correcta": 2,
-        "explicacion": "El tema identifica dos causas de inconstitucionalidad: la contrariedad con la Constitución o el sistema de distribución de competencias (arts. 148-150 CE) y la infracción de la reserva de ley orgánica (art. 81 CE).",
+        "explicacion": "Eso de los 30 días es la convalidación del Decreto-Ley, no un vicio de inconstitucionalidad. La inconstitucionalidad se produce cuando la norma con rango de ley es contraria a la Constitución o al sistema de distribución de competencias Estado-CCAA (arts. 148 a 150 CE), o cuando infringe la reserva de ley orgánica del art. 81 CE.",
         "id": "tema-11-q7"
       },
       {
@@ -11731,7 +11731,7 @@ const TEMAS = [
           "Retroactividad"
         ],
         "correcta": 3,
-        "explicacion": "El tema señala como caracteres de la Ley la Legalidad, la Generalidad y la Publicidad (impuesta por el art. 9.3 CE); la retroactividad no se menciona como carácter de la Ley.",
+        "explicacion": "La retroactividad no figura entre los caracteres de la Ley que recoge el tema. Sus tres caracteres son Legalidad, Generalidad y Publicidad, esta última impuesta directamente por el art. 9.3 CE.",
         "id": "tema-11-q8"
       },
       {
@@ -11743,7 +11743,7 @@ const TEMAS = [
           "A los 30 días de su completa publicación en el BOE, salvo que en ella se disponga otra cosa"
         ],
         "correcta": 0,
-        "explicacion": "Conforme al art. 2.1 del Código Civil, las leyes entrarán en vigor a los 20 días de su completa publicación en el BOE, salvo disposición en contrario.",
+        "explicacion": "Cuidado con no confundir este plazo con el de la sanción real: la ley entra en vigor a los 20 días de su completa publicación en el BOE, salvo que ella disponga otra cosa (art. 2.1 CCi). Antes de eso, el Rey debe sancionarla en el plazo de 15 días desde su aprobación por las Cortes Generales (art. 91 CE).",
         "id": "tema-11-q9"
       },
       {
@@ -11755,7 +11755,7 @@ const TEMAS = [
           "en el plazo de un mes desde su aprobación por las Cortes Generales"
         ],
         "correcta": 1,
-        "explicacion": "El art. 91 CE establece que el Rey sancionará las leyes en el plazo de 15 días desde su aprobación por las Cortes, ordenando su inmediata publicación.",
+        "explicacion": "Al revés que la entrada en vigor: el Rey sanciona las leyes en el plazo de 15 días desde su aprobación por las Cortes (art. 91 CE), mientras que la entrada en vigor tras la publicación en el BOE es a los 20 días (art. 2.1 CCi). Sancionada la ley, el Rey ordena además su inmediata publicación.",
         "id": "tema-11-q10"
       },
       {
@@ -11767,7 +11767,7 @@ const TEMAS = [
           "15 diputados, por aplicación del régimen previsto para el Congreso"
         ],
         "correcta": 2,
-        "explicacion": "El tema señala que en el Senado la proposición de ley exige un Grupo Parlamentario o la firma de 25 senadores, frente a los 15 diputados más la firma de un portavoz exigidos en el Congreso.",
+        "explicacion": "Cuidado con no cruzar las cifras entre cámaras: en el Senado la proposición de ley exige un Grupo Parlamentario o la firma de 25 senadores. En el Congreso, en cambio, basta un Grupo Parlamentario o 15 diputados con la firma de un portavoz.",
         "id": "tema-11-q11"
       },
       {
@@ -11779,7 +11779,7 @@ const TEMAS = [
           "6 meses desde la notificación a la comisión promotora de la admisión de la proposición, prorrogable por otros 3 meses por causa mayor apreciada por la Mesa del Congreso"
         ],
         "correcta": 3,
-        "explicacion": "El tema indica que el plazo es de 6 meses desde la notificación a la comisión promotora de la admisión de la proposición, prorrogable por causa mayor apreciada por la Mesa del Congreso por otros 3 meses.",
+        "explicacion": "Ni son 3 meses ni el plazo es improrrogable: son 6 meses desde la notificación a la comisión promotora de la admisión de la proposición, prorrogables por otros 3 meses por causa mayor apreciada por la Mesa del Congreso. Esa misma Mesa puede además declarar inadmisible el texto si versa sobre materia excluida de la ILP.",
         "id": "tema-11-q12"
       },
       {
@@ -11791,7 +11791,7 @@ const TEMAS = [
           "La planificación de la actividad económica general y los Presupuestos Generales del Estado"
         ],
         "correcta": 0,
-        "explicacion": "Están excluidas de la ILP las materias propias de leyes orgánicas, las tributarias, las de carácter internacional, la prerrogativa de gracia y la planificación de la actividad económica general y los PGE; el resto de materias sí son susceptibles de ILP.",
+        "explicacion": "Quedan excluidas de la ILP las materias propias de ley orgánica, las tributarias, las de carácter internacional, la prerrogativa de gracia y la planificación de la actividad económica general junto con los PGE. Fuera de esa lista cerrada, cualquier materia es susceptible de ILP, como una regulación civil no reservada a ley orgánica ni tributaria.",
         "id": "tema-11-q13"
       },
       {
@@ -11803,7 +11803,7 @@ const TEMAS = [
           "los Jueces y Tribunales puedan inaplicar la ley cuando la consideren contraria a los derechos fundamentales"
         ],
         "correcta": 1,
-        "explicacion": "La STC 83/84 señala que la reserva de ley asegura que la regulación de los ámbitos de libertad de los ciudadanos dependa exclusivamente de la voluntad de sus representantes, quedando exentos de la acción del ejecutivo.",
+        "explicacion": "Justo lo contrario: la reserva de ley (STC 83/84) busca que la regulación de los ámbitos de libertad de los ciudadanos dependa exclusivamente de la voluntad de sus representantes, quedando exenta de la acción del Ejecutivo y de sus reglamentos. La ley sí puede remitir aspectos al reglamento, pero nunca de forma que suponga una regulación independiente y no subordinada a la ley.",
         "id": "tema-11-q14"
       },
       {
@@ -11815,7 +11815,7 @@ const TEMAS = [
           "Rousseau"
         ],
         "correcta": 2,
-        "explicacion": "El tema señala que el Tribunal Constitucional, regulado en el Título IX de la CE, sigue el sistema concentrado de control de constitucionalidad ideado por Kelsen.",
+        "explicacion": "No es Montesquieu (separación de poderes) ni Rousseau: el sistema concentrado de control de constitucionalidad que sigue el Tribunal Constitucional, regulado en el Título IX de la CE, fue ideado por Kelsen. Ese control concentrado no impide que, de forma excepcional, los Jueces y Tribunales ordinarios controlen la vigencia de leyes preconstitucionales derogadas por la CE.",
         "id": "tema-11-q15"
       },
       {
@@ -11827,7 +11827,7 @@ const TEMAS = [
           "Los reglamentos administrativos"
         ],
         "correcta": 3,
-        "explicacion": "El art. 27.2 LOTC somete a control constitucional las leyes, las disposiciones con fuerza de ley, los tratados internacionales y los reglamentos parlamentarios; los reglamentos administrativos quedan fuera, correspondiendo su control a la jurisdicción contencioso-administrativa.",
+        "explicacion": "Los reglamentos administrativos quedan fuera del control del Tribunal Constitucional; su fiscalización corresponde a la jurisdicción contencioso-administrativa. El art. 27.2 LOTC sí somete a control las leyes, las disposiciones con fuerza de ley (Decreto-Ley y Decreto Legislativo), los tratados internacionales y los reglamentos parlamentarios.",
         "id": "tema-11-q16"
       },
       {
@@ -11839,7 +11839,7 @@ const TEMAS = [
           "351 votos a favor"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que la mayoría absoluta exigida por el art. 81 CE para las leyes orgánicas equivale, sobre un total de 350 Diputados, a un mínimo de 176 votos a favor.",
+        "explicacion": "Cuidado, la mayoría absoluta no es la mitad exacta (175), sino la mitad más uno: sobre 350 Diputados, el art. 81 CE exige un mínimo de 176 votos a favor para aprobar una Ley Orgánica. Esa misma mayoría absoluta se requiere también para modificarla o derogarla.",
         "id": "tema-11-q17"
       },
       {
@@ -11851,7 +11851,7 @@ const TEMAS = [
           "el Real Decreto-ley 8/2020, de 17 de marzo"
         ],
         "correcta": 1,
-        "explicacion": "El tema cita expresamente que la institución del Defensor del Pueblo se regula por la Ley Orgánica 3/1981, de 6 de abril, en desarrollo del art. 54 CE.",
+        "explicacion": "No hay que confundirla con otras normas orgánicas ni con leyes de otra materia: el Defensor del Pueblo, previsto en el art. 54 CE, se regula por la Ley Orgánica 3/1981, de 6 de abril. Al tratarse de materia de derechos fundamentales, exige precisamente el rango de ley orgánica del art. 81 CE.",
         "id": "tema-11-q18"
       },
       {
@@ -11863,7 +11863,7 @@ const TEMAS = [
           "un tratado internacional de aplicación interna"
         ],
         "correcta": 2,
-        "explicacion": "El art. 147.1 CE define el Estatuto de Autonomía como la norma institucional básica de la Comunidad Autónoma dentro de los términos de la propia Constitución, según recoge el tema.",
+        "explicacion": "El art. 147.1 CE define el Estatuto de Autonomía como la norma institucional básica de la Comunidad Autónoma, dentro de los términos de la propia Constitución. El TC (STC 18/1982) añade que debe interpretarse siempre conforme a la CE, cuyos marcos competenciales no se agotan en el momento de aprobarse el Estatuto.",
         "id": "tema-11-q19"
       },
       {
@@ -11875,7 +11875,7 @@ const TEMAS = [
           "como las Leyes Orgánicas, sino mediante los procedimientos previstos en cada uno de ellos (art. 152.2 CE), exigiéndose en algunos casos referéndum"
         ],
         "correcta": 3,
-        "explicacion": "El tema señala que los Estatutos son \"algo más que una Ley Orgánica\", por lo que no se reforman como éstas sino mediante los procedimientos previstos en cada Estatuto (art. 152.2 CE), exigiéndose en algunos casos referéndum.",
+        "explicacion": "No son inmodificables, pero tampoco se reforman como una Ley Orgánica cualquiera: los Estatutos son \"algo más que una Ley Orgánica\", por lo que se reforman según el procedimiento previsto en cada uno de ellos (art. 152.2 CE). En los Estatutos que accedieron a la autonomía por la vía del art. 151 CE, además, la reforma exige referéndum entre los electores.",
         "id": "tema-11-q20"
       },
       {
@@ -11887,7 +11887,7 @@ const TEMAS = [
           "de refundición de varios textos normativos en uno solo, previa autorización de las Cortes"
         ],
         "correcta": 0,
-        "explicacion": "El art. 86 CE habilita al Gobierno a dictar Decretos-Leyes en casos de extraordinaria y urgente necesidad, con carácter provisional, a diferencia de los Decretos Legislativos que requieren delegación previa.",
+        "explicacion": "Eso de la delegación previa y los textos articulados o refundidos es propio del Decreto Legislativo, no del Decreto-Ley. El art. 86 CE habilita al Gobierno a dictar Decretos-Leyes en casos de extraordinaria y urgente necesidad, con carácter provisional y sin necesidad de habilitación previa de las Cortes; no pueden afectar, entre otras materias, al régimen de las CCAA ni al derecho electoral general.",
         "id": "tema-11-q21"
       },
       {
@@ -11899,7 +11899,7 @@ const TEMAS = [
           "en los 20 días siguientes a su publicación en el BOE"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica que los Decretos-Leyes deben ser convalidados o derogados en su totalidad por el Congreso de los Diputados en el plazo de 30 días siguientes a su promulgación.",
+        "explicacion": "El plazo se cuenta desde la promulgación, no desde la publicación en el BOE, y son 30 días, no 15 ni 60: en ese plazo el Congreso de los Diputados debe convalidar o derogar el Decreto-Ley en su totalidad. Dentro de ese mismo plazo, las Cortes pueden además tramitarlo como proyecto de ley por el procedimiento de urgencia.",
         "id": "tema-11-q22"
       },
       {
@@ -11911,7 +11911,7 @@ const TEMAS = [
           "la delegación tácita y la delegación implícita, ambas admitidas por la Constitución"
         ],
         "correcta": 2,
-        "explicacion": "El tema distingue la Ley de Bases (para textos articulados) y la Ley ordinaria de autorización (para textos refundidos) como las dos vías de habilitación de la legislación delegada (arts. 82 a 85 CE).",
+        "explicacion": "Al revés: la Ley de Bases habilita para la formación de textos articulados, y la Ley ordinaria de autorización habilita para la refundición de varios textos normativos en uno solo (arts. 82 a 85 CE). En ambos casos la delegación debe ser expresa, para materia concreta, con fijación de plazo y sin admitir subdelegación a autoridades distintas del Gobierno.",
         "id": "tema-11-q23"
       },
       {
@@ -11923,7 +11923,7 @@ const TEMAS = [
           "la previa revisión constitucional"
         ],
         "correcta": 3,
-        "explicacion": "El art. 95 CE establece que la celebración de un tratado con estipulaciones contrarias a la CE exigirá la previa revisión constitucional, pudiendo el Gobierno o las Cámaras requerir al TC para que se pronuncie.",
+        "explicacion": "No es la autorización de las Cortes del art. 94.1 CE, que es el régimen general para prestar el consentimiento del Estado en ciertos tratados: cuando un tratado contiene estipulaciones contrarias a la CE, el art. 95 CE exige la previa revisión constitucional. El Gobierno o cualquiera de las Cámaras puede requerir al Tribunal Constitucional para que se pronuncie sobre esa contradicción.",
         "id": "tema-11-q24"
       },
       {
@@ -11935,7 +11935,7 @@ const TEMAS = [
           "ninguna norma comunitaria produce efecto directo en el ordenamiento interno"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que el derecho comunitario es directamente aplicable en los ordenamientos internos, si bien los reglamentos y decisiones tienen efecto directo mientras que las directivas solo lo tienen cuando han sido transpuestas.",
+        "explicacion": "Al revés de lo que a veces se piensa: son los reglamentos y las decisiones los que tienen efecto directo por sí mismos, mientras que las directivas solo lo tienen cuando han sido transpuestas al ordenamiento interno. El incumplimiento del plazo de trasposición puede generar responsabilidad patrimonial del Estado legislador.",
         "id": "tema-11-q25"
       }
     ]
@@ -11954,7 +11954,7 @@ const TEMAS = [
           "El artículo 10.2 CE"
         ],
         "correcta": 2,
-        "explicacion": "El art. 14 CE proclama el derecho a la igualdad y a la no discriminación por razón de sexo, mientras que el art. 9.2 CE consagra la obligación de los poderes públicos de hacerla real y efectiva.",
+        "explicacion": "No lo confundas con el art. 9.2 CE. El art. 14 CE proclama la igualdad formal y la no discriminación por razón de sexo, mientras que el 9.2 CE obliga a los poderes públicos a hacerla real y efectiva. El art. 1.1 CE, por su parte, recoge la igualdad solo como valor superior del ordenamiento.",
         "id": "tema-13-q1"
       },
       {
@@ -11966,7 +11966,7 @@ const TEMAS = [
           "El artículo 10.2 CE"
         ],
         "correcta": 1,
-        "explicacion": "El art. 9.2 CE consagra esa obligación de los poderes públicos, removiendo los obstáculos que impidan o dificulten la plenitud de esa igualdad, a diferencia del art. 14 CE (igualdad formal), el art. 1.1 CE (valores superiores) y el art. 10.2 CE (interpretación de derechos fundamentales conforme a tratados).",
+        "explicacion": "Al revés que el art. 14 CE, que solo consagra la igualdad formal ante la ley. El art. 9.2 CE es el que obliga a los poderes públicos a promover esa igualdad real y efectiva. Además, les impone remover los obstáculos que la dificulten y facilitar la participación ciudadana en la vida política, económica, cultural y social.",
         "id": "tema-13-q2"
       },
       {
@@ -11978,7 +11978,7 @@ const TEMAS = [
           "Las características o diferencias biológicas que distinguen a los hombres de las mujeres"
         ],
         "correcta": 3,
-        "explicacion": "El tema define el sexo, en sentido biológico, como las características o diferencias biológicas que distinguen a los hombres de las mujeres, frente al género (construcción social), los roles de género (reparto de tareas) y la discriminación directa (trato legal diferente).",
+        "explicacion": "No lo confundas con el género, que es justo lo contrario: la construcción social de lo masculino y lo femenino. El sexo, en sentido biológico, son las características o diferencias biológicas que distinguen a hombres y mujeres. Los roles de género, en cambio, son el reparto de tareas asociado a esa construcción social.",
         "id": "tema-13-q3"
       },
       {
@@ -11990,7 +11990,7 @@ const TEMAS = [
           "Mainstreaming de género"
         ],
         "correcta": 0,
-        "explicacion": "Esa es la definición literal de discriminación indirecta que ofrece el tema, frente a la discriminación directa (trato legal diferente basado en la pertenencia a un grupo), las acciones positivas (medidas compensatorias) y el mainstreaming de género (transversalidad).",
+        "explicacion": "No la confundas con la discriminación directa, que es un trato legal diferente basado en la pertenencia a un grupo y está prohibida por la ley. La discriminación indirecta es cuando una norma o práctica aparentemente neutra genera ese impacto desproporcionadamente adverso sobre un sexo.",
         "id": "tema-13-q4"
       },
       {
@@ -12002,7 +12002,7 @@ const TEMAS = [
           "Discriminación directa"
         ],
         "correcta": 2,
-        "explicacion": "El tema define así las acciones positivas, señalando entre paréntesis que también se conocen como 'discriminación positiva', a diferencia del mainstreaming (integración transversal de la perspectiva de género) y de la discriminación directa e indirecta.",
+        "explicacion": "No lo confundas con el mainstreaming de género, que consiste en integrar la perspectiva de igualdad de forma transversal en todas las políticas, no en dirigirse a un grupo concreto. Las acciones positivas son esas medidas compensatorias dirigidas a un grupo determinado, también llamadas discriminación positiva.",
         "id": "tema-13-q5"
       },
       {
@@ -12014,7 +12014,7 @@ const TEMAS = [
           "6"
         ],
         "correcta": 1,
-        "explicacion": "El tema señala que, a través de la convocatoria de 4 Conferencias desde 1975, Naciones Unidas ha contribuido a impulsar las políticas de igualdad de oportunidades.",
+        "explicacion": "El tema señala que, a través de 4 Conferencias desde 1975, Naciones Unidas ha contribuido a impulsar las políticas de igualdad de oportunidades. Son la de Ciudad de México (1975), Copenhague (1980), Nairobi (1985) y Beijing (1995).",
         "id": "tema-13-q6"
       },
       {
@@ -12026,7 +12026,7 @@ const TEMAS = [
           "La I Conferencia Mundial del Año Internacional de las Mujeres (Ciudad de México, 1975)"
         ],
         "correcta": 3,
-        "explicacion": "Fue en la I Conferencia Mundial (Ciudad de México, 1975) donde se estableció el primer decenio de la mujer y se decidió elaborar dicha Convención.",
+        "explicacion": "No la confundas con la III Conferencia (Nairobi, 1985), que es donde se empieza a definir el mainstreaming de género. Fue en la I Conferencia Mundial (Ciudad de México, 1975) donde se estableció el primer decenio de la mujer y se decidió elaborar dicha Convención.",
         "id": "tema-13-q7"
       },
       {
@@ -12038,7 +12038,7 @@ const TEMAS = [
           "La IV Conferencia Mundial (Beijing, 1995)"
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que en la III Conferencia Mundial, celebrada en Nairobi en 1985, las Naciones Unidas empiezan por primera vez a definir la estrategia del mainstreaming de género.",
+        "explicacion": "No la confundas con la I Conferencia (México, 1975), donde se decidió elaborar la Convención contra la discriminación de la mujer. Fue en la III Conferencia (Nairobi, 1985) donde se empieza a definir por primera vez el mainstreaming de género. En la IV (Beijing, 1995) se introduce ya el concepto de género y se declara la igualdad como cuestión de interés universal.",
         "id": "tema-13-q8"
       },
       {
@@ -12050,7 +12050,7 @@ const TEMAS = [
           "1967"
         ],
         "correcta": 2,
-        "explicacion": "El tema sitúa la Convención sobre la eliminación de todas las formas de discriminación contra la mujer en 1979, posterior a la Declaración de 1967 sobre la misma materia, a la Declaración Universal de 1948 y a los Pactos Internacionales de 1966.",
+        "explicacion": "No la confundas con la Declaración sobre la eliminación de la discriminación contra la mujer, de 1967, que es un precedente distinto. La Convención, ya vinculante, es de 1979, posterior también a la Declaración Universal de 1948 y a los Pactos Internacionales de 1966.",
         "id": "tema-13-q9"
       },
       {
@@ -12062,7 +12062,7 @@ const TEMAS = [
           "La Declaración sobre la eliminación de la discriminación contra la mujer de 1967"
         ],
         "correcta": 1,
-        "explicacion": "El art. 10.2 CE, transcrito literalmente en el tema, remite a la Declaración Universal de Derechos Humanos y a los tratados y acuerdos internacionales ratificados por España, no a un único instrumento ni a los tratados del Consejo de Europa citados en el tema.",
+        "explicacion": "El art. 10.2 CE no remite a un único instrumento ni específicamente a los tratados del Consejo de Europa (Carta Social Europea, Convenio Europeo de Derechos Humanos), que el tema cita aparte. Remite, de forma genérica, a la Declaración Universal de Derechos Humanos y a los tratados y acuerdos internacionales ratificados por España.",
         "id": "tema-13-q10"
       },
       {
@@ -12074,7 +12074,7 @@ const TEMAS = [
           "La Ley 39/1999, de 5 de noviembre"
         ],
         "correcta": 3,
-        "explicacion": "La Ley 39/1999, de 5 de noviembre, para promover la conciliación de la vida familiar y laboral, fue trasposición de una Directiva comunitaria y reconoció permisos y excedencias relacionados con la maternidad y paternidad.",
+        "explicacion": "No la confundas con la Ley 39/2007 (de la Carrera Militar), pese al número parecido. La Ley 39/1999, de 5 de noviembre, transpuso una Directiva comunitaria y reconoció permisos y excedencias por maternidad y paternidad, además de crear la prestación por riesgo durante el embarazo.",
         "id": "tema-13-q11"
       },
       {
@@ -12086,7 +12086,7 @@ const TEMAS = [
           "La constitución de una Comisión Interministerial de Igualdad"
         ],
         "correcta": 0,
-        "explicacion": "La Ley 30/2003 modificó la Ley del Gobierno introduciendo, como requisito obligatorio, un informe sobre el impacto por razón de género en la documentación preparatoria de anteproyectos y proyectos reglamentarios; el Plan Estratégico y la Comisión Interministerial proceden de la LO 3/2007, y el Observatorio Militar de la LO 9/2011.",
+        "explicacion": "No lo confundas con el Plan Estratégico de Igualdad de Oportunidades ni con la Comisión Interministerial de Igualdad, que proceden de la LO 3/2007, ni con el Observatorio Militar de Igualdad, de la LO 9/2011. La Ley 30/2003 modificó la Ley del Gobierno para exigir un informe de impacto de género como requisito obligatorio en la documentación preparatoria de esas disposiciones.",
         "id": "tema-13-q12"
       },
       {
@@ -12098,7 +12098,7 @@ const TEMAS = [
           "La incorporación del informe de impacto de género en los anteproyectos de ley"
         ],
         "correcta": 1,
-        "explicacion": "La Ley 39/2007 de la Carrera Militar destaca, entre sus fines, la equiparación legal de los miembros de las FAS con el personal de la AGE en materia de igualdad, conciliación y prevención de la violencia de género.",
+        "explicacion": "No lo confundas con el Observatorio Militar de Igualdad, que crea la LO 9/2011, una norma distinta y posterior. La Ley 39/2007, de la Carrera Militar, destaca entre sus fines la equiparación legal de las FAS con el personal de la AGE en igualdad, conciliación y prevención de la violencia de género.",
         "id": "tema-13-q13"
       },
       {
@@ -12110,7 +12110,7 @@ const TEMAS = [
           "Consejo de participación de la mujer"
         ],
         "correcta": 1,
-        "explicacion": "La LO 9/2011 constituyó el Observatorio Militar de Igualdad como encargado de analizar la implantación legislativa en materia de igualdad, entre otros menesteres; no debe confundirse con el Observatorio de la Mujer en las FAS (medidas de incorporación de la mujer), la Comisión Técnica de Igualdad (III Plan AGE) ni el Consejo de participación de la mujer (LO 3/2007).",
+        "explicacion": "Cuidado, no lo confundas con el Observatorio de la Mujer en las FAS, un órgano distinto (creado en 2005) centrado en analizar los procesos de selección e integración de la mujer. La LO 9/2011 constituye el Observatorio Militar de Igualdad como encargado de analizar la implantación legislativa en igualdad, entre otros menesteres.",
         "id": "tema-13-q14"
       },
       {
@@ -12122,7 +12122,7 @@ const TEMAS = [
           "A la Subsecretaría de Defensa"
         ],
         "correcta": 3,
-        "explicacion": "El art. 8.2.j) del RD 372/2020 establece que corresponde a la Subsecretaría de Defensa impulsar la política de igualdad, si bien la competencia concreta de coordinación se atribuye, conforme al art. 10.2 ñ), a la Dirección General de Personal.",
+        "explicacion": "No lo confundas con la Dirección General de Personal, a la que el art. 10.2 ñ) del mismo Real Decreto atribuye la coordinación de la política de igualdad. El art. 8.2.j) del RD 372/2020 establece que impulsar esa política corresponde a la Subsecretaría de Defensa.",
         "id": "tema-13-q15"
       },
       {
@@ -12134,7 +12134,7 @@ const TEMAS = [
           "La Orden DEF/524/2005"
         ],
         "correcta": 0,
-        "explicacion": "Hasta 2020 seguía vigente el Acuerdo de Consejo de Ministros de 4 de marzo de 2005, por el que se aprobó el Plan para la igualdad de género en la AGE, distinto del Acuerdo de 9 de diciembre de 2020 (III Plan), la Resolución de 29 de diciembre de 2020 (que lo publica) y la Orden DEF/524/2005 (medidas para la mujer en las FAS).",
+        "explicacion": "No lo confundas con el Acuerdo de 9 de diciembre de 2020, que ya es el que aprueba el III Plan, ni con la Resolución de 29 de diciembre de 2020, que se limita a publicarlo. Hasta 2020 estuvo vigente el Acuerdo de Consejo de Ministros de 4 de marzo de 2005, por el que se aprobó el Plan para la igualdad de género en la AGE.",
         "id": "tema-13-q16"
       },
       {
@@ -12146,7 +12146,7 @@ const TEMAS = [
           "El Real Decreto 372/2020, de 23 de noviembre"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica que, por resolución de 29 de diciembre de 2020 de la Secretaría General de Función Pública, se publicó el Acuerdo de Consejo de Ministros de 9 de diciembre de 2020, por el que se aprueba el III Plan.",
+        "explicacion": "Al revés que el Plan anterior, aprobado por el Acuerdo de 4 de marzo de 2005. El III Plan se aprobó por Acuerdo de Consejo de Ministros de 9 de diciembre de 2020, publicado por Resolución de 29 de diciembre de 2020 de la Secretaría General de Función Pública.",
         "id": "tema-13-q17"
       },
       {
@@ -12158,7 +12158,7 @@ const TEMAS = [
           "Cinco ejes y 40 medidas"
         ],
         "correcta": 1,
-        "explicacion": "El III Plan se articula en seis ejes de actuación donde se desarrollan medidas de carácter transversal, en total 68 medidas.",
+        "explicacion": "Cuidado con la cifra de ejes: no son cuatro ni cinco (esas son las opciones del apartado de objetivos). El III Plan se articula en seis ejes de actuación, en los que se desarrollan 68 medidas de carácter transversal.",
         "id": "tema-13-q18"
       },
       {
@@ -12170,7 +12170,7 @@ const TEMAS = [
           "Interseccionalidad y situaciones de especial protección"
         ],
         "correcta": 0,
-        "explicacion": "La transversalidad de género es uno de los cuatro objetivos específicos y transversales del III Plan, junto con medir para mejorar, el cambio cultural y la detección temprana; las demás opciones corresponden a Ejes de actuación del Plan (Eje 4, Eje 3 y Eje 6), no a sus objetivos.",
+        "explicacion": "No confundas los objetivos con los ejes de actuación: corresponsabilidad y conciliación es el Eje 4, condiciones de trabajo el Eje 3, e interseccionalidad el Eje 6. La transversalidad de género es uno de los cuatro objetivos específicos, junto con medir para mejorar, el cambio cultural y la detección temprana.",
         "id": "tema-13-q19"
       },
       {
@@ -12182,7 +12182,7 @@ const TEMAS = [
           "Observatorio de la Mujer en las FAS"
         ],
         "correcta": 3,
-        "explicacion": "Se crea el Observatorio de la Mujer en las FAS, que tendrá la función de analizar los procesos de selección, la integración y permanencia de la mujer en las FAS, distinto del Observatorio Militar de Igualdad, la Comisión Técnica de Igualdad y el Consejo de participación de la mujer.",
+        "explicacion": "No lo confundas con el Observatorio Militar de Igualdad, que la LO 9/2011 encarga de analizar la implantación legislativa en igualdad, no los procesos de selección. Es el Observatorio de la Mujer en las FAS el que analiza esos procesos de selección, integración y permanencia, además de un estudio sobre impacto de género.",
         "id": "tema-13-q20"
       },
       {
@@ -12194,7 +12194,7 @@ const TEMAS = [
           "El nombramiento equilibrado de titulares de órganos directivos"
         ],
         "correcta": 1,
-        "explicacion": "El primero de los cinco criterios de actuación recogidos en el Título V de la LOIEMH es la remoción de los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación; las demás opciones son medidas concretas o instrumentos regulados en otros pasajes de la Ley, no criterios de actuación del Título V.",
+        "explicacion": "No lo confundas con las medidas concretas para el ámbito AGE (el Protocolo de acoso o el nombramiento equilibrado de órganos directivos) ni con el Plan Estratégico, que es un instrumento del Título II. El primero de los cinco criterios de actuación del Título V de la LOIEMH es la remoción de los obstáculos que impliquen la pervivencia de cualquier tipo de discriminación.",
         "id": "tema-13-q21"
       },
       {
@@ -12206,7 +12206,7 @@ const TEMAS = [
           "Un Título preliminar, 10 Títulos y 15 disposiciones adicionales"
         ],
         "correcta": 2,
-        "explicacion": "El tema recoge textualmente que la Ley se estructura en un Título preliminar, 8 Títulos, 31 disposiciones adicionales, 11 disposiciones transitorias, 1 disposición derogatoria y 8 disposiciones finales.",
+        "explicacion": "Cuidado con las cifras exactas, que es donde suelen fallar las demás opciones. Según su Preámbulo, la Ley se estructura en un Título preliminar, 8 Títulos, 31 disposiciones adicionales, 11 disposiciones transitorias, 1 disposición derogatoria y 8 disposiciones finales.",
         "id": "tema-13-q22"
       },
       {
@@ -12218,7 +12218,7 @@ const TEMAS = [
           "El Título Cuarto: El derecho al trabajo en igualdad de oportunidades"
         ],
         "correcta": 1,
-        "explicacion": "El Título Primero define esos conceptos y categorías jurídicas básicas, determina las consecuencias jurídicas de las conductas discriminatorias e incorpora garantías procesales.",
+        "explicacion": "No lo confundas con el Título Preliminar, que solo fija el objeto y el ámbito de aplicación de la Ley, ni con el Título Segundo, dedicado a las políticas públicas para la igualdad. El Título Primero define esos conceptos básicos y, además, incorpora las garantías procesales para reforzar la protección judicial del derecho de igualdad.",
         "id": "tema-13-q23"
       },
       {
@@ -12230,7 +12230,7 @@ const TEMAS = [
           "El Título VI"
         ],
         "correcta": 2,
-        "explicacion": "El Título IV se ocupa del derecho al trabajo en igualdad de oportunidades, incluyendo entre los derechos laborales la protección frente al acoso sexual y al acoso por razón de sexo.",
+        "explicacion": "No lo confundas con el Título V, que regula la igualdad en el empleo público, ni con el Título VI, sobre acceso a bienes y servicios. El Título IV se ocupa del derecho al trabajo en igualdad de oportunidades, incluyendo entre los derechos laborales la protección frente al acoso sexual y al acoso por razón de sexo.",
         "id": "tema-13-q24"
       },
       {
@@ -12242,7 +12242,7 @@ const TEMAS = [
           "Una Comisión Interministerial de Igualdad entre mujeres y hombres, las Unidades de Igualdad en cada Ministerio y el Consejo de participación de la mujer"
         ],
         "correcta": 3,
-        "explicacion": "El Título VIII crea una Comisión Interministerial de Igualdad, las Unidades de Igualdad en cada Ministerio, y constituye el Consejo de participación de la mujer como órgano colegiado de participación institucional.",
+        "explicacion": "No lo confundas con el Observatorio Militar de Igualdad o el Observatorio de la Mujer en las FAS, que pertenecen al ámbito de Defensa y no a esta Ley. El Título VIII crea la Comisión Interministerial de Igualdad, las Unidades de Igualdad en cada Ministerio, y constituye el Consejo de participación de la mujer como órgano colegiado de participación institucional.",
         "id": "tema-13-q25"
       }
     ]
@@ -12261,7 +12261,7 @@ const TEMAS = [
           "Jerarquía, desconcentración, descentralización, subordinación y eficacia"
         ],
         "correcta": 0,
-        "explicacion": "El art. 103.1 CE establece que la AAPP sirve con objetividad los intereses generales actuando de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+        "explicacion": "Ojo, no es 'centralización' ni 'legalidad' ni 'subordinación': los cinco principios del art. 103.1 CE son jerarquía, desconcentración, descentralización, coordinación y eficacia. Además, ese mismo artículo exige que la AAPP actúe con sometimiento pleno a la ley y al Derecho.",
         "id": "tema-14-q1"
       },
       {
@@ -12273,7 +12273,7 @@ const TEMAS = [
           "Que se regule por Orden Ministerial"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que, a diferencia de la empresa privada, la estructura y funcionamiento de la organización administrativa debe regularse por Ley (art. 103.2 CE).",
+        "explicacion": "A diferencia de la empresa privada, la estructura y funcionamiento de la Administración debe regularse por Ley, no por reglamento, Real Decreto ni Orden Ministerial (art. 103.2 CE). Es la gran diferencia con la organización empresarial, aunque la AAPP tome de ella muchas técnicas organizativas.",
         "id": "tema-14-q2"
       },
       {
@@ -12285,7 +12285,7 @@ const TEMAS = [
           "Art. 3.3"
         ],
         "correcta": 0,
-        "explicacion": "El art. 3.4 de la Ley 39/2015, dentro de los principios generales, afirma que cada AAPP actúa para el cumplimiento de sus fines con personalidad jurídica única.",
+        "explicacion": "El precepto exacto es el art. 3.4 de la Ley 39/2015, no otro apartado del mismo artículo. Confirma que cada Administración Pública actúa, para el cumplimiento de sus fines, con personalidad jurídica única, aunque esté compuesta internamente por multitud de órganos.",
         "id": "tema-14-q3"
       },
       {
@@ -12297,7 +12297,7 @@ const TEMAS = [
           "Las unidades administrativas a las que se atribuyan funciones con efectos jurídicos frente a la propia Administración, o cuya actuación tenga carácter potestativo"
         ],
         "correcta": 0,
-        "explicacion": "El art. 5.1 Ley 40/2015 define como órganos administrativos las unidades administrativas a las que se atribuyan funciones con efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo.",
+        "explicacion": "Ojo, no confundir órgano administrativo con simple unidad administrativa: según el art. 5.1 Ley 40/2015, es órgano la unidad a la que se atribuyen funciones con efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo. Si carece de esa competencia externa, es solo una unidad administrativa interna.",
         "id": "tema-14-q4"
       },
       {
@@ -12309,7 +12309,7 @@ const TEMAS = [
           "Determinación de su forma de integración y dependencia jerárquica; dotación de los créditos necesarios para su funcionamiento; y aprobación previa mediante informe del Consejo de Estado"
         ],
         "correcta": 0,
-        "explicacion": "El texto exige, al menos: a) determinación de la forma de integración y dependencia jerárquica, b) delimitación de funciones y competencias, y c) dotación de los créditos necesarios para su puesta en marcha y funcionamiento.",
+        "explicacion": "Ojo, no mezcles los requisitos mínimos con la regla anti-duplicidad: para crear un órgano basta con determinar su integración y dependencia jerárquica, delimitar sus funciones y competencias, y dotarlo de los créditos necesarios. Aparte y de forma distinta, se exige comprobar que no exista ya otro órgano igual sobre el mismo territorio y población.",
         "id": "tema-14-q5"
       },
       {
@@ -12321,7 +12321,7 @@ const TEMAS = [
           "Estatales, autonómicos y locales"
         ],
         "correcta": 0,
-        "explicacion": "El texto clasifica los órganos, por su ámbito territorial, en centrales, autonómicos y locales.",
+        "explicacion": "Por ámbito territorial no se habla de 'periféricos' ni de 'estatales': los órganos se clasifican en centrales, autonómicos y locales. No lo confundas con la clasificación por composición (unipersonales/colegiados) ni por función (activos/deliberantes/consultivos).",
         "id": "tema-14-q6"
       },
       {
@@ -12333,7 +12333,7 @@ const TEMAS = [
           "Quedan sometidos a la dependencia jerárquica del órgano al que asesoran y deben seguir sus instrucciones"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que los órganos consultivos asesoran a los activos y deliberantes y no podrán estar sujetos a dependencia jerárquica ni recibir instrucciones de los órganos que elaboraron las disposiciones o actos objeto de consulta.",
+        "explicacion": "Ojo, no confundir consultivos con deliberantes ni con activos: los consultivos asesoran y no pueden estar sujetos a dependencia jerárquica ni recibir instrucciones del órgano al que asesoran. Los deliberantes deciden pero encomiendan la ejecución a otro órgano (ej. Consejo de Ministros), y los activos actúan directamente sobre la realidad administrativa.",
         "id": "tema-14-q7"
       },
       {
@@ -12345,7 +12345,7 @@ const TEMAS = [
           "Unipersonales, colegiados y mixtos"
         ],
         "correcta": 0,
-        "explicacion": "Por su composición se distingue entre órganos unipersonales (competencia gestionada por un único gestor, ej. el Rey con la Corona) y colegiados (decisiones adoptadas por mayoría entre varios gestores).",
+        "explicacion": "Cuidado con mezclar clasificaciones: por composición solo hay dos tipos, unipersonales (un único titular, ej. el Rey con la Corona) y colegiados (decisión por mayoría entre varios). Activos/deliberantes/consultivos clasifican por función, y centrales/autonómicos/locales por ámbito territorial.",
         "id": "tema-14-q8"
       },
       {
@@ -12357,7 +12357,7 @@ const TEMAS = [
           "El conjunto de medios personales y materiales dispuestos para la consecución de un fin"
         ],
         "correcta": 0,
-        "explicacion": "El texto define la competencia, regulada en el art. 8 de la Ley 40/2015, como la función o conjunto de funciones adjudicadas a un órgano.",
+        "explicacion": "No confundir competencia con jerarquía (que es poder de mando) ni con descentralización (que traslada titularidad): la competencia, regulada en el art. 8 Ley 40/2015, es simplemente la función o conjunto de funciones adjudicadas a un órgano.",
         "id": "tema-14-q9"
       },
       {
@@ -12369,7 +12369,7 @@ const TEMAS = [
           "Nulidad de pleno derecho, pero subsanable por ratificación conforme al art. 52 de la Ley 39/2015"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que se sanciona con nulidad de pleno derecho (art. 47.1.b Ley 39/2015) las actuaciones de órganos manifiestamente incompetentes por razón de materia o territorio.",
+        "explicacion": "Ojo, la incompetencia manifiesta por materia o territorio no es mera anulabilidad ni irregularidad subsanable: se sanciona con la nulidad de pleno derecho (art. 47.1.b Ley 39/2015). Solo la previa y legítima atribución de competencia da validez a las decisiones de un órgano.",
         "id": "tema-14-q10"
       },
       {
@@ -12381,7 +12381,7 @@ const TEMAS = [
           "A los órganos inferiores competentes por razón de la materia, correspondiendo en todo caso la resolución final al Consejo de Ministros"
         ],
         "correcta": 0,
-        "explicacion": "El art. 8.3 Ley 40/2015 establece que corresponde a los órganos inferiores competentes por razón de la materia y del territorio y, de existir varios, al superior jerárquico común.",
+        "explicacion": "Al revés de lo que dicen algunas opciones: la facultad corresponde a los órganos inferiores competentes por materia y territorio y, si hay varios, al superior jerárquico común -no a los superiores ni al inferior común- (art. 8.3 Ley 40/2015). Esta regla evita la auto-atribución de competencia, prohibida bajo pena de nulidad radical.",
         "id": "tema-14-q11"
       },
       {
@@ -12393,7 +12393,7 @@ const TEMAS = [
           "No, son irrenunciables en todo caso, sin excepción alguna ni siquiera por delegación o avocación"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que las competencias son irrenunciables por sus titulares, salvo en los casos previstos de delegación o avocación.",
+        "explicacion": "Ojo, no son excepciones la encomienda de gestión ni la delegación de firma, porque estas no alteran la titularidad de la competencia. Las competencias son irrenunciables por sus titulares salvo en los casos de delegación o avocación, que sí modifican quién ejerce esa competencia.",
         "id": "tema-14-q12"
       },
       {
@@ -12405,7 +12405,7 @@ const TEMAS = [
           "La facultad por la que el órgano superior recupera el conocimiento de un asunto que correspondía a un órgano inferior"
         ],
         "correcta": 0,
-        "explicacion": "La jerarquía es el poder de mando de los órganos superiores sobre los inferiores, que supone la estructuración piramidal de los órganos de la AAPP (art. 103.1 CE).",
+        "explicacion": "No confundir jerarquía con desconcentración: la desconcentración sí traspasa de forma permanente la titularidad de competencias entre órganos de una misma Administración, mientras que la jerarquía es simplemente el poder de mando del superior sobre el inferior. Ese poder de mando estructura la AAPP en forma piramidal (art. 103.1 CE).",
         "id": "tema-14-q13"
       },
       {
@@ -12417,7 +12417,7 @@ const TEMAS = [
           "El principio de descentralización"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que la coordinación interorgánica pone en orden la actuación de varios órganos bajo el principio de eficacia del art. 103.1 CE.",
+        "explicacion": "Aunque pudiera parecer ligada a la jerarquía, la coordinación interorgánica se enmarca en el principio de eficacia del art. 103.1 CE, al ordenar la actuación de varios órganos evitando contradicciones. Ejemplo típico: el Presidente del Gobierno coordinando a los titulares de los departamentos ministeriales.",
         "id": "tema-14-q14"
       },
       {
@@ -12429,7 +12429,7 @@ const TEMAS = [
           "De jerarquía, al ser una relación de dependencia jerárquica entre ambos entes"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que la tutela modula la relación entre una administración territorial y otra instrumental, pudiendo ser de legalidad o material (control de oportunidad).",
+        "explicacion": "Ojo, la tutela no equivale a jerarquía (que exige una misma competencia material dentro de una misma Administración): modula la relación entre una Administración territorial y otra instrumental, y puede ser de legalidad o material (control de oportunidad). Ejemplo: un organismo autónomo necesita autorización del Ministerio del que depende para contratos por encima de cierta cuantía.",
         "id": "tema-14-q15"
       },
       {
@@ -12441,7 +12441,7 @@ const TEMAS = [
           "Consiste en que el órgano superior recupere el conocimiento de un asunto que correspondía, ordinaria o por delegación, a un órgano inferior"
         ],
         "correcta": 0,
-        "explicacion": "El texto define la descentralización (art. 103.1 CE) como la cesión sin control, con traslado de titularidad de competencias entre entes o administraciones públicas, de manera estable.",
+        "explicacion": "No confundir con la desconcentración (que traslada titularidad entre órganos DENTRO de la misma Administración) ni con la delegación (que solo cede el ejercicio, no la titularidad): la descentralización es la cesión sin control, con traslado estable de titularidad, entre distintos entes o Administraciones. La más habitual es la del Estado a las Comunidades Autónomas.",
         "id": "tema-14-q16"
       },
       {
@@ -12453,7 +12453,7 @@ const TEMAS = [
           "Acuerdo del Consejo de Ministros publicado en el BOE"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala, como ejemplo, que la transferencia de competencias del Estado a una Comunidad Autónoma se efectúa por vía de Ley Orgánica (Ley de Transferencia o Delegación).",
+        "explicacion": "El instrumento es una Ley Orgánica (Ley de Transferencia o Delegación), no un Real Decreto ni un simple convenio o acuerdo del Consejo de Ministros. El texto pone como ejemplo la transferencia de competencias en materia portuaria del Estado a una Comunidad Autónoma.",
         "id": "tema-14-q17"
       },
       {
@@ -12465,7 +12465,7 @@ const TEMAS = [
           "Acuerdo expreso entre los órganos afectados, publicado en el boletín correspondiente"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica que la desconcentración debe llevarse a cabo, como mínimo, mediante una norma de rango equivalente a Real Decreto publicada en el BOE.",
+        "explicacion": "Ojo, no confundir con la Ley Orgánica que exige la descentralización Estado-CCAA: al ser un movimiento interno dentro de la misma Administración, la desconcentración basta con llevarla a cabo mediante una norma de rango equivalente a Real Decreto publicada en el BOE. Su finalidad es descongestionar el vértice de la organización y agilizar los procedimientos.",
         "id": "tema-14-q18"
       },
       {
@@ -12477,7 +12477,7 @@ const TEMAS = [
           "Queda compartida entre el órgano delegante y el delegado mientras dure la delegación"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica expresamente que la delegación supone la cesión o transmisión del ejercicio de competencias, permaneciendo la titularidad de estas en el órgano que delegó.",
+        "explicacion": "Ojo, la delegación no traslada la titularidad ni siquiera temporalmente: solo cede el ejercicio de la competencia, que permanece siempre en el órgano delegante. Por eso el delegante fiscaliza la actuación del delegado y puede revocar la delegación en cualquier momento.",
         "id": "tema-14-q19"
       },
       {
@@ -12489,7 +12489,7 @@ const TEMAS = [
           "No, en ningún caso, ni siquiera con autorización legal"
         ],
         "correcta": 0,
-        "explicacion": "El texto establece que la subdelegación está prohibida salvo autorización expresa de una ley.",
+        "explicacion": "No es una prohibición absoluta: la subdelegación de una competencia ya delegada está prohibida, salvo que una ley lo autorice expresamente. Distinto es el requisito de publicidad: tanto la delegación como su revocación deben publicarse en el boletín correspondiente.",
         "id": "tema-14-q20"
       },
       {
@@ -12501,7 +12501,7 @@ const TEMAS = [
           "La firma de resoluciones no sancionadoras dictadas por delegación"
         ],
         "correcta": 0,
-        "explicacion": "El texto cita entre las materias indelegables la adopción de disposiciones de carácter general, junto con la separación y nombramiento de altos cargos atribuidos al Consejo de Ministros y los asuntos relativos a la Jefatura del Estado, entre otros.",
+        "explicacion": "Ojo, no confundir con la encomienda de gestión (la recaudación de tributos locales encomendada a órganos estatales o autonómicos es justo un ejemplo típico de esa técnica) ni con la delegación de firma (que sí permite firmar resoluciones no sancionadoras). Es indelegable la adopción de disposiciones de carácter general, junto con materias como el nombramiento de altos cargos del Consejo de Ministros o los asuntos de la Jefatura del Estado.",
         "id": "tema-14-q21"
       },
       {
@@ -12513,7 +12513,7 @@ const TEMAS = [
           "Se traslade de forma permanente la titularidad de una competencia a un órgano jerárquicamente dependiente"
         ],
         "correcta": 0,
-        "explicacion": "El anexo define la avocación (art. 10 Ley 40/2015) como la facultad del órgano superior de avocar para sí el conocimiento de asuntos que corresponden, ordinaria o por delegación, a sus órganos dependientes; es la técnica inversa a la delegación.",
+        "explicacion": "Al revés: no es el inferior quien asume un asunto del superior, sino el superior quien avoca para sí un asunto que corresponde ordinaria o por delegación al inferior (art. 10 Ley 40/2015). Es la técnica inversa a la delegación, y a diferencia de la desconcentración, no traslada la titularidad de forma permanente.",
         "id": "tema-14-q22"
       },
       {
@@ -12525,7 +12525,7 @@ const TEMAS = [
           "Razones de índole técnica, económica, procedimental, jurídica o territorial"
         ],
         "correcta": 0,
-        "explicacion": "El anexo indica que la avocación se da por circunstancias que la hagan conveniente, de índole técnica, económica, social, jurídica o territorial.",
+        "explicacion": "Ojo con las palabras trampa: no es 'presupuestaria', ni 'política', ni 'procedimental'. Las razones que justifican la avocación son de índole técnica, económica, social, jurídica o territorial.",
         "id": "tema-14-q23"
       },
       {
@@ -12537,7 +12537,7 @@ const TEMAS = [
           "Debe realizarse mediante acuerdo motivado, sin necesidad de notificación alguna a los interesados"
         ],
         "correcta": 0,
-        "explicacion": "Según el texto y el anexo, la avocación se realiza mediante acuerdo motivado que debe notificarse a los interesados en el procedimiento con anterioridad (o, según el anexo, simultáneamente) a la resolución final.",
+        "explicacion": "Ojo, no vale notificar después de resolver: el acuerdo de avocación debe ser motivado -su falta de motivación lo vicia- y notificarse a los interesados antes de la resolución final. El anexo añade que también puede notificarse simultáneamente a esa resolución, pero nunca después.",
         "id": "tema-14-q24"
       },
       {
@@ -12549,7 +12549,7 @@ const TEMAS = [
           "No cabe recurso ni contra el acuerdo de avocación ni contra la resolución final del procedimiento"
         ],
         "correcta": 0,
-        "explicacion": "Tanto el tema como el anexo señalan que contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el recurso que se interponga contra la resolución del procedimiento.",
+        "explicacion": "No es que no exista ninguna vía de defensa: contra el acuerdo de avocación en sí no cabe recurso autónomo (ni alzada ni reposición), pero sí podrá impugnarse dentro del recurso que se interponga contra la resolución final del procedimiento.",
         "id": "tema-14-q25"
       },
       {
@@ -12561,7 +12561,7 @@ const TEMAS = [
           "El superior jerárquico común a delegante y delegado, aunque no haya delegado la competencia"
         ],
         "correcta": 0,
-        "explicacion": "El texto y el anexo señalan que, en los supuestos de delegación de competencias en órganos no dependientes jerárquicamente, el conocimiento del asunto solo podrá ser avocado por el órgano delegante.",
+        "explicacion": "Regla clave: si hay dependencia jerárquica, avoca el superior jerárquico; pero cuando la competencia se delegó en un órgano NO dependiente jerárquicamente, solo puede avocarla el propio órgano delegante, no cualquier otro superior ni el que ejerce la tutela.",
         "id": "tema-14-q26"
       },
       {
@@ -12573,7 +12573,7 @@ const TEMAS = [
           "Exige en todo caso la firma de un convenio publicado en el BOE, incluso entre órganos de la misma Administración"
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que la encomienda de gestión no supone una verdadera delegación ni cesión de titularidad de la competencia ni de los elementos sustantivos de su ejercicio, siendo un mandato jurídico público para actividades de carácter material, técnico o de servicios, por razones de eficacia.",
+        "explicacion": "Ojo, no confundir con la descentralización: la encomienda de gestión no traslada la titularidad de la competencia, es un mandato jurídico público para actividades materiales, técnicas o de servicios (ej. recaudación de tributos locales encomendada a órganos estatales o autonómicos). Y solo exige convenio publicado en el BOE cuando es entre Administraciones distintas; dentro de la misma Administración basta acuerdo expreso.",
         "id": "tema-14-q27"
       },
       {
@@ -12585,7 +12585,7 @@ const TEMAS = [
           "Las dictadas por órganos colegiados"
         ],
         "correcta": 0,
-        "explicacion": "El texto indica, como excepción a la delegación de firma, que las resoluciones de carácter sancionador no pueden delegar su firma, ni tampoco las materias que el art. 9 impide delegar.",
+        "explicacion": "La excepción son las resoluciones de carácter sancionador, cuya firma no se puede delegar, además de las materias que el art. 9 ya declara indelegables. Recuerda que la delegación de firma no altera la competencia del órgano delegante ni requiere publicación para su validez, a diferencia de la delegación de competencias.",
         "id": "tema-14-q28"
       }
     ]
@@ -12604,7 +12604,7 @@ const TEMAS = [
           "Aquella parte de la Administración pública que, subordinada al Gobierno, tiene a su cargo exclusivamente la gestión de los servicios comunes de cada Departamento ministerial, sin extender sus competencias a todo el territorio"
         ],
         "correcta": 0,
-        "explicacion": "Es la definición literal recogida al inicio del tema: la AGE es la parte de la Administración pública integrada en el poder ejecutivo que gestiona en todo el territorio nacional los servicios y funciones fundamentales para la comunidad nacional. Las demás opciones describen, respectivamente, la Administración periférica, al Gobierno (art. 97 CE) y una Administración limitada a los servicios comunes departamentales.",
+        "explicacion": "No la confundas con el Gobierno (art. 97 CE), que es el órgano político presidido por el Presidente. La AGE es la parte de la Administración pública integrada en el poder ejecutivo que gestiona en todo el territorio nacional los servicios y funciones fundamentales para la comunidad nacional. Además, se divide tradicionalmente en órganos centrales (competencia en todo el territorio) y periféricos (competencia reducida a una parte de él).",
         "id": "tema-15-q1"
       },
       {
@@ -12616,7 +12616,7 @@ const TEMAS = [
           "Actúa conforme a las directrices políticas fijadas por las Comunidades Autónomas en el ejercicio de sus potestades"
         ],
         "correcta": 3,
-        "explicacion": "El tema recoge como caracteres la objetividad al interés general, la extensión de potestades a todo el territorio y los órganos jerárquicamente ordenados con personalidad jurídica única; el sometimiento a las directrices de las CCAA es una distorsión inventada, ya que la AGE se somete plenamente al ordenamiento jurídico, no a la voluntad autonómica.",
+        "explicacion": "Es una trampa inventada: la AGE no actúa conforme a directrices de las CCAA, sino con sometimiento pleno al ordenamiento jurídico. Sus caracteres reales son la objetividad al interés general, la extensión de potestades a todo el territorio y los órganos jerárquicamente ordenados con personalidad jurídica única, además de regirse por los principios de cooperación y colaboración con el resto de Administraciones.",
         "id": "tema-15-q2"
       },
       {
@@ -12628,7 +12628,7 @@ const TEMAS = [
           "Descentralización territorial (Departamentos ministeriales) y desconcentración funcional (Delegaciones del Gobierno en las Comunidades Autónomas)"
         ],
         "correcta": 0,
-        "explicacion": "El art. 54 Ley 40/2015 establece que la organización de la AGE responde a los principios de descentralización funcional en Departamentos ministeriales y desconcentración funcional y territorial en las Delegaciones del Gobierno en las CCAA; las demás opciones invierten qué principio corresponde a cada estructura.",
+        "explicacion": "Al revés de como lo plantean las demás opciones: la descentralización funcional corresponde a los Departamentos ministeriales, y la desconcentración funcional y territorial a las Delegaciones del Gobierno en las CCAA (art. 54 Ley 40/2015). Esta pareja de principios es la base sobre la que se asienta toda la organización, central y territorial, de la AGE.",
         "id": "tema-15-q3"
       },
       {
@@ -12640,7 +12640,7 @@ const TEMAS = [
           "Órganos directivos y elementos organizativos básicos"
         ],
         "correcta": 1,
-        "explicacion": "El art. 55 Ley 40/2015 distingue, dentro de la organización central, entre órganos superiores (Ministros y Secretarios de Estado) y órganos directivos (Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales); la distinción superiores/inferiores corresponde a otra clasificación dentro del Departamento, no a la del art. 55.",
+        "explicacion": "No la confundas con la clasificación en órganos superiores e inferiores que existe dentro de cada Departamento, que es otra distinta. El art. 55 Ley 40/2015 distingue, dentro de la organización central, entre órganos superiores (Ministros y Secretarios de Estado) y órganos directivos (Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales).",
         "id": "tema-15-q4"
       },
       {
@@ -12652,7 +12652,7 @@ const TEMAS = [
           "Los órganos colegiados de asesoramiento técnico creados por real decreto del Consejo de Ministros"
         ],
         "correcta": 1,
-        "explicacion": "El art. 5.2 Ley 40/2015 define las unidades administrativas como los elementos organizativos básicos de las estructuras orgánicas, integradas por puestos de trabajo o dotaciones de plantilla vinculados funcionalmente por razón de sus cometidos y jerárquicamente por una jefatura común; la opción 2 describe, en cambio, al órgano administrativo.",
+        "explicacion": "Ojo a no confundir unidad administrativa con órgano administrativo. Las unidades administrativas (art. 5.2 Ley 40/2015) son los elementos organizativos básicos de las estructuras orgánicas, integradas por puestos de trabajo vinculados funcionalmente bajo una jefatura común, y se crean mediante Relaciones de Puestos de Trabajo (RPT). El órgano administrativo, en cambio, exige además tener atribuidas funciones con efectos jurídicos frente a terceros.",
         "id": "tema-15-q5"
       },
       {
@@ -12664,7 +12664,7 @@ const TEMAS = [
           "Su titular ostente la condición de alto cargo de la Administración"
         ],
         "correcta": 1,
-        "explicacion": "El art. 5 Ley 40/2015 exige, para que una unidad administrativa tenga la condición de órgano, que tenga atribuidas funciones que produzcan efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo, debiendo crearse de acuerdo con la ley (y no mediante RPT, que es el instrumento de creación de las unidades administrativas).",
+        "explicacion": "Al revés que las unidades administrativas: el órgano administrativo no se crea mediante RPT, sino de acuerdo con la ley. El art. 5 Ley 40/2015 exige que tenga atribuidas funciones que produzcan efectos jurídicos frente a terceros, o cuya actuación tenga carácter preceptivo.",
         "id": "tema-15-q6"
       },
       {
@@ -12676,7 +12676,7 @@ const TEMAS = [
           "Las personas de cada sexo no superen el setenta por ciento ni sean menos del treinta por ciento"
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que la LO 2/2024 garantiza la presencia equilibrada de mujeres y hombres de forma que las personas de cada sexo no superen el 60% ni sean menos del 40% en el ámbito de cada departamento ministerial, no otros porcentajes cercanos ni la paridad exacta.",
+        "explicacion": "El porcentaje exacto que fija la LO 2/2024 es que ningún sexo supere el 60% ni baje del 40% en los nombramientos de órganos superiores y directivos de cada departamento ministerial, no otros porcentajes cercanos ni una paridad exacta del 50%. Esta ley es la que modificó los arts. 54 y 55 bis de la Ley 40/2015.",
         "id": "tema-15-q7"
       },
       {
@@ -12688,7 +12688,7 @@ const TEMAS = [
           "Los sectores de actividad administrativa que le asigne el Consejo de Ministros mediante acuerdo, previo informe del Subsecretario"
         ],
         "correcta": 0,
-        "explicacion": "El art. 57.1 Ley 40/2015 establece que cada Departamento comprende uno o varios sectores funcionalmente homogéneos de actividad administrativa; el número, denominación y ámbito de competencia de los Ministerios se fija por real decreto del Presidente del Gobierno, pero eso es una cuestión distinta de lo que 'comprende' cada Departamento.",
+        "explicacion": "No confundas esto con la fijación del número de Ministerios (actualmente 22), que sí se determina por real decreto del Presidente del Gobierno, pero es una cuestión distinta. El art. 57.1 Ley 40/2015 se limita a establecer que cada Departamento comprende uno o varios sectores funcionalmente homogéneos de actividad administrativa.",
         "id": "tema-15-q8"
       },
       {
@@ -12700,7 +12700,7 @@ const TEMAS = [
           "Tienen exclusivamente naturaleza administrativa, careciendo de la condición de miembros del Gobierno"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica expresamente que los Ministros tienen doble naturaleza política y administrativa, siendo el nexo de unión entre el Gobierno y la Administración, y que ejercen ellos mismos la potestad reglamentaria en las materias propias de su Departamento, sin que corresponda en exclusiva al Consejo de Ministros.",
+        "explicacion": "Ojo: la potestad reglamentaria en las materias de su Departamento la ejercen los propios Ministros, no en exclusiva el Consejo de Ministros. Los Ministros tienen doble naturaleza, política (como miembros del Gobierno) y administrativa (como titulares del Departamento), y son el nexo de unión entre el Gobierno y la Administración.",
         "id": "tema-15-q9"
       },
       {
@@ -12712,7 +12712,7 @@ const TEMAS = [
           "Son órganos superiores que deben existir obligatoriamente en todos los Departamentos ministeriales"
         ],
         "correcta": 1,
-        "explicacion": "El texto precisa que los Secretarios de Estado, según el art. 7 de la Ley del Gobierno, son responsables de la ejecución de la acción del Gobierno en un sector específico, bajo dirección de un Ministro o del Presidente, pero no son miembros del Gobierno, sino solo órganos de la Administración, pudiendo existir o no.",
+        "explicacion": "Trampa típica: los Secretarios de Estado NO son miembros del Gobierno, sino solo órganos de la Administración, por mucho rango que tengan. Según el art. 7 de la Ley del Gobierno, son responsables de la ejecución de la acción del Gobierno en un sector concreto, bajo la dirección de un Ministro o del Presidente, y son órganos superiores que pueden existir o no.",
         "id": "tema-15-q10"
       },
       {
@@ -12724,7 +12724,7 @@ const TEMAS = [
           "Decisión del Subsecretario del Departamento correspondiente"
         ],
         "correcta": 0,
-        "explicacion": "El art. 58 Ley 40/2015 dispone que los Secretarios de Estado son nombrados y separados por Real Decreto del Consejo de Ministros a propuesta del Ministro correspondiente o, en su caso, del Presidente del Gobierno.",
+        "explicacion": "El art. 58 Ley 40/2015 dispone que los Secretarios de Estado se nombran y separan por Real Decreto del Consejo de Ministros, a propuesta del Ministro correspondiente o, en su caso, del Presidente del Gobierno. A diferencia de los órganos directivos, que ejecutan planes ya fijados, los Secretarios de Estado pueden existir o no en cada Departamento.",
         "id": "tema-15-q11"
       },
       {
@@ -12736,7 +12736,7 @@ const TEMAS = [
           "Son nombrados mediante Orden Ministerial del titular del Departamento"
         ],
         "correcta": 1,
-        "explicacion": "El art. 58 y el art. 63 Ley 40/2015 establecen que los Subsecretarios deben existir en todo caso, correspondiéndoles la representación ordinaria del Departamento, la dirección de los servicios comunes y competencias como personal, régimen interior o gestión económica y presupuestaria; la existencia excepcional es propia de los Secretarios Generales, la falta de condición de alto cargo de los Subdirectores Generales, y el nombramiento por Orden Ministerial también de los Subdirectores Generales.",
+        "explicacion": "Cada distractor describe en realidad a otro órgano: la existencia excepcional es de los Secretarios Generales, la falta de alto cargo es de los Subdirectores Generales, y el nombramiento por Orden Ministerial también es de los Subdirectores Generales. Los Subsecretarios deben existir en todo caso (arts. 58 y 63 Ley 40/2015), con la representación ordinaria del Departamento y la dirección de los servicios comunes, y se nombran por Real Decreto del Consejo de Ministros.",
         "id": "tema-15-q12"
       },
       {
@@ -12748,7 +12748,7 @@ const TEMAS = [
           "Sustituyen siempre a los Subsecretarios en sus funciones de representación ordinaria del Departamento"
         ],
         "correcta": 1,
-        "explicacion": "El art. 64 Ley 40/2015 prevé que los Secretarios Generales pueden existir, con carácter excepcional, para la dirección de un concreto sector de actuación administrativa, correspondiéndoles la consecución de los objetivos fijados y la impartición de instrucciones a los órganos dependientes; la existencia obligatoria es propia de los Subsecretarios, y los Secretarios Generales sí tienen condición de alto cargo y se nombran por Real Decreto del Consejo de Ministros, no por Orden Ministerial.",
+        "explicacion": "Al revés: la existencia obligatoria es propia de los Subsecretarios, no de los Secretarios Generales, que solo existen con carácter excepcional para dirigir un sector concreto de actuación administrativa (art. 64 Ley 40/2015). Sí tienen la condición de alto cargo y se nombran por Real Decreto del Consejo de Ministros, aunque son los únicos órganos directivos que no necesitan ser funcionarios de carrera del Grupo A.",
         "id": "tema-15-q13"
       },
       {
@@ -12760,7 +12760,7 @@ const TEMAS = [
           "No pueden asumir en ningún caso competencias sobre servicios comunes del Departamento"
         ],
         "correcta": 0,
-        "explicacion": "El art. 65 Ley 40/2015 atribuye a los Secretarios Generales Técnicos las competencias sobre producción normativa, asistencia jurídica y publicaciones del Departamento, estando bajo la inmediata dependencia del Subsecretario, pudiendo además asumir las competencias sobre servicios comunes que fije el Real Decreto de estructura (la representación ordinaria corresponde al Subsecretario, no a ellos).",
+        "explicacion": "Ojo, la representación ordinaria del Departamento corresponde al Subsecretario, no al Secretario General Técnico. Este asume las competencias sobre producción normativa, asistencia jurídica y publicaciones (art. 65 Ley 40/2015), bajo la inmediata dependencia del propio Subsecretario, y puede además recibir las competencias sobre servicios comunes que le fije el Real Decreto de estructura del Departamento.",
         "id": "tema-15-q14"
       },
       {
@@ -12772,7 +12772,7 @@ const TEMAS = [
           "No tienen atribuida la propuesta, dirección, impulso y control de los órganos dependientes"
         ],
         "correcta": 1,
-        "explicacion": "El art. 66 Ley 40/2015 permite excepcionalmente, si lo prevé el Real Decreto de estructura, que el titular de una Dirección General no sea funcionario, exigiéndose motivación mediante memoria razonada de las especiales características que justifiquen esa circunstancia excepcional; se nombran por Real Decreto del Consejo de Ministros (no Orden Ministerial) y sí tienen atribuida la propuesta, dirección, impulso y control de los órganos dependientes.",
+        "explicacion": "Cuidado con dos trampas a la vez: se nombran por Real Decreto del Consejo de Ministros, no por Orden Ministerial, y sí tienen atribuida la propuesta, dirección, impulso y control de los órganos dependientes. Excepcionalmente, si lo prevé el Real Decreto de estructura, su titular puede no ser funcionario, debiendo justificarse mediante memoria razonada las especiales características que lo motiven (art. 66 Ley 40/2015).",
         "id": "tema-15-q15"
       },
       {
@@ -12784,7 +12784,7 @@ const TEMAS = [
           "Decisión del Director General del que dependan jerárquicamente"
         ],
         "correcta": 1,
-        "explicacion": "Según el tema, los Subdirectores Generales son nombrados por Orden Ministerial, respetando los principios de igualdad, mérito y capacidad, y cesados por el Ministro, Secretario de Estado o Subsecretario del que dependan (art. 67 Ley 40/2015); el Real Decreto del Consejo de Ministros es la forma de nombramiento de Subsecretarios, Secretarios Generales, Secretarios Generales Técnicos y Directores Generales.",
+        "explicacion": "Al revés que el resto de órganos directivos: los Subdirectores Generales son la única excepción que se nombra por Orden Ministerial, no por Real Decreto del Consejo de Ministros. Respetando los principios de igualdad, mérito y capacidad, son cesados por el Ministro, el Secretario de Estado o el Subsecretario del que dependan (art. 67 Ley 40/2015).",
         "id": "tema-15-q16"
       },
       {
@@ -12796,7 +12796,7 @@ const TEMAS = [
           "El Subdirector General"
         ],
         "correcta": 3,
-        "explicacion": "El anexo especifica que todos los órganos directivos (Subsecretario, Secretario General, Secretario General Técnico y Director General) tienen la condición de alto cargo, salvo el Subdirector General, que no la tiene.",
+        "explicacion": "Al revés de lo que podría parecer por ser el rango más bajo entre los órganos directivos citados: todos los demás (Subsecretario, Secretario General, Secretario General Técnico y Director General) sí tienen la condición de alto cargo. El único que no la tiene es el Subdirector General, que en esto rompe la regla que sí cumplen los órganos superiores (Ministros y Secretarios de Estado).",
         "id": "tema-15-q17"
       },
       {
@@ -12808,7 +12808,7 @@ const TEMAS = [
           "El Subdirector General"
         ],
         "correcta": 1,
-        "explicacion": "El anexo indica que, a diferencia de los demás órganos directivos, el Secretario General no precisa ser funcionario de carrera del Grupo A, exigiéndose en su lugar cualificación y experiencia en el desempeño de puestos de responsabilidad en la gestión pública o privada.",
+        "explicacion": "El único órgano directivo que no exige ser funcionario de carrera del Grupo A es el Secretario General, para el que basta cualificación y experiencia en puestos de responsabilidad en la gestión pública o privada. Todos los demás (Subsecretario, Secretario General Técnico, Director General y Subdirector General) sí deben ser funcionarios del Grupo A, con la salvedad motivada que existe para los Directores Generales.",
         "id": "tema-15-q18"
       },
       {
@@ -12820,7 +12820,7 @@ const TEMAS = [
           "Los Delegados del Gobierno destinados en el extranjero"
         ],
         "correcta": 1,
-        "explicacion": "El tema señala expresamente que en la AGE en el exterior son órganos directivos los embajadores y representantes permanentes ante Organizaciones internacionales, no otras figuras diplomáticas o territoriales.",
+        "explicacion": "En la AGE en el exterior son órganos directivos los embajadores, como representantes del Estado ante otros países, y los representantes permanentes ante Organizaciones internacionales, que ejercen la representación institucional de España; no otras figuras diplomáticas ni territoriales.",
         "id": "tema-15-q19"
       },
       {
@@ -12832,7 +12832,7 @@ const TEMAS = [
           "Las Delegaciones del Gobierno serán suprimidas cuando exista transferencia plena de competencias a la Comunidad Autónoma"
         ],
         "correcta": 0,
-        "explicacion": "El art. 154 CE, citado en el tema, establece literalmente que un delegado nombrado por el Gobierno dirigirá la administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad.",
+        "explicacion": "El art. 154 CE establece literalmente que un delegado nombrado por el Gobierno dirigirá la administración del Estado en el territorio de la Comunidad Autónoma y la coordinará, cuando proceda, con la administración propia de la Comunidad. Es la base constitucional que después desarrolla el art. 72 de la Ley 40/2015.",
         "id": "tema-15-q20"
       },
       {
@@ -12844,7 +12844,7 @@ const TEMAS = [
           "Decisión del Presidente de la Comunidad Autónoma correspondiente, con rango de Subdirector General"
         ],
         "correcta": 0,
-        "explicacion": "Conforme al art. 154 CE y al art. 72.4 Ley 40/2015, los Delegados del Gobierno son nombrados y separados por Real Decreto del Consejo de Ministros a propuesta del Presidente del Gobierno, y tienen rango de Subsecretario.",
+        "explicacion": "Cuidado con no mezclar su rango con el del Subdelegado: el Delegado del Gobierno tiene rango de Subsecretario, mientras que el Subdelegado tiene rango de Subdirector General. Se nombra y separa por Real Decreto del Consejo de Ministros a propuesta del Presidente del Gobierno, no del Ministro del Interior (art. 154 CE y art. 72.4 Ley 40/2015).",
         "id": "tema-15-q21"
       },
       {
@@ -12856,7 +12856,7 @@ const TEMAS = [
           "Orgánica y funcionalmente del Consejo de Ministros en pleno, sin dependencia ministerial específica"
         ],
         "correcta": 0,
-        "explicacion": "El art. 72.3 Ley 40/2015 establece que los Delegados del Gobierno dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia (según el tema, el Ministerio de Hacienda y Función Pública), no al revés.",
+        "explicacion": "Al revés de como lo plantea la segunda opción: los Delegados del Gobierno dependen orgánicamente del Presidente del Gobierno y funcionalmente del Ministerio competente por razón de la materia (el Ministerio de Hacienda y Función Pública), no a la inversa (art. 72.3 Ley 40/2015).",
         "id": "tema-15-q22"
       },
       {
@@ -12868,7 +12868,7 @@ const TEMAS = [
           "Al Director Insular de mayor rango de la Comunidad Autónoma"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que la suplencia corresponde al Subdelegado del Gobierno que el Delegado designe y, en su defecto, al de la provincia donde tenga su sede, correspondiendo al Secretario General en las Comunidades Autónomas uniprovinciales sin Subdelegado.",
+        "explicacion": "La suplencia del Delegado del Gobierno corresponde al Subdelegado que él mismo designe y, en su defecto, al de la provincia donde tenga su sede. En las Comunidades Autónomas uniprovinciales que carezcan de Subdelegado, la suplencia recae en el Secretario General.",
         "id": "tema-15-q23"
       },
       {
@@ -12880,7 +12880,7 @@ const TEMAS = [
           "Por el Presidente del Gobierno, con rango de Secretario General Técnico"
         ],
         "correcta": 0,
-        "explicacion": "El art. 74 Ley 40/2015 dispone que los Subdelegados del Gobierno son nombrados y separados libremente por el Delegado del Gobierno en la Comunidad Autónoma, entre funcionarios de carrera, con rango de Subdirector General (el Real Decreto del Consejo de Ministros y el rango de Subsecretario corresponden al propio Delegado del Gobierno).",
+        "explicacion": "No intercambies sus datos con los del Delegado: el Real Decreto del Consejo de Ministros y el rango de Subsecretario corresponden al Delegado del Gobierno, no al Subdelegado. Los Subdelegados son nombrados y separados libremente por el Delegado del Gobierno de la Comunidad Autónoma, entre funcionarios de carrera, con rango de Subdirector General (art. 74 Ley 40/2015).",
         "id": "tema-15-q24"
       },
       {
@@ -12892,7 +12892,7 @@ const TEMAS = [
           "Únicamente en Ibiza-Formentera y Lanzarote"
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que los Directores Insulares, regulados en el art. 70 Ley 40/2015 y nombrados por los Delegados del Gobierno, existen en Menorca, Ibiza-Formentera, Lanzarote, Fuerteventura, La Palma, El Hierro y La Gomera, sustituyendo allí a los Subdelegados; Mallorca, Tenerife y Gran Canaria, en cambio, sí cuentan con Subdelegado del Gobierno.",
+        "explicacion": "Al revés de lo que se podría pensar: Mallorca, Tenerife y Gran Canaria sí cuentan con Subdelegado del Gobierno, como cualquier provincia. Son las islas menores (Menorca, Ibiza-Formentera, Lanzarote, Fuerteventura, La Palma, El Hierro y La Gomera) las que tienen Director Insular en su lugar, nombrado por el Delegado del Gobierno y con las mismas funciones que un Subdelegado (art. 70 Ley 40/2015).",
         "id": "tema-15-q25"
       },
       {
@@ -12904,7 +12904,7 @@ const TEMAS = [
           "El órgano encargado de resolver en última instancia los recursos administrativos ordinarios"
         ],
         "correcta": 0,
-        "explicacion": "El apartado primero del art. 1 de la LO 3/1980 establece literalmente que «el Consejo de Estado es el supremo órgano consultivo del Gobierno», ejerciendo su función con autonomía orgánica y funcional conforme al art. 2 de su Ley Orgánica.",
+        "explicacion": "El art. 1 de la LO 3/1980 dice literalmente que «el Consejo de Estado es el supremo órgano consultivo del Gobierno», sin que deba confundirse con un órgano jurisdiccional. Ejerce su función con autonomía orgánica y funcional para garantizar su objetividad e independencia, conforme al art. 2 de su Ley Orgánica.",
         "id": "tema-15-q26"
       },
       {
@@ -12916,7 +12916,7 @@ const TEMAS = [
           "El presidente, los Delegados del Gobierno y los Subdelegados del Gobierno"
         ],
         "correcta": 0,
-        "explicacion": "El art. 4 de la Ley Orgánica del Consejo de Estado establece que integran el Pleno el presidente, los consejeros permanentes, los consejeros natos, los consejeros electivos y el secretario general; la composición formada únicamente por presidente, consejeros permanentes y secretario general corresponde, según el art. 5, a la Comisión Permanente.",
+        "explicacion": "Cuidado, la composición con solo presidente, consejeros permanentes y secretario general es la de la Comisión Permanente (art. 5), no la del Pleno. El Pleno (art. 4) se compone del presidente, los consejeros permanentes, los consejeros natos, los consejeros electivos y el secretario general.",
         "id": "tema-15-q27"
       },
       {
@@ -12928,7 +12928,7 @@ const TEMAS = [
           "Son vinculantes únicamente cuando se refieren a anteproyectos de reforma constitucional"
         ],
         "correcta": 0,
-        "explicacion": "El art. 2 de la Ley Orgánica del Consejo de Estado dispone que los dictámenes del Consejo no serán vinculantes, salvo que la ley disponga lo contrario, siendo esta la regla general de eficacia no vinculante, con independencia del órgano (Pleno o Comisión Permanente) o de la materia sobre la que se dictamine.",
+        "explicacion": "El art. 2 de la Ley Orgánica del Consejo de Estado fija como regla general que sus dictámenes no son vinculantes, salvo que la ley disponga lo contrario; si el órgano consultante se aparta del dictamen, debe motivarlo. Esta falta de vinculación es independiente de que dictamine el Pleno o la Comisión Permanente, y de que la consulta sea preceptiva o facultativa.",
         "id": "tema-15-q28"
       }
     ]
@@ -12947,7 +12947,7 @@ const TEMAS = [
           "La Administración Instrumental del Estado."
         ],
         "correcta": 0,
-        "explicacion": "El documento se titula literalmente \"Tema 16. La Administración Institucional.\" Las demás son epígrafes o denominaciones que aparecen dentro del propio tema, pero no su título.",
+        "explicacion": "El título literal es «Tema 16. La Administración Institucional.» «Sector Público Institucional» es la denominación genérica que usa la Ley 40/2015 para este mismo ámbito, pero no es el título del tema.",
         "id": "tema-16-q1"
       },
       {
@@ -12959,7 +12959,7 @@ const TEMAS = [
           "El conjunto de organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas conforme al artículo 2 de la Ley 40/2015."
         ],
         "correcta": 0,
-        "explicacion": "La opción B corresponde al sentido amplio del concepto, no al sentido estricto, según el epígrafe inicial del tema; las otras dos mezclan otros conceptos del tema (huida del Derecho Administrativo, art. 2 de la Ley 40/2015) que no son la definición estricta pedida.",
+        "explicacion": "Ojo, no confundir los dos sentidos: la opción B es la definición en sentido amplio (entes públicos menores no territoriales), no la estricta. En sentido estricto es el conjunto de organizaciones de que se sirven los entes territoriales para cumplir funciones de servicio público. Las otras opciones mezclan la huida del Derecho Administrativo y el art. 2 de la Ley 40/2015, cuestiones distintas de esta definición.",
         "id": "tema-16-q2"
       },
       {
@@ -12971,7 +12971,7 @@ const TEMAS = [
           "Necesidad de reducir la plantilla de personal funcionarial trasladando funciones a fórmulas de gestión especializada."
         ],
         "correcta": 3,
-        "explicacion": "El texto recoge únicamente tres razones: búsqueda de eficacia, excepción a la universalidad presupuestaria/unidad de caja y huida del Derecho Administrativo común.",
+        "explicacion": "El texto recoge solo tres razones: eficacia en la gestión técnica y económica especializada, excepción a la universalidad presupuestaria y unidad de caja, y huida del Derecho Administrativo común. Reducir la plantilla funcionarial no aparece entre ellas.",
         "id": "tema-16-q3"
       },
       {
@@ -12983,7 +12983,7 @@ const TEMAS = [
           "Reserva de estatutos, bastando la aprobación de su propio Estatuto sin necesidad de norma con rango de ley."
         ],
         "correcta": 1,
-        "explicacion": "Es una de las cinco características de los entes institucionales recogidas en el tema: se rigen por el principio de numerus apertus.",
+        "explicacion": "Al revés de lo que sugiere el numerus clausus: los entes institucionales se rigen por el numerus apertus, pudiendo crearse tantos como fines a perseguir. Es una de las cinco características del tema, junto con ser Administración Pública, gozar de personalidad jurídica, la instrumentalidad y la dependencia del ente matriz.",
         "id": "tema-16-q4"
       },
       {
@@ -12995,7 +12995,7 @@ const TEMAS = [
           "El Ente institucional se disuelve automáticamente cuando sus fines han sido totalmente cumplidos."
         ],
         "correcta": 0,
-        "explicacion": "El texto define la instrumentalidad precisamente como que el Ente institucional nace para la consecución de un fin; las otras opciones mezclan otras características (patrimonio propio, dependencia del ente matriz, causas de disolución) que son distintas de la instrumentalidad.",
+        "explicacion": "La instrumentalidad es, literalmente, que el ente nace para la consecución de un fin. No debe confundirse con otras características del tema, como la dependencia del ente matriz (que no impide tener personalidad jurídica propia) ni con las causas de disolución, que son cuestiones distintas.",
         "id": "tema-16-q5"
       },
       {
@@ -13007,7 +13007,7 @@ const TEMAS = [
           "Instituto de la Mujer, dependiente de las Confederaciones Hidrográficas."
         ],
         "correcta": 1,
-        "explicacion": "El texto cita este caso como ejemplo de dependencia respecto del Ente matriz, siendo el INTA (Instituto Nacional de Técnica Aeroespacial) el organismo autónomo del que depende. Los demás combinan nombres reales del tema pero en relaciones de dependencia inventadas.",
+        "explicacion": "El ejemplo que da el texto es el Centro de Experiencias Hidrodinámicas de El Pardo, que depende de otro Organismo Autónomo, el INTA (Instituto Nacional de Técnica Aeroespacial), sin perder por ello su propia personalidad jurídica. Las demás opciones combinan organismos reales del tema en relaciones de dependencia que no aparecen en él.",
         "id": "tema-16-q6"
       },
       {
@@ -13019,7 +13019,7 @@ const TEMAS = [
           "La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público."
         ],
         "correcta": 2,
-        "explicacion": "El texto identifica la LEEA de 1958 como ese primer intento normativo general, no alcanzado con éxito; las demás son normas posteriores citadas en el tema pero no la de 1958.",
+        "explicacion": "No hay que confundirla con la LGP de 1988: la norma de 1958 que intentó, sin éxito, unificar el régimen de la Administración Institucional es la Ley de Entidades Estatales Autónomas (LEEA), de 26 de diciembre de 1958. La LGP de 1988 fue la que, después, sí permitió clasificar estas entidades.",
         "id": "tema-16-q7"
       },
       {
@@ -13031,7 +13031,7 @@ const TEMAS = [
           "Entidades Públicas Empresariales, Universidades Públicas y Sociedades Mercantiles."
         ],
         "correcta": 0,
-        "explicacion": "Clasificación conforme a los artículos 4 y 6 (apartados 1 y 5) de la LGP de 1988. Las demás opciones combinan categorías que corresponden a la tipología posterior de la Ley 40/2015, no a la LGP de 1988.",
+        "explicacion": "La LGP de 1988 (arts. 4 y 6) clasificó las entidades en Organismos Autónomos, Sociedades Estatales y Entes con Estatuto jurídico especial. Agencias Estatales, Entidades Públicas Empresariales y Consorcios son categorías posteriores, propias ya de la tipología de la Ley 40/2015.",
         "id": "tema-16-q8"
       },
       {
@@ -13043,7 +13043,7 @@ const TEMAS = [
           "De carácter territorial y de carácter no territorial."
         ],
         "correcta": 1,
-        "explicacion": "Así lo recoge expresamente el texto al citar el art. 4 de la LGP de 1988: OO.AA. de carácter administrativo y de carácter comercial, industrial, financiero y análogos.",
+        "explicacion": "El art. 4 de la LGP de 1988 distingue Organismos Autónomos de carácter administrativo (sometidos plenamente al Derecho público) y de carácter comercial, industrial, financiero y análogos (regidos en general por el Derecho privado). No se clasifican por ámbito territorial ni por tipo de gestión.",
         "id": "tema-16-q9"
       },
       {
@@ -13055,7 +13055,7 @@ const TEMAS = [
           "Solo ha sido derogada parcialmente, en lo relativo a las Agencias Estatales."
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que la LOFAGE «ha sido derogada en su totalidad por la Ley 40/2015», no por la Ley 47/2003 ni de forma solo parcial.",
+        "explicacion": "La LOFAGE ha sido derogada en su totalidad por la Ley 40/2015, no de forma parcial ni por la Ley 47/2003 (que es la Ley General Presupuestaria de 2003, norma distinta que regula otra materia).",
         "id": "tema-16-q10"
       },
       {
@@ -13067,7 +13067,7 @@ const TEMAS = [
           "«Sector Público Empresarial»."
         ],
         "correcta": 0,
-        "explicacion": "El texto lo señala expresamente al describir el enfoque de la Ley 40/2015, que opta por «Sector Público Institucional».",
+        "explicacion": "La Ley 40/2015 adopta la denominación genérica «Sector Público Institucional». El texto explica que «Organismos Públicos» se considera errónea porque en realidad esa expresión solo engloba una parte de ese sector, no todo su conjunto.",
         "id": "tema-16-q11"
       },
       {
@@ -13079,7 +13079,7 @@ const TEMAS = [
           "Solo se consideran sector público institucional estatal las Universidades Públicas no transferidas, rigiéndose el resto exclusivamente por la Ley 40/2015."
         ],
         "correcta": 1,
-        "explicacion": "Así lo dispone el apartado c) del artículo 2 de la Ley 40/2015 citado en el texto: normativa específica y, supletoriamente, la Ley 40/2015.",
+        "explicacion": "Las Universidades públicas se rigen por su normativa específica y, solo supletoriamente, por la Ley 40/2015 (art. 2.c). El texto precisa además que, a efectos del sector público institucional estatal, se consideran específicamente las universidades públicas no transferidas.",
         "id": "tema-16-q12"
       },
       {
@@ -13091,7 +13091,7 @@ const TEMAS = [
           "El artículo 43.1 de la LOFAGE."
         ],
         "correcta": 0,
-        "explicacion": "Así lo recoge el apartado b) del artículo 2 de la Ley 40/2015 mencionado en el texto; los demás artículos citados existen pero regulan otras materias (disolución, sociedades mercantiles, LOFAGE).",
+        "explicacion": "El art. 2.b) de la Ley 40/2015 sujeta a estas entidades a los principios del art. 3 de la propia ley, y en todo caso cuando ejerzan potestades administrativas. Los arts. 96 y 111 citados en las otras opciones existen, pero regulan disolución de organismos y sociedades mercantiles, materias distintas.",
         "id": "tema-16-q13"
       },
       {
@@ -13103,7 +13103,7 @@ const TEMAS = [
           "El Real Decreto Legislativo 4/2015, de 23 de octubre."
         ],
         "correcta": 2,
-        "explicacion": "El texto señala que la Ley 47/2003, nueva Ley General Presupuestaria, amplía este concepto en su artículo 2. Las demás normas se citan en el tema para otras cuestiones (fundaciones, agencias estatales, mercado de valores).",
+        "explicacion": "Es la Ley 47/2003, de 26 de noviembre, General Presupuestaria, la que amplía supletoriamente este concepto en su art. 2. Las demás normas se citan en el tema para otras cuestiones: la Ley 50/2002 regula fundaciones, la Ley 28/2006 agencias estatales y el RDL 4/2015 el mercado de valores.",
         "id": "tema-16-q14"
       },
       {
@@ -13115,7 +13115,7 @@ const TEMAS = [
           "La Ley 28/2006, de Agencias Estatales."
         ],
         "correcta": 1,
-        "explicacion": "Esa modificación, operada por la disposición final 34.1 de la Ley 11/2020, volvió a incluir las agencias estatales como organismos públicos dentro del sector público institucional.",
+        "explicacion": "La modificación la realiza la disposición final 34.1 de la Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado, que volvió a incluir a las agencias estatales como organismos públicos del sector público institucional tras el fin de su periodo transitorio.",
         "id": "tema-16-q15"
       },
       {
@@ -13127,7 +13127,7 @@ const TEMAS = [
           "Entidades Públicas Empresariales, Consorcios y Fundaciones del sector público."
         ],
         "correcta": 0,
-        "explicacion": "El texto lo indica expresamente al enumerar los tres modelos básicos partiendo del concepto general de Organismos Públicos; las demás combinan otras categorías del sector público institucional que no son esos tres modelos.",
+        "explicacion": "Los tres modelos básicos de Organismos Públicos son Organismos Autónomos, Entidades Públicas Empresariales y Agencias Estatales. Sociedades Estatales, Consorcios, Fundaciones o autoridades independientes forman parte del Sector Público Institucional en sentido amplio, pero no son estos tres modelos.",
         "id": "tema-16-q16"
       },
       {
@@ -13139,7 +13139,7 @@ const TEMAS = [
           "Potestad tributaria originaria e ilimitada."
         ],
         "correcta": 0,
-        "explicacion": "Así lo establece el artículo 89.1 de la Ley 40/2015, citado literalmente en el texto.",
+        "explicacion": "El art. 89.1 de la Ley 40/2015 atribuye a los Organismos Públicos personalidad jurídica pública diferenciada, patrimonio y tesorería propios y autonomía de gestión, en los términos que establece la ley de cada uno; no tienen personalidad privada ni potestad tributaria propia.",
         "id": "tema-16-q17"
       },
       {
@@ -13151,7 +13151,7 @@ const TEMAS = [
           "La potestad reglamentaria."
         ],
         "correcta": 1,
-        "explicacion": "El texto exceptúa expresamente la potestad expropiatoria conforme al artículo 89.2.",
+        "explicacion": "El art. 89.2 exceptúa expresamente la potestad expropiatoria. Las demás potestades citadas —sancionadora, de autoorganización o reglamentaria— sí pueden atribuirse a los Organismos Públicos en sus Estatutos.",
         "id": "tema-16-q18"
       },
       {
@@ -13163,7 +13163,7 @@ const TEMAS = [
           "Estatuto propio aprobado por el organismo."
         ],
         "correcta": 0,
-        "explicacion": "La ley de creación establecerá el tipo de organismo, sus fines, el departamento de vinculación y, en su caso, los recursos económicos y peculiaridades de su régimen (art. 91.1 y 2 LRJSP).",
+        "explicacion": "Se crean en todo caso por ley, que fija el tipo de organismo, sus fines y el departamento de vinculación y, en su caso, los recursos económicos y peculiaridades de su régimen (art. 91.1 y 2 LRJSP). El anteproyecto debe ir acompañado, además, de la propuesta de Estatutos y del Plan inicial de actuación.",
         "id": "tema-16-q19"
       },
       {
@@ -13175,7 +13175,7 @@ const TEMAS = [
           "La imposición de una sanción firme por parte del Tribunal de Cuentas."
         ],
         "correcta": 3,
-        "explicacion": "El artículo 96 de la Ley 40/2015 no contempla la sanción del Tribunal de Cuentas entre sus causas de disolución, aunque este órgano sí interviene como control externo de las agencias estatales.",
+        "explicacion": "El art. 96 de la Ley 40/2015 no incluye la sanción del Tribunal de Cuentas entre las causas de disolución; sí lo son el transcurso del tiempo fijado, la asunción total de los fines por la AGE o el incumplimiento detectado en el seguimiento del plan de actuación. El Tribunal de Cuentas interviene, en cambio, como control externo de las agencias estatales.",
         "id": "tema-16-q20"
       },
       {
@@ -13187,7 +13187,7 @@ const TEMAS = [
           "Resolución de la Intervención General de la Administración del Estado."
         ],
         "correcta": 1,
-        "explicacion": "El texto indica que «la disolución se realiza por acuerdo del Consejo de Ministros», no mediante Real Decreto ni por otros órganos.",
+        "explicacion": "Ojo, no es un Real Decreto: la disolución se realiza por acuerdo del Consejo de Ministros. Ese mismo acuerdo debe designar además un órgano administrativo o entidad del sector público institucional como liquidador.",
         "id": "tema-16-q21"
       },
       {
@@ -13199,7 +13199,7 @@ const TEMAS = [
           "La liquidación queda en suspenso hasta la aprobación de la siguiente Ley de Presupuestos Generales del Estado."
         ],
         "correcta": 0,
-        "explicacion": "El texto señala que, publicado el acuerdo de disolución, la liquidación se inicia automáticamente, y formalizada esta se produce la extinción automática.",
+        "explicacion": "Publicado el acuerdo de disolución, la liquidación se inicia automáticamente, mediante cesión e integración global del activo y pasivo del organismo en la Administración General del Estado, que le sucede en todos sus derechos y obligaciones. Formalizada la liquidación se produce la extinción automática, sin necesidad de un nuevo acuerdo del Consejo de Ministros.",
         "id": "tema-16-q22"
       },
       {
@@ -13211,7 +13211,7 @@ const TEMAS = [
           "No pueden ejercer potestades administrativas, rigiéndose en todo caso por el Derecho privado."
         ],
         "correcta": 0,
-        "explicacion": "El texto define a las entidades públicas empresariales como aquellas donde todo el capital es público, poniendo como ejemplo la Fábrica Nacional de Moneda y Timbre y las Autoridades Portuarias; el umbral de participación superior al 50% y el ejemplo del Museo del Prado corresponden a las Sociedades Mercantiles Estatales, no a las entidades públicas empresariales.",
+        "explicacion": "No confundir con las Sociedades Mercantiles Estatales: en las Entidades Públicas Empresariales todo el capital es público (100%), y el texto pone como ejemplo la Fábrica Nacional de Moneda y Timbre y las Autoridades Portuarias adscritas al Ministerio de Fomento. El umbral de participación superior al 50% y el ejemplo del Museo del Prado corresponden, en cambio, a las Sociedades Mercantiles Estatales.",
         "id": "tema-16-q23"
       },
       {
@@ -13223,7 +13223,7 @@ const TEMAS = [
           "El 100% del capital, sin excepción."
         ],
         "correcta": 0,
-        "explicacion": "El texto cita como ejemplos el Museo Nacional del Prado y el Hipódromo de la Zarzuela para este tipo de sociedades, cuyo capital público mayoritario se define como superior al 50%, directa o indirectamente; el 100% del capital corresponde, en cambio, a las Entidades Públicas Empresariales.",
+        "explicacion": "Al revés que en las Entidades Públicas Empresariales, donde el capital es 100% público: en las Sociedades Mercantiles Estatales basta una participación mayoritaria superior al 50%, directa o indirecta. El texto cita como ejemplos el Museo Nacional del Prado y el Hipódromo de la Zarzuela.",
         "id": "tema-16-q24"
       },
       {
@@ -13235,7 +13235,7 @@ const TEMAS = [
           "La comisión de control creada en el seno del Consejo Rector de cada agencia."
         ],
         "correcta": 0,
-        "explicacion": "El texto distingue expresamente el control externo del Tribunal de Cuentas del control interno atribuido a la Intervención General de la Administración del Estado, distinto del órgano de gobierno (Consejo Rector) y de la comisión de control que forma parte de la estructura organizativa de la agencia.",
+        "explicacion": "El control interno compete a la Intervención General de la Administración del Estado (IGAE), que se realiza conforme a las modalidades de control financiero permanente y auditoría pública de la Ley General Presupuestaria. El Consejo Rector es el órgano de gobierno de la agencia y la comisión de control forma parte de su propia estructura organizativa, no del control interno estatal.",
         "id": "tema-16-q25"
       }
     ]
@@ -13254,7 +13254,7 @@ const TEMAS = [
           "Mediante el procedimiento disciplinario, aplicable a las personas administradas en general (excluidas las materias tributaria y de orden social), y el procedimiento sancionador, aplicable al personal a su servicio."
         ],
         "correcta": 0,
-        "explicacion": "El texto distingue dos manifestaciones: el procedimiento sancionador (excluidas materias tributarias y de orden social) y el procedimiento disciplinario para el personal a su servicio.",
+        "explicacion": "Ojo con las materias excluidas: son la tributaria y la de orden social, no la urbanística. El procedimiento sancionador es para los administrados en general; el disciplinario, para el personal a su servicio (funcionarios, laborales y contratados), regulado por normas de rango legal y reglamentario.",
         "id": "tema-21-bis-q1"
       },
       {
@@ -13266,7 +13266,7 @@ const TEMAS = [
           "La potestad sancionadora se compartía entre el poder judicial y el Consejo de Estado."
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que en la CE 1812 la Administración no tenía potestad sancionadora, que solo tenía el poder judicial; después, por Decreto, se reconoció a Gobernadores y luego a alcaldes.",
+        "explicacion": "Cuidado con las fechas: en la CE de 1812 la Administración no tenía potestad sancionadora, que era exclusiva del poder judicial. Solo después, mediante Decreto, se reconoció primero a los Gobernadores civiles y más tarde a los alcaldes.",
         "id": "tema-21-bis-q2"
       },
       {
@@ -13278,7 +13278,7 @@ const TEMAS = [
           "Que la Administración civil no podrá imponer sanciones pecuniarias superiores a las previstas para infracciones penales equivalentes."
         ],
         "correcta": 0,
-        "explicacion": "El párrafo tercero del art. 25 CE establece que la Administración civil no podrá imponer sanciones que, directa o subsidiariamente, impliquen privación de libertad.",
+        "explicacion": "No lo confundas con el art. 25.1 (principio de legalidad, opción 2) ni con el 25.2 (reeducación y reinserción social, opción 3). El art. 25.3 CE es el que impide a la Administración civil imponer sanciones que, directa o subsidiariamente, supongan privación de libertad.",
         "id": "tema-21-bis-q3"
       },
       {
@@ -13290,7 +13290,7 @@ const TEMAS = [
           "Que solo puede ser sancionada la persona en la que concurra dolo o culpa, quedando excluida cualquier revisión por los tribunales ordinarios."
         ],
         "correcta": 0,
-        "explicacion": "El cuarto límite señalado implica que toda sanción administrativa es revisable por los tribunales ordinarios y que, cuando existe sentencia penal, la Administración queda limitada por lo establecido en ella.",
+        "explicacion": "No lo confundas con otros límites del art. 25 CE, como el respeto a los derechos de defensa del art. 24 o la exigencia de culpabilidad. La subordinación a jueces y tribunales implica que toda sanción administrativa es revisable por los tribunales ordinarios y que la Administración queda vinculada por lo declarado en las sentencias penales.",
         "id": "tema-21-bis-q4"
       },
       {
@@ -13302,7 +13302,7 @@ const TEMAS = [
           "Una garantía objetiva (proporcionalidad de la sanción) y una garantía subjetiva (culpabilidad del infractor)."
         ],
         "correcta": 0,
-        "explicacion": "El TC distingue una garantía material de seguridad, por la predeterminación normativa de las conductas, y una garantía formal, por el rango de ley exigido a la norma tipificadora.",
+        "explicacion": "Al revés de lo que dice la opción 2: la garantía material o de seguridad es la predeterminación normativa de las conductas y sus sanciones, y la garantía formal es el rango de ley exigido a la norma tipificadora. Esta doble garantía la construye el TC a partir del art. 25.1 CE.",
         "id": "tema-21-bis-q5"
       },
       {
@@ -13314,7 +13314,7 @@ const TEMAS = [
           "Que se ejercerá cuando haya sido reconocida por ordenanza municipal, con aplicación del procedimiento previsto para su ejercicio."
         ],
         "correcta": 0,
-        "explicacion": "El texto cita literalmente el art. 25.1 LRJSP: la potestad sancionadora se ejercerá cuando haya sido expresamente reconocida por una norma con rango de Ley.",
+        "explicacion": "El art. 25.1 LRJSP exige dos cosas a la vez, no solo una: rango de Ley para reconocer la potestad y sujeción al procedimiento previsto para ejercerla. Eso sí, la atribución del órgano competente dentro de la Administración puede hacerse por simple Reglamento.",
         "id": "tema-21-bis-q6"
       },
       {
@@ -13326,7 +13326,7 @@ const TEMAS = [
           "Que las ordenanzas municipales quedan equiparadas a las leyes autonómicas a efectos de tipificación de infracciones."
         ],
         "correcta": 0,
-        "explicacion": "La STC 132/2001 flexibilizó la exigencia de ley para la tipificación en el ámbito municipal cuando existe interés local, doctrina luego recogida en la Ley de Bases de Régimen Local.",
+        "explicacion": "La STC 132/2001 no mantiene la exigencia de ley de forma rígida en el ámbito local ni la limita a lo tributario: la flexibiliza allí donde existe interés local para la regulación municipal. Esta doctrina se incorporó después a la Ley de Bases de Régimen Local, tras la reforma de la Ley 57/2003.",
         "id": "tema-21-bis-q7"
       },
       {
@@ -13338,7 +13338,7 @@ const TEMAS = [
           "La exigencia de que concurra dolo o culpa en el sujeto responsable."
         ],
         "correcta": 0,
-        "explicacion": "El texto indica expresamente que 'consecuencia inmediata del principio de tipicidad es la prohibición de la analogía'.",
+        "explicacion": "No lo confundas con el principio de irretroactividad, que es un principio distinto (y del que sí se ocupan las siguientes preguntas). La consecuencia inmediata del principio de tipicidad, según el tema, es la prohibición de la analogía.",
         "id": "tema-21-bis-q8"
       },
       {
@@ -13350,7 +13350,7 @@ const TEMAS = [
           "Que serán de aplicación las disposiciones sancionadoras vigentes en el momento en que la resolución adquiera firmeza."
         ],
         "correcta": 0,
-        "explicacion": "El art. 26 Ley 40/2015 dispone que se aplicarán las disposiciones sancionadoras vigentes en el momento de producirse los hechos constitutivos de infracción.",
+        "explicacion": "Ojo, no es el momento de la resolución, ni el de la notificación de la incoación, ni el de la firmeza: el art. 26 toma como referencia el momento en que se producen los hechos constitutivos de infracción. Así se prohíbe aplicar disposiciones sancionadoras desfavorables aprobadas después de esos hechos.",
         "id": "tema-21-bis-q9"
       },
       {
@@ -13362,7 +13362,7 @@ const TEMAS = [
           "Cuando la infracción sea calificada como leve, con independencia de que favorezcan o no al infractor."
         ],
         "correcta": 0,
-        "explicacion": "El art. 26.2 Ley 40/2015 establece que las disposiciones sancionadoras producirán efecto retroactivo en cuanto favorezcan al presunto infractor.",
+        "explicacion": "Al revés: la retroactividad favorable del art. 26.2 juega a favor del presunto infractor, nunca de la Administración actuante. Es el llamado principio de retroactividad, que se combina con el de irretroactividad del art. 26.1 para las disposiciones desfavorables.",
         "id": "tema-21-bis-q10"
       },
       {
@@ -13374,7 +13374,7 @@ const TEMAS = [
           "Que la culpabilidad de las personas jurídicas se presume iuris et de iure, sin admitir prueba en contrario."
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que, tratándose de personas jurídicas, podría sancionarse a la empresa, al órgano en concreto, a la persona en la que recaiga, o a la empresa o a la persona (art. 28.2).",
+        "explicacion": "No es una regla cerrada: ante la duda sobre la culpabilidad de las personas jurídicas, el art. 28.2 admite sancionar a la empresa, al órgano en concreto, a la persona en que recaiga, o bien a la empresa o a la persona. No se limita, por tanto, a la persona física representante ni excluye a la propia persona jurídica.",
         "id": "tema-21-bis-q11"
       },
       {
@@ -13386,7 +13386,7 @@ const TEMAS = [
           "El número de recursos interpuestos por el interesado."
         ],
         "correcta": 0,
-        "explicacion": "Entre las circunstancias que se tendrán en cuenta conforme al art. 29 se citan el grado de culpabilidad, la continuidad en la conducta infractora, la naturaleza de los perjuicios y la reincidencia.",
+        "explicacion": "El tema cita expresamente cuatro criterios de proporcionalidad: el grado de culpabilidad, la continuidad en la conducta infractora, la naturaleza de los perjuicios y la reincidencia; la capacidad económica no figura entre ellos en este resumen. Este principio busca, además, que nunca resulte más rentable infringir la norma que cumplirla.",
         "id": "tema-21-bis-q12"
       },
       {
@@ -13398,7 +13398,7 @@ const TEMAS = [
           "Cuando se comete, en el término de un año, más de una infracción de la misma naturaleza, declarada por resolución firme en vía judicial."
         ],
         "correcta": 0,
-        "explicacion": "La nota al pie precisa que la reincidencia consiste en la comisión, en el término de un año, de más de una infracción de la misma naturaleza, declarada por resolución firme en vía administrativa.",
+        "explicacion": "Cuidado con los tres detalles que suelen intercambiarse: el plazo es de un año (no dos), la infracción debe ser de la misma naturaleza (no distinta) y la resolución firme debe serlo en vía administrativa (no judicial). Esta noción de reincidencia es una de las circunstancias que gradúan la sanción conforme al principio de proporcionalidad.",
         "id": "tema-21-bis-q13"
       },
       {
@@ -13410,7 +13410,7 @@ const TEMAS = [
           "1 año."
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que las infracciones muy graves prescriben a los 3 años, las graves a los 2 años y las leves a los 6 meses, conforme al art. 30 Ley 40/2015.",
+        "explicacion": "No lo confundas con los otros plazos: las infracciones graves prescriben a los 2 años y las leves a los 6 meses. Las muy graves son las que prescriben a los 3 años, plazo que empieza a contar desde que se comete la infracción.",
         "id": "tema-21-bis-q14"
       },
       {
@@ -13422,7 +13422,7 @@ const TEMAS = [
           "Que quedó derogada definitivamente con la entrada en vigor de la Ley 40/2015, sin vigencia posterior."
         ],
         "correcta": 0,
-        "explicacion": "El texto explica que la presunción de inocencia, prevista en la anterior LRJPAC y desaparecida formalmente en la nueva normativa, sigue vigente, correspondiendo la carga de la prueba a quien acusa.",
+        "explicacion": "Al revés de lo que dicen las opciones erróneas: la presunción de inocencia sí estaba prevista expresamente en la antigua LRJPAC y desapareció formalmente del texto vigente, pero se considera que sigue plenamente en vigor. Por eso la carga de la prueba sigue recayendo en quien acusa, no en el presunto infractor.",
         "id": "tema-21-bis-q15"
       },
       {
@@ -13434,7 +13434,7 @@ const TEMAS = [
           "Que exista coincidencia de sujetos y de fundamentos, siendo irrelevante la identidad de los hechos."
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que la prohibición de doble sanción exige que exista coincidencia de sujetos, de hechos y de fundamentos entre ambos procedimientos.",
+        "explicacion": "Los tres requisitos son acumulativos, no basta con que coincidan solo dos: deben coincidir sujetos, hechos y fundamento para que opere el non bis in idem. Si falta la identidad de fundamento, como en las relaciones de supremacía especial, sí cabe una doble sanción.",
         "id": "tema-21-bis-q16"
       },
       {
@@ -13446,7 +13446,7 @@ const TEMAS = [
           "Que solo cabe la sanción disciplinaria cuando el tribunal penal declare la inexistencia del delito."
         ],
         "correcta": 0,
-        "explicacion": "El TC admite la doble sanción en relaciones de supremacía especial porque la sanción disciplinaria protege la relación de confianza funcionarial, un bien jurídico distinto al protegido por la sanción penal.",
+        "explicacion": "Al revés de lo que dicen las opciones erróneas: la sanción disciplinaria no protege el interés general (eso es cosa de la sanción penal), sino la relación de confianza entre la Administración y el funcionario. Al tratarse de bienes jurídicos distintos, el TC admite aquí la doble sanción sin que se vulnere el non bis in idem.",
         "id": "tema-21-bis-q17"
       },
       {
@@ -13458,7 +13458,7 @@ const TEMAS = [
           "Que la jurisdicción penal recupera su preferencia, si bien el non bis in idem pasa a aplicarse aunque los procedimientos tengan garantías distintas."
         ],
         "correcta": 0,
-        "explicacion": "La sentencia citada reafirma la preferencia de la jurisdicción penal (doctrina clásica) y precisa que el non bis in idem solo opera entre procedimientos con garantías equiparables, lo que nunca ocurre entre el sancionador y el penal.",
+        "explicacion": "Esta sentencia marca un giro: retoma la preferencia clásica de la jurisdicción penal sobre la sancionadora, de modo que la sanción administrativa se anularía si hay condena penal. Además, restringe el non bis in idem a procedimientos con garantías iguales, algo que nunca ocurre entre el sancionador y el penal, pues el primero no alcanza las garantías del segundo.",
         "id": "tema-21-bis-q18"
       },
       {
@@ -13470,7 +13470,7 @@ const TEMAS = [
           "Que forman parte del expediente sancionador, aunque su omisión no constituye un vicio del procedimiento, al no ser obligatorias."
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que estas actuaciones previas (información reservada) no forman parte del expediente sancionador y que su omisión no causa la nulidad, al no ser obligatorias.",
+        "explicacion": "Las dos negaciones van juntas: estas actuaciones previas no forman parte del expediente sancionador y, al no ser obligatorias, su omisión tampoco constituye un vicio del procedimiento ni causa su nulidad. Su finalidad es determinar con carácter preliminar si concurren circunstancias que justifiquen la incoación.",
         "id": "tema-21-bis-q19"
       },
       {
@@ -13482,7 +13482,7 @@ const TEMAS = [
           "El plazo de prescripción de la infracción que se impute."
         ],
         "correcta": 0,
-        "explicacion": "El acuerdo de iniciación debe precisar, entre otros extremos, la determinación de los órganos instructor y decisor, encomendándose la fase instructora y la de sanción a órganos distintos (art. 63.1).",
+        "explicacion": "No lo confundas con el contenido de la propuesta de resolución, que sí incluye la valoración de las pruebas y una propuesta de sanción, pero se elabora después, en la instrucción. El acuerdo de iniciación debe precisar, entre otros extremos, la determinación de los órganos instructor y decisor, que además deben ser distintos entre sí (art. 63.1).",
         "id": "tema-21-bis-q20"
       },
       {
@@ -13494,7 +13494,7 @@ const TEMAS = [
           "Veinte días."
         ],
         "correcta": 0,
-        "explicacion": "El esquema de la fase de instrucción señala un plazo de diez días para alegaciones, quince días para la práctica de la prueba, y otros diez para el trámite de audiencia.",
+        "explicacion": "No lo confundas con el plazo de la prueba, que es de quince días: las alegaciones se formulan en un plazo de diez días. Después vienen otros diez días de audiencia, cinco para formular la propuesta de resolución y cinco más para dictar la resolución.",
         "id": "tema-21-bis-q21"
       },
       {
@@ -13506,7 +13506,7 @@ const TEMAS = [
           "Al menos el 10% sobre el importe de la sanción propuesta, susceptible de incremento reglamentario."
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que, en estos casos, se aplicarán reducciones de al menos el 20% sobre el importe de la sanción propuesta, acumulables entre sí y susceptibles de incremento reglamentario.",
+        "explicacion": "Cuidado con el porcentaje: la reducción por pago voluntario es de al menos el 20% (no el 50% ni el 10%), y sí es acumulable entre sí y susceptible de incrementarse reglamentariamente. Además, el pago voluntario pone fin al procedimiento, salvo en lo relativo a la reposición de la situación alterada o a la indemnización de daños y perjuicios.",
         "id": "tema-21-bis-q22"
       },
       {
@@ -13518,7 +13518,7 @@ const TEMAS = [
           "Únicamente cuando adquiera firmeza en vía contencioso-administrativa, no bastando con agotar la vía administrativa."
         ],
         "correcta": 0,
-        "explicacion": "El art. 98 Ley 39/2015 dispone que no será inmediatamente ejecutiva una resolución sancionadora contra la que quepa algún recurso en vía administrativa, incluido el potestativo de reposición.",
+        "explicacion": "Al revés: mientras quepa algún recurso en vía administrativa, incluido el potestativo de reposición, la resolución sancionadora no será inmediatamente ejecutiva. Solo lo será cuando ponga fin a la vía administrativa, aunque cabe pedir su suspensión cautelar si el interesado anuncia recurso contencioso-administrativo.",
         "id": "tema-21-bis-q23"
       },
       {
@@ -13530,7 +13530,7 @@ const TEMAS = [
           "Leves, graves, muy graves y excepcionales."
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que las infracciones administrativas se califican, al igual que las sanciones, en leves, graves y muy graves, rigiendo el principio de taxatividad.",
+        "explicacion": "Al igual que las sanciones, las infracciones administrativas se clasifican en tres grados: leves, graves y muy graves. En esta materia rige, además del principio de legalidad, el de taxatividad, que exige precisar la conducta ilícita con exactitud para evitar la discrecionalidad.",
         "id": "tema-21-bis-q24"
       },
       {
@@ -13542,7 +13542,7 @@ const TEMAS = [
           "9 meses desde la fecha de iniciación del procedimiento."
         ],
         "correcta": 0,
-        "explicacion": "El tema indica que la caducidad se produce si no se dicta ni notifica la resolución sancionadora en el plazo máximo, siendo el plazo general de 6 meses desde el inicio del procedimiento.",
+        "explicacion": "No lo confundas con otros plazos habituales de la Administración (3 meses, 9 meses, 1 año): en el procedimiento sancionador, la caducidad se produce si no se dicta y notifica la resolución al inculpado en el plazo general de 6 meses desde la fecha de iniciación del procedimiento.",
         "id": "tema-21-bis-q25"
       }
     ]
@@ -13561,7 +13561,7 @@ const TEMAS = [
           "Que exista relación de causalidad, sin necesidad de dolo ni culpa"
         ],
         "correcta": 1,
-        "explicacion": "El art. 1902 CC establece que 'el que por acción u omisión causa daño a otro, interviniendo culpa o negligencia, está obligado a reparar el daño causado'.",
+        "explicacion": "Cuidado: el art. 1902 CC no exige dolo ni culpa grave, basta con culpa o negligencia (leve incluida). Es un régimen subjetivo, muy distinto del que rige después para la Administración, cuya responsabilidad es objetiva (art. 106.2 CE) y no exige acreditar culpa alguna.",
         "id": "tema-27-q1"
       },
       {
@@ -13573,7 +13573,7 @@ const TEMAS = [
           "Cuando el funcionario causante actuase fuera del ejercicio de sus funciones"
         ],
         "correcta": 1,
-        "explicacion": "El antiguo art. 1903 CC señalaba que el Estado era responsable cuando obraba por mediación de un agente especial, pero no cuando el daño hubiese sido causado por el funcionario a quien propiamente correspondiera la gestión practicada, caso en el que se aplicaba el art. 1902 CC.",
+        "explicacion": "Al revés de lo que parece intuitivo: el Estado SÍ respondía cuando actuaba mediante un agente especial, y quedaba excluido precisamente cuando el daño lo causaba el funcionario a quien propiamente correspondía la gestión practicada (en ese caso se aplicaba el art. 1902 CC al funcionario). Esta referencia al Estado desapareció del Código Civil con la reforma de 1991.",
         "id": "tema-27-q2"
       },
       {
@@ -13585,7 +13585,7 @@ const TEMAS = [
           "La Ley 30/1992, que introdujo por primera vez una cláusula general de responsabilidad de todas las Administraciones Públicas"
         ],
         "correcta": 2,
-        "explicacion": "La situación cambió en 1954 con la aprobación de la Ley de Expropiación Forzosa, cuyo art. 121 contuvo por primera vez una cláusula general de reconocimiento de la responsabilidad de la Administración.",
+        "explicacion": "La pionera fue la Ley de Expropiación Forzosa de 1954 (art. 121), no la Constitución de 1978 (que se limitó a elevarla a rango constitucional en el art. 106.2 CE) ni la Ley de Régimen Jurídico de 1957, que solo reiteró una cláusula que ya existía.",
         "id": "tema-27-q3"
       },
       {
@@ -13597,7 +13597,7 @@ const TEMAS = [
           "El art. 149.1.18ª CE"
         ],
         "correcta": 1,
-        "explicacion": "El art. 106.2 CE establece que los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia de los servicios públicos.",
+        "explicacion": "No lo confundas con el art. 106.1 CE, que regula el control judicial de la potestad reglamentaria y de la legalidad administrativa. El fundamento de la responsabilidad patrimonial es el art. 106.2 CE. El art. 121 CE, por su parte, se refiere a un supuesto distinto: el error judicial y el funcionamiento anormal de la Administración de Justicia.",
         "id": "tema-27-q4"
       },
       {
@@ -13609,7 +13609,7 @@ const TEMAS = [
           "La Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
         ],
         "correcta": 0,
-        "explicacion": "El tema señala que tanto la Ley 30/1992 (arts. 139 y ss.) como el RD 429/1993 fueron derogados por la Ley 39/2015 (LPAC).",
+        "explicacion": "Ojo, no te confundas con las dos leyes hermanas: la derogación formal de la Ley 30/1992 y del RD 429/1993 la hizo la Ley 39/2015 (LPAC), aunque la regulación material de la responsabilidad patrimonial (arts. 32 y ss.) pasó a la Ley 40/2015 (LRJSP). La LPAC regula el procedimiento y la LRJSP el régimen jurídico sustantivo.",
         "id": "tema-27-q5"
       },
       {
@@ -13621,7 +13621,7 @@ const TEMAS = [
           "El daño causado por el funcionamiento anormal de un servicio público de transporte"
         ],
         "correcta": 0,
-        "explicacion": "El tema excluye expresamente del concepto de responsabilidad patrimonial 'el pago de indemnizaciones como consecuencia de la realización o el ejercicio de potestades con fines ablatorios como la expropiación forzosa'.",
+        "explicacion": "La expropiación forzosa queda fuera del concepto porque es el ejercicio legítimo de una potestad con fines ablatorios, no la reparación de un daño antijurídico. El tema excluye también, por la misma razón, la responsabilidad contractual y las compensaciones económicas impuestas por ley para paliar efectos legales lícitos (p. ej., reducir la edad de jubilación de un funcionario).",
         "id": "tema-27-q6"
       },
       {
@@ -13633,7 +13633,7 @@ const TEMAS = [
           "Que la Administración únicamente responde por los daños derivados de un funcionamiento anormal del servicio"
         ],
         "correcta": 2,
-        "explicacion": "El tema indica que el fundamento de la responsabilidad de la Administración es objetivo: no es la culpa o negligencia de la Administración, sino el hecho de que el particular sufra un daño antijurídico que no tiene el deber de soportar.",
+        "explicacion": "Objetivo significa que da igual si la Administración actuó bien o mal: lo decisivo es que el particular sufra un daño antijurídico que no tenga el deber de soportar. Esto contrasta con la responsabilidad de las autoridades y personal frente a la propia Administración (acción de regreso), que sí es subjetiva y exige dolo o culpa grave.",
         "id": "tema-27-q7"
       },
       {
@@ -13645,7 +13645,7 @@ const TEMAS = [
           "Cuando la Administración actúe en régimen de derecho privado"
         ],
         "correcta": 1,
-        "explicacion": "El art. 32.1 LRJSP reconoce el derecho a la indemnización 'salvo en los casos de fuerza mayor o de daños que el particular tenga el deber jurídico de soportar de acuerdo con la Ley'.",
+        "explicacion": "Descarta la primera opción: el funcionamiento normal genera responsabilidad igual que el anormal, así que esa no puede ser la excepción. Las únicas excepciones reales son la fuerza mayor y el deber jurídico de soportar el daño. Los 50.000 euros no eximen de nada: es el umbral que hace preceptivo el dictamen del Consejo de Estado en el procedimiento.",
         "id": "tema-27-q8"
       },
       {
@@ -13657,7 +13657,7 @@ const TEMAS = [
           "Antijuridicidad, imputación y reclamación previa"
         ],
         "correcta": 1,
-        "explicacion": "El tema, en relación con el art. 32 LRJSP, agrupa los requisitos de procedencia en tres: la causa de la responsabilidad, el daño y la relación de causalidad.",
+        "explicacion": "Cuidado: antijuridicidad e imputación no son requisitos autónomos, sino dos de los tres elementos que integran el primer requisito, 'la causa de la responsabilidad' (junto con la existencia de actividad administrativa). Los tres requisitos generales del art. 32 LRJSP son la causa, el daño y la relación de causalidad.",
         "id": "tema-27-q9"
       },
       {
@@ -13669,7 +13669,7 @@ const TEMAS = [
           "Que el servicio público de que se trate sea de titularidad estatal"
         ],
         "correcta": 1,
-        "explicacion": "El tema y la infografía de requisitos señalan que lo relevante es la antijuridicidad del daño y no la de la actuación administrativa: tanto el funcionamiento normal como el anormal pueden generar responsabilidad si el particular no tiene el deber de soportar el daño.",
+        "explicacion": "Al revés de lo que parece: da igual que el funcionamiento del servicio haya sido correcto o incorrecto, tanto el funcionamiento normal como el anormal pueden generar responsabilidad. Lo relevante es la antijuridicidad del resultado dañoso, es decir, si el particular tiene o no el deber jurídico de soportarlo; solo la fuerza mayor la excluye.",
         "id": "tema-27-q10"
       },
       {
@@ -13681,7 +13681,7 @@ const TEMAS = [
           "El funcionamiento normal, y no anormal, del servicio público"
         ],
         "correcta": 1,
-        "explicacion": "El tema afirma que 'solo la fuerza mayor, esto es, una causa cierta e inevitable exterior al funcionamiento del servicio... elimina la responsabilidad de la Administración'.",
+        "explicacion": "El texto es tajante: solo la fuerza mayor, causa cierta e inevitable exterior al funcionamiento del servicio (p. ej., un terremoto o un rayo), elimina la responsabilidad. No lo confundas con el estado de los conocimientos científicos o técnicos, que es una excepción distinta y más limitada: solo excluye la indemnización de daños concretos imprevisibles (art. 34.1 LRJSP).",
         "id": "tema-27-q11"
       },
       {
@@ -13693,7 +13693,7 @@ const TEMAS = [
           "La Administración responde solidariamente junto con el funcionario causante"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica expresamente que 'si la autoridad, funcionario o persona empleada pública actúa fuera de sus funciones, o el daño deriva de un delito que ha cometido, entonces no se aplica la responsabilidad patrimonial de la Administración'.",
+        "explicacion": "Al revés: en esos casos NO se aplica la responsabilidad patrimonial de la Administración, porque falla la imputación del daño a la organización administrativa. Son los ejemplos típicos de un accidente de tráfico privado del empleado o de daños en el marco de sus relaciones de vecindad.",
         "id": "tema-27-q12"
       },
       {
@@ -13705,7 +13705,7 @@ const TEMAS = [
           "En comprobar si el daño fue indemnizado dentro de los tres meses siguientes a su reconocimiento"
         ],
         "correcta": 1,
-        "explicacion": "El tema explica que la relación de causalidad se analiza mediante la fórmula de la condicio sine qua non: un hecho es causa de un resultado cuando, suprimida mentalmente dicha conducta, el resultado, en su configuración totalmente concreta, no se habría producido.",
+        "explicacion": "El test consiste en preguntarse si, suprimida mentalmente la conducta administrativa, el daño se habría producido igualmente en su configuración concreta; si la respuesta es que no, existe relación de causalidad. No lo confundas con el criterio del estado de los conocimientos de la ciencia o la técnica, que es un límite distinto a la indemnizabilidad del daño (art. 34.1 LRJSP).",
         "id": "tema-27-q13"
       },
       {
@@ -13717,7 +13717,7 @@ const TEMAS = [
           "Los daños individualizados en un grupo concreto de personas"
         ],
         "correcta": 1,
-        "explicacion": "El art. 34.1 LRJSP excluye la indemnización de los daños que se deriven de hechos o circunstancias que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o de la técnica existentes en el momento de producción.",
+        "explicacion": "Justo lo contrario: el daño moral sí es indemnizable, porque la evaluabilidad económica no lo excluye, solo exige que sea cuantificable. Lo que el art. 34.1 LRJSP excluye desde 1999 es la indemnización de daños que no se hubieran podido prever o evitar según el estado de los conocimientos de la ciencia o la técnica en el momento de producirse (el llamado riesgo del progreso).",
         "id": "tema-27-q14"
       },
       {
@@ -13729,7 +13729,7 @@ const TEMAS = [
           "Culposo, actual y patrimonial"
         ],
         "correcta": 1,
-        "explicacion": "El art. 32.2 LRJSP exige que el daño alegado sea efectivo, evaluable económicamente e individualizado con relación a una persona o grupo de personas.",
+        "explicacion": "Cuidado con la opción que mezcla 'moral': el daño moral sí puede indemnizarse, pero no es uno de los tres requisitos legales. El art. 32.2 LRJSP exige que el daño sea efectivo (no hipotético), evaluable económicamente e individualizado en una persona o grupo de personas, y no general para toda la población.",
         "id": "tema-27-q15"
       },
       {
@@ -13741,7 +13741,7 @@ const TEMAS = [
           "Al criterio discrecional del órgano instructor del procedimiento"
         ],
         "correcta": 1,
-        "explicacion": "El art. 34.2 LRJSP establece que la indemnización se calcula con arreglo a los valores predominantes en el mercado, teniendo en cuenta los criterios de valoración de la legislación fiscal, de expropiación forzosa y demás normas aplicables.",
+        "explicacion": "No es el valor catastral en exclusiva: el art. 34.2 LRJSP calcula la indemnización con arreglo a los valores predominantes en el mercado, teniendo en cuenta los criterios de la legislación fiscal, de expropiación forzosa y demás normas aplicables. La indemnización debe cubrir tanto el daño emergente como el lucro cesante.",
         "id": "tema-27-q16"
       },
       {
@@ -13753,7 +13753,7 @@ const TEMAS = [
           "El tipo de interés del Banco Central Europeo"
         ],
         "correcta": 1,
-        "explicacion": "El art. 34.3 LRJSP prevé la actualización con arreglo al Índice de Garantía de la Competitividad (en la normativa anterior se empleaba el IPC), además de los intereses por demora conforme a la Ley General Presupuestaria.",
+        "explicacion": "Cuidado, ya no es el IPC: aunque la normativa anterior sí lo empleaba, el art. 34.3 LRJSP actualiza hoy la indemnización con el Índice de Garantía de la Competitividad. Además, si no se paga en el plazo de 3 meses desde el reconocimiento, se devengan intereses de demora conforme a la Ley General Presupuestaria.",
         "id": "tema-27-q17"
       },
       {
@@ -13765,7 +13765,7 @@ const TEMAS = [
           "Desde la resolución del procedimiento de responsabilidad"
         ],
         "correcta": 1,
-        "explicacion": "El tema señala que en caso de daños físicos o psíquicos el plazo empieza a computarse desde la curación o la determinación del alcance de las secuelas, de modo que el plazo no transcurre mientras estas no se hayan determinado.",
+        "explicacion": "Al revés de la regla general: aunque el plazo ordinario de un año se cuenta desde el hecho causante, en los daños físicos o psíquicos el cómputo se traslada a la curación o a la determinación del alcance de las secuelas (art. 67 LRJSP). Esto significa que el plazo queda abierto y no corre mientras las secuelas no estén fijadas.",
         "id": "tema-27-q18"
       },
       {
@@ -13777,7 +13777,7 @@ const TEMAS = [
           "El Tribunal Supremo"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica que los procedimientos de responsabilidad patrimonial se resolverán por el Ministro respectivo, salvo que el daño provenga del Estado Legislador en los supuestos del art. 32.3 o cuando una ley así lo disponga, en cuyo caso resuelve el Consejo de Ministros.",
+        "explicacion": "No confundas la regla general con la excepción: lo normal es que resuelva el Ministro respectivo, pero cuando el daño proviene del Estado Legislador en los supuestos del art. 32.3 LRJSP (o cuando una ley así lo dispone), la competencia pasa al Consejo de Ministros. En las Comunidades Autónomas y Entidades Locales resuelven sus propios órganos correspondientes.",
         "id": "tema-27-q19"
       },
       {
@@ -13789,7 +13789,7 @@ const TEMAS = [
           "2 meses"
         ],
         "correcta": 1,
-        "explicacion": "El procedimiento simplificado sirve para reclamaciones cuyas circunstancias son inequívocas y puede tramitarse en el plazo de treinta días.",
+        "explicacion": "No lo confundas con los plazos internos del propio procedimiento: el informe del servicio debe emitirse en 10 días y el dictamen del Consejo de Estado puede acortarse a 15 días si se solicita, pero el procedimiento simplificado en su conjunto se tramita en 30 días (art. 96.4 LPAC), reservado a reclamaciones cuyas circunstancias son inequívocas.",
         "id": "tema-27-q20"
       },
       {
@@ -13801,7 +13801,7 @@ const TEMAS = [
           "Siempre que lo solicite expresamente el interesado"
         ],
         "correcta": 0,
-        "explicacion": "El tema precisa que el Dictamen del Consejo de Estado (o el órgano consultivo equivalente autonómico) es preceptivo cuando las indemnizaciones reclamadas sean de cuantía igual o superior a 50.000 euros o a la que establezca la legislación autonómica correspondiente.",
+        "explicacion": "No confundas los dos informes preceptivos del procedimiento: el del CGPJ es obligatorio en todo caso, pero solo cuando el asunto es de responsabilidad patrimonial por funcionamiento anormal de la Administración de Justicia. El Dictamen del Consejo de Estado (u órgano equivalente autonómico) es preceptivo cuando la indemnización reclamada alcanza los 50.000 euros o la cuantía que fije la legislación autonómica.",
         "id": "tema-27-q21"
       },
       {
@@ -13813,7 +13813,7 @@ const TEMAS = [
           "La penal, cuando exista delito por parte del funcionario"
         ],
         "correcta": 1,
-        "explicacion": "El tema afirma que la jurisdicción contencioso-administrativa es siempre la competente, cualquiera que sea la relación jurídica (pública o privada) o el ámbito en que se produzca el daño, incluso cuando hay codemandados particulares.",
+        "explicacion": "Es un error muy típico pensar que, si la Administración actúa en régimen de derecho privado, corresponde a la jurisdicción civil: sigue siendo siempre la contencioso-administrativa, cualquiera que sea la relación jurídica o el ámbito del daño. Esta jurisdicción se mantiene incluso cuando hay codemandados particulares o una compañía aseguradora.",
         "id": "tema-27-q22"
       },
       {
@@ -13825,7 +13825,7 @@ const TEMAS = [
           "El superior jerárquico del funcionario causante"
         ],
         "correcta": 1,
-        "explicacion": "El art. 36.1 LRJSP establece que quien responde directamente por los daños y perjuicios causados por las autoridades y el personal a su servicio es siempre la Administración, sin que el particular deba identificar ni demostrar la falta del empleado público.",
+        "explicacion": "Al revés de lo que cabría pensar: no responde directamente el funcionario causante, sino siempre la Administración Pública correspondiente (art. 36.1 LRJSP). Es una garantía para el ciudadano, que no tiene que identificar al empleado público ni demostrar que actuó incorrectamente.",
         "id": "tema-27-q23"
       },
       {
@@ -13837,7 +13837,7 @@ const TEMAS = [
           "Los daños causados por autoridades, pero no los causados por personal laboral"
         ],
         "correcta": 1,
-        "explicacion": "El tema señala como únicas excepciones los daños causados fuera del ejercicio de las funciones (p. ej., accidente de tráfico o relaciones de vecindad) y la responsabilidad civil derivada del delito, ya que solo las personas físicas responden penalmente.",
+        "explicacion": "Las únicas dos excepciones son los daños causados fuera del ejercicio de las funciones (p. ej., un accidente de tráfico privado o un conflicto de vecindad) y la responsabilidad civil derivada de delito, ya que solo las personas físicas responden penalmente. Fuera de esos dos casos, la Administración responde siempre de forma directa, sin distinguir autoridades de personal laboral.",
         "id": "tema-27-q24"
       },
       {
@@ -13849,7 +13849,7 @@ const TEMAS = [
           "Únicamente cuando así lo determine un juez penal"
         ],
         "correcta": 1,
-        "explicacion": "El art. 36.2 LRJSP establece que la Administración exigirá de oficio a sus autoridades y personal la responsabilidad en que hubieran incurrido por dolo, culpa grave o negligencia grave; la culpa o negligencia leve no genera responsabilidad ante la Administración.",
+        "explicacion": "Al revés: la culpa o negligencia leve NO genera responsabilidad ante la Administración, precisamente para que el personal no actúe con miedo o coacción en el ejercicio de sus funciones. La acción de regreso solo procede cuando ha mediado dolo, culpa grave o negligencia grave (art. 36.2 LRJSP).",
         "id": "tema-27-q25"
       },
       {
@@ -13861,7 +13861,7 @@ const TEMAS = [
           "Automáticamente y por la misma cuantía que la indemnización pagada al particular"
         ],
         "correcta": 1,
-        "explicacion": "El tema indica que no es una facultad sino una obligación: la Administración exigirá de oficio, en vía administrativa, la responsabilidad a su personal, previa instrucción del procedimiento reglamentariamente establecido.",
+        "explicacion": "No depende del particular perjudicado, sino que la Administración debe exigirla de oficio, en vía administrativa, una vez ha indemnizado, previa instrucción del procedimiento correspondiente. No es una facultad discrecional sino una obligación, aunque tampoco es automática por la misma cuantía: esta se fija según los criterios de ponderación del art. 36.2 LRJSP.",
         "id": "tema-27-q26"
       },
       {
@@ -13873,7 +13873,7 @@ const TEMAS = [
           "Exclusivamente la responsabilidad profesional del personal, con independencia del resultado dañoso"
         ],
         "correcta": 1,
-        "explicacion": "El tema y la infografía señalan que se ponderan, entre otros, el resultado dañoso producido, el grado de culpabilidad, la responsabilidad profesional del personal y su relación con la producción del resultado dañoso, por lo que la cuantía a repercutir no coincide necesariamente con la indemnizada.",
+        "explicacion": "No se repercute automáticamente el importe íntegro pagado al particular: el art. 36.2 LRJSP obliga a ponderar el resultado dañoso producido, el grado de culpabilidad, la responsabilidad profesional del empleado y su relación con el resultado dañoso. Por eso la cuantía de la acción de regreso puede ser menor que la indemnización satisfecha al particular.",
         "id": "tema-27-q27"
       },
       {
@@ -13885,7 +13885,7 @@ const TEMAS = [
           "Un plazo de 2 años, sin que sea necesario ningún informe previo"
         ],
         "correcta": 1,
-        "explicacion": "El Anexo señala que la reclamación se inicia mediante solicitud ante el Ministerio de Justicia y se tramita conforme a las normas de responsabilidad patrimonial del Estado en el plazo de 1 año a partir del día en que pudo ejercitarse, siendo preceptivo en todo caso el informe del CGPJ.",
+        "explicacion": "No lo confundas con el error judicial, que tiene un plazo distinto de 3 meses de caducidad ante el Tribunal Supremo. Para el funcionamiento anormal de la Administración de Justicia, la reclamación se dirige al Ministerio de Justicia en el plazo de 1 año desde que pudo ejercitarse la acción, siendo preceptivo en todo caso el informe del Consejo General del Poder Judicial.",
         "id": "tema-27-q28"
       }
     ]
@@ -13906,7 +13906,7 @@ const SIMULACROS = [
           "El Presidente del Tribunal Constitucional."
         ],
         "correcta": 0,
-        "explicacion": "El Defensor del Pueblo es elegido por las Cortes Generales, no nombrado por el Rey. (Ref. de tu temario: Tema 4 y Tema 6, Bloque Constitucional).",
+        "explicacion": "El Defensor del Pueblo no es un cargo de nombramiento real: lo elige el Congreso de los Diputados, con la colaboración del Senado. El Presidente del Gobierno, el del Tribunal Supremo y el del Tribunal Constitucional sí son nombrados formalmente por el Rey a propuesta de los órganos correspondientes. Es una figura de control parlamentario, no del Ejecutivo ni del Poder Judicial.",
         "id": "simulacro-1-q1"
       },
       {
@@ -13918,7 +13918,7 @@ const SIMULACROS = [
           "25 Senadores."
         ],
         "correcta": 3,
-        "explicacion": "Se necesitan 25 Senadores al margen de un grupo parlamentario. (Ref.: Tema 11, Bloque Administrativo).",
+        "explicacion": "En el Senado hacen falta 25 Senadores que no pertenezcan a un mismo grupo parlamentario para presentar una proposición de ley. Ojo, no confundir con el Congreso, donde bastan 15 Diputados para esa misma iniciativa. En ambas Cámaras, un Grupo Parlamentario también puede presentarla directamente, sin necesidad de reunir esas firmas.",
         "id": "simulacro-1-q2"
       },
       {
@@ -13930,7 +13930,7 @@ const SIMULACROS = [
           "En las resoluciones de carácter discrecional."
         ],
         "correcta": 0,
-        "explicacion": "El art. 12 de la Ley 40/2015 excluye de la delegación de firma las resoluciones de carácter sancionador. (Ref.: Tema 14, Bloque Administrativo).",
+        "explicacion": "La delegación de firma no puede utilizarse en resoluciones de carácter sancionador. Esta técnica solo traslada la firma material del acto, no la competencia ni la responsabilidad de quien lo dicta, por eso se excluye en el ámbito sancionador como garantía adicional. Es una limitación propia y distinta de la que rige para la delegación de competencias.",
         "id": "simulacro-1-q3"
       },
       {
@@ -13942,7 +13942,7 @@ const SIMULACROS = [
           "La modificación del Estatuto de una Comunidad Autónoma."
         ],
         "correcta": 1,
-        "explicacion": "La cuestión de confianza se entiende otorgada por mayoría simple de los votos emitidos (art. 112 CE). (Ref.: Tema 5, Bloque Constitucional).",
+        "explicacion": "La cuestión de confianza se entiende otorgada por mayoría simple de los votos emitidos. No confundir con la investidura, que exige mayoría absoluta en su primera votación, ni con la moción de censura, que siempre requiere mayoría absoluta. Es una de las pocas votaciones parlamentarias de gran relevancia que no necesita mayoría reforzada.",
         "id": "simulacro-1-q4"
       },
       {
@@ -13954,7 +13954,7 @@ const SIMULACROS = [
           "El Príncipe heredero de la Corona, aunque fuese menor de edad."
         ],
         "correcta": 2,
-        "explicacion": "El art. 59.1 CE da preferencia al Príncipe heredero de la Corona, si fuese mayor de edad, sobre el pariente más próximo. (Ref.: Tema 4, Bloque Constitucional).",
+        "explicacion": "El Príncipe heredero de la Corona asume la Regencia si es mayor de edad, con preferencia sobre cualquier otro pariente. Si fuese menor de edad, entrarían primero el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo en la sucesión. La Regencia se ejerce siempre por mandato constitucional y en nombre del Rey.",
         "id": "simulacro-1-q5"
       },
       {
@@ -13966,7 +13966,7 @@ const SIMULACROS = [
           "Mayoría simple del Congreso."
         ],
         "correcta": 1,
-        "explicacion": "El art. 81.2 CE exige mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto. (Ref.: Tema 11, Bloque Administrativo).",
+        "explicacion": "Las Leyes Orgánicas exigen mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto. No se pide esa mayoría reforzada en el Senado, y el Consejo de Ministros solo aprueba el anteproyecto por mayoría simple en su seno. Esa mayoría cualificada en el Congreso es justo lo que distingue a las Leyes Orgánicas de las ordinarias.",
         "id": "simulacro-1-q6"
       },
       {
@@ -13978,7 +13978,7 @@ const SIMULACROS = [
           "Cincuenta por ciento (50%)."
         ],
         "correcta": 2,
-        "explicacion": "La LO 2/2024, de representación paritaria, exige que ningún sexo baje del 40% ni supere el 60% en el ámbito de cada departamento ministerial. (Ref.: Tema 15, Bloque Administrativo).",
+        "explicacion": "La normativa de representación paritaria exige que, en los nombramientos de altos cargos y puestos directivos, ningún sexo baje del 40% dentro de cada departamento ministerial. Es el mismo umbral de presencia equilibrada que se usa en otros ámbitos de la vida pública, como las candidaturas electorales. Busca evitar que un solo sexo concentre más del 60% de los puestos de decisión.",
         "id": "simulacro-1-q7"
       },
       {
@@ -13990,7 +13990,7 @@ const SIMULACROS = [
           "Están legitimados para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas, así como los de las Entidades Locales."
         ],
         "correcta": 1,
-        "explicacion": "Es la cuestión de inconstitucionalidad del art. 163 CE; los efectos nunca son suspensivos. Las opciones C y D contienen errores sutiles (los Jueces y Magistrados no están legitimados para el amparo por sí mismos sin ser parte, y las Entidades Locales no están legitimadas para el recurso de inconstitucionalidad). (Ref.: Tema 11, Bloque Administrativo, y Tema 7, Bloque Constitucional).",
+        "explicacion": "Es la cuestión de inconstitucionalidad: el órgano judicial la plantea cuando duda de la validez de una norma con rango de ley aplicable al caso, y su planteamiento nunca suspende el proceso. Ojo con las otras opciones: los Jueces y Magistrados no están legitimados por sí mismos para interponer recurso de amparo, y las Entidades Locales no pueden interponer recurso de inconstitucionalidad. Tampoco es cierto que cada sentencia deba reconocer expresamente sus efectos generales para producirlos.",
         "id": "simulacro-1-q8"
       },
       {
@@ -14002,7 +14002,7 @@ const SIMULACROS = [
           "Representar al Gobierno."
         ],
         "correcta": 3,
-        "explicacion": "El Gobierno en funciones tiene limitadas sus facultades (art. 21 Ley 50/1997, del Gobierno); puede representar al Gobierno pero no disolver Cámaras, plantear cuestión de confianza ni aprobar el proyecto de PGE.",
+        "explicacion": "El Gobierno en funciones tiene sus facultades limitadas: no puede proponer la disolución de las Cámaras, ni plantear la cuestión de confianza, ni aprobar el proyecto de Presupuestos Generales del Estado. Sí conserva funciones de gestión ordinaria, como representar al Gobierno. Esta limitación evita que un Ejecutivo en una situación de interinidad condicione decisiones de gran alcance.",
         "id": "simulacro-1-q9"
       },
       {
@@ -14014,7 +14014,7 @@ const SIMULACROS = [
           "Mediante Ley Orgánica."
         ],
         "correcta": 1,
-        "explicacion": "El art. 141.3 CE permite crear agrupaciones de municipios diferentes de la provincia. (Ref.: Tema 9, Bloque Administrativo).",
+        "explicacion": "La Constitución permite crear agrupaciones de municipios diferentes de la provincia. No se exige Ley Orgánica ni que sea la diputación provincial quien las cree por decreto. Son entidades locales como las mancomunidades o las comarcas, cuya creación regula la legislación de régimen local.",
         "id": "simulacro-1-q10"
       },
       {
@@ -14026,7 +14026,7 @@ const SIMULACROS = [
           "Son disposiciones que dictan las Cortes Generales."
         ],
         "correcta": 1,
-        "explicacion": "Los Decretos Legislativos contienen legislación delegada por las Cortes Generales al Gobierno (arts. 82-85 CE). (Ref.: Tema 11, Bloque Administrativo).",
+        "explicacion": "Los Decretos Legislativos son normas con rango de ley que dicta el Gobierno en virtud de una delegación expresa de las Cortes, mediante una ley de bases o una ley ordinaria de delegación. No confundir con los Decretos-Leyes, que el Gobierno dicta por razones de urgencia sin delegación previa. Tampoco son leyes orgánicas, reservadas siempre a la aprobación directa del Parlamento.",
         "id": "simulacro-1-q11"
       },
       {
@@ -14038,7 +14038,7 @@ const SIMULACROS = [
           "En pleno y por cámaras."
         ],
         "correcta": 1,
-        "explicacion": "Conforme al art. 75 CE, las Cámaras funcionan en Pleno y por Comisiones. (Ref.: Tema 3, Bloque Constitucional).",
+        "explicacion": "Las Cámaras funcionan en Pleno y por Comisiones, y además en Diputación Permanente fuera de los periodos de sesiones. Las Comisiones pueden ser permanentes o no permanentes, legislativas o no legislativas. Es la estructura básica de organización del trabajo parlamentario.",
         "id": "simulacro-1-q12"
       },
       {
@@ -14050,7 +14050,7 @@ const SIMULACROS = [
           "Todas las respuestas anteriores son falsas."
         ],
         "correcta": 3,
-        "explicacion": "El art. 67.1 CE establece la incompatibilidad entre el mandato de Diputado y el de Senador y con otros cargos; ninguna de las combinaciones anteriores es compatible. (Ref.: Tema 3, Bloque Constitucional).",
+        "explicacion": "El mandato de Diputado es incompatible con el de Senador, con ser miembro de una asamblea legislativa autonómica y con el ejercicio de la magistratura en activo. Por eso ninguna de esas combinaciones es posible al mismo tiempo. El régimen de incompatibilidades busca garantizar la dedicación y la independencia del parlamentario.",
         "id": "simulacro-1-q13"
       },
       {
@@ -14062,7 +14062,7 @@ const SIMULACROS = [
           "El Gobierno, no incorporándose a los presupuestos generales del Estado."
         ],
         "correcta": 2,
-        "explicacion": "Los Presupuestos de las Cortes son aprobados por ellas mismas, pero se incorporan a los Presupuestos Generales del Estado. (Ref.: Tema 3, Bloque Constitucional).",
+        "explicacion": "Los Presupuestos de las Cortes Generales los elabora y aprueba el propio Parlamento, en ejercicio de su autonomía presupuestaria, pero luego se incorporan como una sección más a los Presupuestos Generales del Estado. No es el Gobierno quien los aprueba. Esa autonomía presupuestaria refuerza la independencia de las Cámaras frente al Ejecutivo.",
         "id": "simulacro-1-q14"
       },
       {
@@ -14074,7 +14074,7 @@ const SIMULACROS = [
           "Todas son falsas."
         ],
         "correcta": 3,
-        "explicacion": "Las tres primeras opciones alteran matices del art. 150 CE (mayorías, mecanismo o requisito de interés general); la correcta es que todas contienen algún error. (Ref.: Tema 9, Bloque Administrativo).",
+        "explicacion": "Las tres primeras opciones alteran algún matiz del artículo 150 CE, ya sea en el tipo de mayoría, en el mecanismo legal o en el requisito exigido, por lo que ninguna es correcta tal como está formulada. Ese precepto regula las leyes marco, las leyes de transferencia o delegación y las leyes de armonización como vías de cesión o coordinación de competencias entre Estado y Comunidades Autónomas. Conviene repasarlo con detalle, porque los exámenes suelen jugar con esos matices.",
         "id": "simulacro-1-q15"
       },
       {
@@ -14086,7 +14086,7 @@ const SIMULACROS = [
           "Todas son falsas."
         ],
         "correcta": 3,
-        "explicacion": "Tras el Real Decreto-ley 6/2023, el mínimo se redujo a 4.000 habitantes, cifra que no aparece entre las opciones. (Ref.: Tema 9, Bloque Administrativo).",
+        "explicacion": "Ninguna de las cifras propuestas coincide con el mínimo de habitantes exigido actualmente para constituir un nuevo municipio, ya que la normativa de régimen local se ha modificado respecto a la regulación clásica. Por eso la respuesta correcta es que todas las opciones son falsas. Conviene repasar la cifra vigente en la ley reguladora de las bases del régimen local, distinta del histórico umbral de 5.000 habitantes.",
         "id": "simulacro-1-q16"
       },
       {
@@ -14098,7 +14098,7 @@ const SIMULACROS = [
           "Puede no ser sometida a referéndum si se aprueba por 2/3 de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras."
         ],
         "correcta": 1,
-        "explicacion": "El art. 167 CE exige 3/5 de cada Cámara para la reforma ordinaria, con posibilidad de referéndum facultativo solicitado por una décima parte de los miembros de cualquiera de las Cámaras en 15 días. (Ref.: Tema 2, Bloque Constitucional).",
+        "explicacion": "La reforma ordinaria de la Constitución exige 3/5 de cada Cámara y solo se somete a referéndum si lo pide una décima parte de los miembros de cualquiera de ellas dentro de los quince días siguientes a su aprobación. No confundir con la reforma agravada, que sí exige referéndum obligatorio. Aquí el referéndum es, por tanto, facultativo, no automático.",
         "id": "simulacro-1-q17"
       },
       {
@@ -14110,7 +14110,7 @@ const SIMULACROS = [
           "Todas son falsas."
         ],
         "correcta": 3,
-        "explicacion": "El Pleno se integra por el presidente, los consejeros permanentes, los consejeros natos, los consejeros ELECTIVOS (no 'selectivos', como dicen por error las opciones A y B) y el secretario general. (Ref.: Tema 15, Bloque Administrativo).",
+        "explicacion": "Ojo, no confundir 'electivos' con 'selectivos': el Pleno se integra por el presidente, los consejeros permanentes, los consejeros natos, los consejeros electivos y el secretario general. Como ninguna opción emplea el término correcto, la respuesta es que todas son falsas. Los consejeros permanentes y natos tienen un estatuto distinto al de los electivos, que se nombran por un periodo determinado.",
         "id": "simulacro-1-q18"
       },
       {
@@ -14122,7 +14122,7 @@ const SIMULACROS = [
           "Los primeros los dicta la administración; los segundos, el gobierno."
         ],
         "correcta": 2,
-        "explicacion": "El Decreto Legislativo no requiere convalidación posterior (sí control por las Cortes en su caso), mientras que el Decreto-Ley debe ser convalidado por el Congreso en 30 días. (Ref.: Tema 11, Bloque Administrativo).",
+        "explicacion": "Al revés de lo que dice la primera opción: el Decreto Legislativo no necesita convalidación posterior, mientras que el Decreto-Ley sí debe convalidarlo el Congreso dentro de los treinta días siguientes a su promulgación. Ambos los dicta el Gobierno, nunca la Administración por sí sola. La diferencia clave está en el control parlamentario posterior, no en el órgano que los aprueba.",
         "id": "simulacro-1-q19"
       },
       {
@@ -14134,7 +14134,7 @@ const SIMULACROS = [
           "En el caso de delitos contra la Seguridad del Estado, podrá tener lugar la prerrogativa real de gracia."
         ],
         "correcta": 2,
-        "explicacion": "El art. 102 CE exige que la acusación por traición o delitos contra la seguridad del Estado sea aprobada por mayoría absoluta del Congreso (no basta la sola iniciativa, y la prerrogativa de gracia está excluida en este caso). (Ref.: Tema 5, Bloque Constitucional).",
+        "explicacion": "No basta con que la acusación se inicie por mayoría absoluta: debe ser aprobada por mayoría absoluta del Congreso. Además, en estos casos queda excluida la prerrogativa real de gracia. La responsabilidad penal del Presidente y los ministros se exige ante la Sala de lo Penal del Tribunal Supremo, no ante la Audiencia Nacional.",
         "id": "simulacro-1-q20"
       },
       {
@@ -14146,7 +14146,7 @@ const SIMULACROS = [
           "Los Tribunales populares y los Tribunales consuetudinarios."
         ],
         "correcta": 2,
-        "explicacion": "El art. 26 CE prohíbe los Tribunales de Honor, y el art. 117.6 CE prohíbe los Tribunales de excepción. (Ref.: Tema 6, Bloque Constitucional).",
+        "explicacion": "La Constitución prohíbe los Tribunales de excepción, dentro de las garantías del derecho al juez ordinario, y los Tribunales de Honor, en el ámbito de la Administración civil y las organizaciones profesionales. Ojo, no confundir con los Tribunales consuetudinarios y tradicionales, que sí tienen reconocimiento constitucional en determinados territorios. Son dos prohibiciones distintas que conviene no mezclar.",
         "id": "simulacro-1-q21"
       },
       {
@@ -14158,7 +14158,7 @@ const SIMULACROS = [
           "La décima parte de los miembros de cualquiera de las Cámaras."
         ],
         "correcta": 1,
-        "explicacion": "El art. 73.2 CE exige la solicitud de la mayoría absoluta de los miembros de una de las Cámaras, del Gobierno o de la Diputación Permanente. (Ref.: Tema 3, Bloque Constitucional).",
+        "explicacion": "Las sesiones extraordinarias deben solicitarlas el Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros de cualquiera de las Cámaras. No basta con un tercio, la mayoría simple ni la décima parte, umbrales que se reservan a otras iniciativas parlamentarias. Se convocan con un orden del día determinado y se clausuran una vez agotado este.",
         "id": "simulacro-1-q22"
       },
       {
@@ -14170,7 +14170,7 @@ const SIMULACROS = [
           "Interseccionalidad y situaciones de especial protección."
         ],
         "correcta": 1,
-        "explicacion": "El III Plan de Igualdad de Género en la AGE no recoge expresamente ese eje entre los suyos, a diferencia de las otras tres opciones. (Ref.: Tema 13, Bloque Administrativo).",
+        "explicacion": "Ese eje concreto no figura de forma expresa entre los recogidos en el III Plan de Igualdad de Género en la Administración General del Estado, a diferencia de las otras tres opciones. Conviene repasar el plan vigente, porque sus ejes se revisan y actualizan en cada edición. Es un contenido específico de la normativa de igualdad en el empleo público, distinto de las políticas generales de empleo.",
         "id": "simulacro-1-q23"
       },
       {
@@ -14182,7 +14182,7 @@ const SIMULACROS = [
           "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados."
         ],
         "correcta": 3,
-        "explicacion": "La opción A define discriminación directa, la B acoso sexual y la C acoso por razón de sexo; la D es la definición exacta de discriminación indirecta de la LO 3/2007. (Ref.: Tema 13, Bloque Administrativo).",
+        "explicacion": "No confundir los cuatro conceptos: la opción A define discriminación directa, la B el acoso sexual y la C el acoso por razón de sexo. La D es la definición de discriminación indirecta: una disposición, criterio o práctica aparentemente neutros que perjudica a un sexo, salvo que esté justificada de forma objetiva. Es un matiz clásico de examen, porque los cuatro conceptos son fáciles de mezclar.",
         "id": "simulacro-1-q24"
       },
       {
@@ -14194,7 +14194,7 @@ const SIMULACROS = [
           "La Regencia podrá ejercerse por nacionales de cualquier Estado."
         ],
         "correcta": 0,
-        "explicacion": "El art. 59.1 CE establece que la Regencia se ejerce por mandato constitucional y siempre en nombre del Rey; las abdicaciones/renuncias requieren ley orgánica (no ordinaria), el Príncipe heredero ejerce Regencia solo si es mayor de edad, y se exige ser español y mayor de edad. (Ref.: Tema 4, Bloque Constitucional).",
+        "explicacion": "La Regencia se ejerce siempre por mandato constitucional y en nombre del Rey, nunca a título propio de quien la ejerce. Las abdicaciones y renuncias en el orden sucesorio se resuelven por ley orgánica, no por ley ordinaria, y el Príncipe heredero solo puede asumir la Regencia si es mayor de edad. Además, para ejercerla se exige ser español y mayor de edad, no cualquier nacionalidad.",
         "id": "simulacro-1-q25"
       },
       {
@@ -14206,7 +14206,7 @@ const SIMULACROS = [
           "Austria, Suecia y Finlandia."
         ],
         "correcta": 3,
-        "explicacion": "En la ampliación de 1995 se incorporaron Austria, Suecia y Finlandia; Estonia y Chipre se incorporaron en la ampliación de 2004. (Ref.: Tema 1, Bloque Constitucional).",
+        "explicacion": "En la ampliación de 1995 se incorporaron Austria, Suecia y Finlandia. Ojo, no confundir con la gran ampliación de 2004, en la que entraron países como Estonia y Chipre junto a otros varios estados. La de 1995 completó la llamada ampliación del área EFTA, tras la cual la Unión pasó a tener quince Estados miembros.",
         "id": "simulacro-1-q26"
       },
       {
@@ -14218,7 +14218,7 @@ const SIMULACROS = [
           "Tratado constitutivo de la Comunidad Económica Europea (1957)"
         ],
         "correcta": 2,
-        "explicacion": "El Tratado de Lisboa (2007) es un tratado de reforma, no fundacional; los otros tres sí lo son. (Ref.: Tema 1, Bloque Constitucional).",
+        "explicacion": "El Tratado de Lisboa es un tratado de reforma que modifica los tratados existentes, no un tratado fundacional. Los fundacionales son el de París, que crea la CECA, el de Roma, que crea la CEE, y el de Maastricht, que crea la Unión Europea. Lisboa reordenó el funcionamiento de la Unión, pero no la fundó.",
         "id": "simulacro-1-q27"
       },
       {
@@ -14230,7 +14230,7 @@ const SIMULACROS = [
           "Las respuestas A y B son ciertas."
         ],
         "correcta": 2,
-        "explicacion": "Los Organismos Públicos se crean y disuelven por Ley (ordinaria) o Real Decreto/acuerdo de Consejo de Ministros según el tipo, no por Ley Orgánica; el Hipódromo de la Zarzuela sí es una Sociedad Mercantil Estatal. (Ref.: Tema 16, Bloque Administrativo).",
+        "explicacion": "Al revés de lo que dicen A y B: los Organismos Públicos no se crean ni se extinguen por Ley Orgánica, sino según el tipo de organismo, por ley ordinaria, real decreto o acuerdo de Consejo de Ministros. El Hipódromo de la Zarzuela sí es un ejemplo real de sociedad mercantil estatal. Conviene no confundir el régimen de creación de los organismos públicos con el de las sociedades mercantiles estatales.",
         "id": "simulacro-1-q28"
       },
       {
@@ -14242,7 +14242,7 @@ const SIMULACROS = [
           "Se aplica a las relaciones entre particulares."
         ],
         "correcta": 2,
-        "explicacion": "El precedente no es fuente formal, pero vincula por los principios de seguridad jurídica e igualdad, de modo que apartarse de él exige motivación. (Ref.: Tema 10, Bloque Administrativo).",
+        "explicacion": "El precedente administrativo no es una fuente formal del Derecho, pero sí tiene trascendencia jurídica: la Administración no puede apartarse de un criterio anterior sin motivarlo, por los principios de igualdad y seguridad jurídica. No es, por tanto, irrelevante como afirma la opción B. Tampoco se aplica a las relaciones entre particulares, propias del Derecho privado.",
         "id": "simulacro-1-q29"
       },
       {
@@ -14254,7 +14254,7 @@ const SIMULACROS = [
           "La sanidad y la higiene."
         ],
         "correcta": 3,
-        "explicacion": "Las bases y coordinación de la sanidad son competencia compartida (art. 149.1.16ª CE se refiere a bases y coordinación, no a la sanidad e higiene en general como competencia exclusiva íntegra), a diferencia de las otras tres que sí son exclusivas del Estado.",
+        "explicacion": "Las bases y la coordinación general de la sanidad son competencia compartida entre el Estado y las Comunidades Autónomas, que asumen su desarrollo legislativo y ejecución. En cambio, las bases del régimen minero y energético, y la legislación sobre propiedad industrial, sí son competencia exclusiva íntegra del Estado. Es un matiz importante del reparto competencial constitucional.",
         "id": "simulacro-1-q30"
       },
       {
@@ -14266,7 +14266,7 @@ const SIMULACROS = [
           "Supone una alteración de la titularidad de la competencia."
         ],
         "correcta": 2,
-        "explicacion": "La encomienda de gestión cede solo los elementos adjetivos o instrumentales (medios materiales/técnicos), sin alterar la titularidad de la competencia. (Ref.: Tema 14, Bloque Administrativo).",
+        "explicacion": "Al revés de la última opción: la encomienda de gestión no altera en ningún caso la titularidad ni el ejercicio de la competencia. Lo que cede son los elementos adjetivos o instrumentales, es decir, medios materiales, técnicos o personales, para llevarla a cabo. Se diferencia así claramente de la delegación de competencias, donde sí cambia quién ejerce la potestad.",
         "id": "simulacro-1-q31"
       },
       {
@@ -14278,7 +14278,7 @@ const SIMULACROS = [
           "Prudencia."
         ],
         "correcta": 3,
-        "explicacion": "Es el principio de prudencia contable. (Ref.: Tema 1 de Contabilidad).",
+        "explicacion": "Es el principio de prudencia: obliga a registrar amortizaciones y correcciones de valor por deterioro en cada ejercicio, haya o no beneficio en el periodo. No confundir con la importancia relativa, que permite flexibilizar el registro de partidas poco significativas. La prudencia también implica contabilizar todos los riesgos previsibles, aunque solo se reconozcan los beneficios ya realizados.",
         "id": "simulacro-1-q32"
       },
       {
@@ -14290,7 +14290,7 @@ const SIMULACROS = [
           "En todo caso, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20% sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí."
         ],
         "correcta": 2,
-        "explicacion": "La reincidencia se aprecia por resolución firme en vía administrativa (no exige sentencia penal firme). (Ref.: Tema 21, Bloque Administrativo).",
+        "explicacion": "La reincidencia se aprecia cuando existe una resolución sancionadora firme en vía administrativa, sin necesidad de una sentencia penal firme. Ojo, no confundir: el principio de legalidad sí admite que las infracciones y sanciones se prevean por Decreto Legislativo, al tener éste rango de ley. Tampoco es cierto que las reducciones mínimas se apliquen siempre de forma acumulativa en todo caso.",
         "id": "simulacro-1-q33"
       },
       {
@@ -14302,7 +14302,7 @@ const SIMULACROS = [
           "Todas son formas de extinguir una sanción administrativa."
         ],
         "correcta": 1,
-        "explicacion": "La compensación no es una causa de extinción de la responsabilidad sancionadora administrativa, a diferencia de la muerte del infractor o el indulto. (Ref.: Tema 21, Bloque Administrativo).",
+        "explicacion": "La compensación no es una causa de extinción de la responsabilidad derivada de infracciones administrativas. Sí lo son, entre otras, la muerte del infractor, el cumplimiento de la sanción, la prescripción y el indulto. La compensación es propia del ámbito de las obligaciones civiles, no del sancionador administrativo.",
         "id": "simulacro-1-q34"
       },
       {
@@ -14314,7 +14314,7 @@ const SIMULACROS = [
           "Todas son verdaderas."
         ],
         "correcta": 3,
-        "explicacion": "Los tres plazos son correctos: formulación antes del 31 de marzo, aprobación antes del 30 de junio y depósito en el Registro Mercantil antes del 30 de julio. (Ref.: Tema 1 de Contabilidad).",
+        "explicacion": "Los tres plazos son correctos: formulación de las cuentas antes del 31 de marzo, aprobación por la junta antes del 30 de junio y depósito en el Registro Mercantil dentro del mes siguiente a esa aprobación. Es el calendario contable habitual de una sociedad cuyo ejercicio coincide con el año natural. Incumplir alguno de estos hitos puede acarrear sanciones o el cierre registral de la hoja de la sociedad.",
         "id": "simulacro-1-q35"
       },
       {
@@ -14326,7 +14326,7 @@ const SIMULACROS = [
           "1981"
         ],
         "correcta": 0,
-        "explicacion": "La Ley Orgánica 7/1980, de Libertad Religiosa, se aprobó en 1980. (Ref.: Tema 6, Bloque Constitucional).",
+        "explicacion": "La Ley Orgánica de Libertad Religiosa se aprobó en 1980, desarrollando el derecho fundamental reconocido en el artículo 16 CE. No hay que confundirla con la propia Constitución, aprobada en 1978, ni con otras normas de esos primeros años de la democracia. Fue una de las primeras leyes orgánicas en aprobarse tras la entrada en vigor de la Constitución.",
         "id": "simulacro-1-q36"
       },
       {
@@ -14338,7 +14338,7 @@ const SIMULACROS = [
           "2/5."
         ],
         "correcta": 1,
-        "explicacion": "El art. 15 CE está protegido por el procedimiento agravado del art. 168 CE, que exige 2/3 de cada Cámara para la aprobación inicial de la reforma. (Ref.: Tema 2, Bloque Constitucional).",
+        "explicacion": "El artículo 15 CE está protegido por el procedimiento de reforma agravada, que exige una mayoría de 2/3 de cada Cámara para la aprobación inicial. No confundir con la reforma ordinaria de la Constitución, que solo exige 3/5. Ese procedimiento reforzado se reserva a la revisión total de la Constitución y a la reforma de sus partes más protegidas, como los derechos fundamentales de la Sección 1ª.",
         "id": "simulacro-1-q37"
       },
       {
@@ -14350,7 +14350,7 @@ const SIMULACROS = [
           "Forman parte del ordenamiento interno mediante su publicación íntegra en el BOE."
         ],
         "correcta": 1,
-        "explicacion": "Los Tratados pueden ser fuente directa (si se incorporan al ordenamiento interno tras su publicación en el BOE) o indirecta; afirmar que 'solo' pueden ser indirectas es falso. (Ref.: Tema 10, Bloque Administrativo).",
+        "explicacion": "Es falso que los Tratados Internacionales solo puedan ser fuente indirecta: una vez publicados íntegramente en el BOE, pasan a formar parte del ordenamiento interno y pueden actuar como fuente directa. Según el caso, funcionan tanto como fuente directa como indirecta del Derecho Administrativo. Esa publicación oficial es precisamente lo que les da eficacia dentro del ordenamiento español.",
         "id": "simulacro-1-q38"
       },
       {
@@ -14362,7 +14362,7 @@ const SIMULACROS = [
           "Independientes."
         ],
         "correcta": 1,
-        "explicacion": "Desde el punto de vista de su relación con la ley, los reglamentos se clasifican en ejecutivos, independientes y de necesidad; 'administrativos' no es una categoría de esa clasificación.",
+        "explicacion": "Desde el punto de vista de su relación con la ley, los reglamentos se clasifican en ejecutivos, independientes y de necesidad. 'Administrativos' no es una categoría de esta clasificación, aunque coloquialmente se use así para referirse a cualquier reglamento. Otra clasificación distinta es la que atiende al órgano que los dicta o a su ámbito de aplicación.",
         "id": "simulacro-1-q39"
       },
       {
@@ -14374,7 +14374,7 @@ const SIMULACROS = [
           "Dictamen previo del Ministerio de Presidencia."
         ],
         "correcta": 1,
-        "explicacion": "Se exige el dictamen previo (no vinculante) del Consejo de Estado para los reglamentos ejecutivos generales.",
+        "explicacion": "No es que el dictamen deba ser favorable, sino que tiene que ser previo: los reglamentos que ejecutan de forma general una ley requieren el dictamen previo, preceptivo pero no vinculante, del Consejo de Estado. No interviene aquí el Tribunal Constitucional ni el Ministerio de Presidencia. Esta consulta actúa como control de legalidad y de técnica normativa antes de que el reglamento entre en vigor.",
         "id": "simulacro-1-q40"
       }
     ]
