@@ -92,6 +92,10 @@ function advancedQuestions(temaId) {
   return temaQuestions(temaId).filter(q => q.nivel === 'avanzado');
 }
 
+function parteQuestions(temaId, parteNum) {
+  return temaQuestions(temaId).filter(q => q.parte === parteNum);
+}
+
 function temaProgress(temaId) {
   const qs = temaQuestions(temaId);
   let mastered = 0, learning = 0, fail = 0, notStarted = 0;
@@ -336,18 +340,34 @@ function renderTemaDetail(tema) {
     </div>
   `));
 
-  const btnPractice = el(`<button class="btn btn-primary">Practicar este tema (10 preguntas)</button>`);
-  btnPractice.addEventListener('click', () => startQuiz('tema', tema.id, 10));
-  wrap.appendChild(btnPractice);
+  const parte1Count = parteQuestions(tema.id, 1).length;
+  const parte2Count = parteQuestions(tema.id, 2).length;
+  const tienePartes = parte1Count > 0 && parte2Count > 0;
 
-  const btnPracticeAll = el(`<button class="btn btn-secondary">Practicar todas (${p.total})</button>`);
-  btnPracticeAll.addEventListener('click', () => startQuiz('tema', tema.id, p.total));
-  wrap.appendChild(btnPracticeAll);
+  if (tienePartes) {
+    wrap.appendChild(el(`<div class="section-title">Partes del tema</div>`));
+    const btnParte1 = el(`<button class="btn btn-primary">📘 Parte 1 (${parte1Count} preguntas)</button>`);
+    btnParte1.addEventListener('click', () => startQuiz('parte1', tema.id, parte1Count));
+    wrap.appendChild(btnParte1);
+
+    const btnParte2 = el(`<button class="btn btn-primary">📗 Parte 2 (${parte2Count} preguntas)</button>`);
+    btnParte2.addEventListener('click', () => startQuiz('parte2', tema.id, parte2Count));
+    wrap.appendChild(btnParte2);
+  } else {
+    const btnPractice = el(`<button class="btn btn-primary">Practicar este tema (10 preguntas)</button>`);
+    btnPractice.addEventListener('click', () => startQuiz('tema', tema.id, 10));
+    wrap.appendChild(btnPractice);
+
+    const btnPracticeAll = el(`<button class="btn btn-secondary">Practicar todas (${p.total})</button>`);
+    btnPracticeAll.addEventListener('click', () => startQuiz('tema', tema.id, p.total));
+    wrap.appendChild(btnPracticeAll);
+  }
 
   const advCount = advancedQuestions(tema.id).length;
   if (advCount) {
-    wrap.appendChild(el(`<div class="section-title">Miniapartado</div>`));
-    const btnAdvanced = el(`<button class="btn btn-advanced">🎓 Nivel avanzado (${advCount} preguntas)</button>`);
+    wrap.appendChild(el(`<div class="section-title">${tienePartes ? 'Examen final' : 'Miniapartado'}</div>`));
+    const advLabel = tienePartes ? `📝 Examen final (${advCount} preguntas, nivel avanzado)` : `🎓 Nivel avanzado (${advCount} preguntas)`;
+    const btnAdvanced = el(`<button class="btn btn-advanced">${advLabel}</button>`);
     btnAdvanced.addEventListener('click', () => startQuiz('avanzado', tema.id, advCount));
     wrap.appendChild(btnAdvanced);
   }
@@ -366,6 +386,8 @@ function renderTemaDetail(tema) {
 function startQuiz(mode, temaId, count) {
   let pool;
   if (mode === 'tema') pool = temaQuestions(temaId);
+  else if (mode === 'parte1') pool = parteQuestions(temaId, 1);
+  else if (mode === 'parte2') pool = parteQuestions(temaId, 2);
   else if (mode === 'avanzado') pool = advancedQuestions(temaId);
   else if (mode === 'simulacro') pool = simulacroQuestions(temaId);
   else if (mode === 'fails') pool = failingQuestions(temaId);
