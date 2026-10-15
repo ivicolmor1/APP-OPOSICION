@@ -251,30 +251,39 @@ function renderHome() {
   wrap.appendChild(actions);
 
   if (typeof SIMULACROS !== 'undefined' && SIMULACROS.length) {
-    wrap.appendChild(el(`<div class="section-title">Simulacros de examen</div>`));
-    const simList = el('<div class="tema-list"></div>');
-    for (const sim of SIMULACROS) {
-      const simQs = simulacroQuestions(sim.id);
-      const answered = simQs.filter(q => STATS[q.id]).length;
-      const correct = simQs.filter(q => STATS[q.id] && STATS[q.id].ultima === 'ok').length;
-      const statusLabel = answered
-        ? `Última vez: ${correct}/${answered} correctas`
-        : 'Sin realizar todavía';
-      const card = el(`
-        <div class="tema-card">
-          <div class="tema-card-top">
-            <h3>📝 ${esc(sim.titulo)}</h3>
-            <span class="tema-badge">${simQs.length} preg.</span>
+    const SIM_GROUPS = [
+      { categoria: 'general', titulo: 'Simulacros de examen' },
+      { categoria: 'constitucional', titulo: 'Simulacros de Constitucional' },
+      { categoria: 'administrativo', titulo: 'Simulacros de Administrativo' },
+    ];
+    for (const group of SIM_GROUPS) {
+      const sims = SIMULACROS.filter(s => (s.categoria || 'general') === group.categoria);
+      if (!sims.length) continue;
+      wrap.appendChild(el(`<div class="section-title">${esc(group.titulo)}</div>`));
+      const simList = el('<div class="tema-list"></div>');
+      for (const sim of sims) {
+        const simQs = simulacroQuestions(sim.id);
+        const answered = simQs.filter(q => STATS[q.id]).length;
+        const correct = simQs.filter(q => STATS[q.id] && STATS[q.id].ultima === 'ok').length;
+        const statusLabel = answered
+          ? `Última vez: ${correct}/${answered} correctas`
+          : 'Sin realizar todavía';
+        const card = el(`
+          <div class="tema-card">
+            <div class="tema-card-top">
+              <h3>📝 ${esc(sim.titulo)}</h3>
+              <span class="tema-badge">${simQs.length} preg.</span>
+            </div>
+            <div class="tema-stats-row">
+              <span>${esc(statusLabel)}</span>
+            </div>
           </div>
-          <div class="tema-stats-row">
-            <span>${esc(statusLabel)}</span>
-          </div>
-        </div>
-      `);
-      card.addEventListener('click', () => startQuiz('simulacro', sim.id, simQs.length));
-      simList.appendChild(card);
+        `);
+        card.addEventListener('click', () => startQuiz('simulacro', sim.id, simQs.length));
+        simList.appendChild(card);
+      }
+      wrap.appendChild(simList);
     }
-    wrap.appendChild(simList);
   }
 
   const bloques = [];

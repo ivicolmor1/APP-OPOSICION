@@ -31525,6 +31525,3790 @@ const TEMAS = [
     ]
   },
   {
+    "id": "tema-19",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 19. El procedimiento administrativo. Concepto, clases y sujetos.",
+    "preguntas": [
+      {
+        "enunciado": "Según el artículo 105 CE, la ley regulará el procedimiento a través del cual deben producirse los actos administrativos, garantizando...",
+        "opciones": [
+          "en todo caso, la audiencia del interesado",
+          "cuando proceda, la audiencia del interesado",
+          "en todo caso, la participación de las Comunidades Autónomas",
+          "cuando proceda, la audiencia pública de la ciudadanía"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una garantía incondicional ('en todo caso'): el art. 105 c) CE matiza 'cuando proceda'. El precepto dice literalmente 'garantizando, cuando proceda, la audiencia del interesado'. Este artículo se ubica en el Título IV CE y es la base constitucional del procedimiento administrativo.",
+        "parte": 1,
+        "id": "tema-19-q1"
+      },
+      {
+        "enunciado": "El artículo 105 CE se encuentra ubicado en...",
+        "opciones": [
+          "el Título IV de la Constitución",
+          "el Título VIII de la Constitución",
+          "el Título III de la Constitución",
+          "el Título IX de la Constitución"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con el Título VIII (estructura territorial del Estado, base del art. 149.1.18 CE): el art. 105 CE está en el Título IV, dedicado al Gobierno y la Administración. Dicho título recoge los principios que garantizan el sometimiento pleno de la actuación administrativa a la Ley y al Derecho. De ahí deriva la exigencia de un procedimiento para la producción de actos administrativos.",
+        "parte": 1,
+        "id": "tema-19-q2"
+      },
+      {
+        "enunciado": "Respecto del procedimiento administrativo común, el art. 149.1.18 CE lo configura como...",
+        "opciones": [
+          "una competencia compartida entre Estado y CCAA",
+          "una competencia normativa plena y exclusiva del Estado",
+          "una competencia exclusiva de las Comunidades Autónomas",
+          "una competencia de bases estatales con desarrollo autonómico"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir el procedimiento administrativo común con las 'bases del régimen jurídico de las AAPP', que sí admiten desarrollo: respecto al procedimiento administrativo común, la Constitución lo contempla como una competencia normativa plena y exclusiva del Estado. Ello es sin perjuicio de las especialidades derivadas de la organización propia de las CCAA.",
+        "parte": 1,
+        "id": "tema-19-q3"
+      },
+      {
+        "enunciado": "Según el art. 149.1.18 CE, las bases del régimen jurídico de las Administraciones Públicas y del régimen estatutario de sus funcionarios deben garantizar a los administrados...",
+        "opciones": [
+          "un tratamiento común ante ellas",
+          "la audiencia previa en todo procedimiento",
+          "un recurso ante los tribunales en todo caso",
+          "la gratuidad de todos los procedimientos"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con la audiencia del interesado (exigencia propia del art. 105 CE): lo que garantizan las bases del régimen jurídico es un tratamiento común ante las distintas Administraciones. Es el dato literal del art. 149.1.18 CE. Esta finalidad busca asegurar la igualdad de los ciudadanos ante todas las Administraciones.",
+        "parte": 1,
+        "id": "tema-19-q4"
+      },
+      {
+        "enunciado": "El marco común que la Constitución garantiza en el art. 149.1.18 CE para todas las Administraciones Públicas tiene como finalidad última...",
+        "opciones": [
+          "reducir el gasto público en materia de procedimiento",
+          "asegurar la igualdad de trato de los ciudadanos por parte de todas ellas",
+          "unificar los recursos administrativos en una única vía",
+          "suprimir las especialidades autonómicas de organización"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con un objetivo meramente organizativo o economicista: la finalidad última de ese marco común es asegurar la igualdad de trato de los ciudadanos por parte de todas las Administraciones. Este marco se apoya en la estructura del Estado prevista en el Título VIII CE.",
+        "parte": 1,
+        "id": "tema-19-q5"
+      },
+      {
+        "enunciado": "¿Qué distingue el art. 149.1.18 CE dentro de la materia de régimen jurídico de las AAPP?",
+        "opciones": [
+          "Entre procedimiento común y procedimiento especial autonómico",
+          "Entre las bases del régimen jurídico y el procedimiento administrativo común",
+          "Entre Administración General del Estado y Administración local",
+          "Entre actos reglados y actos discrecionales"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una distinción entre niveles territoriales de Administración: el art. 149.1.18 CE distingue entre las bases del régimen jurídico de las AAPP (que garantizan tratamiento común) y el procedimiento administrativo común (sin perjuicio de las especialidades autonómicas de organización). Esta doble distinción explica por qué la LPAC convive con normativa autonómica organizativa.",
+        "parte": 1,
+        "id": "tema-19-q6"
+      },
+      {
+        "enunciado": "La Ley 39/2015 (LPAC), en relación con el reparto constitucional de competencias, regula...",
+        "opciones": [
+          "el procedimiento administrativo común, de aplicación general a todas las AAPP, fijando garantías mínimas de los ciudadanos",
+          "únicamente el procedimiento aplicable a la Administración General del Estado",
+          "exclusivamente los procedimientos sancionador y de revisión de oficio",
+          "las especialidades organizativas propias de cada Comunidad Autónoma"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con una regulación limitada a la AGE o a procedimientos concretos: la LPAC regula el procedimiento administrativo común, de aplicación general a todas las Administraciones Públicas, fijando las garantías mínimas de los ciudadanos frente a la actividad administrativa. Esta regulación recoge la concepción constitucional de distribución de competencias del art. 149.1.18 CE.",
+        "parte": 1,
+        "id": "tema-19-q7"
+      },
+      {
+        "enunciado": "La regulación del procedimiento administrativo común por la LPAC...",
+        "opciones": [
+          "agota toda posibilidad de establecer procedimientos específicos ratione materiae",
+          "no agota las competencias estatales o autonómicas para establecer procedimientos específicos ratione materiae, que deberán respetar esas garantías mínimas",
+          "impide a las CCAA dictar cualquier norma de procedimiento",
+          "solo permite procedimientos específicos cuando lo autorice expresamente el Estado caso por caso"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con un cierre total del sistema de fuentes: la LPAC no agota las competencias estatales o autonómicas para establecer procedimientos específicos 'ratione materiae', que en todo caso deberán respetar las garantías mínimas de la LPAC. Es coherente con el carácter de procedimiento administrativo común y no excluyente.",
+        "parte": 1,
+        "id": "tema-19-q8"
+      },
+      {
+        "enunciado": "¿Qué competencia reconoce la Constitución a las Comunidades Autónomas en materia de procedimiento?",
+        "opciones": [
+          "Establecer el procedimiento administrativo común alternativo al estatal",
+          "Establecer las especialidades derivadas de su organización propia",
+          "Modificar las garantías mínimas fijadas por la LPAC",
+          "Suspender la aplicación de la LPAC en su territorio"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una competencia para crear un 'procedimiento común' propio (competencia exclusiva estatal): lo que la Constitución reconoce a las CCAA es la competencia para establecer las especialidades derivadas de su organización propia. Estas especialidades no pueden rebajar las garantías mínimas que fija la LPAC.",
+        "parte": 1,
+        "id": "tema-19-q9"
+      },
+      {
+        "enunciado": "El art. 149.1.18 CE atribuye al Estado competencia exclusiva sobre las bases del régimen jurídico de las AAPP y del régimen estatutario de sus funcionarios 'sin perjuicio de'...",
+        "opciones": [
+          "las especialidades derivadas de la organización propia de las Comunidades Autónomas, respecto del procedimiento administrativo común",
+          "la plena potestad reglamentaria municipal",
+          "las competencias exclusivas de la Unión Europea",
+          "la autonomía universitaria"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir esta salvedad con otras materias ajenas al reparto Estado-CCAA: la cláusula 'sin perjuicio de' se refiere expresamente a las especialidades derivadas de la organización propia de las Comunidades Autónomas respecto del procedimiento administrativo común. Esta previsión concilia la unidad del procedimiento común con la diversidad organizativa autonómica.",
+        "parte": 1,
+        "id": "tema-19-q10"
+      },
+      {
+        "enunciado": "La diversidad de procedimientos administrativos, a los efectos de una comprensión adecuada de la institución, puede reducirse a un binomio fundamental compuesto por...",
+        "opciones": [
+          "procedimiento declarativo y procedimiento ejecutivo",
+          "procedimiento ordinario y procedimiento sumario",
+          "procedimiento general y procedimientos especiales",
+          "procedimiento común y procedimiento autonómico"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, no confundir con la clasificación según la finalidad (declarativo/ejecutivo/simple gestión) ni con la clasificación según el tiempo (ordinario/sumario): el binomio fundamental al que puede reducirse la diversidad de procedimientos es procedimiento general y procedimientos especiales. Esta reducción responde a un criterio de unidad normativa.",
+        "parte": 1,
+        "id": "tema-19-q11"
+      },
+      {
+        "enunciado": "El criterio de unidad que sigue la ley respecto del procedimiento general busca...",
+        "opciones": [
+          "reunir, en lo posible, las normas de procedimiento en un texto único aplicable a todos los Departamentos Ministeriales",
+          "crear un procedimiento distinto para cada Ministerio",
+          "suprimir cualquier especialidad procedimental por materia",
+          "remitir toda la regulación procedimental a reglamentos sectoriales"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con la supresión de especialidades: el criterio de unidad no elimina las especialidades, sino que procura reunir en lo posible las normas de procedimiento en un texto único aplicable a todos los Departamentos Ministeriales, con las salvedades que se establezcan. Pese a ello, se respeta la especialidad de determinadas materias administrativas.",
+        "parte": 1,
+        "id": "tema-19-q12"
+      },
+      {
+        "enunciado": "Cuando una materia administrativa cuenta con un procedimiento especial distinto del ordinario, la ley general de procedimiento se aplica a dicha materia con carácter...",
+        "opciones": [
+          "exclusivo, desplazando al procedimiento especial",
+          "supletorio",
+          "nulo, pues no resulta aplicable en absoluto",
+          "preferente sobre la norma especial en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una aplicación preferente o excluyente de la norma general: frente a las materias con procedimiento especial, la ley general (LPAC) se aplica con carácter supletorio. Son ejemplo de ello los procedimientos citados en la DA 1ª de la LPAC.",
+        "parte": 1,
+        "id": "tema-19-q13"
+      },
+      {
+        "enunciado": "La Disposición Adicional 1ª de la LPAC cita como ejemplos de procedimientos con especialidades propias, a los que la LPAC se aplica con carácter supletorio...",
+        "opciones": [
+          "el tributario, el de seguridad social y el de extranjería",
+          "el sancionador, el de apremio y el de revisión de oficio",
+          "el urbanístico, el ambiental y el de contratación pública",
+          "el electoral, el penal y el laboral"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con subespecies de procedimientos declarativos o ejecutivos (sancionador, apremio, revisión de oficio), que responden a otra clasificación: los ejemplos que recoge la DA 1ª LPAC de procedimientos especiales con normativa propia son el tributario, el de seguridad social y en materia de extranjería. En estos casos la LPAC opera como norma supletoria.",
+        "parte": 1,
+        "id": "tema-19-q14"
+      },
+      {
+        "enunciado": "Atendiendo a su finalidad específica, los procedimientos administrativos suelen clasificarse en...",
+        "opciones": [
+          "generales y especiales",
+          "ordinarios y de urgencia",
+          "declarativos, ejecutivos y de simple gestión",
+          "constitutivos, modificativos y extintivos"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, no confundir con la clasificación general/especiales (criterio de unidad normativa) ni con la de ordinarios/sumarios (criterio temporal): según su finalidad específica, los procedimientos se clasifican en declarativos, ejecutivos y de simple gestión. Cada una de estas categorías admite a su vez subespecies.",
+        "parte": 1,
+        "id": "tema-19-q15"
+      },
+      {
+        "enunciado": "Los procedimientos declarativos se orientan fundamentalmente a...",
+        "opciones": [
+          "la realización material de una decisión anterior ya definitiva",
+          "la elaboración de una decisión",
+          "una finalidad técnica y de carácter esencialmente interno",
+          "la ejecución forzosa de deudas de derecho público"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con los procedimientos ejecutivos (que realizan materialmente una decisión ya tomada): los procedimientos declarativos se orientan a la elaboración de una decisión. Su distinto carácter da lugar a subespecies como la elaboración de disposiciones generales, el sancionador o el de revisión.",
+        "parte": 1,
+        "id": "tema-19-q16"
+      },
+      {
+        "enunciado": "El procedimiento de elaboración de disposiciones generales se regula hoy fundamentalmente en...",
+        "opciones": [
+          "los artículos 22 a 28 de la Ley del Gobierno",
+          "los artículos 127 a 133 de la LPAC",
+          "los artículos 1 a 10 de la Ley del Gobierno",
+          "los artículos 106 y siguientes de la LPAC"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con los arts. 106 y ss. LPAC (que regulan la revisión de oficio): según el texto de referencia, el procedimiento de elaboración de disposiciones generales se regula fundamentalmente entre los artículos 22-28 de la Ley del Gobierno. Es una subespecie de los procedimientos declarativos.",
+        "parte": 1,
+        "id": "tema-19-q17"
+      },
+      {
+        "enunciado": "El procedimiento sancionador recibe la denominación de 'disciplinario' cuando...",
+        "opciones": [
+          "se trata de la imposición de sanciones en el seno de una relación funcionarial, corporativa o de utilización de un servicio público",
+          "se dirige contra una persona jurídica privada",
+          "se tramita por el procedimiento de urgencia",
+          "lo resuelve un órgano colegiado"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir 'sancionador' y 'disciplinario' como sinónimos absolutos sin matiz: se habla de procedimiento disciplinario cuando se trata de imponer sanciones dentro de una relación funcionarial, corporativa o de utilización de un servicio público. Es, junto al general, otra subespecie de los procedimientos declarativos.",
+        "parte": 1,
+        "id": "tema-19-q18"
+      },
+      {
+        "enunciado": "Cuando la iniciativa de revocar una decisión administrativa anterior corresponde a la propia Administración autora de dicha decisión, estamos ante un procedimiento de...",
+        "opciones": [
+          "revisión en vía de recurso",
+          "revisión de oficio",
+          "simple gestión",
+          "apremio"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con la revisión en vía de recurso, que se inicia a instancia del particular: cuando la iniciativa revocatoria corresponde a la propia Administración autora de la decisión primera, se trata de revisión de oficio, regulada en los arts. 106 y ss. de la LPAC. Ambas modalidades son subespecies del procedimiento de revisión, dentro de los declarativos.",
+        "parte": 1,
+        "id": "tema-19-q19"
+      },
+      {
+        "enunciado": "La revisión en vía de recurso se caracteriza porque...",
+        "opciones": [
+          "la inicia de oficio la propia Administración autora de la decisión",
+          "se inicia a instancia del particular afectado por la decisión",
+          "solo puede instarla el Defensor del Pueblo",
+          "únicamente cabe en materia sancionadora"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con la revisión de oficio, impulsada por la propia Administración: la revisión en vía de recurso se produce a instancia del particular afectado por dicha decisión. Junto con la revisión de oficio (arts. 106 y ss. LPAC), conforman las dos modalidades del procedimiento de revisión.",
+        "parte": 1,
+        "id": "tema-19-q20"
+      },
+      {
+        "enunciado": "Los procedimientos ejecutivos, como el de apremio, tienden a...",
+        "opciones": [
+          "la elaboración de una decisión nueva",
+          "la realización material de una decisión anterior ya definitiva",
+          "una finalidad técnica de carácter interno y preparatorio",
+          "la revocación de una decisión administrativa firme"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con los declarativos (que elaboran una decisión) o con la revisión (que la revoca): los procedimientos ejecutivos tienden a la realización material de una decisión anterior ya definitiva, siendo el de apremio un ejemplo de ello. Se distinguen así de los procedimientos de simple gestión, de finalidad preparatoria.",
+        "parte": 1,
+        "id": "tema-19-q21"
+      },
+      {
+        "enunciado": "Los procedimientos de simple gestión suelen tener una finalidad...",
+        "opciones": [
+          "de tipo técnico y de carácter esencialmente interno, preparatoria de una decisión ulterior",
+          "sancionadora, dirigida a imponer una multa",
+          "revocatoria de actos firmes",
+          "exclusivamente recaudatoria de deudas tributarias"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con los ejecutivos (que realizan materialmente una decisión ya definitiva): los procedimientos de simple gestión tienen una finalidad de tipo técnico y esencialmente interna, preparatoria de una decisión ulterior, aunque sus resultados trasciendan al exterior. Constituyen la tercera categoría junto a declarativos y ejecutivos.",
+        "parte": 1,
+        "id": "tema-19-q22"
+      },
+      {
+        "enunciado": "La clasificación de los procedimientos en ordinarios y sumarios o de urgencia atiende principalmente a...",
+        "opciones": [
+          "la finalidad específica del procedimiento",
+          "la forma de desenvolverse y, especialmente, el tiempo en que han de serlo",
+          "el órgano competente para resolver",
+          "la naturaleza jurídica de la Administración actuante"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con la clasificación por finalidad (declarativo/ejecutivo/simple gestión): la distinción entre procedimientos ordinarios y sumarios o de urgencia se hace por la forma de desenvolverse y, especialmente, por el tiempo en que han de tramitarse. Se regula en el art. 33 de la LPAC.",
+        "parte": 1,
+        "id": "tema-19-q23"
+      },
+      {
+        "enunciado": "Según el art. 33 LPAC, la tramitación de urgencia podrá acordarse...",
+        "opciones": [
+          "únicamente de oficio, nunca a petición del interesado",
+          "de oficio o a petición del interesado, cuando razones de interés público lo aconsejen",
+          "solo a petición del interesado y previa autorización judicial",
+          "automáticamente en todos los procedimientos sancionadores"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una iniciativa exclusivamente administrativa: el art. 33 LPAC permite acordar la tramitación de urgencia de oficio o a petición del interesado, cuando razones de interés público lo aconsejen. Su efecto principal es la reducción de plazos.",
+        "parte": 1,
+        "id": "tema-19-q24"
+      },
+      {
+        "enunciado": "La aplicación de la tramitación de urgencia conforme al art. 33 LPAC reduce los plazos del procedimiento ordinario...",
+        "opciones": [
+          "a la mitad",
+          "a un tercio",
+          "en cinco días",
+          "a la cuarta parte"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con reducciones fraccionarias distintas: el art. 33 LPAC dispone que se reducirán a la mitad los plazos establecidos para el procedimiento ordinario. Esta reducción no se aplica a todos los plazos, pues hay excepciones.",
+        "parte": 1,
+        "id": "tema-19-q25"
+      },
+      {
+        "enunciado": "La reducción de plazos de la tramitación de urgencia prevista en el art. 33 LPAC no se aplica a los plazos relativos a...",
+        "opciones": [
+          "la práctica de la prueba",
+          "la presentación de solicitudes y recursos",
+          "la notificación de la resolución",
+          "la audiencia del interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con otros trámites del procedimiento: el art. 33 LPAC exceptúa expresamente de la reducción a la mitad los plazos relativos a la presentación de solicitudes y recursos. En los procedimientos de urgencia, además, pueden eliminarse algunos trámites en ciertos casos.",
+        "parte": 1,
+        "id": "tema-19-q26"
+      },
+      {
+        "enunciado": "El texto advierte que la tramitación de urgencia, en los casos más graves, puede llegar a...",
+        "opciones": [
+          "mejorar siempre las garantías del administrado",
+          "trastornar seriamente el propio sistema de garantías del administrado",
+          "ser declarada inconstitucional en todo caso",
+          "sustituir por completo al procedimiento sancionador"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir la urgencia con una simple aceleración inocua de trámites: el texto señala que puede llegar a trastornar seriamente el propio sistema de garantías del administrado, lo cual es más grave que la simple eliminación de algún trámite. El ejemplo citado es el de la expropiación urgente.",
+        "parte": 1,
+        "id": "tema-19-q27"
+      },
+      {
+        "enunciado": "El ejemplo de procedimiento de urgencia que puede trastornar seriamente el sistema de garantías del administrado, citado en el texto, es...",
+        "opciones": [
+          "el procedimiento sancionador simplificado",
+          "la expropiación urgente (arts. 52 LEF y 56 REF)",
+          "el procedimiento de apremio abreviado",
+          "la revisión de oficio urgente"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con otras figuras de urgencia mencionadas en el tema (sancionador, apremio): el ejemplo expresamente citado es el de la expropiación urgente, regulada en los arts. 52 de la LEF y 56 del REF. Ilustra el límite entre acelerar trámites y debilitar garantías.",
+        "parte": 1,
+        "id": "tema-19-q28"
+      },
+      {
+        "enunciado": "Respecto a la revisión de oficio y la revisión en vía de recurso, ambas son modalidades de un mismo procedimiento que se produce cuando...",
+        "opciones": [
+          "se pretende revocar otra decisión anterior",
+          "se pretende ejecutar materialmente una decisión firme",
+          "se inicia por primera vez un expediente sancionador",
+          "se elabora una disposición de carácter general"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con la ejecución de decisiones ya firmes (procedimientos ejecutivos) o con la elaboración de nuevas decisiones: tanto la revisión de oficio como la revisión en vía de recurso son modalidades del procedimiento que se produce cuando se pretende revocar otra decisión anterior. Se diferencian únicamente por quién tiene la iniciativa revocatoria.",
+        "parte": 1,
+        "id": "tema-19-q29"
+      },
+      {
+        "enunciado": "Dentro de los procedimientos declarativos, ¿cuál de las siguientes NO es una subespecie citada en el texto?",
+        "opciones": [
+          "Elaboración de disposiciones generales",
+          "Procedimiento sancionador o disciplinario",
+          "Procedimiento de revisión (de oficio o en vía de recurso)",
+          "Procedimiento de apremio"
+        ],
+        "correcta": 3,
+        "explicacion": "Ojo, no confundir el procedimiento de apremio con una subespecie declarativa: el apremio es el ejemplo típico de procedimiento ejecutivo, no declarativo. Las subespecies declarativas citadas son elaboración de disposiciones generales, sancionador/disciplinario y revisión (de oficio y en vía de recurso). Esta distinción separa la fase de decisión (declarativos) de la fase de ejecución material (ejecutivos).",
+        "parte": 1,
+        "id": "tema-19-q30"
+      },
+      {
+        "enunciado": "Entre los sujetos que intervienen en el procedimiento administrativo, la Administración actuante incluye...",
+        "opciones": [
+          "únicamente la Administración General del Estado",
+          "la AGE, la Administración autonómica, la Administración local y las entidades de derecho público vinculadas a ellas cuando ejerzan potestades administrativas",
+          "solo los órganos colegiados con competencia resolutoria",
+          "exclusivamente los entes instrumentales de derecho privado"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir la Administración actuante con un único nivel territorial: el texto incluye como Administración actuante a la AGE, la Administración autonómica, la local, y las entidades de derecho público vinculadas a las anteriores cuando ejerzan potestades administrativas. Estas entidades solo se consideran Administración actuante cuando ejercen dichas potestades.",
+        "parte": 1,
+        "id": "tema-19-q31"
+      },
+      {
+        "enunciado": "La Administración actuante es responsable del procedimiento...",
+        "opciones": [
+          "solo en la fase de tramitación, no en la de resolución",
+          "solo en la fase de resolución, no en la de tramitación",
+          "tanto en la tramitación como en la resolución",
+          "únicamente cuando el procedimiento se inicia de oficio"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, no confundir con una responsabilidad limitada a una sola fase: el texto señala que la Administración actuante es responsable del procedimiento tanto en la tramitación como en la resolución. Dicha responsabilidad se ejerce con garantías de imparcialidad.",
+        "parte": 1,
+        "id": "tema-19-q32"
+      },
+      {
+        "enunciado": "¿Qué garantías de imparcialidad se mencionan respecto de la Administración actuante en la tramitación y resolución del procedimiento?",
+        "opciones": [
+          "Abstención y recusación",
+          "Auditoría y control parlamentario",
+          "Doble instancia y recurso extraordinario",
+          "Publicidad y transparencia únicamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con mecanismos de control externo o publicidad: las garantías de imparcialidad citadas son la abstención y la recusación. Estas garantías buscan que quien tramita o resuelve no tenga interés personal en el asunto.",
+        "parte": 1,
+        "id": "tema-19-q33"
+      },
+      {
+        "enunciado": "La Administración actuante debe adoptar las medidas oportunas para...",
+        "opciones": [
+          "incrementar los plazos del procedimiento en beneficio del interesado",
+          "remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos",
+          "delegar siempre la resolución en un órgano superior",
+          "suprimir los trámites de audiencia cuando lo considere oportuno"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una potestad discrecional para alterar plazos o suprimir trámites: la obligación consiste en remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos. También debe disponer lo necesario para evitar y eliminar toda anormalidad en la tramitación.",
+        "parte": 1,
+        "id": "tema-19-q34"
+      },
+      {
+        "enunciado": "¿Cuáles son, según el texto, los dos grandes sujetos que intervienen en el procedimiento administrativo?",
+        "opciones": [
+          "La Administración actuante y los interesados",
+          "El Estado y las Comunidades Autónomas",
+          "El órgano instructor y el órgano resolutor",
+          "El denunciante y el denunciado"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con una distinción puramente orgánica interna (instructor/resolutor) o territorial: los sujetos que el texto distingue son la Administración actuante y los interesados. El texto remite el desarrollo del concepto de interesado a un apartado posterior.",
+        "parte": 1,
+        "id": "tema-19-q35"
+      },
+      {
+        "enunciado": "Las entidades de derecho público vinculadas a la AGE, la Administración autonómica o la local se consideran 'Administración actuante'...",
+        "opciones": [
+          "siempre, con independencia de la actividad que realicen",
+          "únicamente cuando ejerzan potestades administrativas",
+          "nunca, pues carecen de personalidad jurídica propia",
+          "solo si actúan en régimen de derecho privado"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una condición absoluta o con la actuación en régimen privado: estas entidades solo tienen la consideración de Administración actuante cuando ejercen potestades administrativas. Fuera de ese ejercicio, pueden actuar sometidas al derecho privado sin ser propiamente Administración actuante a estos efectos.",
+        "parte": 1,
+        "id": "tema-19-q36"
+      },
+      {
+        "enunciado": "La finalidad de que la Administración actuante disponga lo necesario para evitar y eliminar toda anormalidad en la tramitación del procedimiento se relaciona directamente con...",
+        "opciones": [
+          "la garantía de imparcialidad mediante abstención y recusación, exclusivamente",
+          "el deber de remover obstáculos al ejercicio de derechos e intereses legítimos de los interesados",
+          "la competencia exclusiva del Estado del art. 149.1.18 CE",
+          "la clasificación entre procedimientos ordinarios y sumarios"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con las garantías de imparcialidad (abstención/recusación), que son otra previsión distinta: la eliminación de anormalidades en la tramitación se vincula al deber de remover obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos e intereses legítimos de los interesados. Ambas previsiones protegen al interesado frente a la propia Administración actuante.",
+        "parte": 1,
+        "id": "tema-19-q37"
+      },
+      {
+        "enunciado": "Dentro de los sujetos del procedimiento administrativo, ¿qué tipo de Administración queda excluida de la enumeración de 'Administración actuante' recogida en el texto?",
+        "opciones": [
+          "Ninguna; se citan AGE, autonómica, local y entidades vinculadas que ejerzan potestades",
+          "La Administración local",
+          "La Administración autonómica",
+          "Las entidades de derecho público vinculadas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con una enumeración incompleta: el texto cita expresamente la AGE, la Administración autonómica, la local, y las entidades de derecho público vinculadas a las anteriores cuando ejerzan potestades administrativas, sin excluir a ninguna de ellas. Lo relevante para estas últimas es el ejercicio efectivo de potestades administrativas.",
+        "parte": 1,
+        "id": "tema-19-q38"
+      },
+      {
+        "enunciado": "El sometimiento de la actuación administrativa al procedimiento correspondiente presenta una triple garantía. La primera de ellas consiste en...",
+        "opciones": [
+          "garantizar los derechos y libertades de los interesados",
+          "posibilitar el control de legalidad, sobre todo judicial",
+          "asegurar el acierto de la decisión tomada por la Administración",
+          "asegurar la gratuidad del procedimiento"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, no confundir el orden o el contenido de las tres garantías: la primera consiste en asegurar el acierto de la decisión, esto es, que sea correcta jurídicamente y la más acertada para el interés general. Las otras dos son la garantía de derechos/libertades y el control de legalidad.",
+        "parte": 1,
+        "id": "tema-19-q39"
+      },
+      {
+        "enunciado": "La segunda garantía que ofrece el procedimiento administrativo, relativa a los derechos y libertades de los interesados, se relaciona expresamente en el texto con...",
+        "opciones": [
+          "el principio de transparencia del art. 129 de la Ley 39/2015",
+          "el principio de jerarquía normativa",
+          "el principio de eficacia presupuestaria",
+          "el principio de autotutela declarativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con principios de organización administrativa interna: el texto vincula esta garantía con la transparencia de la actuación administrativa, recogida en el art. 129 de la Ley 39/2015. Se concreta en figuras como la notificación de la iniciación del procedimiento o el derecho a presentar alegaciones.",
+        "parte": 1,
+        "id": "tema-19-q40"
+      },
+      {
+        "enunciado": "La tercera de las garantías derivadas del sometimiento a procedimiento es...",
+        "opciones": [
+          "posibilitar el control de legalidad, sobre todo judicial, de la actuación administrativa",
+          "garantizar la participación económica de los interesados",
+          "asegurar la celeridad del procedimiento en todo caso",
+          "reducir los recursos administrativos disponibles"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con una garantía de rapidez o de participación económica: la tercera garantía es posibilitar el control de legalidad, sobre todo judicial, de la actuación administrativa. Junto con el acierto de la decisión y la garantía de derechos, conforman la triple garantía del procedimiento.",
+        "parte": 1,
+        "id": "tema-19-q41"
+      },
+      {
+        "enunciado": "En aplicación del principio de transparencia, el acceso sencillo, universal y actualizado a la normativa en vigor y a los documentos de su proceso de elaboración se establece, según el texto, en...",
+        "opciones": [
+          "el art. 7 de la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+          "el art. 105 de la Constitución",
+          "el art. 129 de la Ley 39/2015, exclusivamente",
+          "el art. 24 de la Constitución"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con el art. 129 LPAC (fundamento de la transparencia en el procedimiento) ni con el art. 105 CE: el texto remite expresamente el acceso sencillo, universal y actualizado a la normativa y documentos de elaboración al art. 7 de la Ley 19/2013, de transparencia. Completa la garantía de participación e información del ciudadano.",
+        "parte": 1,
+        "id": "tema-19-q42"
+      },
+      {
+        "enunciado": "Entre las características del procedimiento administrativo enumeradas en el texto se encuentra que tiene carácter...",
+        "opciones": [
+          "tuitivo a favor del interesado",
+          "oneroso para el interesado",
+          "discrecional en su tramitación",
+          "secreto salvo autorización expresa"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con un carácter oneroso o secreto, contrarios a la finalidad garantista del procedimiento: una de las características citadas es su carácter tuitivo a favor del interesado. Se complementa con la gratuidad, otra característica expresamente mencionada.",
+        "parte": 1,
+        "id": "tema-19-q43"
+      },
+      {
+        "enunciado": "El procedimiento administrativo es gratuito porque...",
+        "opciones": [
+          "lo financian exclusivamente las tasas abonadas por los interesados",
+          "se trata de un servicio prestado por el Estado de forma gratuita",
+          "así lo exige el principio de transparencia del art. 129 LPAC",
+          "lo dispone el art. 33 de la LPAC sobre tramitación de urgencia"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con una financiación vía tasas del interesado o con otros preceptos citados en el tema sin relación con la gratuidad: el texto justifica la gratuidad en que se trata de un servicio prestado por el Estado de forma gratuita. Es una de las características enumeradas junto al carácter tuitivo.",
+        "parte": 1,
+        "id": "tema-19-q44"
+      },
+      {
+        "enunciado": "El procedimiento administrativo se configura como un instrumento específico al servicio de fines como...",
+        "opciones": [
+          "la calidad del acto administrativo, la objetividad y la protección del ciudadano ante el poder de la Administración",
+          "la maximización de los ingresos públicos",
+          "la reducción del número de interesados en el expediente",
+          "la eliminación de los recursos administrativos"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con fines económicos o restrictivos de derechos: el texto señala que el procedimiento es un instrumento específico al servicio de fines como la calidad del acto administrativo, la objetividad y la protección del ciudadano ante el poder de la Administración. Por ello se afirma que tiende a ser una garantía del buen funcionamiento de la Administración.",
+        "parte": 1,
+        "id": "tema-19-q45"
+      },
+      {
+        "enunciado": "Una de las funciones del procedimiento administrativo, según el texto, es prescribir la forma en que debe actuar la Administración para...",
+        "opciones": [
+          "que ésta no ejerza su poder, con las prerrogativas inherentes, de forma arbitraria",
+          "que pueda actuar siempre sin sujeción a plazo alguno",
+          "que pueda delegar sistemáticamente sus competencias",
+          "que quede exenta de control judicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con una habilitación para actuar sin límites temporales o sin control: el procedimiento prescribe la forma de actuar precisamente para evitar que la Administración ejerza su poder de forma arbitraria. Esta función conecta con la garantía de control de legalidad de la actuación administrativa.",
+        "parte": 1,
+        "id": "tema-19-q46"
+      },
+      {
+        "enunciado": "El procedimiento administrativo, según el texto, debe tender a determinar...",
+        "opciones": [
+          "la verdad real que satisfaga el interés público que rige la gestión administrativa",
+          "la verdad formal que conste únicamente en el expediente",
+          "la voluntad exclusiva del órgano instructor",
+          "el interés particular del denunciante"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir verdad real con mera verdad formal limitada al expediente: el texto afirma que el procedimiento debe tender a determinar la verdad real que satisfaga el interés público que rige la gestión administrativa. Esta característica se vincula a la finalidad de asegurar una decisión administrativa justa.",
+        "parte": 1,
+        "id": "tema-19-q47"
+      },
+      {
+        "enunciado": "Entre las características del procedimiento administrativo recogidas en el texto se afirma que éste asegura...",
+        "opciones": [
+          "la decisión administrativa justa, respetando los derechos de los individuos",
+          "la decisión administrativa más rápida posible, sin más condicionantes",
+          "la decisión administrativa más económica para el erario público",
+          "la decisión administrativa definitiva e irrecurrible"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir justicia de la decisión con rapidez o economía, criterios no mencionados como característica aquí: el texto señala que el procedimiento asegura la decisión administrativa justa, respetando los derechos de los individuos. Esta característica se relaciona con la finalidad de determinar la verdad real.",
+        "parte": 1,
+        "id": "tema-19-q48"
+      },
+      {
+        "enunciado": "Según el texto, el procedimiento administrativo constituye el cauce formal de...",
+        "opciones": [
+          "la función administrativa, en sentido material",
+          "la función jurisdiccional exclusivamente",
+          "la potestad legislativa delegada",
+          "la función de control parlamentario"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con la función jurisdiccional o legislativa: el texto afirma que el procedimiento administrativo constituye el cauce formal de la función administrativa, en sentido material. Es una de las características enumeradas junto a su condición de serie de reglas de actuación.",
+        "parte": 1,
+        "id": "tema-19-q49"
+      },
+      {
+        "enunciado": "El procedimiento administrativo, como serie de reglas de actuación, determina el acto o serie de operaciones y trámites que deben seguirse para...",
+        "opciones": [
+          "obtener la defensa de un derecho o el cumplimiento de una obligación",
+          "garantizar en todo caso la condonación de sanciones",
+          "suprimir la intervención de los interesados",
+          "evitar cualquier forma de control judicial posterior"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con fines de condonación o de exclusión de control, ajenos al texto: el procedimiento determina las operaciones y trámites necesarios para obtener la defensa de un derecho o el cumplimiento de una obligación. Esta característica cierra la enumeración de rasgos del procedimiento administrativo.",
+        "parte": 1,
+        "id": "tema-19-q50"
+      },
+      {
+        "enunciado": "A diferencia del Derecho administrativo, en el Derecho privado las relaciones entre particulares se articulan normalmente en base al binomio...",
+        "opciones": [
+          "potestad/sujeción",
+          "derecho/obligación",
+          "carga/beneficio",
+          "interés legítimo/derecho subjetivo"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con el binomio propio del Derecho administrativo (potestad/sujeción): en Derecho privado las relaciones se articulan en base al binomio derecho/obligación, como ilustra el ejemplo del contrato de compraventa. El Derecho administrativo, en cambio, distingue en primer lugar entre potestad y sujeción.",
+        "parte": 1,
+        "id": "tema-19-q51"
+      },
+      {
+        "enunciado": "La potestad, en Derecho administrativo, se define como un poder que el ordenamiento reconoce a la Administración...",
+        "opciones": [
+          "de manera genérica, sin referirse a un sujeto particular ni a un objeto determinado",
+          "siempre referido a un sujeto y objeto concretos y determinados",
+          "exclusivamente en materia sancionadora",
+          "únicamente mediante ley orgánica"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir la potestad con un derecho subjetivo concreto frente a sujeto y objeto determinados: la potestad se reconoce de manera genérica, sin referirse a un sujeto particular ni a un objeto determinado, y se aplica después a casos concretos. Ejemplos son la potestad sancionadora, expropiatoria o tributaria.",
+        "parte": 1,
+        "id": "tema-19-q52"
+      },
+      {
+        "enunciado": "La situación de sujeción de la ciudadanía respecto de las potestades administrativas implica que...",
+        "opciones": [
+          "se trata de un sometimiento genérico referido a que eventualmente se tendrán que soportar los efectos del ejercicio de la potestad",
+          "existe ya una obligación concreta y exigible desde el momento del reconocimiento de la potestad",
+          "la ciudadanía queda exenta de cualquier efecto derivado de la potestad hasta que se produzca una sentencia",
+          "la sujeción solo se aplica a las personas jurídicas, no a las físicas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir sujeción genérica con obligación ya concreta: la sujeción es un sometimiento genérico, referido a que eventualmente se tendrán que soportar los efectos del ejercicio de la potestad, no una obligación ya nacida. Cuando la Administración ejerce la potestad, quien estaba en sujeción pasa a estar en una situación de obligación.",
+        "parte": 1,
+        "id": "tema-19-q53"
+      },
+      {
+        "enunciado": "El ejemplo que utiliza el texto para ilustrar el paso de la sujeción genérica a la obligación concreta es...",
+        "opciones": [
+          "la potestad tributaria, cuyo ejercicio genera obligaciones tributarias concretas",
+          "la potestad reglamentaria, que genera derechos subjetivos automáticos",
+          "la potestad disciplinaria, que extingue la relación funcionarial",
+          "la potestad expropiatoria, que crea siempre un derecho de reversión"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con otras potestades citadas solo como ejemplos de potestad en general (expropiatoria, sancionadora): el ejemplo específico de tránsito de sujeción a obligación es la potestad tributaria, de manera que toda la ciudadanía está sujeta a ella pero solo surgen obligaciones tributarias concretas cuando la Administración la ejerce. Ilustra la diferencia entre sujeción genérica y obligación concreta.",
+        "parte": 1,
+        "id": "tema-19-q54"
+      },
+      {
+        "enunciado": "En las situaciones jurídicas activas del ciudadano frente a la Administración...",
+        "opciones": [
+          "el ciudadano, por ser titular de un derecho, puede exigir a la Administración una determinada conducta",
+          "el ciudadano debe soportar necesariamente la acción de la Administración",
+          "el ciudadano asume una carga sin contrapartida alguna",
+          "el ciudadano queda sometido a una potestad genérica sin más"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con las situaciones pasivas, en las que el ciudadano soporta la acción administrativa: en las situaciones activas el ciudadano, por ser titular de un derecho, puede exigir a la Administración una determinada conducta, como la prestación de un servicio público. Se contraponen a las situaciones pasivas y se combinan con ellas en las situaciones mixtas.",
+        "parte": 1,
+        "id": "tema-19-q55"
+      },
+      {
+        "enunciado": "Son ejemplos de situaciones jurídicas pasivas del ciudadano, según el texto...",
+        "opciones": [
+          "la obligación de pagar una multa y el deber de reparar daños a bienes de dominio público",
+          "el derecho a exigir la prestación de un servicio público",
+          "la facultad de interponer un recurso administrativo",
+          "el derecho al empadronamiento municipal"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con situaciones activas (exigir una prestación) o mixtas (cargas como el empadronamiento o el recurso): las situaciones pasivas citadas son la obligación de pagar una multa y el deber de reparar los daños ocasionados a bienes de dominio público. En ellas son los ciudadanos quienes tienen que soportar la acción de la Administración.",
+        "parte": 1,
+        "id": "tema-19-q56"
+      },
+      {
+        "enunciado": "Las situaciones mixtas, que combinan elementos de las situaciones activas y pasivas, tienen como ejemplo más evidente...",
+        "opciones": [
+          "las cargas",
+          "las sanciones administrativas",
+          "los derechos político-constitucionales",
+          "las potestades discrecionales"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con categorías puramente activas (derechos) o pasivas (sanciones): el ejemplo más evidente de situación mixta, según el texto, son las cargas, en las que a una determinada obligación se asocia la obtención de un beneficio. El empadronamiento municipal es el ejemplo citado de carga.",
+        "parte": 1,
+        "id": "tema-19-q57"
+      },
+      {
+        "enunciado": "El texto señala expresamente que también tiene la consideración de carga...",
+        "opciones": [
+          "la interposición de recursos",
+          "la presentación de una denuncia penal",
+          "la celebración de un contrato administrativo",
+          "la obtención de una licencia de armas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con otras actuaciones del ciudadano ante la Administración no calificadas de carga en el texto: el texto afirma expresamente que también tiene la consideración de carga la interposición de recursos. Junto con el empadronamiento, es el segundo ejemplo de carga mencionado.",
+        "parte": 1,
+        "id": "tema-19-q58"
+      },
+      {
+        "enunciado": "El derecho subjetivo se define en el texto como un poder reconocido al ciudadano por el ordenamiento jurídico que le permite ejercitarlo erga omnes, incluso contra la Administración, disponiendo para ello de...",
+        "opciones": [
+          "una Tutela Judicial Efectiva reconocida en el art. 24 de la Constitución",
+          "un recurso de amparo directo ante el Tribunal Constitucional en todo caso",
+          "una acción popular reconocida en el art. 125 CE",
+          "una potestad de autotutela ejecutiva"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con mecanismos específicos como el amparo o la acción popular: el texto vincula el derecho subjetivo a la Tutela Judicial Efectiva reconocida en el art. 24 de la Constitución. El texto añade que este derecho se traslada al Derecho Administrativo por obra de la Revolución francesa, donde se denominaban derechos públicos subjetivos.",
+        "parte": 1,
+        "id": "tema-19-q59"
+      },
+      {
+        "enunciado": "Entre las clases de derechos subjetivos que recoge el texto se encuentran los 'singulares', definidos como...",
+        "opciones": [
+          "aquellos actos de la Administración que crean, reconocen o declaran un derecho a una persona determinada, como la concesión de una licencia",
+          "los derivados de situaciones de libertad individual, como los derechos fundamentales",
+          "los establecidos en los arts. 13 y 53 de la LPAC para los administrados",
+          "los relativos al justiprecio en una expropiación"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir los singulares con los político-constitucionales (libertad individual) o con los patrimoniales (justiprecio expropiatorio): los derechos singulares son aquellos actos de la Administración que crean, reconocen o declaran un derecho a una persona determinada, como la concesión de una licencia. El texto distingue además los patrimoniales, los político-constitucionales y los subjetivos de los administrados (arts. 13 y 53 LPAC).",
+        "parte": 1,
+        "id": "tema-19-q60"
+      },
+      {
+        "enunciado": "Señale la afirmación CORRECTA sobre el concepto de interés legítimo según el tema:",
+        "opciones": [
+          "Es el interés que corresponde a cualquier ciudadano por el mero hecho de pertenecer a la colectividad, idéntico para todos.",
+          "Es el interés propio, distinto del de la ciudadanía en general, que corresponde a quienes se hallan en determinadas circunstancias y que consiste en que los poderes públicos actúen conforme al ordenamiento.",
+          "Es un derecho subjetivo patrimonial reconocido en los artículos 13 y 53 de la LPAC.",
+          "Es la facultad exclusiva de las Administraciones Públicas para revisar de oficio sus propios actos."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir el interés legítimo con un interés general compartido por toda la ciudadanía: el texto lo define precisamente como un interés propio, distinto del de la ciudadanía en general, que corresponde a quienes se hallan en determinadas circunstancias y que consiste en que los poderes públicos actúen de acuerdo con el ordenamiento. Este interés legítimo es la base para poder reaccionar frente a actuaciones administrativas que incidan en la esfera propia.",
+        "parte": 2,
+        "id": "tema-19-q61"
+      },
+      {
+        "enunciado": "¿En qué se diferencia el interés legítimo del interés general de la ciudadanía, según el tema?",
+        "opciones": [
+          "En que el interés legítimo es un interés propio y distinto del de la ciudadanía en general, mientras que el interés general corresponde indistintamente a toda la colectividad.",
+          "No existe diferencia alguna, son sinónimos utilizados indistintamente por la LPAC.",
+          "El interés legítimo solo puede ser invocado por personas jurídicas, nunca por personas físicas.",
+          "El interés general solo puede defenderse mediante recursos judiciales, mientras que el interés legítimo se defiende exclusivamente en vía administrativa."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir interés legítimo con interés general: el tema es explícito en que el interés legítimo es un interés propio, distinto del interés de la ciudadanía en general, que corresponde a quien se halla en determinadas circunstancias. No se está actuando en defensa de la legalidad en abstracto, sino en defensa de los intereses propios.",
+        "parte": 2,
+        "id": "tema-19-q62"
+      },
+      {
+        "enunciado": "Cuando el titular de un interés legítimo considera que una actuación administrativa incide en su esfera de intereses propios, ¿cómo puede reaccionar según el tema?",
+        "opciones": [
+          "Únicamente solicitando a la Administración la apertura de un expediente disciplinario contra el funcionario actuante.",
+          "Mediante la interposición de recursos, solicitando la anulación de dicha actuación.",
+          "Exclusivamente acudiendo a la vía penal, al tratarse de una infracción administrativa.",
+          "Formulando una queja ante el Defensor del Pueblo, único cauce previsto por la norma."
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que podría pensarse, el cauce que señala el tema no es disciplinario ni penal: quien es titular de un interés legítimo, si considera que una actuación administrativa incide en el ámbito de sus intereses propios, puede reaccionar frente a ella mediante recursos, solicitando su anulación. Esto no implica que, por el mero hecho de recurrir, se le vaya a dar la razón.",
+        "parte": 2,
+        "id": "tema-19-q63"
+      },
+      {
+        "enunciado": "Respecto a la finalidad de la reacción frente a la actuación administrativa por parte del titular de un interés legítimo, señale la opción CORRECTA:",
+        "opciones": [
+          "La interposición del recurso garantiza en todo caso que se dará la razón a quien lo interpuso.",
+          "La interposición del recurso no significa que se vaya a dar la razón a quien lo interpuso, sino que se le garantiza la posibilidad de reaccionar, situándolo en condiciones de conseguir un determinado beneficio.",
+          "La finalidad exclusiva del recurso es obtener una indemnización económica inmediata.",
+          "El recurso solo tiene efectos si lo interpone un número mínimo de diez personas afectadas."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir reaccionar con ganar: el tema aclara expresamente que la interposición del recurso no significa que en todo caso se vaya a dar la razón a quien lo interpuso; simplemente se le garantiza que pueda reaccionar ante la actuación administrativa, situándolo en condiciones de conseguir un determinado beneficio. De prosperar, podría surgir incluso un derecho a indemnización.",
+        "parte": 2,
+        "id": "tema-19-q64"
+      },
+      {
+        "enunciado": "En el ejemplo del vecino que recurre la licencia de apertura de un bar situado en los bajos de su edificio, ¿cuál es el motivo concreto de su recurso según el tema?",
+        "opciones": [
+          "Que el bar incumple la normativa de horarios de cierre establecida por el ayuntamiento.",
+          "Que no se han adoptado las medidas correctoras necesarias para insonorizar el local.",
+          "Que el titular del bar carece de la licencia fiscal correspondiente.",
+          "Que el bar no dispone de salida de emergencia reglamentaria."
+        ],
+        "correcta": 1,
+        "explicacion": "No es una cuestión de horarios ni de licencia fiscal: el ejemplo del tema es el de un vecino que interpone un recurso contra la licencia de apertura de un bar en los bajos del edificio en el que reside porque no se han adoptado las medidas correctoras necesarias para insonorizar el local. Es el caso clásico que ilustra el interés legítimo frente al interés general.",
+        "parte": 2,
+        "id": "tema-19-q65"
+      },
+      {
+        "enunciado": "Si el recurso interpuesto por el titular de un interés legítimo prospera, ¿qué puede llegar a surgir según el tema?",
+        "opciones": [
+          "Un derecho a la indemnización de los daños y perjuicios sufridos.",
+          "La obligación automática de la Administración de abrir un expediente sancionador.",
+          "El reconocimiento inmediato de la nacionalidad española al recurrente.",
+          "La nulidad de pleno derecho de toda la normativa sectorial aplicable."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no exagerar el efecto: no se anula automáticamente toda la normativa ni se abre un expediente sancionador. El tema señala que se trata de una pretensión de que se respete el ordenamiento en el caso concreto y que, de prosperar el recurso, podría surgir un derecho a la indemnización de los daños y perjuicios sufridos.",
+        "parte": 2,
+        "id": "tema-19-q66"
+      },
+      {
+        "enunciado": "Según el tema, cuando el titular de un interés legítimo recurre una actuación administrativa, ¿en defensa de qué está actuando?",
+        "opciones": [
+          "En defensa de la legalidad en abstracto, con independencia de cualquier afectación personal.",
+          "En defensa de sus propios intereses, no de la legalidad en abstracto.",
+          "En defensa de los intereses de la Administración actuante.",
+          "En defensa del interés general, en sustitución del Ministerio Fiscal."
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de la acción pública en defensa de la legalidad: el tema precisa que no se está actuando en defensa de la legalidad en abstracto, sino en defensa de los intereses propios. Es la diferencia clave entre el interés legítimo y una acción pública genérica.",
+        "parte": 2,
+        "id": "tema-19-q67"
+      },
+      {
+        "enunciado": "¿Cómo define el tema el término 'interesado' en el procedimiento administrativo?",
+        "opciones": [
+          "Aquella persona que ostenta la nacionalidad española y goza de plenitud de derechos civiles y políticos.",
+          "Aquella persona que mantiene una determinada relación con la Administración.",
+          "Exclusivamente la persona física o jurídica que ha sido sancionada por la Administración.",
+          "El funcionario público que tramita el expediente administrativo."
+        ],
+        "correcta": 1,
+        "explicacion": "No confundir interesado con ciudadano ni con funcionario: el tema define el término interesado de forma amplia, como aquella persona que mantiene una determinada relación con la Administración, siendo conveniente diferenciarlo de conceptos próximos como ciudadano y administrado.",
+        "parte": 2,
+        "id": "tema-19-q68"
+      },
+      {
+        "enunciado": "Respecto a la diferencia entre 'ciudadano' y 'administrado' señalada en el tema, indique la opción CORRECTA:",
+        "opciones": [
+          "El término ciudadano tiene connotaciones políticas y designa a quien está en plenitud de derechos civiles y políticos, incluido el sufragio; el administrado refleja una posición de subordinación respecto de la Administración.",
+          "Ambos términos son completamente equivalentes y se usan indistintamente en la LPAC.",
+          "El término administrado solo puede aplicarse a personas físicas de nacionalidad española mayores de edad.",
+          "El término ciudadano es más amplio que el de administrado, pues incluye a las personas jurídicas y extranjeras."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, es justo al revés de la opción D: el tema dice que el término administrado es MÁS amplio que el de ciudadano, no al contrario. El ciudadano tiene connotaciones políticas (plenitud de derechos civiles y políticos, incluido el sufragio), mientras que el administrado refleja, aunque no siempre, una posición de subordinación respecto de la Administración.",
+        "parte": 2,
+        "id": "tema-19-q69"
+      },
+      {
+        "enunciado": "¿Por qué señala el tema que el término 'administrado' es más amplio que el de 'ciudadano'?",
+        "opciones": [
+          "Porque el administrado se extiende también a personas jurídicas, extranjeras y menores de edad.",
+          "Porque solo el administrado puede ser titular de derechos fundamentales.",
+          "Porque el ciudadano únicamente existe en el ámbito del Derecho privado.",
+          "Porque el administrado requiere siempre la mayoría de edad y la nacionalidad española."
+        ],
+        "correcta": 0,
+        "explicacion": "No es una cuestión de derechos fundamentales ni de mayoría de edad: el tema explica que el término administrado es más amplio que el de ciudadano, ya que también se extiende a personas jurídicas, extranjeras, menores de edad, etc., a diferencia del ciudadano, ligado a connotaciones políticas.",
+        "parte": 2,
+        "id": "tema-19-q70"
+      },
+      {
+        "enunciado": "Sobre la posición de subordinación del administrado frente a la Administración, señale la afirmación CORRECTA:",
+        "opciones": [
+          "Esa posición de subordinación es absoluta y nunca admite excepciones.",
+          "Esa posición de subordinación no se produce en todo caso, ya que el administrado también puede ser titular de derechos frente a la Administración.",
+          "El administrado pierde dicha condición en el momento en que es titular de algún derecho.",
+          "Solo los extranjeros administrados se encuentran en posición de subordinación."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no es una regla sin excepciones: el tema matiza que esa posición de subordinación no se produce en todo caso, ya que el administrado también puede ser titular de derechos frente a la Administración. Por eso el concepto de administrado no equivale sin más a una posición de inferioridad.",
+        "parte": 2,
+        "id": "tema-19-q71"
+      },
+      {
+        "enunciado": "Según el art. 4.1 de la Ley 39/2015, el primer supuesto que otorga la condición de interesado es:",
+        "opciones": [
+          "Quienes promuevan el procedimiento como titulares de derechos o intereses legítimos individuales o colectivos.",
+          "Quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que se adopte.",
+          "Quienes se personen en el procedimiento alegando un interés legítimo colectivo, aunque no resulten afectados.",
+          "Quienes hayan sido citados expresamente por el órgano competente mediante notificación personal."
+        ],
+        "correcta": 0,
+        "explicacion": "No confundir con el segundo supuesto (afectados sin haber iniciado): el primer supuesto del art. 4.1 LPAC es el de quienes promuevan el procedimiento como titulares de derechos o intereses legítimos, individuales o colectivos. El hecho de iniciar el procedimiento, por ejemplo mediante una solicitud, convierte a quien la presenta en interesado, con independencia de si es titular de un derecho o de un interés legítimo.",
+        "parte": 2,
+        "id": "tema-19-q72"
+      },
+      {
+        "enunciado": "¿Cuál es el segundo supuesto del art. 4.1 LPAC para tener la condición de interesado?",
+        "opciones": [
+          "Quienes promuevan el procedimiento como titulares de derechos o intereses legítimos.",
+          "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+          "Aquéllos cuyos intereses legítimos puedan resultar afectados y se personen en el procedimiento.",
+          "Quienes adquieran la condición de interesado por una relación jurídica transmisible."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, aquí no se exige personarse, a diferencia del tercer supuesto: el segundo supuesto del art. 4.1 LPAC se refiere a los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que se adopte. La titularidad de un derecho afectado implica el reconocimiento automático de la condición de interesado.",
+        "parte": 2,
+        "id": "tema-19-q73"
+      },
+      {
+        "enunciado": "El tercer supuesto del art. 4.1 LPAC para ser interesado exige que:",
+        "opciones": [
+          "Los intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y el titular se persone en el procedimiento antes de que recaiga resolución definitiva.",
+          "Los derechos del titular resulten afectados, sin necesidad de personarse en ningún momento.",
+          "El titular haya promovido el procedimiento mediante solicitud expresa.",
+          "El titular acredite su representación mediante comparecencia apud acta."
+        ],
+        "correcta": 0,
+        "explicacion": "No es automático como en el caso de los derechos: el tercer supuesto exige que aquéllos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución se personen en el procedimiento en tanto no haya recaído resolución definitiva. Es decir, deben hacer saber a la Administración que quieren participar.",
+        "parte": 2,
+        "id": "tema-19-q74"
+      },
+      {
+        "enunciado": "Además de los tres supuestos del art. 4.1, ¿qué otro supuesto reconoce la condición de interesado según la LPAC?",
+        "opciones": [
+          "El del art. 4.3, que atribuye la condición de interesado a quien la adquiera derivada de un derecho o relación jurídica transmisible.",
+          "El del art. 4.2, que la reconoce a cualquier persona que resida en el municipio donde se tramite el procedimiento.",
+          "El del art. 4.4, que la reconoce exclusivamente a las personas jurídicas públicas.",
+          "El del art. 5, relativo a la representación de los interesados."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no lo confundas con el artículo de representación (art. 5): el tema señala que también tiene la condición de interesado el que la adquiera derivada de un derecho o relación jurídica transmisible (art. 4.3 de la Ley 39/2015), un supuesto distinto y adicional a los tres del art. 4.1.",
+        "parte": 2,
+        "id": "tema-19-q75"
+      },
+      {
+        "enunciado": "Cuando una persona inicia un procedimiento presentando una solicitud, ¿qué efecto tiene esto según el tema, en relación con la titularidad de un derecho o un interés legítimo?",
+        "opciones": [
+          "La convierte en interesada con independencia de que sea titular de un derecho o de un interés legítimo.",
+          "Solo la convierte en interesada si demuestra previamente ser titular de un derecho subjetivo.",
+          "Nunca la convierte en interesada si no acredita representación.",
+          "La convierte en interesada únicamente si el procedimiento tiene publicidad."
+        ],
+        "correcta": 0,
+        "explicacion": "No hace falta acreditar previamente nada sobre la naturaleza del interés: el tema indica que el hecho de iniciar el procedimiento, por ejemplo presentando una solicitud, convierte a quien la presenta en interesado, con independencia de que sea titular de un derecho o de un interés legítimo.",
+        "parte": 2,
+        "id": "tema-19-q76"
+      },
+      {
+        "enunciado": "Respecto a quienes NO han iniciado el procedimiento, ¿qué diferencia establece el tema entre los titulares de derechos y los titulares de intereses legítimos?",
+        "opciones": [
+          "Ninguna, ambos deben personarse obligatoriamente en el procedimiento.",
+          "La titularidad de un derecho afectado implica el reconocimiento automático de la condición de interesado; en cambio, los titulares de intereses legítimos deben, además, personarse en el procedimiento.",
+          "Los titulares de intereses legítimos obtienen el reconocimiento automático, mientras que los titulares de derechos deben personarse.",
+          "Solo los titulares de derechos pueden adquirir la condición de interesado; los titulares de intereses legítimos nunca la adquieren."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, es justo al revés de la opción C: la titularidad de un derecho que pueda resultar afectado implica el reconocimiento automático de la condición de interesado; en cambio, en el caso de los intereses legítimos, además de que puedan resultar afectados, se requiere que esas personas se personen en el procedimiento, es decir, que hagan saber a la Administración que quieren participar en él.",
+        "parte": 2,
+        "id": "tema-19-q77"
+      },
+      {
+        "enunciado": "En el ejemplo de las oposiciones recogido en el tema, ¿por qué se reconoce la condición de interesado a la persona que obtuvo la plaza, frente al recurso presentado por otro aspirante?",
+        "opciones": [
+          "Porque, de prosperar el recurso, perdería la plaza, por lo que afectaría a su derecho sobre dicha plaza.",
+          "Porque presentó personalmente el recurso contra la resolución del tribunal.",
+          "Porque ostenta un interés legítimo colectivo compartido con el resto de aspirantes.",
+          "Porque se personó voluntariamente en el procedimiento antes de que recayera resolución definitiva."
+        ],
+        "correcta": 0,
+        "explicacion": "No es que se haya personado voluntariamente ni que comparta un interés colectivo: el ejemplo del tema explica que si el recurso presentado por otro aspirante prosperase, la persona que obtuvo la plaza la perdería, por lo que afectaría a su derecho a dicha plaza, lo que ilustra el reconocimiento automático de la condición de interesado a los titulares de derechos afectados.",
+        "parte": 2,
+        "id": "tema-19-q78"
+      },
+      {
+        "enunciado": "¿Qué significa, según el tema, que una persona titular de un interés legítimo 'se persone' en el procedimiento?",
+        "opciones": [
+          "Que presente una denuncia penal contra la Administración actuante.",
+          "Que haga saber a la Administración que quiere participar en el procedimiento.",
+          "Que acredite su representación mediante comparecencia apud acta.",
+          "Que solicite formalmente la abstención del órgano instructor."
+        ],
+        "correcta": 1,
+        "explicacion": "No se trata de representación ni de abstención: personarse, según el tema, significa hacer saber a la Administración que se quiere participar en el procedimiento. Es el requisito adicional que la ley exige a los titulares de intereses legítimos (a diferencia de los titulares de derechos) para adquirir la condición de interesado cuando no han iniciado el procedimiento.",
+        "parte": 2,
+        "id": "tema-19-q79"
+      },
+      {
+        "enunciado": "Según el tema, en los intereses legítimos individuales:",
+        "opciones": [
+          "Es cada individuo quien actuará con el propósito del restablecimiento de la legalidad.",
+          "Solo pueden actuar asociaciones representativas de intereses sociales.",
+          "Nunca puede actuar una sola persona, se requiere un mínimo de afectados.",
+          "Es necesaria siempre la intervención del Ministerio Fiscal."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se exige ningún mínimo de afectados ni intervención del Ministerio Fiscal: el tema distingue los intereses legítimos individuales, en los que será cada individuo el que actuará con el propósito del restablecimiento de la legalidad, de los colectivos, en los que además puede actuar una asociación representativa.",
+        "parte": 2,
+        "id": "tema-19-q80"
+      },
+      {
+        "enunciado": "En relación con los intereses legítimos colectivos, ¿qué reconoce el tema además de la posibilidad de que actúe una sola persona?",
+        "opciones": [
+          "Que únicamente los partidos políticos pueden actuar en defensa de intereses colectivos.",
+          "Que sean asociaciones y organizaciones representativas de intereses económicos y sociales quienes actúen en nombre y defensa de una colectividad.",
+          "Que la Administración debe actuar de oficio en todo caso para proteger el interés colectivo.",
+          "Que solo puedan actuar colectivos de más de cien personas debidamente censadas."
+        ],
+        "correcta": 1,
+        "explicacion": "No se limita a partidos políticos ni exige un número mínimo de afectados: el tema reconoce la posibilidad de que sean asociaciones y organizaciones representativas de intereses económicos y sociales quienes actúen en nombre y defensa de una colectividad, poniendo como ejemplo las asociaciones de consumidores y usuarios o de vecinos.",
+        "parte": 2,
+        "id": "tema-19-q81"
+      },
+      {
+        "enunciado": "¿Qué supuesto de hecho ejemplifica la STC 214/1991 citada en el tema?",
+        "opciones": [
+          "Una persona judía presenta un recurso contra determinado artículo periodístico en el que se ofendía a todo el pueblo judío.",
+          "Una asociación de vecinos recurre la concesión de una licencia de apertura de un bar.",
+          "Un funcionario público recurre su exclusión de un proceso selectivo por antecedentes penales.",
+          "Un menor extranjero no acompañado solicita capacidad para actuar en un procedimiento de repatriación."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con el ejemplo del bar ni con el de extranjería, que son otros ejemplos distintos del tema: la STC 214/1991 se refiere al caso de una persona judía que presenta un recurso contra determinado artículo periodístico en el que se ofendía a todo el pueblo judío, ilustrando que una sola persona puede actuar en defensa de intereses colectivos.",
+        "parte": 2,
+        "id": "tema-19-q82"
+      },
+      {
+        "enunciado": "¿Qué principio ilustra la STC 214/1991 en relación con los intereses legítimos colectivos?",
+        "opciones": [
+          "Que una única persona puede actuar en defensa de intereses colectivos, sin necesidad de constituir una asociación.",
+          "Que los intereses colectivos solo pueden defenderse mediante asociaciones legalmente constituidas.",
+          "Que los intereses colectivos quedan excluidos del concepto de interés legítimo.",
+          "Que la defensa de intereses colectivos exige siempre la intervención de la Administración."
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que diría la opción B: el tema usa precisamente la STC 214/1991 para mostrar que, además de la posibilidad de que actúen asociaciones representativas, se reconoce la posibilidad de que una única persona actúe en defensa de intereses colectivos, como ocurrió en ese caso.",
+        "parte": 2,
+        "id": "tema-19-q83"
+      },
+      {
+        "enunciado": "¿Qué tipo de asociaciones pone el tema como ejemplo de defensa de intereses colectivos?",
+        "opciones": [
+          "Asociaciones de consumidores y usuarios, de vecinos, etc.",
+          "Exclusivamente colegios profesionales de carácter obligatorio.",
+          "Exclusivamente sindicatos de funcionarios públicos.",
+          "Exclusivamente partidos políticos con representación parlamentaria."
+        ],
+        "correcta": 0,
+        "explicacion": "No se restringe a colegios profesionales, sindicatos ni partidos: el tema menciona como ejemplo a las asociaciones de consumidores y usuarios, de vecinos, etc., como organizaciones representativas de intereses económicos y sociales que pueden actuar en nombre y defensa de una colectividad.",
+        "parte": 2,
+        "id": "tema-19-q84"
+      },
+      {
+        "enunciado": "¿En qué supuesto se aplica la comunicación prevista en el art. 8 de la Ley 39/2015?",
+        "opciones": [
+          "Cuando, durante la instrucción de un procedimiento que no haya tenido publicidad, se advierta la existencia de personas titulares de derechos o intereses legítimos cuya identificación resulte del expediente.",
+          "Cuando el procedimiento haya finalizado con resolución firme y se detecten nuevos interesados.",
+          "Únicamente en los procedimientos sancionadores de carácter disciplinario.",
+          "Cuando el interesado haya fallecido durante la tramitación del procedimiento."
+        ],
+        "correcta": 0,
+        "explicacion": "No es un supuesto posterior a la resolución firme ni exclusivo de lo disciplinario: el art. 8 LPAC se aplica cuando, durante la instrucción de un procedimiento que no haya tenido publicidad, se advirtiera la existencia de personas titulares de derechos o intereses legítimos cuya identificación resulte del expediente y que pudieran resultar afectadas por la resolución.",
+        "parte": 2,
+        "id": "tema-19-q85"
+      },
+      {
+        "enunciado": "Para que opere la comunicación del art. 8 LPAC a interesados no identificados inicialmente, ¿qué requisito exige el tema respecto a su identificación?",
+        "opciones": [
+          "Que su identificación resulte del expediente.",
+          "Que hayan sido previamente notificados por edicto en el BOE.",
+          "Que hayan solicitado expresamente ser incluidos como interesados.",
+          "Que residan en el mismo municipio que el promotor del procedimiento."
+        ],
+        "correcta": 0,
+        "explicacion": "No se exige notificación previa por edicto ni residencia en un municipio concreto: el tema requiere que la identificación de esas personas titulares de derechos o intereses legítimos resulte del propio expediente, para que la Administración pueda comunicarles la tramitación del procedimiento.",
+        "parte": 2,
+        "id": "tema-19-q86"
+      },
+      {
+        "enunciado": "¿Qué consecuencia prevé el art. 8 LPAC cuando se detecta a esos interesados no identificados inicialmente?",
+        "opciones": [
+          "Se les comunicará la tramitación del procedimiento para que actúen en consecuencia.",
+          "Se archivará el procedimiento de oficio hasta que comparezcan.",
+          "Se les impondrá automáticamente la condición de responsables subsidiarios.",
+          "Se suspenderá indefinidamente el plazo de resolución."
+        ],
+        "correcta": 0,
+        "explicacion": "No implica archivo ni suspensión indefinida: la consecuencia prevista en el art. 8 LPAC es que se les comunicará la tramitación del procedimiento para que actúen en consecuencia, precisamente porque quien no ha iniciado el procedimiento no tiene por qué tener conocimiento de que se está tramitando.",
+        "parte": 2,
+        "id": "tema-19-q87"
+      },
+      {
+        "enunciado": "¿Cuál es, según el tema, la importancia o razón de ser de la previsión del art. 8 LPAC?",
+        "opciones": [
+          "Que quien no ha iniciado el procedimiento no tiene por qué tener conocimiento de que se está tramitando.",
+          "Que la Administración necesita reducir el número de interesados para agilizar el procedimiento.",
+          "Que los interesados no identificados pierden automáticamente su derecho a recurrir.",
+          "Que solo se aplica a procedimientos de naturaleza tributaria."
+        ],
+        "correcta": 0,
+        "explicacion": "No busca reducir interesados ni se limita a lo tributario: el tema explica que la importancia de esta previsión radica en el hecho de que quien no ha iniciado el procedimiento no tiene por qué tener conocimiento de que se está tramitando, de ahí la necesidad de comunicárselo cuando su identificación resulte del expediente.",
+        "parte": 2,
+        "id": "tema-19-q88"
+      },
+      {
+        "enunciado": "¿Qué deber establece el art. 18.2 de la Ley 39/2015 en relación con otros posibles interesados?",
+        "opciones": [
+          "El deber de los interesados de proporcionar a la Administración los datos que conozcan y que permitan identificar a otros interesados en el procedimiento.",
+          "El deber de la Administración de notificar personalmente a todos los ciudadanos del municipio.",
+          "El deber de los interesados de constituir una asociación antes de personarse.",
+          "El deber de aportar un informe pericial sobre la identidad de otros interesados."
+        ],
+        "correcta": 0,
+        "explicacion": "No es un deber de la Administración, sino de los propios interesados: el art. 18.2 LPAC establece como deber de los interesados que, si conocieran datos que permitieran identificar a otros interesados en el procedimiento, tuvieran que proporcionárselos a la Administración.",
+        "parte": 2,
+        "id": "tema-19-q89"
+      },
+      {
+        "enunciado": "¿Qué diferencia existe entre la previsión del art. 8 LPAC y la del art. 18.2 LPAC, según el tema?",
+        "opciones": [
+          "El art. 8 impone una obligación a la Administración de comunicar la tramitación a interesados identificables en el expediente, mientras que el art. 18.2 impone un deber a los propios interesados de facilitar datos sobre otros posibles interesados que conozcan.",
+          "Ambos artículos regulan exactamente la misma obligación, atribuida a la Administración.",
+          "El art. 8 regula el deber de los interesados y el art. 18.2 la obligación de la Administración, justo al contrario de lo habitual.",
+          "El art. 18.2 deroga expresamente lo dispuesto en el art. 8 LPAC."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no son la misma obligación ni están invertidos los sujetos: el art. 8 LPAC obliga a la Administración a comunicar la tramitación cuando la identificación del interesado resulte del expediente, mientras que el art. 18.2 LPAC impone un deber a los interesados de proporcionar a la Administración los datos que conozcan sobre otros interesados.",
+        "parte": 2,
+        "id": "tema-19-q90"
+      },
+      {
+        "enunciado": "¿Cómo define el tema la capacidad jurídica?",
+        "opciones": [
+          "La aptitud de una persona para desenvolverse en el mundo del Derecho, esto es, de ser titular de derechos y obligaciones.",
+          "La aptitud de actuar personalmente ante la Administración ejercitando los derechos propios.",
+          "La facultad exclusiva de otorgar representación a un tercero en un procedimiento administrativo.",
+          "La condición de mayor de edad reconocida por el Código Civil."
+        ],
+        "correcta": 0,
+        "explicacion": "No la confundas con la capacidad de obrar (opción B): la capacidad jurídica es, según el tema, la aptitud de una persona para desenvolverse en el mundo del Derecho, esto es, de ser titular de derechos y obligaciones, y se determina conforme a las normas constitucionales y civiles.",
+        "parte": 2,
+        "id": "tema-19-q91"
+      },
+      {
+        "enunciado": "¿Cómo define el tema la capacidad de obrar?",
+        "opciones": [
+          "La aptitud de ser titular de derechos y obligaciones conforme a las normas civiles.",
+          "La aptitud de actuar personalmente ante la Administración ejercitando los derechos propios, regulada en la Ley 39/2015.",
+          "La condición de ciudadano con plenitud de derechos políticos, incluido el sufragio.",
+          "La facultad de recusar al órgano instructor del procedimiento."
+        ],
+        "correcta": 1,
+        "explicacion": "No es la capacidad jurídica (opción A), sino la capacidad de obrar: el tema la define como la aptitud de actuar personalmente ante la Administración ejercitando los derechos propios, y señala que su determinación se regula en la Ley 39/2015, en concreto en su art. 3.",
+        "parte": 2,
+        "id": "tema-19-q92"
+      },
+      {
+        "enunciado": "Respecto a las normas que determinan cada una de estas capacidades, señale la opción CORRECTA:",
+        "opciones": [
+          "La capacidad jurídica se determina conforme a las normas constitucionales y civiles, mientras que la capacidad de obrar se regula en la Ley 39/2015.",
+          "Ambas capacidades se regulan exclusivamente en la Ley 39/2015.",
+          "La capacidad de obrar se determina conforme a las normas constitucionales y civiles, y la capacidad jurídica se regula en la Ley 39/2015.",
+          "Ambas capacidades se determinan exclusivamente conforme al Código Civil, sin intervención de normas administrativas."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la opción C invierte los términos: es la capacidad jurídica la que se determina conforme a las normas constitucionales y civiles, mientras que la capacidad de obrar, al tratarse de la aptitud de actuar ante la Administración, se regula específicamente en la Ley 39/2015, en su art. 3.",
+        "parte": 2,
+        "id": "tema-19-q93"
+      },
+      {
+        "enunciado": "Según el art. 3 de la Ley 39/2015, ¿quiénes tienen con carácter general capacidad de obrar ante las Administraciones Públicas?",
+        "opciones": [
+          "Únicamente las personas mayores de edad con nacionalidad española.",
+          "Las personas que la ostenten con arreglo a las normas civiles, además de los menores de edad en los términos previstos por el propio artículo.",
+          "Exclusivamente las personas jurídicas debidamente inscritas en el registro mercantil.",
+          "Únicamente quienes hayan otorgado representación apud acta."
+        ],
+        "correcta": 1,
+        "explicacion": "No se limita a españoles ni a personas jurídicas: el art. 3 LPAC establece que tendrán capacidad de obrar ante las Administraciones Públicas, además de las personas que la ostenten con arreglo a las normas civiles, los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de quien ejerza la patria potestad, tutela o curatela.",
+        "parte": 2,
+        "id": "tema-19-q94"
+      },
+      {
+        "enunciado": "Según el art. 3 LPAC, ¿en qué condiciones tienen los menores de edad capacidad de obrar ante las Administraciones Públicas?",
+        "opciones": [
+          "Siempre y en cualquier circunstancia, sin ninguna limitación.",
+          "Para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de quien ejerza la patria potestad, tutela o curatela.",
+          "Únicamente a partir de los dieciséis años cumplidos, sin excepciones.",
+          "Solo cuando cuenten con la autorización expresa de un juez."
+        ],
+        "correcta": 1,
+        "explicacion": "No es una capacidad ilimitada ni requiere siempre autorización judicial: el art. 3 LPAC reconoce capacidad de obrar a los menores de edad para el ejercicio y defensa de aquellos de sus derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico sin la asistencia de la persona que ejerza la patria potestad, tutela o curatela.",
+        "parte": 2,
+        "id": "tema-19-q95"
+      },
+      {
+        "enunciado": "¿Qué excepción prevé el art. 3 LPAC respecto a la capacidad de obrar de los menores de edad?",
+        "opciones": [
+          "Se exceptúa el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate.",
+          "Se exceptúa a todos los menores de dieciséis años, sin posibilidad alguna de actuar.",
+          "Se exceptúa a los menores que posean nacionalidad extranjera, que nunca tendrán capacidad de obrar.",
+          "No se prevé ninguna excepción, la capacidad de obrar de los menores es absoluta."
+        ],
+        "correcta": 0,
+        "explicacion": "No es una exclusión general por edad o nacionalidad: el art. 3 LPAC exceptúa concretamente el supuesto de los menores incapacitados, cuando la extensión de la incapacitación afecte al ejercicio y defensa de los derechos o intereses de que se trate, lo que confirma que la capacidad de obrar de los menores no es absoluta.",
+        "parte": 2,
+        "id": "tema-19-q96"
+      },
+      {
+        "enunciado": "Además de las personas físicas y jurídicas, ¿a qué otros sujetos reconoce la Ley capacidad de obrar según el tema?",
+        "opciones": [
+          "A los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
+          "Únicamente a los partidos políticos legalmente constituidos.",
+          "Únicamente a las comunidades autónomas y entidades locales.",
+          "A ningún otro sujeto distinto de personas físicas y jurídicas."
+        ],
+        "correcta": 0,
+        "explicacion": "No se limita a partidos ni a entes territoriales: el tema señala expresamente que también se reconoce capacidad de obrar a los grupos de afectados, las uniones y entidades sin personalidad jurídica y los patrimonios independientes o autónomos.",
+        "parte": 2,
+        "id": "tema-19-q97"
+      },
+      {
+        "enunciado": "¿A quiénes corresponde, en primer lugar y con carácter general, la capacidad de obrar según el tema?",
+        "opciones": [
+          "A aquellas personas que la ostenten con arreglo a las normas civiles, es decir, a las mayores de edad.",
+          "Exclusivamente a quienes acrediten estar en posesión de un título universitario.",
+          "Exclusivamente a quienes hayan superado un proceso selectivo de función pública.",
+          "A cualquier persona, independientemente de su edad, sin excepción alguna."
+        ],
+        "correcta": 0,
+        "explicacion": "No depende de titulación ni de haber superado una oposición: el tema señala que, en primer lugar, la capacidad de obrar corresponde a aquellas personas que la ostenten con arreglo a las normas civiles, es decir, a las mayores de edad, sin perjuicio de las circunstancias modificativas y de los supuestos especiales de los menores.",
+        "parte": 2,
+        "id": "tema-19-q98"
+      },
+      {
+        "enunciado": "¿Cuáles son, según el tema, las causas modificativas de la capacidad de obrar más habituales?",
+        "opciones": [
+          "La nacionalidad y los antecedentes penales.",
+          "El estado civil y el nivel de estudios.",
+          "La residencia habitual y la situación económica.",
+          "La afiliación sindical y la ideología política."
+        ],
+        "correcta": 0,
+        "explicacion": "No son el estado civil, los estudios ni la ideología: el tema identifica como causas modificativas más habituales de la capacidad de obrar la nacionalidad y los antecedentes penales, con ejemplos concretos en los ámbitos de función pública, armas y extranjería.",
+        "parte": 2,
+        "id": "tema-19-q99"
+      },
+      {
+        "enunciado": "¿Qué ejemplo pone el tema de la nacionalidad como causa modificativa de la capacidad de obrar?",
+        "opciones": [
+          "El acceso a la función pública: el art. 13.2 CE establece que, con carácter general, solo los españoles son titulares de los derechos del art. 23 CE (participación en asuntos públicos y acceso a funciones y cargos públicos).",
+          "El acceso a la licencia de armas, regulado en el art. 13.2 de la Constitución.",
+          "El acceso a la vivienda de protección oficial, regulado en el art. 23 de la Constitución.",
+          "El acceso a la nacionalidad por residencia, regulado en el art. 18.2 de la LPAC."
+        ],
+        "correcta": 0,
+        "explicacion": "No confundir con la licencia de armas (causa de antecedentes penales, no de nacionalidad): el ejemplo del tema es el acceso a la función pública, donde el art. 13.2 de la Constitución establece, con carácter general, que solo los españoles son titulares de los derechos recogidos en el art. 23 CE, es decir, el derecho a participar en los asuntos públicos y a acceder a funciones y cargos públicos.",
+        "parte": 2,
+        "id": "tema-19-q100"
+      },
+      {
+        "enunciado": "¿Qué ejemplo pone el tema de los antecedentes penales como causa modificativa de la capacidad de obrar?",
+        "opciones": [
+          "El caso de la licencia de caza, ya que la concesión de las licencias de armas tiene carácter restrictivo.",
+          "El caso del acceso a la función pública, regulado en el art. 13.2 de la Constitución.",
+          "El caso de la obtención de la nacionalidad española por residencia continuada.",
+          "El caso de la inscripción en el registro electrónico de apoderamientos."
+        ],
+        "correcta": 0,
+        "explicacion": "No es el ejemplo de función pública (que es el de nacionalidad): el tema pone como ejemplo de los antecedentes penales el caso de la licencia de caza, ya que la concesión de las licencias de armas tiene carácter restrictivo mientras no se hayan cancelado dichos antecedentes.",
+        "parte": 2,
+        "id": "tema-19-q101"
+      },
+      {
+        "enunciado": "En el ámbito de la extranjería, ¿qué exige el tema en relación con los antecedentes penales?",
+        "opciones": [
+          "Se exige carecer de antecedentes penales para obtener una autorización de residencia.",
+          "Se exige tener antecedentes penales cancelados hace más de veinte años.",
+          "Los antecedentes penales son irrelevantes para obtener cualquier autorización de residencia.",
+          "Solo se exige carecer de antecedentes penales para obtener la nacionalidad, nunca para la residencia."
+        ],
+        "correcta": 0,
+        "explicacion": "No es irrelevante ni se exige un plazo de veinte años: el tema señala que, en el ámbito de la extranjería, se exige carecer de antecedentes penales para obtener una autorización de residencia, de forma similar a lo que ocurre con las licencias de armas.",
+        "parte": 2,
+        "id": "tema-19-q102"
+      },
+      {
+        "enunciado": "Respecto a la capacidad de obrar reconocida a los menores de edad, ¿a qué se limita dicha capacidad según el tema?",
+        "opciones": [
+          "Al ejercicio y defensa de derechos e intereses para los que no se requiera la participación de quienes ostentan su representación legal (progenitores, tutores, etc.).",
+          "A cualquier actuación administrativa, sin limitación alguna, a partir de los doce años.",
+          "Exclusivamente a los procedimientos tributarios, por disposición expresa de la DA 1ª LPAC.",
+          "A la interposición de recursos contencioso-administrativos, nunca a solicitudes."
+        ],
+        "correcta": 0,
+        "explicacion": "No es una capacidad ilimitada a partir de cierta edad, ni se circunscribe a lo tributario: la capacidad de obrar de los menores se limita al ejercicio y defensa de derechos e intereses para los que no se requiera la participación de las personas que ostentan su representación legal, es decir, progenitores, tutores, etc., dependiendo de la legislación sectorial aplicable.",
+        "parte": 2,
+        "id": "tema-19-q103"
+      },
+      {
+        "enunciado": "¿Qué ejemplo recoge el tema sobre la capacidad de obrar de los menores extranjeros no acompañados?",
+        "opciones": [
+          "La Ley Orgánica de extranjería reconoce capacidad para actuar en el procedimiento de repatriación a los mayores de dieciséis años.",
+          "La Ley Orgánica de extranjería reconoce dicha capacidad únicamente a partir de los dieciocho años.",
+          "La Ley Orgánica de extranjería excluye completamente a los menores no acompañados de cualquier procedimiento.",
+          "La Ley Orgánica de extranjería exige siempre la asistencia de un tutor, sin excepción, para el procedimiento de repatriación."
+        ],
+        "correcta": 0,
+        "explicacion": "No se exige la mayoría de edad plena ni la asistencia obligatoria de un tutor en todo caso: el tema explica que la Ley Orgánica de extranjería, al regular la situación de los menores extranjeros no acompañados, señala que si son mayores de dieciséis años se les reconocerá capacidad para actuar en el procedimiento de repatriación.",
+        "parte": 2,
+        "id": "tema-19-q104"
+      },
+      {
+        "enunciado": "Además del ámbito de extranjería, ¿qué otros ámbitos cita el tema como ejemplos en los que se reconoce capacidad de obrar a los menores?",
+        "opciones": [
+          "El educativo, los transportes públicos, determinados servicios sociales y el deporte escolar.",
+          "El ámbito tributario, el de la seguridad social y el de defensa de la competencia.",
+          "Exclusivamente el ámbito sanitario y el penitenciario.",
+          "El ámbito electoral y el de acceso a la función pública."
+        ],
+        "correcta": 0,
+        "explicacion": "No son los ámbitos tributario, de seguridad social o electoral (donde rigen otras reglas distintas): el tema cita como ejemplos similares al de extranjería el ámbito educativo, los transportes públicos, determinados servicios sociales y el deporte escolar.",
+        "parte": 2,
+        "id": "tema-19-q105"
+      },
+      {
+        "enunciado": "¿Qué limitación final señala el tema respecto al reconocimiento de capacidad de obrar a los menores?",
+        "opciones": [
+          "No podrá reconocerse capacidad de obrar a los menores incapacitados cuando dicha incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate.",
+          "Nunca podrá reconocerse capacidad de obrar a ningún menor, con independencia de la legislación sectorial.",
+          "Los menores incapacitados siempre conservan plena capacidad de obrar en todos los ámbitos.",
+          "La limitación solo opera a partir de los dieciséis años, nunca antes."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no es una prohibición absoluta para todos los menores: la limitación concreta que señala el tema es que no podrá reconocerse capacidad de obrar a aquellas personas menores que estén incapacitadas y dicha incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate, en coherencia con lo previsto en el art. 3 LPAC.",
+        "parte": 2,
+        "id": "tema-19-q106"
+      },
+      {
+        "enunciado": "¿Qué establece el art. 5 de la Ley 39/2015 sobre la actuación de los interesados en el procedimiento?",
+        "opciones": [
+          "Que los administrados podrán actuar en el procedimiento por sí mismos o a través de un representante.",
+          "Que los administrados deben actuar siempre a través de un representante legal.",
+          "Que solo los abogados en ejercicio pueden representar a los interesados.",
+          "Que la representación solo es válida si se otorga ante notario."
+        ],
+        "correcta": 0,
+        "explicacion": "No se exige representación obligatoria ni intervención de abogado o notario: el art. 5 LPAC establece que los administrados podrán actuar en el procedimiento por sí mismos o a través de un representante, siendo la representación voluntaria, no obligatoria.",
+        "parte": 2,
+        "id": "tema-19-q107"
+      },
+      {
+        "enunciado": "Cuando el interesado actúa a través de representante, ¿con quién se entenderán las actuaciones, como por ejemplo la notificación, según el tema?",
+        "opciones": [
+          "Con el representante, salvo manifestación expresa en contra del interesado.",
+          "Siempre con el interesado directamente, nunca con el representante.",
+          "Con el representante únicamente si este es abogado colegiado.",
+          "Con ambos simultáneamente, siendo obligatoria la doble notificación."
+        ],
+        "correcta": 0,
+        "explicacion": "No es obligatoria la notificación directa al interesado ni la doble notificación: el tema señala que, actuando mediante representante, se entenderán con el representante las actuaciones (por ejemplo, la notificación), salvo manifestación expresa en contra del interesado.",
+        "parte": 2,
+        "id": "tema-19-q108"
+      },
+      {
+        "enunciado": "¿Qué requisito exige el tema para poder actuar en representación de otra persona en un procedimiento administrativo?",
+        "opciones": [
+          "No se requiere titulación específica, siendo suficiente con que el representante tenga capacidad de obrar.",
+          "Se requiere estar en posesión del título de licenciado en Derecho.",
+          "Se requiere estar colegiado como procurador de los tribunales.",
+          "Se requiere ser funcionario público en servicio activo."
+        ],
+        "correcta": 0,
+        "explicacion": "No hace falta titulación jurídica ni colegiación: el tema indica que para poder actuar en representación de otra persona en un procedimiento administrativo no se requiere titulación específica, siendo suficiente con que quien vaya a ser representante tenga capacidad de obrar.",
+        "parte": 2,
+        "id": "tema-19-q109"
+      },
+      {
+        "enunciado": "Según el art. 7 de la Ley 39/2015, cuando en una solicitud, escrito o comunicación figuren varios interesados, ¿con quién se efectuarán las actuaciones?",
+        "opciones": [
+          "Con aquel interesado que lo suscriba en primer lugar, salvo que se haya señalado representante o un interesado concreto.",
+          "Con todos los interesados simultáneamente, siendo obligatoria la notificación múltiple.",
+          "Con el interesado de mayor edad entre los firmantes.",
+          "Con el órgano colegiado que designe la Administración, nunca con los propios interesados."
+        ],
+        "correcta": 0,
+        "explicacion": "No se exige notificación múltiple ni se atiende a la edad de los firmantes: el art. 7 LPAC configura un supuesto de representación legal por el cual, cuando figuren varios interesados en una solicitud, escrito o comunicación, las actuaciones se efectuarán con aquel interesado que lo suscriba en primer lugar, salvo que se haya señalado representante o un interesado concreto.",
+        "parte": 2,
+        "id": "tema-19-q110"
+      },
+      {
+        "enunciado": "¿Cuál es una de las formas de acreditar la representación para formular solicitudes, interponer recursos, desistir de acciones o renunciar a derechos, según el tema?",
+        "opciones": [
+          "Mediante declaración en comparecencia personal del interesado, conocida como 'apud acta'.",
+          "Mediante simple declaración verbal ante cualquier funcionario, sin constancia escrita.",
+          "Mediante el pago de una tasa administrativa específica.",
+          "Mediante la publicación de un edicto en el Boletín Oficial correspondiente."
+        ],
+        "correcta": 0,
+        "explicacion": "No basta una declaración verbal sin constancia ni el pago de una tasa: una de las formas que recoge el tema para acreditar la representación en estos actos es la declaración en comparecencia personal del interesado, conocida como 'apud acta', junto con la comparecencia electrónica y la inscripción en el registro de apoderamientos.",
+        "parte": 2,
+        "id": "tema-19-q111"
+      },
+      {
+        "enunciado": "Además de la comparecencia personal 'apud acta', ¿qué otra forma de comparecencia admite el tema para acreditar la representación?",
+        "opciones": [
+          "La comparecencia electrónica en la correspondiente sede electrónica.",
+          "La comparecencia telefónica grabada y archivada por la Administración.",
+          "La comparecencia ante el Defensor del Pueblo.",
+          "La comparecencia ante cualquier notaría del territorio nacional exclusivamente."
+        ],
+        "correcta": 0,
+        "explicacion": "No se contempla la vía telefónica ni la notarial como formas específicas en el tema: junto a la comparecencia personal 'apud acta', el tema admite la comparecencia electrónica en la correspondiente sede electrónica como forma de acreditar la representación.",
+        "parte": 2,
+        "id": "tema-19-q112"
+      },
+      {
+        "enunciado": "¿Qué tercera vía admite el tema para acreditar la representación, junto con la comparecencia apud acta y la comparecencia electrónica?",
+        "opciones": [
+          "La acreditación de la inscripción en el registro electrónico de apoderamientos de la Administración Pública competente.",
+          "La presentación de un contrato de mandato ante notario.",
+          "La exhibición de un poder general para pleitos otorgado ante secretario judicial.",
+          "La simple manifestación verbal del representante ante el órgano instructor."
+        ],
+        "correcta": 0,
+        "explicacion": "No se exige mandato notarial ni poder para pleitos: la tercera vía que cita el tema es la acreditación de la inscripción en el registro electrónico de apoderamientos de la Administración Pública competente, alternativa a la comparecencia apud acta y a la comparecencia electrónica en sede electrónica.",
+        "parte": 2,
+        "id": "tema-19-q113"
+      },
+      {
+        "enunciado": "¿Para qué actuaciones concretas exige el tema que se acredite la representación mediante alguna de las formas previstas (apud acta, comparecencia electrónica o registro de apoderamientos)?",
+        "opciones": [
+          "Para formular solicitudes, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona.",
+          "Para cualquier actuación administrativa, incluidos los actos de mero trámite.",
+          "Exclusivamente para presentar alegaciones en un procedimiento sancionador.",
+          "Exclusivamente para solicitar copia del expediente administrativo."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, los actos de mero trámite siguen un régimen distinto (presunción de representación, no acreditación formal): el tema exige acreditar la representación mediante esas formas concretamente para formular solicitudes, interponer recursos, desistir de acciones y renunciar a derechos en nombre de otra persona.",
+        "parte": 2,
+        "id": "tema-19-q114"
+      },
+      {
+        "enunciado": "Si no consta acreditada la representación en el momento de realizar una de esas actuaciones, ¿qué prevé el tema?",
+        "opciones": [
+          "Que no se tenga por realizada la actuación en ningún caso, debiendo repetirse íntegramente el trámite.",
+          "Que se tenga por realizada la actuación correspondiente, siempre que se aporte la acreditación en un plazo de diez días (u otro plazo si las circunstancias lo requieren).",
+          "Que se imponga automáticamente una sanción pecuniaria al representante.",
+          "Que se declare la nulidad de pleno derecho del procedimiento completo."
+        ],
+        "correcta": 1,
+        "explicacion": "No se exige repetir el trámite ni se sanciona automáticamente: el tema establece que el hecho de que no conste la representación no impide que se tenga por realizada la actuación correspondiente, siempre que se aporte la acreditación en un plazo de diez días, u otro plazo distinto si las circunstancias lo requieren.",
+        "parte": 2,
+        "id": "tema-19-q115"
+      },
+      {
+        "enunciado": "Respecto al plazo de diez días para acreditar la representación no constada inicialmente, señale la opción CORRECTA:",
+        "opciones": [
+          "Es un plazo absolutamente improrrogable y no puede sustituirse por ningún otro plazo.",
+          "El tema admite que pueda aplicarse otro plazo distinto si las circunstancias lo requieren.",
+          "El plazo se reduce automáticamente a la mitad en los procedimientos de urgencia.",
+          "El plazo es de diez días hábiles contados desde la resolución definitiva del procedimiento."
+        ],
+        "correcta": 1,
+        "explicacion": "No es un plazo absolutamente rígido: el propio tema matiza que se aportará la acreditación en un plazo de diez días, 'u otro plazo si las circunstancias lo requieren', dejando abierta la posibilidad de un plazo distinto según el caso.",
+        "parte": 2,
+        "id": "tema-19-q116"
+      },
+      {
+        "enunciado": "¿Qué ocurre, según el tema, cuando se realizan actos y gestiones de mero trámite en nombre de otra persona?",
+        "opciones": [
+          "Se exige siempre acreditar la representación mediante apud acta, igual que para interponer recursos.",
+          "Se presume la representación, sin necesidad de acreditarla mediante las formas previstas para otros actos.",
+          "Se requiere necesariamente la inscripción previa en el registro electrónico de apoderamientos.",
+          "Dichos actos son nulos de pleno derecho si no consta representación expresa."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no se aplica aquí el mismo rigor que para solicitudes o recursos: cuando se realicen actos y gestiones de mero trámite se presume la representación, a diferencia de lo que ocurre con la formulación de solicitudes, la interposición de recursos, el desistimiento de acciones o la renuncia de derechos.",
+        "parte": 2,
+        "id": "tema-19-q117"
+      },
+      {
+        "enunciado": "¿Qué ejemplo pone el tema sobre la presunción de representación en actos de mero trámite?",
+        "opciones": [
+          "Si una persona presenta un escrito de alegaciones en nombre de otra, aunque no conste que aquélla sea su representante, se admitirá sin más trámites.",
+          "Si una persona presenta un recurso de alzada en nombre de otra sin acreditar representación, el recurso se admitirá igualmente sin más trámites.",
+          "Si una persona formula una solicitud inicial en nombre de otra, se presumirá siempre su representación.",
+          "Si una persona desiste de una acción en nombre de otra, se presumirá la representación sin necesidad de acreditarla."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con recursos, solicitudes o desistimientos, que sí exigen acreditar representación: el ejemplo concreto que pone el tema de acto de mero trámite es el del escrito de alegaciones presentado por una persona en nombre de otra, que se admitirá sin más trámites aunque no conste la representación.",
+        "parte": 2,
+        "id": "tema-19-q118"
+      },
+      {
+        "enunciado": "¿Cuántos supuestos distintos reconoce la LPAC (arts. 4.1 y 4.3) para adquirir la condición de interesado?",
+        "opciones": [
+          "Tres supuestos en el art. 4.1 (promover el procedimiento, titulares de derechos afectados, titulares de intereses legítimos que se personen) más un cuarto supuesto en el art. 4.3 (derecho o relación jurídica transmisible).",
+          "Dos supuestos únicamente, ambos regulados en el art. 4.1.",
+          "Un único supuesto general aplicable a cualquier persona física o jurídica.",
+          "Cinco supuestos, incluyendo el de la comunicación del art. 8 LPAC como vía autónoma de adquisición de la condición de interesado."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir la comunicación del art. 8 LPAC (que es un mecanismo de aviso a interesados ya existentes, no un supuesto autónomo de atribución de la condición) con los supuestos reales: la LPAC reconoce tres supuestos en el art. 4.1 (promover el procedimiento; ser titular de un derecho afectado sin haberlo iniciado; ser titular de un interés legítimo que se persona) y un cuarto supuesto adicional en el art. 4.3, la adquisición derivada de un derecho o relación jurídica transmisible.",
+        "parte": 2,
+        "id": "tema-19-q119"
+      },
+      {
+        "enunciado": "Señale la afirmación CORRECTA sobre la relación entre las normas civiles y la Ley 39/2015 en materia de capacidad de obrar:",
+        "opciones": [
+          "La capacidad de obrar corresponde, con arreglo a las normas civiles, a las personas mayores de edad, y la Ley 39/2015 amplía ese reconocimiento a determinados menores y a entes sin personalidad jurídica en los términos de su art. 3.",
+          "La Ley 39/2015 deroga íntegramente las normas civiles en materia de capacidad, sustituyéndolas por un régimen autónomo.",
+          "Las normas civiles regulan la capacidad de obrar y la Ley 39/2015 regula exclusivamente la capacidad jurídica.",
+          "La capacidad de obrar ante la Administración depende siempre de la capacidad jurídica, sin que la Ley 39/2015 añada ningún supuesto adicional."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no hay derogación íntegra ni inversión de los conceptos (opciones B, C y D): el tema explica que la capacidad de obrar corresponde, con arreglo a las normas civiles, a las personas mayores de edad, y que el art. 3 de la Ley 39/2015 añade a ese reconocimiento general a los menores de edad en determinadas condiciones y a los grupos de afectados, uniones sin personalidad jurídica y patrimonios autónomos.",
+        "parte": 2,
+        "id": "tema-19-q120"
+      },
+      {
+        "enunciado": "Un profesor de Derecho Administrativo explica a sus alumnos el alcance del art. 149.1.18 CE en materia de procedimiento administrativo. Según el temario, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "El procedimiento administrativo común es una competencia normativa plena y exclusiva del Estado, sin perjuicio de que las Comunidades Autónomas puedan establecer las especialidades derivadas de su propia organización; distinto es el caso de las bases del régimen jurídico de las Administraciones Públicas, que en todo caso deben garantizar un tratamiento común a los administrados",
+          "Tanto el procedimiento administrativo común como las bases del régimen jurídico son competencia compartida entre el Estado y las Comunidades Autónomas, que pueden regular libremente ambas materias",
+          "Las bases del régimen jurídico de las Administraciones Públicas son competencia exclusiva y plena del Estado sin matización alguna, mientras que el procedimiento administrativo común admite especialidades autonómicas en cualquier aspecto, incluidas las garantías mínimas de los ciudadanos",
+          "El art. 149.1.18 CE no distingue entre bases del régimen jurídico y procedimiento administrativo común, tratándose de una competencia única y exclusiva de carácter autonómico desarrollada por la Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B convierte en compartida una competencia que el propio art. 149.1.18 CE configura como exclusiva y plena del Estado respecto del procedimiento administrativo común → la opción C invierte los términos, pues son precisamente las bases del régimen jurídico las que garantizan en todo caso un tratamiento común, mientras que las especialidades admitidas a las CC.AA. se refieren a su organización propia y no a las garantías mínimas de los ciudadanos → la opción D ignora que el propio precepto constitucional distingue expresamente ambas materias. Lo correcto: el art. 149.1.18 CE distingue entre bases del régimen jurídico (que garantizan tratamiento común) y procedimiento administrativo común (competencia exclusiva y plena del Estado, sin perjuicio de especialidades derivadas de la organización propia de las CC.AA.), concepción recogida por la Ley 39/2015 (LPAC).",
+        "nivel": "avanzado",
+        "id": "tema-19-q121"
+      },
+      {
+        "enunciado": "La Administración tributaria tramita un procedimiento y surge una cuestión procedimental no resuelta por su normativa específica. ¿Cómo se aplica en este caso la Ley 39/2015, conforme a la Disposición Adicional 1ª de la LPAC y al temario?",
+        "opciones": [
+          "No resulta de aplicación en ningún caso, pues los procedimientos tributarios quedan excluidos totalmente del ámbito de la LPAC",
+          "Se aplica la LPAC con carácter supletorio, pues la Disposición Adicional 1ª menciona expresamente los procedimientos tributario, de seguridad social y en materia de extranjería como procedimientos especiales respecto de los que la ley rige de forma supletoria",
+          "Se aplica la LPAC con carácter principal y preferente sobre la normativa tributaria específica, al tener ésta naturaleza meramente reglamentaria",
+          "Se aplica la LPAC solo en el procedimiento de seguridad social, pues el tributario y el de extranjería están expresamente excluidos por la Disposición Adicional 1ª"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A confunde especialidad con exclusión total, cuando el temario habla de procedimientos a los que la ley se aplica 'con carácter supletorio', no de procedimientos ajenos a ella → la opción C invierte la relación de prelación normativa, pues es la normativa especial la que prevalece y la LPAC actúa en defecto de ésta → la opción D distingue arbitrariamente entre los tres procedimientos citados cuando el temario los menciona conjuntamente como ejemplo de la DA 1ª. Lo correcto: la ley respeta la especialidad de determinadas materias (tributario, seguridad social y extranjería, ex DA 1ª LPAC), a las que se aplicará con carácter supletorio, no preferente ni excluyente.",
+        "nivel": "avanzado",
+        "id": "tema-19-q122"
+      },
+      {
+        "enunciado": "Un opositor debe clasificar tres procedimientos distintos por su finalidad: uno dirigido a cobrar por la vía de apremio una deuda ya declarada, otro consistente en un informe técnico interno previo a una decisión posterior, y un tercero dirigido a imponer una sanción. Según la clasificación del temario, ¿cómo se califican respectivamente?",
+        "opciones": [
+          "Los tres son procedimientos declarativos, puesto que todos concluyen con un acto de la Administración",
+          "El primero es ejecutivo (procedimiento de apremio), el segundo es de simple gestión (finalidad técnica e interna, preparatoria de una decisión ulterior) y el tercero es declarativo (procedimiento sancionador, orientado a la elaboración de una decisión)",
+          "El primero es de simple gestión, el segundo es ejecutivo y el tercero es declarativo, por tratarse el apremio de una actuación de naturaleza puramente interna",
+          "Los tres son procedimientos ejecutivos, porque todos tienden, en última instancia, a la realización material de una decisión previa"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A ignora que los procedimientos ejecutivos y de simple gestión no tienen por finalidad elaborar una decisión sino ejecutarla o prepararla → la opción C invierte apremio y gestión interna: el apremio es precisamente el ejemplo típico de procedimiento ejecutivo, no de simple gestión → la opción D extiende indebidamente el carácter ejecutivo al sancionador, que es declarativo porque se orienta a elaborar una decisión. Lo correcto: declarativos (elaboración de una decisión, p. ej. sancionador/disciplinario o disposiciones generales), ejecutivos (realización material de una decisión ya definitiva, p. ej. apremio) y de simple gestión (finalidad técnica e interna, preparatoria de una decisión ulterior).",
+        "nivel": "avanzado",
+        "id": "tema-19-q123"
+      },
+      {
+        "enunciado": "Una Administración, por iniciativa propia y sin que medie solicitud de ningún particular, inicia un procedimiento para revocar una resolución anterior dictada por ella misma. Separadamente, un particular afectado por esa misma resolución presenta un recurso administrativo contra ella. ¿Cómo califica el temario ambos procedimientos de revisión?",
+        "opciones": [
+          "Ambos son supuestos de revisión en vía de recurso, pues lo relevante es que la resolución inicial sea revocada, con independencia de quién inicie el procedimiento",
+          "El primero es revisión de oficio, pues la iniciativa revocatoria corresponde a la propia Administración autora de la decisión primera (arts. 106 y ss. LPAC); el segundo es revisión en vía de recurso, pues la iniciativa corresponde al particular afectado por dicha decisión",
+          "El primero es revisión en vía de recurso y el segundo revisión de oficio, invirtiendo los criterios recogidos en el temario",
+          "Ninguno de los dos constituye un procedimiento de revisión, sino procedimientos ejecutivos, pues ambos tienden a modificar una decisión ya definitiva"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A borra el criterio diferenciador —quién tiene la iniciativa— que es precisamente lo que separa ambas modalidades → la opción C invierte los supuestos atribuyendo la iniciativa de oficio al particular y la de recurso a la Administración → la opción D confunde revisión (que busca revocar una decisión anterior) con ejecución (que busca realizar materialmente una decisión ya definitiva, no revocarla). Lo correcto: revisión de oficio cuando la iniciativa corresponde a la propia Administración autora del acto (arts. 106 y ss. LPAC) y revisión en vía de recurso cuando la iniciativa corresponde al particular afectado.",
+        "nivel": "avanzado",
+        "id": "tema-19-q124"
+      },
+      {
+        "enunciado": "La Administración acuerda, de oficio, por razones de interés público, la tramitación de urgencia de un procedimiento. ¿Qué efecto produce exactamente esta decisión conforme al art. 33 LPAC?",
+        "opciones": [
+          "Se reducen a la mitad los plazos establecidos para el procedimiento ordinario, incluidos los relativos a la presentación de solicitudes y de recursos",
+          "Se reducen a la mitad los plazos establecidos para el procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos, que mantienen su duración ordinaria",
+          "Se reduce a la tercera parte la totalidad de los plazos del procedimiento, sin excepción alguna, al tratarse de una medida excepcional por razones de interés público",
+          "La tramitación de urgencia solo puede acordarse a petición del interesado, nunca de oficio por la propia Administración"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A olvida la excepción expresa que el propio art. 33 LPAC introduce para solicitudes y recursos → la opción C inventa una fracción (la tercera parte) distinta de la mitad que marca la ley, y además elimina la excepción real → la opción D es falsa porque el precepto permite acordarla 'de oficio o a petición del interesado'. Lo correcto: el art. 33 LPAC dispone que, cuando razones de interés público lo aconsejen, podrá acordarse de oficio o a instancia de parte la tramitación de urgencia, reduciéndose a la mitad los plazos del procedimiento ordinario, salvo los relativos a la presentación de solicitudes y recursos.",
+        "nivel": "avanzado",
+        "id": "tema-19-q125"
+      },
+      {
+        "enunciado": "En el procedimiento de expropiación forzosa declarado de urgencia, ¿qué consecuencia señala el temario respecto del sistema de garantías del expropiado, y en qué normas se apoya dicho régimen de urgencia?",
+        "opciones": [
+          "La urgencia solo simplifica trámites administrativos internos, sin incidencia alguna sobre las garantías del expropiado, conforme a los arts. 52 de la LEF y 56 del REF",
+          "La tramitación de urgencia puede eliminar algunos trámites y llegar, incluso, a trastornar seriamente el propio sistema de garantías del administrado, como ocurre con la expropiación urgente, regulada en los arts. 52 de la LEF y 56 del REF",
+          "La expropiación urgente está regulada en los arts. 33 y 34 de la LPAC, únicos preceptos aplicables, que desplazan a toda la legislación expropiatoria",
+          "La urgencia en la expropiación forzosa únicamente afecta al plazo de presentación de solicitudes, que se reduce a la mitad igual que en el resto de procedimientos administrativos"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A minimiza un efecto que el temario califica expresamente como posible trastorno 'serio' de las garantías, no una mera simplificación interna → la opción C atribuye la regulación a la LPAC cuando el temario remite expresamente a la legislación expropiatoria (LEF y REF) → la opción D inventa una regla (reducción a la mitad del plazo de solicitudes) que contradice la propia excepción del art. 33 LPAC para solicitudes y recursos, y que además no es el régimen propio de la expropiación urgente. Lo correcto: la tramitación de urgencia, en casos como la expropiación urgente (arts. 52 LEF y 56 REF), puede eliminar trámites y trastornar seriamente el sistema de garantías del administrado, lo que el temario destaca como el supuesto más grave de esta modalidad.",
+        "nivel": "avanzado",
+        "id": "tema-19-q126"
+      },
+      {
+        "enunciado": "Dentro de un procedimiento administrativo, ¿qué papel desempeña la Administración actuante conforme al temario respecto de su responsabilidad e imparcialidad?",
+        "opciones": [
+          "La Administración actuante es responsable del procedimiento solo en la fase de tramitación, no en la de resolución, que corresponde en exclusiva al órgano superior jerárquico",
+          "La Administración actuante es responsable del procedimiento tanto en su tramitación como en su resolución, debiendo llevarlo a cabo con garantías de imparcialidad (abstención y recusación) y adoptando las medidas oportunas para remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados",
+          "La imparcialidad de la Administración actuante se garantiza exclusivamente mediante el control judicial posterior, sin que existan mecanismos internos como la abstención o la recusación",
+          "La Administración actuante solo debe garantizar la imparcialidad cuando el procedimiento sea sancionador, no en el resto de procedimientos administrativos"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A fragmenta artificialmente la responsabilidad, cuando el temario la atribuye de forma conjunta a tramitación y resolución → la opción C desplaza al control judicial posterior una garantía (abstención/recusación) que el temario sitúa dentro del propio procedimiento → la opción D restringe sin base textual la exigencia de imparcialidad al procedimiento sancionador, cuando el temario la predica con carácter general. Lo correcto: la Administración actuante es responsable del procedimiento en tramitación y resolución, debe actuar con imparcialidad (abstención y recusación) y debe remover los obstáculos que impidan, dificulten o retrasen el ejercicio pleno de los derechos de los interesados o el respeto a sus intereses legítimos.",
+        "nivel": "avanzado",
+        "id": "tema-19-q127"
+      },
+      {
+        "enunciado": "El temario señala que el sometimiento de la actuación administrativa a un procedimiento presenta una triple garantía. ¿Cuáles son dichas garantías y con qué precepto se vincula expresamente la segunda de ellas?",
+        "opciones": [
+          "Asegurar el acierto de la decisión; garantizar los derechos y libertades de los interesados (art. 129 LPAC); y posibilitar el control de legalidad, sobre todo judicial, de la actuación administrativa",
+          "Garantizar la gratuidad del procedimiento; asegurar el acierto de la decisión; y posibilitar la revisión de oficio por la propia Administración",
+          "Asegurar el acierto de la decisión; garantizar los derechos de los interesados (art. 105 CE); y posibilitar únicamente el control parlamentario de la actuación administrativa",
+          "Posibilitar el control de legalidad judicial; asegurar el acierto de la decisión; y garantizar los derechos de los interesados, vinculada esta última exclusivamente al art. 24 CE"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B sustituye dos de las tres garantías reales por la gratuidad (que es un carácter, no una garantía de la triple enumeración) y por la revisión de oficio (que es una clase de procedimiento) → la opción C cambia la remisión normativa de la segunda garantía, atribuyéndola al art. 105 CE cuando el temario cita expresamente el art. 129 LPAC → la opción D desplaza el control de legalidad al primer lugar y vincula la garantía de derechos solo al art. 24 CE, ignorando la remisión expresa al art. 129 LPAC. Lo correcto: 1) asegurar el acierto de la decisión; 2) garantizar los derechos y libertades de los interesados, remitiendo el temario expresamente al art. 129 de la Ley 39/2015; y 3) posibilitar el control de legalidad, sobre todo judicial, de la actuación administrativa.",
+        "nivel": "avanzado",
+        "id": "tema-19-q128"
+      },
+      {
+        "enunciado": "Respecto de los caracteres del procedimiento administrativo recogidos en el temario, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "El procedimiento administrativo tiene carácter tuitivo a favor de la Administración, no del interesado, y conlleva siempre el pago de una tasa por parte de éste",
+          "El procedimiento administrativo tiene carácter tuitivo a favor del interesado y es gratuito, al tratarse de un servicio prestado por el Estado de forma gratuita",
+          "El procedimiento administrativo es oneroso con carácter general, si bien excepcionalmente puede ser gratuito cuando así lo disponga expresamente la norma sectorial",
+          "El carácter tuitivo del procedimiento se predica exclusivamente respecto de la Administración, en cuanto garantía de su buen funcionamiento interno, sin proyección alguna sobre el interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: las opciones A y D invierten el sujeto protegido por el carácter tuitivo, que el temario predica expresamente 'a favor del interesado', no de la Administración → la opción C invierte la regla general de gratuidad convirtiéndola en excepción, cuando el temario la enuncia como carácter general del procedimiento. Lo correcto: el procedimiento administrativo tiene carácter tuitivo a favor del interesado y es gratuito, al ser un servicio prestado por el Estado de forma gratuita, sin perjuicio de que, además, sirva a fines como la calidad del acto administrativo o la protección del ciudadano frente al poder de la Administración.",
+        "nivel": "avanzado",
+        "id": "tema-19-q129"
+      },
+      {
+        "enunciado": "Toda la ciudadanía se encuentra en situación de sujeción genérica respecto de la potestad tributaria de la Administración. Cuando ésta liquida un tributo concreto a una persona determinada, ¿qué situación jurídica nueva surge para dicha persona y cómo se distingue de la potestad misma, conforme al temario?",
+        "opciones": [
+          "Surge una nueva potestad derivada, puesto que toda situación de sujeción se transforma automáticamente en una potestad cuando la Administración actúa",
+          "Surge una obligación tributaria concreta para esa persona; la potestad, en cambio, es el poder genérico que el ordenamiento reconoce a la Administración sin referirse a un sujeto particular ni a un objeto determinado, y que se concibe de forma abstracta hasta su aplicación al caso concreto",
+          "No surge ninguna situación jurídica nueva, pues la sujeción genérica ya incluye por sí misma la obligación concreta de pago desde el momento de nacer la potestad",
+          "Surge un derecho subjetivo a favor de la persona liquidada, ya que toda actuación administrativa que incide en la esfera jurídica de un particular genera automáticamente un derecho subjetivo"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A confunde sujeción con potestad, cuando el temario reserva la potestad al poder genérico de la Administración, nunca a la posición del administrado → la opción C ignora la secuencia temporal que marca el temario: primero sujeción genérica, y solo tras el ejercicio de la potestad surge la obligación concreta → la opción D convierte en derecho subjetivo lo que en realidad es una obligación (posición pasiva), invirtiendo el signo de la situación jurídica. Lo correcto: la potestad es un poder abstracto y genérico de la Administración; frente a ella el ciudadano está en sujeción genérica; y solo cuando la Administración ejerce la potestad sobre un sujeto concreto (p. ej. liquidando un tributo) surge para éste una obligación tributaria concreta.",
+        "nivel": "avanzado",
+        "id": "tema-19-q130"
+      },
+      {
+        "enunciado": "Un vecino debe empadronarse en su municipio como requisito previo para poder disfrutar de los servicios públicos municipales, y otro ciudadano debe interponer un recurso administrativo para defender su posición jurídica. ¿Cómo califica el temario, en ambos casos, la situación jurídica del administrado?",
+        "opciones": [
+          "Ambas son situaciones puramente pasivas, equiparables a la obligación de pagar una multa, pues implican en todo caso un sacrificio sin contrapartida",
+          "Ambas son situaciones jurídicas mixtas calificadas como cargas, en la medida en que a una determinada obligación (empadronarse, recurrir) se asocia la obtención de un beneficio (disfrutar de servicios públicos, posibilidad de obtener la revocación del acto)",
+          "Ambas son situaciones puramente activas, pues en ambos casos el administrado ejercita un derecho subjetivo pleno frente a la Administración sin soportar obligación alguna",
+          "El empadronamiento es una carga, pero la interposición de recursos es siempre una situación activa pura, pues constituye el ejercicio de un derecho fundamental a la tutela judicial efectiva"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A ignora el componente de beneficio asociado (disfrute de servicios, posibilidad de revocación), que es precisamente lo que impide calificarlas como situaciones puramente pasivas → la opción C ignora el componente de obligación previa (empadronarse, soportar la carga de recurrir), que impide calificarlas como puramente activas → la opción D acierta respecto del empadronamiento pero yerra al calificar el recurso como situación activa pura, cuando el propio temario cita expresamente 'la interposición de recursos' como ejemplo de carga. Lo correcto: ambas son situaciones jurídicas mixtas (cargas), pues combinan una obligación con la obtención de un beneficio asociado.",
+        "nivel": "avanzado",
+        "id": "tema-19-q131"
+      },
+      {
+        "enunciado": "La concesión de una licencia urbanística a una persona determinada y el justiprecio reconocido al propietario en una expropiación forzosa, ¿a qué clases de derecho subjetivo corresponden respectivamente, según la clasificación del temario?",
+        "opciones": [
+          "Ambos son derechos subjetivos político-constitucionales, derivados de situaciones de libertad individual equiparables a los derechos fundamentales",
+          "La licencia es un derecho subjetivo singular (acto de la Administración que crea, reconoce o declara un derecho a una persona determinada) y el justiprecio es un derecho subjetivo patrimonial",
+          "La licencia es un derecho subjetivo patrimonial y el justiprecio es un derecho subjetivo singular, invirtiendo los términos de la clasificación del temario",
+          "Ambos son derechos subjetivos de los administrados regulados exclusivamente en los arts. 13 y 53 LPAC, sin que proceda distinguir otras subespecies"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A traslada ambos ejemplos a la categoría de derechos político-constitucionales, que el temario reserva a los derivados de situaciones de libertad individual (p. ej. derechos fundamentales), no a licencias o justiprecios → la opción C invierte exactamente los ejemplos que el temario atribuye a cada categoría → la opción D reduce indebidamente toda la clasificación a una única subespecie (los arts. 13 y 53 LPAC), ignorando que el temario distingue también los patrimoniales, los político-constitucionales y los singulares. Lo correcto: la licencia es el ejemplo típico de derecho subjetivo singular y el justiprecio expropiatorio es el ejemplo típico de derecho subjetivo patrimonial, siendo ambas categorías distintas dentro de la clasificación del temario.",
+        "nivel": "avanzado",
+        "id": "tema-19-q132"
+      },
+      {
+        "enunciado": "Un vecino recurre la licencia de apertura de un bar situado en los bajos del edificio en que reside, alegando que no se han adoptado las medidas correctoras de insonorización exigibles. ¿Qué naturaleza tiene su posición jurídica y qué consecuencia podría derivarse si el recurso prospera, conforme al temario?",
+        "opciones": [
+          "El vecino actúa en defensa de la legalidad en abstracto, como cualquier ciudadano, con independencia de que el ruido le afecte personalmente, y de prosperar el recurso no podría derivarse ningún derecho a su favor",
+          "El vecino es titular de un interés legítimo, distinto del interés general de la ciudadanía, que le permite reaccionar frente a la actuación administrativa que incide en su esfera propia; de prosperar el recurso, podría surgir incluso un derecho a la indemnización de los daños y perjuicios sufridos",
+          "El vecino únicamente podría actuar si fuera titular de un derecho subjetivo patrimonial sobre el local, pues el interés legítimo no habilita por sí mismo para recurrir actuaciones administrativas",
+          "La interposición del recurso garantiza automáticamente que se dará la razón al vecino, pues el reconocimiento del interés legítimo implica necesariamente la estimación del recurso"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A convierte el interés legítimo en acción pública en defensa de la legalidad en abstracto, cuando el temario precisa expresamente que 'no se está actuando en defensa de la legalidad en abstracto, sino en defensa de los intereses propios' → la opción C exige un derecho subjetivo patrimonial inexistente en el ejemplo, cuando precisamente el temario usa este caso para ilustrar el interés legítimo, no el derecho subjetivo → la opción D confunde legitimación para recurrir con éxito del recurso, cuando el propio temario aclara que 'la interposición del recurso no significa que en todo caso se vaya a dar la razón a quien lo interpuso'. Lo correcto: el vecino es titular de un interés legítimo propio y distinto del interés general, que le legitima para recurrir, y de prosperar el recurso podría surgir un derecho a la indemnización de los daños y perjuicios sufridos.",
+        "nivel": "avanzado",
+        "id": "tema-19-q133"
+      },
+      {
+        "enunciado": "Un extranjero menor de edad mantiene una relación jurídica con la Administración española. ¿Puede calificarse como 'ciudadano', como 'administrado' o como ambos, conforme a las precisiones conceptuales del temario?",
+        "opciones": [
+          "No puede ser calificado como ciudadano, término que tiene connotaciones políticas y designa a quien está en plenitud de derechos civiles y políticos, incluido el sufragio; sin embargo, sí puede ser calificado como administrado, concepto más amplio que se extiende también a personas jurídicas, extranjeras y menores de edad",
+          "Puede ser calificado indistintamente como ciudadano o administrado, pues el temario utiliza ambos términos como sinónimos perfectos sin matiz alguno",
+          "No puede ser calificado ni como ciudadano ni como administrado, reservándose ambos términos exclusivamente a los nacionales mayores de edad con plenitud de derechos",
+          "Solo puede ser calificado como administrado si además es titular de un derecho subjetivo, pues el concepto de administrado implica siempre y en todo caso una posición de subordinación frente a la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B elimina la distinción conceptual que el propio temario establece expresamente entre ciudadano y administrado → la opción C excluye indebidamente al extranjero menor de ambas categorías, cuando el temario precisa que el término administrado 'es más amplio que el de ciudadano, ya que también se extiende a personas jurídicas, extranjeras, menores de edad, etc.' → la opción D convierte la subordinación en requisito constante del administrado, cuando el temario aclara que 'esta posición de subordinación no se produce en todo caso, ya que el administrado también puede ser titular de derechos frente a la Administración'. Lo correcto: el extranjero menor no es 'ciudadano' en sentido estricto (concepto de connotaciones políticas y plenitud de derechos civiles y políticos), pero sí es 'administrado', concepto más amplio que incluye a personas jurídicas, extranjeros y menores.",
+        "nivel": "avanzado",
+        "id": "tema-19-q134"
+      },
+      {
+        "enunciado": "Según el art. 4 de la Ley 39/2015, ¿cuáles son los supuestos que determinan la condición de interesado en un procedimiento administrativo?",
+        "opciones": [
+          "Únicamente quienes promuevan el procedimiento como titulares de derechos subjetivos, quedando excluidos en todo caso los titulares de meros intereses legítimos, individuales o colectivos",
+          "Quienes promuevan el procedimiento como titulares de derechos o intereses legítimos, individuales o colectivos; quienes, sin haberlo iniciado, tengan derechos que puedan resultar afectados por la decisión; y aquellos cuyos intereses legítimos puedan resultar afectados por la resolución y se personen en el procedimiento antes de que recaiga resolución definitiva; además, tiene también la condición de interesado quien la adquiera derivada de un derecho o relación jurídica transmisible (art. 4.3 LPAC)",
+          "Solo tienen la condición de interesado quienes hayan sido expresamente citados por la Administración al inicio del procedimiento, con independencia de que sean o no titulares de derechos o intereses legítimos",
+          "Los titulares de intereses legítimos adquieren automáticamente la condición de interesado desde que la resolución les afecta, sin necesidad de personarse en el procedimiento, al igual que los titulares de derechos"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A excluye indebidamente a los titulares de intereses legítimos del primer supuesto del art. 4.1 LPAC, que los incluye expresamente junto a los titulares de derechos → la opción C sustituye los tres supuestos legales por un criterio de citación administrativa que no aparece en el precepto → la opción D asimila indebidamente el régimen de los intereses legítimos al de los derechos, cuando precisamente la diferencia clave es que el titular de interés legítimo debe personarse, mientras que el titular de derecho obtiene el reconocimiento automático. Lo correcto: el art. 4.1 LPAC recoge los tres supuestos citados en la opción B, completados por el art. 4.3 LPAC (condición de interesado derivada de derecho o relación jurídica transmisible).",
+        "nivel": "avanzado",
+        "id": "tema-19-q135"
+      },
+      {
+        "enunciado": "Tras la celebración de unas oposiciones en que se atribuye una plaza a una persona, otro aspirante presenta un recurso contra dicha decisión. Si el recurso prosperase, la persona que obtuvo la plaza la perdería. ¿Qué condición ostenta esta última en el procedimiento de recurso, y qué exige el temario para que se le reconozca tal condición?",
+        "opciones": [
+          "Ostenta la condición de interesado como titular de un interés legítimo, por lo que, además de poder resultar afectada por la decisión, debe personarse expresamente en el procedimiento para que se le reconozca dicha condición",
+          "Ostenta la condición de interesado como titular de un derecho que puede resultar afectado por la decisión que se adopte, lo que implica el reconocimiento automático de dicha condición, sin necesidad de personarse en el procedimiento",
+          "No ostenta ninguna condición relevante en el procedimiento de recurso, pues solo quien lo promueve (el otro aspirante) puede tener la consideración de interesado",
+          "Ostenta la condición de interesado únicamente si acredita, además de la afectación a su derecho, un interés legítimo adicional distinto y lo hace constar expresamente ante el órgano competente"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A aplica a un titular de derecho el régimen propio de los titulares de interés legítimo (necesidad de personarse), cuando el temario usa expresamente este ejemplo para ilustrar el caso contrario: 'la titularidad de un derecho... implica el reconocimiento automático de la condición de interesado' → la opción C ignora que el art. 4.1 LPAC reconoce también como interesados a quienes, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados → la opción D añade un requisito (interés legítimo adicional y comparecencia expresa) inexistente en el régimen de los titulares de derecho. Lo correcto: al tratarse de la titularidad de un derecho (la plaza obtenida) que puede resultar afectado por la decisión del recurso, la ley reconoce automáticamente la condición de interesado, sin exigir personación, a diferencia de lo que ocurre con los meros titulares de intereses legítimos.",
+        "nivel": "avanzado",
+        "id": "tema-19-q136"
+      },
+      {
+        "enunciado": "Una persona de religión judía presenta, a título individual, un recurso contra un artículo periodístico que ofende al conjunto del pueblo judío (STC 214/1991). ¿Qué pone de manifiesto este supuesto respecto de la legitimación para la defensa de intereses colectivos, conforme al temario?",
+        "opciones": [
+          "Que solo las asociaciones y organizaciones representativas de intereses económicos y sociales pueden actuar en defensa de intereses colectivos, quedando excluida la actuación individual en estos casos",
+          "Que, junto a la posibilidad de que asociaciones u organizaciones representativas actúen en nombre de una colectividad, también cabe que una única persona actúe en defensa de un interés legítimo de carácter colectivo",
+          "Que la defensa de intereses colectivos exige necesariamente la acumulación de un número mínimo de recurrentes individuales, sin que sea válida la actuación de una sola persona",
+          "Que este supuesto constituye en realidad un caso de interés legítimo individual puro, sin ninguna proyección colectiva, por lo que no resulta ilustrativo de la categoría de intereses colectivos"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A contradice directamente el supuesto citado, que es precisamente un ejemplo de actuación individual en defensa de un interés colectivo → la opción C inventa un requisito de pluralidad mínima de recurrentes que no figura en el temario ni en la STC citada → la opción D desconoce que el propio temario presenta este caso como ejemplo de interés legítimo colectivo defendido por una sola persona, no de interés meramente individual. Lo correcto: el temario distingue intereses legítimos individuales y colectivos, y dentro de estos últimos admite tanto la actuación de una sola persona en defensa de la colectividad (STC 214/1991) como la de asociaciones y organizaciones representativas de intereses económicos y sociales (asociaciones de consumidores, de vecinos, etc.).",
+        "nivel": "avanzado",
+        "id": "tema-19-q137"
+      },
+      {
+        "enunciado": "Durante la instrucción de un procedimiento que no ha tenido publicidad, la Administración advierte, a partir de los datos del expediente, la existencia de personas identificables titulares de derechos o intereses legítimos que podrían resultar afectadas por la resolución. ¿Qué establece el art. 8 LPAC al respecto?",
+        "opciones": [
+          "La Administración no tiene obligación alguna de actuar, pues corresponde exclusivamente a esas personas averiguar por sus propios medios la existencia del procedimiento",
+          "La Administración debe comunicarles la tramitación del procedimiento para que actúen en consecuencia, dado que quien no ha iniciado el procedimiento no tiene por qué conocer que se está tramitando",
+          "La Administración debe publicar necesariamente un anuncio en el Boletín Oficial correspondiente, siendo esta la única vía admitida para dar a conocer el procedimiento a dichas personas",
+          "La Administración solo está obligada a comunicarlo cuando dichas personas sean titulares de derechos, pero no cuando lo sean de meros intereses legítimos"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A contradice el deber expreso de comunicación que el art. 8 LPAC impone a la Administración precisamente para suplir el desconocimiento del interesado → la opción C inventa una vía exclusiva (publicación oficial) no exigida por el precepto, que habla genéricamente de 'comunicar' → la opción D introduce una distinción entre derechos e intereses legítimos que el art. 8 LPAC no formula, pues se refiere conjuntamente a 'personas titulares de derechos o intereses legítimos'. Lo correcto: conforme al art. 8 LPAC, si durante la instrucción de un procedimiento sin publicidad se advierte la existencia de personas identificables, titulares de derechos o intereses legítimos, que puedan resultar afectadas, se les comunicará la tramitación para que actúen en consecuencia.",
+        "nivel": "avanzado",
+        "id": "tema-19-q138"
+      },
+      {
+        "enunciado": "Un interesado en un procedimiento conoce datos que permitirían identificar a otra persona también interesada en el mismo, pero no los comunica a la Administración. ¿Qué establece el temario al respecto, y cómo se diferencia esta obligación de la prevista en el art. 8 LPAC?",
+        "opciones": [
+          "El art. 18.2 LPAC establece como deber de los interesados proporcionar a la Administración los datos que permitan identificar a otros interesados cuando los conozcan; se trata de una obligación de los particulares, distinta de la del art. 8 LPAC, que impone a la Administración el deber de comunicar la tramitación a los interesados identificados a partir del expediente",
+          "El art. 18.2 LPAC impone esa misma obligación, pero únicamente a la Administración, siendo idéntica en su destinatario a la prevista en el art. 8 LPAC",
+          "No existe ninguna obligación en este sentido en la Ley 39/2015, siendo una mera recomendación doctrinal sin reflejo normativo",
+          "El art. 18.2 LPAC impone este deber exclusivamente a las asociaciones y organizaciones representativas de intereses colectivos, no a los interesados individuales"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B confunde ambos preceptos, haciendo coincidir sus destinatarios cuando el temario los distingue expresamente: el art. 8 obliga a la Administración y el art. 18.2 obliga a los interesados → la opción C niega la existencia de un deber que el temario cita con remisión expresa a un artículo concreto de la LPAC → la opción D restringe sin fundamento el deber a las asociaciones, cuando el precepto se refiere genéricamente a 'los interesados'. Lo correcto: el art. 18.2 LPAC establece como deber de los interesados proporcionar a la Administración los datos que permitan identificar a otros interesados que desconozcan, complementando así, desde la perspectiva de los particulares, el deber de comunicación que el art. 8 LPAC impone a la Administración.",
+        "nivel": "avanzado",
+        "id": "tema-19-q139"
+      },
+      {
+        "enunciado": "¿Cómo distingue el temario entre capacidad jurídica y capacidad de obrar en el ámbito administrativo, y qué norma regula específicamente la segunda?",
+        "opciones": [
+          "Ambos conceptos son equivalentes y se rigen exclusivamente por el Código Civil, sin que la Ley 39/2015 contenga regulación propia al respecto",
+          "La capacidad jurídica es la aptitud para ser titular de derechos y obligaciones, determinada conforme a las normas constitucionales y civiles; la capacidad de obrar es la aptitud de actuar personalmente ante la Administración ejercitando los derechos propios, y se regula en la Ley 39/2015, en concreto en su art. 3",
+          "La capacidad de obrar es la aptitud para ser titular de derechos y obligaciones, mientras que la capacidad jurídica es la aptitud para actuar personalmente ante la Administración, invirtiendo los términos del temario",
+          "La capacidad jurídica se regula en el art. 3 LPAC y la capacidad de obrar exclusivamente en las normas civiles, sin que exista regulación administrativa específica de esta última"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A elimina la regulación administrativa propia que el temario atribuye expresamente a la capacidad de obrar a través del art. 3 LPAC → la opción C invierte exactamente las definiciones de ambos conceptos → la opción D invierte también la atribución normativa: es la capacidad de obrar, no la jurídica, la que se regula en el art. 3 LPAC. Lo correcto: la capacidad jurídica (aptitud para ser titular de derechos y obligaciones) se determina por normas constitucionales y civiles, mientras que la capacidad de obrar (aptitud de actuar personalmente ante la Administración ejercitando derechos propios) se regula específicamente en el art. 3 de la Ley 39/2015.",
+        "nivel": "avanzado",
+        "id": "tema-19-q140"
+      },
+      {
+        "enunciado": "Un menor de edad pretende ejercitar y defender ante la Administración un derecho cuya actuación le permite el ordenamiento jurídico sin necesidad de asistencia de quien ejerce su patria potestad. ¿Tiene capacidad de obrar para ello conforme al art. 3 LPAC, y qué excepción contempla dicho precepto?",
+        "opciones": [
+          "No tiene capacidad de obrar en ningún caso, pues conforme al art. 3 LPAC la capacidad de obrar corresponde únicamente a quienes la ostenten con arreglo a las normas civiles, es decir, a los mayores de edad",
+          "Sí tiene capacidad de obrar, salvo que se trate de un menor incapacitado y la incapacitación afecte precisamente al ejercicio y defensa de ese derecho o interés concreto, en cuyo caso se exceptúa el reconocimiento de dicha capacidad",
+          "Sí tiene capacidad de obrar de forma absoluta e incondicionada, sin que el art. 3 LPAC contemple ninguna excepción aplicable a los menores de edad",
+          "Tiene capacidad de obrar únicamente si cuenta con la asistencia expresa de quien ejerce su patria potestad, tutela o curatela, pues el art. 3 LPAC exige dicha asistencia en todo caso para los menores"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A ignora la extensión expresa que el art. 3 LPAC hace a favor de los menores de edad para el ejercicio y defensa de derechos e intereses cuya actuación esté permitida sin asistencia → la opción C omite la excepción expresa relativa a menores incapacitados que recoge el propio precepto → la opción D exige precisamente la asistencia que el supuesto de hecho excluye por definición (derechos cuya actuación está permitida 'sin la asistencia' de quien ejerce la patria potestad, tutela o curatela). Lo correcto: el art. 3 LPAC reconoce capacidad de obrar a los menores de edad para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento sin dicha asistencia, exceptuando el supuesto de los menores incapacitados cuando la incapacitación afecte precisamente al ejercicio y defensa de esos derechos o intereses.",
+        "nivel": "avanzado",
+        "id": "tema-19-q141"
+      },
+      {
+        "enunciado": "Un menor extranjero no acompañado de quince años se encuentra sujeto a un procedimiento de repatriación. Otro menor en la misma situación tiene diecisiete años. Conforme al ejemplo recogido en el temario sobre la legislación de extranjería, ¿cuál de ellos tiene reconocida capacidad para actuar por sí mismo en dicho procedimiento?",
+        "opciones": [
+          "Ambos, pues la legislación de extranjería reconoce capacidad de obrar a todos los menores no acompañados con independencia de su edad concreta",
+          "Ninguno de los dos, pues los menores extranjeros no acompañados carecen siempre de capacidad de obrar en los procedimientos de repatriación, que se tramitan exclusivamente con su representante legal",
+          "Únicamente el de diecisiete años, pues la Ley Orgánica de extranjería reconoce capacidad para actuar en el procedimiento de repatriación a los mayores de dieciséis años, sin alcanzar a los menores de esa edad",
+          "Únicamente el de quince años, por ser la edad mínima establecida expresamente por la legislación de extranjería para este procedimiento"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo: la opción A generaliza sin base la capacidad a cualquier edad, cuando el temario fija expresamente el umbral de los dieciséis años → la opción B niega toda capacidad cuando el temario cita este supuesto precisamente como ejemplo positivo de reconocimiento de capacidad de obrar a menores → la opción D invierte el sentido del umbral legal, situando la capacidad en el menor de quince años cuando el dato exacto del temario exige ser mayor de dieciséis. Lo correcto: la Ley Orgánica de extranjería, al regular la situación de los menores extranjeros no acompañados, reconoce capacidad para actuar en el procedimiento de repatriación a quienes sean mayores de dieciséis años, por lo que solo el menor de diecisiete años cumple ese requisito.",
+        "nivel": "avanzado",
+        "id": "tema-19-q142"
+      },
+      {
+        "enunciado": "Un ciudadano extranjero, con plena capacidad de obrar conforme a las normas civiles, pretende presentarse a un proceso selectivo de acceso a la función pública española invocando el art. 23 CE. Por otro lado, una persona con antecedentes penales no cancelados solicita una licencia de armas para la práctica de la caza. ¿Qué señala el temario sobre ambos supuestos como causas modificativas de la capacidad de obrar?",
+        "opciones": [
+          "En ambos casos la capacidad de obrar permanece intacta, pues la nacionalidad y los antecedentes penales son circunstancias irrelevantes para el acceso a la función pública y para la obtención de licencias administrativas",
+          "El art. 13.2 CE reserva con carácter general la titularidad de los derechos del art. 23 CE (participación en los asuntos públicos y acceso a funciones y cargos públicos) a los españoles, por lo que la nacionalidad extranjera modifica la capacidad de obrar en este ámbito; y mientras no se cancelen los antecedentes penales, la persona verá limitada su capacidad de obrar para obtener la licencia de armas, dado el carácter restrictivo de su concesión",
+          "El art. 13.2 CE reserva los derechos del art. 23 CE a los españoles solo respecto del derecho de sufragio, no respecto del acceso a funciones y cargos públicos, que está abierto a cualquier nacionalidad sin restricción",
+          "Los antecedentes penales únicamente modifican la capacidad de obrar en materia de extranjería, nunca en el ámbito de las licencias de armas o caza, que se rigen por un régimen de libre concesión"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A niega la relevancia de dos causas modificativas que el temario cita expresamente (nacionalidad y antecedentes penales) → la opción C recorta el alcance real del art. 23 CE, que el temario vincula tanto al derecho a participar en los asuntos públicos como al derecho a acceder a funciones y cargos públicos, no solo al sufragio → la opción D invierte el ejemplo del temario, que cita precisamente la licencia de caza (y la de armas) junto con la extranjería como ámbitos afectados por los antecedentes penales. Lo correcto: el art. 13.2 CE reserva a los españoles, con carácter general, los derechos del art. 23 CE, lo que limita la capacidad de obrar de los extranjeros en el acceso a la función pública; y los antecedentes penales no cancelados limitan la capacidad de obrar para obtener licencias restrictivas como la de armas o caza, y también en materia de extranjería (autorización de residencia).",
+        "nivel": "avanzado",
+        "id": "tema-19-q143"
+      },
+      {
+        "enunciado": "Un interesado decide actuar en un procedimiento administrativo a través de un representante, sin manifestar nada en contra de que las actuaciones se entiendan con éste. ¿Qué exige el temario para poder actuar válidamente como representante, y con quién se entenderán las actuaciones del procedimiento, conforme al art. 5 LPAC?",
+        "opciones": [
+          "Se requiere que el representante sea abogado o posea titulación específica habilitante, y las actuaciones se entenderán siempre con el propio interesado, nunca con el representante",
+          "No se requiere titulación específica, siendo suficiente que el representante tenga capacidad de obrar; las actuaciones del procedimiento se entenderán con el representante, salvo manifestación expresa en contra del interesado",
+          "La actuación mediante representante es obligatoria en todo procedimiento administrativo, no estando permitido que el interesado actúe por sí mismo",
+          "Las actuaciones se entenderán siempre simultáneamente con el interesado y con el representante, debiendo notificarse a ambos en todo caso, sin excepción posible"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A exige una titulación (abogacía) que el temario descarta expresamente al señalar que 'no se requiere titulación específica' → la opción C contradice el carácter no obligatorio de la representación, que el temario califica como admitida pero no necesaria ('no es necesario, aunque se admite') → la opción D impone una doble notificación simultánea que no se corresponde con la regla legal, la cual hace prevalecer al representante salvo manifestación expresa en contrario. Lo correcto: conforme al art. 5 LPAC, basta con que el representante tenga capacidad de obrar, sin exigirse titulación específica, y las actuaciones se entenderán con el representante salvo manifestación expresa en contra del interesado.",
+        "nivel": "avanzado",
+        "id": "tema-19-q144"
+      },
+      {
+        "enunciado": "En una solicitud dirigida a la Administración figuran varios interesados, sin que se haya señalado representante ni un interesado concreto a estos efectos; además, quien la presenta no acredita documentalmente su representación en ese momento. Conforme al art. 7 LPAC y a las reglas sobre acreditación de la representación explicadas en el temario, ¿qué sucede?",
+        "opciones": [
+          "Las actuaciones se efectuarán con aquel interesado que haya suscrito la solicitud en primer lugar; y si la representación no constara, ello no impide que se tenga por realizada la actuación, siempre que se aporte la acreditación en un plazo de diez días (u otro si las circunstancias lo requieren)",
+          "Las actuaciones deben dirigirse necesariamente a todos los interesados firmantes por igual, sin que quepa privilegiar a quien suscribió primero la solicitud, y la falta de acreditación de representación impide siempre tener por realizada la actuación",
+          "Las actuaciones se efectuarán con el interesado que la Administración designe discrecionalmente entre los firmantes, y la representación debe acreditarse siempre de forma previa e inexcusable, sin posibilidad de subsanación posterior",
+          "Al no haberse señalado representante, la solicitud es nula de pleno derecho y debe presentarse de nuevo por un único interesado debidamente identificado"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B contradice la regla legal expresa del art. 7 LPAC, que atribuye la interlocución a quien suscribió primero la solicitud, salvo representante o interesado concreto señalado, y además niega la posibilidad de subsanación posterior de la representación → la opción C inventa un criterio de designación discrecional por la Administración, ajeno al precepto, y elimina sin fundamento la posibilidad de subsanar la falta de acreditación → la opción D convierte en nulidad radical un supuesto que el temario resuelve simplemente aplicando la regla del primer firmante, sin exigir nueva presentación. Lo correcto: conforme al art. 7 LPAC, a falta de representante o interesado señalado, las actuaciones se efectúan con quien suscribió primero la solicitud; y la falta de constancia de la representación no impide tener por realizada la actuación si se aporta la acreditación (apud acta, comparecencia electrónica o registro de apoderamientos) en el plazo de diez días u otro que las circunstancias requieran, presumiéndose además la representación en los actos y gestiones de mero trámite.",
+        "nivel": "avanzado",
+        "id": "tema-19-q145"
+      }
+    ]
+  },
+  {
+    "id": "tema-20",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 20. El procedimiento administrativo. Fases y requisitos generales.",
+    "preguntas": [
+      {
+        "enunciado": "Según la Ley 39/2015, ¿cuáles son las cuatro fases en que se estructura el esquema básico del procedimiento administrativo?",
+        "opciones": [
+          "Iniciación, ordenación o impulso, instrucción y finalización",
+          "Iniciación, instrucción, ejecución y finalización",
+          "Iniciación, alegaciones, prueba y resolución",
+          "Ordenación, instrucción, audiencia y ejecución"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no incluir la ejecución como una de las cuatro fases básicas: la Ley 39/2015 estructura el esquema básico en iniciación, ordenación o impulso, instrucción y finalización. La ejecución, por tener características diferenciadas, merece una consideración aparte.",
+        "parte": 1,
+        "id": "tema-20-q1"
+      },
+      {
+        "enunciado": "Respecto a la ejecución dentro del esquema del procedimiento administrativo, señale la afirmación CORRECTA.",
+        "opciones": [
+          "Es la primera de las cuatro fases básicas del procedimiento",
+          "No se incluye entre las cuatro fases básicas, sino que merece una consideración aparte por tener características diferenciadas",
+          "Forma parte integrante de la fase de finalización, sin autonomía propia",
+          "Sustituye a la fase de instrucción en los procedimientos simplificados"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que pudiera pensarse, la ejecución no es una de las cuatro fases del esquema básico (iniciación, ordenación, instrucción y finalización). El texto señala expresamente que, al tener características diferenciadas respecto de las demás fases, merece una consideración aparte.",
+        "parte": 1,
+        "id": "tema-20-q2"
+      },
+      {
+        "enunciado": "Dentro del esquema de las cuatro fases del procedimiento administrativo, ¿qué posición ocupa la ordenación o impulso?",
+        "opciones": [
+          "Es la primera fase, previa a la iniciación",
+          "Es la última fase, posterior a la finalización",
+          "Se sitúa entre la iniciación y la instrucción",
+          "Sustituye a la instrucción en los procedimientos de oficio"
+        ],
+        "correcta": 2,
+        "explicacion": "No confundir el orden: tras la iniciación, el esquema básico continúa con la ordenación o impulso y después la instrucción, cerrándose con la finalización. La ordenación no es ni la primera ni la última fase, sino la segunda del esquema.",
+        "parte": 1,
+        "id": "tema-20-q3"
+      },
+      {
+        "enunciado": "Señale la afirmación INCORRECTA sobre el esquema básico del procedimiento administrativo común.",
+        "opciones": [
+          "La Ley 39/2015 distingue cuatro fases: iniciación, ordenación, instrucción y finalización",
+          "La ejecución tiene características diferenciadas respecto de las demás fases",
+          "La ejecución merece una consideración aparte dentro del esquema del procedimiento",
+          "La ejecución es una quinta fase ordinaria integrada junto con las otras cuatro en el esquema básico"
+        ],
+        "correcta": 3,
+        "explicacion": "Ojo con esta trampa: el texto no califica a la ejecución como una quinta fase integrada en el esquema básico, sino que, precisamente por sus características diferenciadas, la trata aparte de las cuatro fases (iniciación, ordenación, instrucción y finalización).",
+        "parte": 1,
+        "id": "tema-20-q4"
+      },
+      {
+        "enunciado": "Sobre la presentación de solicitudes en las oficinas de Correos, señale la opción CORRECTA.",
+        "opciones": [
+          "Deben presentarse en sobre abierto, de modo que en la primera hoja el personal indique la fecha, hora y oficina de recepción",
+          "Deben presentarse en sobre cerrado y lacrado para garantizar su autenticidad",
+          "Deben presentarse en sobre abierto, indicándose los datos de recepción en la última hoja del escrito",
+          "Solo pueden presentarse mediante sobre certificado con acuse de recibo electrónico"
+        ],
+        "correcta": 0,
+        "explicacion": "No es un sobre cerrado: la presentación en Correos exige sobre abierto, precisamente para que el personal pueda estampar en la primera hoja la fecha, hora y oficina de recepción. Es un requisito formal pensado para dejar constancia fehaciente del momento de presentación.",
+        "parte": 1,
+        "id": "tema-20-q5"
+      },
+      {
+        "enunciado": "En la presentación de escritos en las oficinas de Correos, ¿qué puede hacer el remitente respecto a la primera hoja del escrito?",
+        "opciones": [
+          "Debe quedarse obligatoriamente con el sobre original sin copia alguna",
+          "Puede hacer una copia de la primera hoja para que sea sellada y fechada por el personal de correos",
+          "Debe entregar dos sobres abiertos idénticos, uno para cada ventanilla",
+          "Puede exigir que se le entregue el original selládolo él mismo"
+        ],
+        "correcta": 1,
+        "explicacion": "No es que deba renunciar a cualquier constancia: el remitente puede hacer una copia de la primera hoja, a fin de que sea sellada y fechada por el personal de correos, lo que le sirve como prueba de la fecha y hora de presentación.",
+        "parte": 1,
+        "id": "tema-20-q6"
+      },
+      {
+        "enunciado": "Señale cuál de los siguientes NO es uno de los lugares de presentación de solicitudes recogidos por la norma.",
+        "opciones": [
+          "El registro electrónico de la Administración u Organismo al que se dirijan",
+          "Las oficinas de Correos, en la forma reglamentariamente establecida",
+          "Los juzgados de lo contencioso-administrativo del domicilio del interesado",
+          "Las oficinas de asistencia en materia de registros"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, es un distractor con apariencia plausible: los juzgados de lo contencioso-administrativo no figuran entre los lugares de presentación de solicitudes administrativas. La norma enumera el registro electrónico, las oficinas de Correos, las representaciones diplomáticas o consulares, las oficinas de asistencia en materia de registros y cualquier otro que establezcan las disposiciones vigentes.",
+        "parte": 1,
+        "id": "tema-20-q7"
+      },
+      {
+        "enunciado": "Las representaciones diplomáticas u oficinas consulares como lugar de presentación de solicitudes se refieren a...",
+        "opciones": [
+          "Cualquier representación diplomática extranjera acreditada en España",
+          "Únicamente a las oficinas consulares de países de la Unión Europea",
+          "Solo a los consulados honorarios, no a las representaciones diplomáticas plenas",
+          "Las representaciones diplomáticas u oficinas consulares de España en el extranjero"
+        ],
+        "correcta": 3,
+        "explicacion": "Al revés de lo que podría parecer, no se trata de representaciones extranjeras en España, sino de las representaciones diplomáticas u oficinas consulares de España en el extranjero, pensadas para facilitar la presentación de escritos a los españoles residentes fuera del territorio nacional.",
+        "parte": 1,
+        "id": "tema-20-q8"
+      },
+      {
+        "enunciado": "Respecto al registro electrónico como lugar de presentación, señale la afirmación CORRECTA.",
+        "opciones": [
+          "Cabe presentar la solicitud en el registro electrónico de la Administración u Organismo al que se dirija, así como en los restantes registros electrónicos de cualquiera de los sujetos del Sector Público catalogados en el art. 2.1 de la Ley 39/2015",
+          "Solo cabe presentar la solicitud en el registro electrónico del Organismo destinatario, nunca en otros registros del Sector Público",
+          "El registro electrónico únicamente admite documentos normalizados conforme al art. 2.2 de la Ley 39/2015",
+          "El acceso al registro electrónico exige cita previa presencial conforme al art. 2.1 de la Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "No es tan restrictivo: la solicitud puede presentarse no solo en el registro electrónico del destinatario, sino también en los registros electrónicos de cualquier otro sujeto del Sector Público catalogado por el art. 2.1 de la Ley 39/2015, lo que amplía notablemente las vías de presentación.",
+        "parte": 1,
+        "id": "tema-20-q9"
+      },
+      {
+        "enunciado": "La normativa pionera en materia de tramitación electrónica ante las Administraciones Públicas fue...",
+        "opciones": [
+          "La Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas",
+          "La Ley 11/2007, de acceso electrónico de los ciudadanos al sector público, vigente en su mayor parte hasta el 2 de abril de 2021",
+          "La propia Ley 39/2015, vigente en esta materia desde su entrada en vigor general el 2 de octubre de 2016",
+          "El Real Decreto-ley 6/2024, de 5 de noviembre"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo con la trampa de la fecha general: aunque la Ley 39/2015 entró en vigor con carácter general el 2 de octubre de 2016, en materia de administración electrónica se mantuvo vigente la Ley 11/2007 hasta el 2 de abril de 2021, fecha en que entró en vigor lo dispuesto en la Ley 39/2015 sobre este asunto. La Ley 11/2007 fue, por tanto, la normativa pionera.",
+        "parte": 1,
+        "id": "tema-20-q10"
+      },
+      {
+        "enunciado": "Sobre el horario de los registros electrónicos para la presentación de solicitudes, señale la CORRECTA.",
+        "opciones": [
+          "Solo admiten presentaciones en días hábiles, durante las 24 horas de esos días",
+          "Admiten presentaciones todos los días del año, pero únicamente en horario de oficina (de 9 a 14 horas)",
+          "Deben permitir la presentación todos los días del año durante las veinticuatro horas",
+          "Admiten presentaciones todos los días salvo festivos nacionales, durante las veinticuatro horas"
+        ],
+        "correcta": 2,
+        "explicacion": "No hay restricción horaria ni de días: los registros electrónicos deben permitir la presentación de solicitudes y otros escritos todos los días del año durante las veinticuatro horas, lo que constituye una de las grandes ventajas de la tramitación electrónica frente a la presencial.",
+        "parte": 1,
+        "id": "tema-20-q11"
+      },
+      {
+        "enunciado": "¿Qué Administraciones Públicas están obligadas a crear registros electrónicos?",
+        "opciones": [
+          "Únicamente la Administración General del Estado",
+          "Solo las Comunidades Autónomas y la Administración General del Estado, quedando excluida la Administración Local",
+          "Solo los ayuntamientos de gran población",
+          "Todas las Administraciones Públicas, sin excepción"
+        ],
+        "correcta": 3,
+        "explicacion": "No se trata de una obligación limitada a determinados niveles territoriales: todas las Administraciones Públicas están obligadas a crear registros electrónicos, que además deben admitir la presentación durante las 24 horas de todos los días del año.",
+        "parte": 1,
+        "id": "tema-20-q12"
+      },
+      {
+        "enunciado": "El recibo que emiten automáticamente los registros electrónicos tras la presentación de un escrito...",
+        "opciones": [
+          "Constituye una copia autenticada del escrito, incluyendo la fecha y hora de presentación y el número de entrada en el registro",
+          "Es un mero acuse informativo, sin valor de copia autenticada",
+          "Solo incluye la fecha de presentación, sin hora ni número de entrada",
+          "Debe solicitarse expresamente por el interesado, ya que no se emite de forma automática"
+        ],
+        "correcta": 0,
+        "explicacion": "No es un simple aviso informativo: el recibo que emite automáticamente el registro electrónico tiene la consideración de copia autenticada del escrito, e incluye la fecha y hora de presentación junto con el número de entrada en el registro, datos clave para acreditar el cumplimiento de plazos.",
+        "parte": 1,
+        "id": "tema-20-q13"
+      },
+      {
+        "enunciado": "Respecto a los escritos que pueden admitir los registros electrónicos, señale la CORRECTA.",
+        "opciones": [
+          "Solo admiten documentos electrónicos normalizados conforme a modelo oficial",
+          "Pueden admitir cualquier solicitud, escrito o comunicación, aunque no sea documento electrónico normalizado",
+          "Exigen en todo caso la previa subsanación del escrito antes de su admisión",
+          "Solo admiten escritos firmados con certificado digital cualificado de persona jurídica"
+        ],
+        "correcta": 1,
+        "explicacion": "Al contrario de lo que cabría pensar, no se exige que el documento siga un modelo normalizado: los registros electrónicos pueden admitir cualquier escrito, solicitud o comunicación, aunque no sea documento electrónico normalizado, lo que facilita el acceso de los ciudadanos a la vía electrónica.",
+        "parte": 1,
+        "id": "tema-20-q14"
+      },
+      {
+        "enunciado": "Señale cuál de los siguientes NO figura entre los contenidos imprescindibles del escrito de solicitud exigidos por la Ley.",
+        "opciones": [
+          "Nombre y apellidos del interesado y, en su caso, de la persona que lo represente",
+          "Hechos, razones y petición en que se concrete la solicitud",
+          "Declaración responsable de carecer de antecedentes penales",
+          "Órgano, centro o unidad administrativa a la que se dirige el escrito"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, es un contenido que no exige la Ley para el escrito de solicitud: la declaración responsable de antecedentes penales no figura entre los contenidos imprescindibles. Estos son el nombre y apellidos del interesado y, en su caso, de su representante; la identificación del medio o lugar de notificación; los hechos, razones y petición; el lugar y fecha; la firma; y el órgano al que se dirige.",
+        "parte": 1,
+        "id": "tema-20-q15"
+      },
+      {
+        "enunciado": "En cuanto a la notificación, el escrito de solicitud debe contener...",
+        "opciones": [
+          "Únicamente el lugar físico de notificación, sin posibilidad de medio electrónico",
+          "Únicamente el medio electrónico de notificación, sin posibilidad de lugar físico",
+          "Ambos datos de forma simultánea y obligatoria, medio electrónico y lugar físico",
+          "La identificación del medio electrónico o, en su defecto, el lugar físico en que se desea que se practique la notificación"
+        ],
+        "correcta": 3,
+        "explicacion": "No es necesario aportar ambos datos a la vez: la Ley exige la identificación del medio electrónico o, en su defecto, el lugar físico en que se desea practicar la notificación, dejando al interesado la elección entre una u otra vía.",
+        "parte": 1,
+        "id": "tema-20-q16"
+      },
+      {
+        "enunciado": "Respecto a la firma del solicitante como contenido del escrito de solicitud, señale la CORRECTA.",
+        "opciones": [
+          "Se exige la firma del solicitante o la acreditación de la autenticidad de su voluntad expresada por cualquier medio",
+          "Se exige siempre firma manuscrita, no admitiéndose otros medios de acreditación",
+          "Se exige siempre firma electrónica avanzada o cualificada",
+          "No se exige acreditación alguna de la voluntad del solicitante"
+        ],
+        "correcta": 0,
+        "explicacion": "No se impone un único medio de firma: la Ley admite la firma del solicitante o, alternativamente, la acreditación de la autenticidad de su voluntad expresada por cualquier medio, lo que da flexibilidad a los distintos canales de presentación (presencial o electrónico).",
+        "parte": 1,
+        "id": "tema-20-q17"
+      },
+      {
+        "enunciado": "El escrito de solicitud debe identificar necesariamente...",
+        "opciones": [
+          "El funcionario concreto encargado de tramitar el expediente",
+          "El órgano, centro o unidad administrativa a la que se dirige el escrito",
+          "El número de expediente de un procedimiento anterior similar",
+          "La sede electrónica exclusivamente, sin mención a ningún órgano"
+        ],
+        "correcta": 1,
+        "explicacion": "No se exige identificar a un funcionario concreto: lo que la Ley requiere es identificar el órgano, centro o unidad administrativa a la que se dirige el escrito, dato imprescindible para su correcta tramitación.",
+        "parte": 1,
+        "id": "tema-20-q18"
+      },
+      {
+        "enunciado": "Junto con los hechos y las razones, ¿qué otro elemento debe concretar el escrito de solicitud?",
+        "opciones": [
+          "La cuantía económica exacta que se reclama",
+          "La jurisprudencia aplicable al caso",
+          "La petición en que se concrete la solicitud",
+          "El precedente administrativo que avala la solicitud"
+        ],
+        "correcta": 2,
+        "explicacion": "No se exige fundamentación jurídica ni cuantificación económica como contenido imprescindible: basta con que el escrito concrete los hechos, las razones y la petición, siendo este último elemento el que determina qué es exactamente lo que el interesado pide a la Administración.",
+        "parte": 1,
+        "id": "tema-20-q19"
+      },
+      {
+        "enunciado": "¿Es imprescindible que el escrito de solicitud incluya el lugar y la fecha?",
+        "opciones": [
+          "No, son datos meramente potestativos que puede omitir el interesado",
+          "Solo es obligatoria la fecha; el lugar es potestativo",
+          "Solo se exige en los procedimientos iniciados de oficio por la Administración",
+          "Sí, el lugar y la fecha constituyen uno de los contenidos imprescindibles exigidos por la Ley para el escrito de solicitud"
+        ],
+        "correcta": 3,
+        "explicacion": "No son datos opcionales: el lugar y la fecha figuran expresamente entre los contenidos imprescindibles que debe incluir el escrito de solicitud, junto con la identificación del interesado, los hechos, razones y petición, la firma y el órgano destinatario.",
+        "parte": 1,
+        "id": "tema-20-q20"
+      },
+      {
+        "enunciado": "La regla general sobre el cómputo de plazos administrativos señalados por días es que...",
+        "opciones": [
+          "Solo se tienen en cuenta los días hábiles",
+          "Se cuentan todos los días naturales, salvo que una norma disponga lo contrario",
+          "Se cuentan los días hábiles, salvo los festivos nacionales, que sí se incluyen",
+          "Se cuentan únicamente los días laborables de la Administración, incluidos los sábados"
+        ],
+        "correcta": 0,
+        "explicacion": "No se parte de los días naturales como regla general: cuando el cómputo es por días, la regla general es que solo se tienen en cuenta los días hábiles, siendo necesaria una norma con rango de Ley o de Derecho Comunitario para poder computar todos los días.",
+        "parte": 1,
+        "id": "tema-20-q21"
+      },
+      {
+        "enunciado": "Respecto al cómputo por horas, ¿qué novedad introduce la Ley 39/2015 frente a la derogada LRJPAC?",
+        "opciones": [
+          "Que solo se entienden hábiles las horas de atención al público, de 9 a 14 horas",
+          "Que, si la norma hace referencia a horas hábiles, se entenderán hábiles todas las horas del día que formen parte de un día hábil",
+          "Que se entenderán hábiles todas las horas de cualquier día, sea hábil o inhábil",
+          "Que se mantiene exactamente el mismo criterio que regía bajo la LRJPAC"
+        ],
+        "correcta": 1,
+        "explicacion": "No es que se mantenga el criterio anterior: como novedad respecto de la derogada LRJPAC, la Ley 39/2015 establece que cuando la norma hable de horas hábiles se entenderán hábiles todas las horas del día que formen parte de un día hábil, sin restringirlas al horario de atención al público.",
+        "parte": 1,
+        "id": "tema-20-q22"
+      },
+      {
+        "enunciado": "¿Es posible computar todos los días, incluidos festivos, sábados y domingos, en un procedimiento administrativo?",
+        "opciones": [
+          "No, en ningún caso puede alterarse la regla de los días hábiles",
+          "Sí, siempre que lo decida motivadamente el órgano instructor del procedimiento",
+          "Sí, siempre que esté previsto por una norma con rango de Ley o norma de Derecho Comunitario",
+          "Sí, basta con que lo prevea una simple Orden ministerial o Instrucción interna"
+        ],
+        "correcta": 2,
+        "explicacion": "No basta una decisión discrecional del órgano instructor ni una norma de rango inferior: para poder computar todos los días, incluidos festivos, sábados y domingos, esta circunstancia debe estar prevista por una norma con rango de Ley o norma de Derecho Comunitario.",
+        "parte": 1,
+        "id": "tema-20-q23"
+      },
+      {
+        "enunciado": "A sensu contrario de la regla general de cómputo por días hábiles, ¿qué días se consideran inhábiles?",
+        "opciones": [
+          "Únicamente los domingos y los festivos nacionales, siendo los sábados hábiles",
+          "Solo los festivos, siendo hábiles tanto los sábados como los domingos",
+          "Los sábados, los domingos y el mes de agosto completo",
+          "Los sábados, los domingos y los días declarados festivos"
+        ],
+        "correcta": 3,
+        "explicacion": "Ojo, no excluir los sábados: a sensu contrario de la regla de los días hábiles, se entiende que son inhábiles los sábados, los domingos y los días declarados festivos, sin que exista una inhabilitación genérica del mes de agosto.",
+        "parte": 1,
+        "id": "tema-20-q24"
+      },
+      {
+        "enunciado": "Las Administraciones Públicas deben publicar un calendario en el que...",
+        "opciones": [
+          "Se señalen cada año los días declarados festivos en los respectivos ámbitos territoriales",
+          "Se señalen, solo cada cinco años, los días declarados festivos",
+          "Se recojan exclusivamente los festivos de ámbito estatal, válidos para todo el territorio",
+          "Se publique únicamente si varían los festivos respecto al año anterior"
+        ],
+        "correcta": 0,
+        "explicacion": "No se trata de una publicación quinquenal ni limitada al ámbito estatal: las Administraciones deben publicar un calendario cada año, señalando los días declarados festivos en los respectivos ámbitos territoriales donde se encuentre la Administración.",
+        "parte": 1,
+        "id": "tema-20-q25"
+      },
+      {
+        "enunciado": "Si un día es hábil en el municipio o Comunidad Autónoma del interesado, pero inhábil en la sede del órgano administrativo (o a la inversa), ¿cómo se considera dicho día?",
+        "opciones": [
+          "Se considera hábil en todo caso, para no perjudicar al interesado",
+          "Se considera inhábil en todo caso",
+          "Prevalece siempre el régimen de la sede del órgano administrativo",
+          "Prevalece siempre el régimen del domicilio del interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "No prevalece ni el criterio más favorable al interesado ni el de la sede del órgano: la Ley resuelve el conflicto considerando que, cuando un día es hábil en un ámbito e inhábil en el otro, dicho día se considera inhábil en todo caso.",
+        "parte": 1,
+        "id": "tema-20-q26"
+      },
+      {
+        "enunciado": "Si un interesado presenta un escrito en un día inhábil, ¿cuándo se entiende realizada la presentación?",
+        "opciones": [
+          "En la última hora del propio día inhábil en que se presentó",
+          "Se considera no presentada, debiendo repetirse el trámite en día hábil",
+          "En la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil",
+          "En la primera hora del día inhábil siguiente, sea cual sea su naturaleza"
+        ],
+        "correcta": 2,
+        "explicacion": "No se pierde la presentación ni se traslada a otro día inhábil: salvo que una norma permita expresamente la recepción en día inhábil, la presentación realizada en día inhábil se entiende efectuada en la primera hora del primer día hábil siguiente.",
+        "parte": 1,
+        "id": "tema-20-q27"
+      },
+      {
+        "enunciado": "¿Desde qué momento comienza a contarse el plazo cuando se produce la notificación o publicación de un acto?",
+        "opciones": [
+          "Desde el mismo día en que se produce la notificación o publicación",
+          "Desde el día siguiente a aquel en que se solicita la notificación",
+          "Desde los tres días siguientes a la notificación o publicación",
+          "Desde el día siguiente a aquel en que se produzca la notificación o publicación del acto"
+        ],
+        "correcta": 3,
+        "explicacion": "No se cuenta desde el propio día de la notificación: el cómputo comienza desde el día siguiente a aquel en que se produzca la notificación o publicación del acto de que se trate, regla idéntica a la aplicable cuando el inicio depende del silencio administrativo.",
+        "parte": 1,
+        "id": "tema-20-q28"
+      },
+      {
+        "enunciado": "En el caso del silencio administrativo, ¿cuándo comienza el cómputo del plazo correspondiente?",
+        "opciones": [
+          "El día siguiente a aquel en que surta sus efectos el silencio administrativo",
+          "El mismo día en que surte efectos el silencio administrativo",
+          "A los diez días de haberse producido el silencio administrativo",
+          "El día siguiente a la fecha en que se presentó la solicitud inicial"
+        ],
+        "correcta": 0,
+        "explicacion": "No se cuenta desde la presentación de la solicitud ni desde el propio día del silencio: igual que ocurre con la notificación o publicación de un acto, el plazo comienza el día siguiente a aquel en que surta sus efectos el silencio administrativo.",
+        "parte": 1,
+        "id": "tema-20-q29"
+      },
+      {
+        "enunciado": "En los procedimientos electrónicos, el inicio del cómputo de los plazos viene determinado por...",
+        "opciones": [
+          "La fecha y hora del registro de salida de la Administración",
+          "La fecha y hora de presentación de los documentos en el mismo registro",
+          "El día siguiente a la presentación electrónica, con independencia de la hora",
+          "La fecha en que el órgano competente abre formalmente el expediente"
+        ],
+        "correcta": 1,
+        "explicacion": "No se atiende al registro de salida ni se traslada automáticamente al día siguiente: en los procedimientos electrónicos, el inicio del cómputo viene determinado por la fecha y hora de presentación de los documentos en el mismo registro.",
+        "parte": 1,
+        "id": "tema-20-q30"
+      },
+      {
+        "enunciado": "Si no se trata de documentos electrónicos normalizados, ¿qué fecha y hora se tendrán en cuenta para el cómputo?",
+        "opciones": [
+          "La fecha y hora de entrada en el registro de origen del documento",
+          "La fecha de la firma del documento, sin considerar la hora",
+          "La fecha y la hora de entrada en el registro del destinatario",
+          "La fecha en que el órgano competente dicta diligencia de constancia del documento"
+        ],
+        "correcta": 2,
+        "explicacion": "No se atiende al registro de origen: cuando no se trata de documentos electrónicos normalizados, se tendrá en cuenta la fecha y la hora de entrada en el registro del destinatario para fijar el inicio del cómputo.",
+        "parte": 1,
+        "id": "tema-20-q31"
+      },
+      {
+        "enunciado": "La fecha efectiva a partir de la que empiezan a correr los plazos...",
+        "opciones": [
+          "No requiere notificación alguna, bastando su publicación en el BOE",
+          "Solo debe notificarse si el interesado lo solicita expresamente",
+          "Se presume conocida transcurridos quince días desde el registro de entrada",
+          "Deberá ser notificada al interesado"
+        ],
+        "correcta": 3,
+        "explicacion": "No basta con una publicación genérica ni se presume conocida por el paso del tiempo: la Ley exige expresamente que la fecha efectiva a partir de la cual empiezan a correr los plazos sea notificada al interesado.",
+        "parte": 1,
+        "id": "tema-20-q32"
+      },
+      {
+        "enunciado": "Cuando el plazo se computa por meses y en el mes de vencimiento no existe un día equivalente al inicial, ¿cuándo finaliza el plazo?",
+        "opciones": [
+          "Se entiende que finaliza el último día del mes",
+          "Se traslada automáticamente al primer día hábil del mes siguiente",
+          "Se considera vencido el día anterior al que correspondería",
+          "Se prorroga automáticamente un mes adicional completo"
+        ],
+        "correcta": 0,
+        "explicacion": "No se traslada al mes siguiente ni se adelanta: si en el mes de vencimiento no hubiera un día equivalente al de inicio del cómputo, se entiende que el plazo finaliza el último día de ese mes.",
+        "parte": 1,
+        "id": "tema-20-q33"
+      },
+      {
+        "enunciado": "Cuando el último día de un plazo administrativo resulta ser inhábil, ¿qué ocurre?",
+        "opciones": [
+          "El plazo se da por vencido igualmente, siendo responsabilidad del interesado presentarlo antes",
+          "Se entenderá prorrogado al primer día hábil siguiente",
+          "Se prorroga automáticamente una semana completa",
+          "Se retrotrae al último día hábil anterior al vencimiento"
+        ],
+        "correcta": 1,
+        "explicacion": "No se perjudica al interesado por caer el vencimiento en día inhábil ni se retrotrae el plazo: en cualquier caso, cuando el último día del plazo sea inhábil, se entenderá prorrogado al primer día hábil siguiente.",
+        "parte": 1,
+        "id": "tema-20-q34"
+      },
+      {
+        "enunciado": "¿Hasta qué límite puede la Administración ampliar, con carácter general, los plazos legales establecidos?",
+        "opciones": [
+          "Hasta el doble de su duración ordinaria",
+          "Hasta un tercio de su duración ordinaria",
+          "Hasta la mitad de su duración ordinaria",
+          "Hasta la totalidad de su duración ordinaria, es decir, duplicándolo"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo con la cifra: no es el doble ni un tercio, sino que la Administración puede ampliar los plazos legales, de oficio o a instancia de parte, hasta la mitad de su duración ordinaria.",
+        "parte": 1,
+        "id": "tema-20-q35"
+      },
+      {
+        "enunciado": "El plazo máximo para resolver un procedimiento, a diferencia de la regla general de ampliación, puede ampliarse como máximo...",
+        "opciones": [
+          "Hasta la mitad del plazo de tramitación del procedimiento",
+          "Hasta el doble del plazo de tramitación del procedimiento",
+          "Hasta tres meses adicionales en todo caso",
+          "Hasta un plazo igual al de tramitación del procedimiento"
+        ],
+        "correcta": 3,
+        "explicacion": "No se aplica aquí la regla general de 'hasta la mitad': el plazo máximo para resolver constituye una excepción, pudiendo ampliarse, como máximo, hasta un plazo igual al de tramitación del procedimiento.",
+        "parte": 1,
+        "id": "tema-20-q36"
+      },
+      {
+        "enunciado": "Entre los requisitos exigidos para que la Administración pueda ampliar un plazo, señale la CORRECTA.",
+        "opciones": [
+          "La ampliación debe acordarse antes del vencimiento del plazo, sin que puedan resucitarse plazos ya vencidos",
+          "Puede acordarse incluso después de vencido el plazo si existe causa justificada",
+          "Solo puede solicitarla el interesado, nunca puede acordarse de oficio",
+          "No requiere notificación alguna a los interesados afectados"
+        ],
+        "correcta": 0,
+        "explicacion": "No cabe resucitar plazos ya vencidos: uno de los requisitos exige que la ampliación se realice antes del vencimiento del plazo correspondiente, pudiendo acordarse tanto de oficio como a instancia de parte.",
+        "parte": 1,
+        "id": "tema-20-q37"
+      },
+      {
+        "enunciado": "Respecto a los efectos de la ampliación de un plazo sobre terceros, señale la CORRECTA.",
+        "opciones": [
+          "Puede perjudicar los derechos de terceros si existe un interés público superior que lo justifique",
+          "La ampliación no puede perjudicar los derechos de terceras personas",
+          "Solo afecta a los derechos del propio solicitante, nunca puede afectar a terceros por definición",
+          "Requiere el consentimiento expreso de los terceros potencialmente afectados"
+        ],
+        "correcta": 1,
+        "explicacion": "No se permite ninguna excepción por razones de interés público: entre los requisitos de la ampliación figura expresamente que esta no puede perjudicar los derechos de terceras personas, sin que se exija tampoco su consentimiento previo.",
+        "parte": 1,
+        "id": "tema-20-q38"
+      },
+      {
+        "enunciado": "Sobre la motivación exigida para que la Administración amplíe un plazo, señale la CORRECTA.",
+        "opciones": [
+          "Nunca requiere motivación expresa alguna",
+          "Se presume motivada siempre, sin excepción, cualquiera que sea el supuesto",
+          "Debe justificarse en atención a las circunstancias del caso, presumiéndose dicha motivación en actuaciones en el extranjero o de residentes fuera de España",
+          "Solo debe motivarse cuando lo solicite expresamente el interesado afectado"
+        ],
+        "correcta": 2,
+        "explicacion": "No es una motivación que se presuma en todo caso ni que falte siempre: la decisión de ampliar un plazo debe justificarse en atención a las circunstancias del caso, si bien dicha motivación se presume cuando se trate de actuaciones en el extranjero o de residentes fuera de España.",
+        "parte": 1,
+        "id": "tema-20-q39"
+      },
+      {
+        "enunciado": "¿Cabe recurso contra el acto administrativo por el que se amplía un plazo?",
+        "opciones": [
+          "Sí, cabe recurso de alzada en el plazo de un mes",
+          "Sí, cabe recurso potestativo de reposición",
+          "Solo cabe recurso si el interesado no fue notificado del acuerdo",
+          "No, no puede interponerse ningún recurso, si bien el acto debe notificarse a los interesados"
+        ],
+        "correcta": 3,
+        "explicacion": "No existe vía de recurso frente a esta decisión: contra el acto por el que se amplía el plazo no puede interponerse ningún recurso, aunque sí debe ser notificado a los interesados afectados.",
+        "parte": 1,
+        "id": "tema-20-q40"
+      },
+      {
+        "enunciado": "Sobre la reducción de los plazos establecidos por la norma, señale la CORRECTA.",
+        "opciones": [
+          "La Administración puede reducirlos hasta la mitad de su duración ordinaria, salvo los plazos para presentar solicitudes o recursos, que nunca pueden reducirse",
+          "La Administración puede reducir cualquier plazo, incluidos los de presentación de solicitudes o recursos",
+          "Solo puede reducir los plazos de instrucción, nunca los de resolución del procedimiento",
+          "La reducción de plazos requiere siempre autorización judicial previa"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, hay una excepción importante: aunque la Administración puede reducir los plazos hasta la mitad de su duración ordinaria, los plazos para presentar solicitudes o recursos nunca pueden ser objeto de reducción.",
+        "parte": 1,
+        "id": "tema-20-q41"
+      },
+      {
+        "enunciado": "La reducción de plazos acordada por la Administración comporta...",
+        "opciones": [
+          "La apertura automática de un expediente disciplinario contra el personal responsable",
+          "La declaración de urgencia del procedimiento, motivada por razones de interés público, sin que quepa recurso alguno",
+          "La obligación de tramitar el procedimiento de forma simplificada",
+          "La suspensión del procedimiento hasta nueva orden del órgano superior"
+        ],
+        "correcta": 1,
+        "explicacion": "No implica ni sanción disciplinaria ni suspensión: aminorar los plazos comporta la declaración de urgencia del procedimiento, siempre que venga motivada por razones de interés público, y contra esa decisión tampoco cabe recurso alguno.",
+        "parte": 1,
+        "id": "tema-20-q42"
+      },
+      {
+        "enunciado": "La disposición adicional novena introducida en la Ley 39/2015 por el RD-L 6/2024, de 5 de noviembre, tiene por objeto...",
+        "opciones": [
+          "Ampliar automáticamente todos los plazos administrativos en diez días en caso de catástrofe natural",
+          "Reducir a la mitad los plazos de resolución en las zonas declaradas en emergencia",
+          "Permitir la suspensión de plazos administrativos en los acuerdos del Consejo de Ministros de declaración de zonas afectadas gravemente por emergencias de protección civil",
+          "Suspender los plazos de prescripción penal en las zonas afectadas por la emergencia"
+        ],
+        "correcta": 2,
+        "explicacion": "No se trata de una ampliación automática de diez días ni de una cuestión penal: la novedad introducida por el RD-L 6/2024 añade una disposición adicional novena que permite la suspensión de plazos administrativos vinculada a los acuerdos del Consejo de Ministros de declaración de zonas gravemente afectadas por emergencias de protección civil.",
+        "parte": 1,
+        "id": "tema-20-q43"
+      },
+      {
+        "enunciado": "El Real Decreto-ley que introduce la suspensión de plazos administrativos por los daños de la DANA se adoptó...",
+        "opciones": [
+          "El 29 de octubre de 2024, fecha de la catástrofe",
+          "El 28 de noviembre de 2024, fecha de actualización del tema",
+          "El 5 de diciembre de 2024",
+          "El 5 de noviembre de 2024, mediante el RD-L 6/2024"
+        ],
+        "correcta": 3,
+        "explicacion": "No hay que confundir la fecha de la catástrofe con la fecha de la norma: la medida se adoptó mediante el Real Decreto-ley 6/2024, de 5 de noviembre, por el que se adoptan medidas urgentes de respuesta ante los daños causados por la Depresión Aislada en Niveles Altos (DANA).",
+        "parte": 1,
+        "id": "tema-20-q44"
+      },
+      {
+        "enunciado": "¿Hasta cuándo se mantiene la suspensión de plazos administrativos prevista en la disposición adicional novena introducida por el RD-L 6/2024?",
+        "opciones": [
+          "Hasta que se dicte un nuevo acuerdo del Consejo de Ministros decretando la finalización de la medida, reanudándose entonces los plazos suspendidos",
+          "Durante un plazo máximo improrrogable de tres meses",
+          "Hasta que lo decida el órgano competente para la tramitación del procedimiento concreto",
+          "Durante seis meses, prorrogables por otros seis meses adicionales"
+        ],
+        "correcta": 0,
+        "explicacion": "No se fija un plazo máximo cerrado en meses: la suspensión se mantiene hasta que un nuevo acuerdo del Consejo de Ministros decrete la finalización de la medida, momento en el que se reanudan los plazos suspendidos.",
+        "parte": 1,
+        "id": "tema-20-q45"
+      },
+      {
+        "enunciado": "¿A quién afecta la suspensión de plazos administrativos derivada de la declaración de zonas gravemente afectadas por la DANA?",
+        "opciones": [
+          "Exclusivamente a las personas jurídicas domiciliadas en la zona afectada",
+          "A los interesados residentes en los términos municipales incluidos en el ámbito del acuerdo y, en su caso, a otros interesados que acrediten la imposibilidad o el carácter gravoso de su cumplimiento por los efectos de la emergencia",
+          "A todos los interesados en procedimientos administrativos de toda España, sin excepción",
+          "Únicamente a los funcionarios públicos destinados en la zona afectada"
+        ],
+        "correcta": 1,
+        "explicacion": "No se limita a personas jurídicas ni se extiende a todo el territorio nacional: la medida afecta a los interesados residentes en los términos municipales incluidos en el ámbito de aplicación del acuerdo, y también a otros interesados que acrediten que el cumplimiento les resulta imposible o gravoso por los efectos de la emergencia.",
+        "parte": 1,
+        "id": "tema-20-q46"
+      },
+      {
+        "enunciado": "La subsanación (art. 68) procede cuando...",
+        "opciones": [
+          "El interesado desea modificar voluntariamente el contenido de fondo de su solicitud",
+          "El órgano competente aprecia que la solicitud es manifiestamente infundada",
+          "La solicitud no reúne los requisitos exigidos legalmente, incluida la falta de firma",
+          "La solicitud se ha presentado fuera del plazo establecido para recurrir"
+        ],
+        "correcta": 2,
+        "explicacion": "No confundir con la mejora, que opera sobre una solicitud ya correcta: la subsanación procede precisamente cuando la solicitud no reúne los requisitos exigidos legalmente, incluyéndose expresamente entre esos defectos la falta de firma.",
+        "parte": 1,
+        "id": "tema-20-q47"
+      },
+      {
+        "enunciado": "Ante una solicitud que no reúne los requisitos exigidos legalmente, ¿puede la Administración inadmitirla de plano?",
+        "opciones": [
+          "Sí, siempre que el defecto afecte a la firma del solicitante",
+          "Sí, cuando se trate de procedimientos selectivos o de concurrencia competitiva",
+          "Sí, salvo que el interesado solicite expresamente que se le permita subsanar",
+          "No, la Administración está obligada a registrarla y a notificar al solicitante el plazo para subsanar"
+        ],
+        "correcta": 3,
+        "explicacion": "Se prohíbe expresamente la inadmisión a plano: la Administración está obligada a registrar la solicitud defectuosa y a notificar al solicitante que dispone de un plazo para subsanar la falta o completar los documentos preceptivos.",
+        "parte": 1,
+        "id": "tema-20-q48"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo ordinario para subsanar la falta o completar los documentos preceptivos conforme al art. 68?",
+        "opciones": [
+          "10 días",
+          "15 días",
+          "20 días",
+          "5 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con los plazos vecinos: el plazo ordinario de subsanación es de 10 días, al que se puede añadir una ampliación de 5 días adicionales solo en determinados supuestos, lo que no debe confundirse con los 15 o 20 días de otros trámites del procedimiento.",
+        "parte": 1,
+        "id": "tema-20-q49"
+      },
+      {
+        "enunciado": "El plazo de subsanación puede ampliarse 5 días adicionales...",
+        "opciones": [
+          "En cualquier procedimiento, incluidos los selectivos, si lo solicita el interesado",
+          "Solo cuando haya dificultades para la aportación de los documentos requeridos, a petición del interesado o a iniciativa del órgano, nunca en procedimientos selectivos o de concurrencia competitiva",
+          "Automáticamente en todos los procedimientos, sin necesidad de petición expresa",
+          "Únicamente en los procedimientos de concurrencia competitiva"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que podría pensarse, esta ampliación está vetada precisamente en los procedimientos selectivos o de concurrencia competitiva; solo procede cuando existan dificultades para aportar los documentos requeridos, bien a petición del interesado o por iniciativa del propio órgano.",
+        "parte": 1,
+        "id": "tema-20-q50"
+      },
+      {
+        "enunciado": "Si el interesado no subsana la falta en el plazo señalado, ¿qué consecuencia tiene?",
+        "opciones": [
+          "Se le tendrá por desistido definitivamente, sin posibilidad de presentar una nueva solicitud",
+          "Se archivará el expediente con imposición automática de sanción",
+          "Se le tendrá por desestimada su petición, sin perjuicio de poder presentar una nueva solicitud si está en plazo para ello",
+          "Se le declarará incurso en caducidad, interrumpiéndose el plazo de prescripción"
+        ],
+        "correcta": 2,
+        "explicacion": "No se cierra la puerta definitivamente al interesado: la falta de subsanación en plazo determina que se tenga por desestimada la petición, pero ello no impide presentar una nueva solicitud, siempre que el interesado esté todavía en plazo para hacerlo.",
+        "parte": 1,
+        "id": "tema-20-q51"
+      },
+      {
+        "enunciado": "¿Quiénes están obligados a relacionarse electrónicamente con las Administraciones Públicas conforme a los arts. 14.2 y 14.3?",
+        "opciones": [
+          "Únicamente las personas jurídicas y los empleados públicos",
+          "Todas las personas físicas, sin excepción alguna",
+          "Solo los profesionales colegiados, quedando excluidos notarios y registradores",
+          "Las personas jurídicas, las entidades sin personalidad jurídica, quienes ejerzan una actividad profesional que requiera colegiación obligatoria (incluidos notarios y registradores de la propiedad y mercantiles), quienes representen a un interesado obligado y los empleados públicos para los trámites relacionados con su condición"
+        ],
+        "correcta": 3,
+        "explicacion": "No se limita a personas jurídicas y empleados públicos, ni excluye a notarios y registradores: la relación obligatoria por medios electrónicos alcanza también a las entidades sin personalidad jurídica, a los profesionales con colegiación obligatoria (notarios y registradores incluidos) y a quienes representen a un interesado ya obligado electrónicamente.",
+        "parte": 1,
+        "id": "tema-20-q52"
+      },
+      {
+        "enunciado": "Si un sujeto obligado a relacionarse electrónicamente presenta su solicitud de forma presencial, la Administración...",
+        "opciones": [
+          "Requerirá que la subsane mediante su presentación electrónica, en un plazo de 10 días",
+          "Inadmitirá la solicitud de forma automática y definitiva",
+          "Le impondrá una sanción pecuniaria por incumplir la obligación electrónica",
+          "Tramitará igualmente la solicitud por vía presencial, sin requerimiento alguno"
+        ],
+        "correcta": 0,
+        "explicacion": "No se inadmite de plano ni se sanciona automáticamente: la Administración requerirá al sujeto obligado que subsane presentando la solicitud electrónicamente, concediéndole para ello un plazo de 10 días.",
+        "parte": 1,
+        "id": "tema-20-q53"
+      },
+      {
+        "enunciado": "En el caso de subsanación por presentación electrónica tardía de un sujeto obligado, ¿qué fecha se considera como fecha de presentación de la solicitud?",
+        "opciones": [
+          "La fecha de la presentación presencial originaria",
+          "Aquella en que se haya realizado la subsanación, es decir, la presentación electrónica",
+          "La fecha del requerimiento de subsanación notificado por la Administración",
+          "La fecha de registro de salida del documento en la Administración"
+        ],
+        "correcta": 1,
+        "explicacion": "No se retrotrae a la presentación presencial original: se considerará como fecha de presentación de la solicitud aquella en que se haya realizado la subsanación, esto es, la fecha de la efectiva presentación electrónica.",
+        "parte": 1,
+        "id": "tema-20-q54"
+      },
+      {
+        "enunciado": "La mejora (art. 68.3) permite al órgano competente...",
+        "opciones": [
+          "Exigir coactivamente la modificación de la solicitud bajo amenaza de archivo",
+          "Recabar la mejora únicamente en procedimientos iniciados de oficio por la propia Administración",
+          "Recabar la modificación o mejora voluntaria de los términos de la solicitud en procedimientos iniciados de parte, levantando una sucinta acta que se incorpora al procedimiento",
+          "Inadmitir la solicitud hasta que el interesado la mejore voluntariamente"
+        ],
+        "correcta": 2,
+        "explicacion": "No se trata de una exigencia coactiva ni se aplica a procedimientos de oficio: en los procedimientos iniciados de parte, el órgano competente puede recabar la modificación o mejora voluntaria de los términos de la solicitud, levantando una sucinta acta que se incorpora al procedimiento.",
+        "parte": 1,
+        "id": "tema-20-q55"
+      },
+      {
+        "enunciado": "¿En qué se diferencia la mejora (art. 68.3) de la subsanación (art. 68)?",
+        "opciones": [
+          "No existe diferencia real entre ambas figuras, siendo instrumentos equivalentes",
+          "La mejora solo puede referirse a aspectos de fondo, nunca formales, al contrario que la subsanación",
+          "La mejora, igual que la subsanación, tiene un plazo legal de 10 días más 5 días adicionales",
+          "En la mejora la solicitud ya reúne los requisitos mínimos para su curso, no siendo en sentido estricto defectuosa, mientras que en la subsanación la solicitud no reúne los requisitos exigidos legalmente"
+        ],
+        "correcta": 3,
+        "explicacion": "Ojo, no son equivalentes ni comparten plazo legal: la mejora opera sobre una solicitud que ya reúne los requisitos mínimos para su curso (no es, en sentido estricto, defectuosa), a diferencia de la subsanación, que corrige una solicitud que sí incumple los requisitos exigidos legalmente.",
+        "parte": 1,
+        "id": "tema-20-q56"
+      },
+      {
+        "enunciado": "Según el artículo 15, ¿cuál es la lengua de los procedimientos tramitados por la Administración General del Estado?",
+        "opciones": [
+          "El castellano",
+          "El castellano y la lengua cooficial correspondiente, indistintamente y sin preferencia",
+          "La lengua cooficial del territorio donde se tramite el procedimiento",
+          "Cualquier lengua oficial de la Unión Europea"
+        ],
+        "correcta": 0,
+        "explicacion": "No se establece una equiparación total entre lenguas: el artículo 15 fija el castellano como lengua de los procedimientos tramitados por la AGE, sin perjuicio de las particularidades previstas para los órganos periféricos.",
+        "parte": 1,
+        "id": "tema-20-q57"
+      },
+      {
+        "enunciado": "Si los interesados se dirigen a los órganos periféricos de la Administración General del Estado, ¿qué lengua pueden utilizar?",
+        "opciones": [
+          "Únicamente el castellano, sin excepción alguna",
+          "También la lengua cooficial correspondiente",
+          "Cualquier lengua, incluidas las extranjeras",
+          "Solo la lengua cooficial, quedando vetado el uso del castellano"
+        ],
+        "correcta": 1,
+        "explicacion": "No se restringe exclusivamente al castellano: cuando los interesados se dirigen a los órganos periféricos de la AGE, pueden utilizar también la lengua cooficial correspondiente al territorio.",
+        "parte": 1,
+        "id": "tema-20-q58"
+      },
+      {
+        "enunciado": "Si existen varios interesados en un procedimiento y discrepancia sobre la lengua a utilizar, ¿cómo se tramita el procedimiento?",
+        "opciones": [
+          "En la lengua cooficial que resulte mayoritaria entre los interesados",
+          "En castellano en todo caso, incluidos los documentos y testimonios que se requieran",
+          "En castellano, si bien los documentos o testimonios que se requieran se harán en la lengua que elijan",
+          "Se suspenderá el procedimiento hasta que exista acuerdo entre los interesados"
+        ],
+        "correcta": 2,
+        "explicacion": "No se impone el castellano para todo sin excepción: ante discrepancia entre varios interesados, el procedimiento se tramita en castellano, pero los documentos o testimonios que se requieran se harán en la lengua que los interesados elijan.",
+        "parte": 1,
+        "id": "tema-20-q59"
+      },
+      {
+        "enunciado": "En los procedimientos tramitados por la Administración Autonómica y la Administración Local, el régimen lingüístico se ajusta a...",
+        "opciones": [
+          "Lo dispuesto en el artículo 15 de la Ley 39/2015, de forma idéntica a la AGE",
+          "El castellano exclusivamente, por tratarse de normativa básica estatal",
+          "Lo que decida discrecionalmente cada órgano instructor en cada caso",
+          "Lo previsto en la legislación autonómica correspondiente"
+        ],
+        "correcta": 3,
+        "explicacion": "No se aplica el mismo régimen que a la AGE: en los procedimientos tramitados por la Administración Autonómica y la Administración Local, el régimen lingüístico se ajusta a lo previsto en la legislación autonómica correspondiente.",
+        "parte": 1,
+        "id": "tema-20-q60"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una de las circunstancias que, según la Ley 39/2015, permiten la iniciación de oficio del procedimiento administrativo?",
+        "opciones": [
+          "Orden expresa del superior jerárquico",
+          "Petición razonada de otro órgano administrativo",
+          "Solicitud motivada del interesado",
+          "Denuncia de cualquier ciudadano"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: confundir el inicio a solicitud del interesado con el inicio de oficio → las 4 circunstancias de la iniciación de oficio son la orden del superior, la petición razonada de otro órgano, la denuncia y la iniciativa propia → la solicitud del interesado da lugar al procedimiento a instancia de parte, no de oficio.",
+        "parte": 2,
+        "id": "tema-20-q61"
+      },
+      {
+        "enunciado": "Respecto a la petición razonada formulada por otro órgano administrativo para iniciar un procedimiento de oficio, señale la afirmación CORRECTA:",
+        "opciones": [
+          "Vincula al órgano competente, que está obligado a iniciar el procedimiento",
+          "No vincula al órgano competente, si bien éste debe comunicar al órgano peticionario los motivos de no iniciación",
+          "Sólo vincula cuando proviene de un órgano superior jerárquico",
+          "No vincula ni genera obligación alguna de comunicación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que toda petición de otro órgano obliga a iniciar el procedimiento → en realidad no vincula, pero sí obliga a comunicar los motivos por los que, en su caso, no procede la iniciación → la decisión final queda en manos del órgano competente para iniciar.",
+        "parte": 2,
+        "id": "tema-20-q62"
+      },
+      {
+        "enunciado": "El período de información previa que puede abrir el órgano competente antes de iniciar de oficio un procedimiento tiene como finalidad:",
+        "opciones": [
+          "Dar audiencia al futuro interesado antes de la apertura del expediente",
+          "Asegurarse de que las circunstancias de hecho denunciadas han existido o concurren indicios de que pudieran ser ciertas",
+          "Sustituir el trámite de prueba del procedimiento",
+          "Determinar el órgano competente para resolver el procedimiento"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundirlo con la audiencia o la prueba, trámites propios de la instrucción de un procedimiento ya iniciado → el período de información previa es anterior al inicio y busca verificar los hechos denunciados → tras él, el órgano decide iniciar el procedimiento o archivar la denuncia.",
+        "parte": 2,
+        "id": "tema-20-q63"
+      },
+      {
+        "enunciado": "Una vez realizadas las actuaciones del período de información previa, el órgano competente puede:",
+        "opciones": [
+          "Únicamente iniciar el procedimiento",
+          "Decidir la iniciación del procedimiento o archivar la denuncia presentada",
+          "Remitir el expediente al denunciante para que decida",
+          "Suspender indefinidamente la decisión sin plazo"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: creer que, abierto este período, la iniciación es obligatoria → el órgano conserva la facultad de decidir entre iniciar el procedimiento o archivar la denuncia, según el resultado de las actuaciones.",
+        "parte": 2,
+        "id": "tema-20-q64"
+      },
+      {
+        "enunciado": "Según el tema, la denuncia presentada por un particular que da lugar a la iniciación de oficio de un procedimiento:",
+        "opciones": [
+          "Otorga automáticamente al denunciante la condición de interesado",
+          "No supone otorgar al denunciante la condición de interesado",
+          "Obliga a notificarle siempre la resolución final",
+          "Le habilita para presentar recurso contra el acuerdo de iniciación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que denunciar equivale a ser parte en el procedimiento → la denuncia no otorga por sí misma la condición de interesado → sólo si además reúne los requisitos propios de interesado podrá ejercer esos derechos.",
+        "parte": 2,
+        "id": "tema-20-q65"
+      },
+      {
+        "enunciado": "Cuando coinciden en la misma persona la condición de denunciante y de interesado, ésta podrá ejercer, entre otros, los siguientes derechos:",
+        "opciones": [
+          "Sólo el derecho a que se archive la denuncia",
+          "La consulta del expediente y la presentación de alegaciones",
+          "El derecho exclusivo a proponer el órgano instructor",
+          "El derecho a imponer medidas provisionales sin resolución"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: minimizar los derechos de quien es a la vez denunciante e interesado → al reunir ambas condiciones, puede ejercer los derechos propios del interesado, como la consulta del expediente y la presentación de alegaciones.",
+        "parte": 2,
+        "id": "tema-20-q66"
+      },
+      {
+        "enunciado": "Cuando la Administración haya establecido expresamente modelos específicos de presentación de solicitudes para un procedimiento concreto, señale lo CORRECTO:",
+        "opciones": [
+          "Son de uso potestativo para el interesado",
+          "Son de uso obligatorio por los interesados",
+          "Sólo son obligatorios si el interesado es persona jurídica",
+          "Sustituyen al trámite de subsanación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que el interesado puede elegir usar una instancia genérica → cuando existen modelos oficiales específicos, su uso es obligatorio → el escrito de iniciación genérico sólo se utiliza cuando no existan tales modelos.",
+        "parte": 2,
+        "id": "tema-20-q67"
+      },
+      {
+        "enunciado": "El escrito de iniciación (instancia o solicitud) para iniciar un procedimiento a solicitud del interesado se utilizará:",
+        "opciones": [
+          "Siempre, con independencia de que existan modelos oficiales",
+          "Únicamente cuando la Administración no haya establecido modelos oficiales específicos",
+          "Sólo en los procedimientos sancionadores",
+          "Sólo cuando el interesado actúe sin representación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: suponer que el escrito genérico es siempre válido → el tema precisa que se usa cuando no existan modelos oficiales; de existir éstos, son de uso obligatorio en su lugar.",
+        "parte": 2,
+        "id": "tema-20-q68"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO figura entre los requisitos exigidos para el escrito de iniciación del procedimiento a solicitud del interesado?",
+        "opciones": [
+          "Hechos, razones y petición",
+          "Firma del solicitante o acreditación de la autenticidad de su voluntad",
+          "Informe preceptivo del órgano consultivo competente",
+          "Órgano, centro o unidad administrativa a la que se dirija y su código de identificación"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: confundir los requisitos formales del escrito con los trámites posteriores de la instrucción → el informe preceptivo, si procede, se emite durante la instrucción, no es un requisito del escrito inicial, que exige datos del solicitante, hechos, razones, petición, firma y destino.",
+        "parte": 2,
+        "id": "tema-20-q69"
+      },
+      {
+        "enunciado": "Señale la afirmación CORRECTA sobre el acuerdo de iniciación del procedimiento:",
+        "opciones": [
+          "Puede recurrirse de forma autónoma al tratarse de un acto definitivo",
+          "No puede ser objeto de recurso por ser un acto de trámite",
+          "Sólo puede recurrirse si adopta medidas provisionales",
+          "Debe recurrirse en el plazo de 15 días desde su notificación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que todo acuerdo administrativo es recurrible de forma autónoma → al tratarse de un acto de trámite, el acuerdo de iniciación no es recurrible de forma independiente, sin perjuicio de alegar su irregularidad al recurrir la resolución final.",
+        "parte": 2,
+        "id": "tema-20-q70"
+      },
+      {
+        "enunciado": "De las solicitudes, comunicaciones y escritos presentados electrónicamente o en las oficinas de asistencia en materia de registros, los interesados:",
+        "opciones": [
+          "No tienen derecho a ningún justificante",
+          "Podrán exigir el correspondiente recibo que acredite la fecha y hora de presentación",
+          "Sólo reciben recibo si lo solicitan por escrito aparte en el plazo de 10 días",
+          "Reciben el recibo únicamente en los procedimientos sancionadores"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que el recibo requiere una petición adicional y formal → basta la presentación para que el interesado pueda exigir el recibo acreditativo de fecha y hora, sin trámite añadido.",
+        "parte": 2,
+        "id": "tema-20-q71"
+      },
+      {
+        "enunciado": "Las medidas provisionales adoptadas antes del inicio del procedimiento al amparo del artículo 56 deberán ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, dentro de un plazo de:",
+        "opciones": [
+          "10 días desde su adopción",
+          "15 días desde su adopción",
+          "20 días desde su adopción",
+          "30 días desde su adopción"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir este plazo con el de subsanación (10 días) o el de información pública (20 días) → el plazo específico para resolver sobre las medidas provisionales en el acuerdo de iniciación es de 15 días desde su adopción → si el acuerdo nada dice, se consideran levantadas.",
+        "parte": 2,
+        "id": "tema-20-q72"
+      },
+      {
+        "enunciado": "En relación con el principio de impulsión de oficio, señale lo CORRECTO:",
+        "opciones": [
+          "El interesado está obligado a impulsar el procedimiento junto con la Administración",
+          "El interesado no está obligado a impulsar el procedimiento, siendo ello un deber exclusivo de la Administración",
+          "Sólo están obligados a impulsar los procedimientos sancionadores",
+          "La impulsión corresponde únicamente al Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que el impulso del procedimiento es una carga compartida → el deber de impulsar de oficio corresponde exclusivamente a la Administración; el interesado no está obligado a ello.",
+        "parte": 2,
+        "id": "tema-20-q73"
+      },
+      {
+        "enunciado": "El incumplimiento por la Administración de su deber de impulsar de oficio el procedimiento podría conducir a:",
+        "opciones": [
+          "La nulidad automática del procedimiento",
+          "La exigencia de responsabilidad patrimonial",
+          "La caducidad automática a favor del interesado",
+          "La apertura obligatoria de un período de información pública"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundirlo con la caducidad, que deriva de la inactividad del interesado, no de la Administración → el incumplimiento del deber de impulsión por la Administración puede generar responsabilidad patrimonial, siendo los titulares de las unidades administrativas responsables directos de la tramitación.",
+        "parte": 2,
+        "id": "tema-20-q74"
+      },
+      {
+        "enunciado": "La Administración debe guardar en la tramitación de los expedientes el orden riguroso de incoación en asuntos de homogénea naturaleza, salvo que:",
+        "opciones": [
+          "El titular de la unidad administrativa lo decida verbalmente sin más trámite",
+          "Exista una decisión expresa y motivada, recogida en una orden de la que quede constancia",
+          "El interesado lo solicite informalmente",
+          "Haya transcurrido el plazo máximo de resolución"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que basta una decisión verbal o discrecional → se exige decisión expresa, constancia documental y motivación → de lo contrario, el incumplimiento injustificado puede acarrear responsabilidad disciplinaria.",
+        "parte": 2,
+        "id": "tema-20-q75"
+      },
+      {
+        "enunciado": "El personal al servicio de las Administraciones Públicas que incumpla injustificadamente el orden riguroso de incoación podría incurrir en:",
+        "opciones": [
+          "Responsabilidad penal automática",
+          "Responsabilidad disciplinaria o remoción del puesto de trabajo",
+          "Nulidad de pleno derecho de todos los procedimientos tramitados",
+          "Pérdida automática de la condición de funcionario"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: exagerar la consecuencia hacia la vía penal o la pérdida de la condición funcionarial → el tema prevé responsabilidad disciplinaria o remoción del puesto, al generarse una discriminación entre asuntos homogéneos.",
+        "parte": 2,
+        "id": "tema-20-q76"
+      },
+      {
+        "enunciado": "Para que el responsable de la ordenación del expediente pueda disponer la acumulación de procedimientos distintos, es necesario que entre ellos exista:",
+        "opciones": [
+          "Identidad de interesados exclusivamente",
+          "Identidad causal o íntima conexión",
+          "Que ambos estén caducados",
+          "Autorización previa del Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: reducir el requisito a la mera coincidencia de interesados → lo exigido es identidad causal o íntima conexión entre los procedimientos, con independencia de quiénes sean las partes.",
+        "parte": 2,
+        "id": "tema-20-q77"
+      },
+      {
+        "enunciado": "Las cuestiones incidentales que se susciten en el procedimiento, incluidas las referidas a la nulidad de actuaciones, en aplicación del principio de celeridad:",
+        "opciones": [
+          "Suspenden siempre la tramitación hasta su resolución",
+          "No suspenderán la tramitación del procedimiento, salvo la recusación",
+          "Sólo pueden plantearse en el trámite de audiencia",
+          "Obligan a reiniciar el cómputo de los plazos"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que cualquier incidente detiene el expediente → la regla de economía procesal es que no suspenden la tramitación → la única excepción expresamente prevista es la recusación.",
+        "parte": 2,
+        "id": "tema-20-q78"
+      },
+      {
+        "enunciado": "El principio de impulsión simultánea, manifestación de la celeridad, exige que:",
+        "opciones": [
+          "Cada trámite se realice de forma sucesiva e independiente",
+          "Se acuerden en un solo trámite todos aquellos actos que, por su naturaleza, puedan cumplirse al mismo tiempo",
+          "Se dupliquen los trámites para mayor garantía",
+          "Se suspenda el procedimiento hasta agotar todos los plazos ordinarios"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: imaginar la celeridad como sucesión escalonada de trámites → precisamente lo que busca la impulsión simultánea es agrupar en un solo trámite los actos que puedan cumplirse a la vez.",
+        "parte": 2,
+        "id": "tema-20-q79"
+      },
+      {
+        "enunciado": "Aplicando el principio de celeridad en el procedimiento administrativo, se pretende:",
+        "opciones": [
+          "Que la Administración tome decisiones precipitadas para ahorrar tiempo",
+          "Aprovechar el tiempo de un modo razonable, sin que ello implique precipitación",
+          "Suprimir el trámite de audiencia en todos los procedimientos",
+          "Reducir a la mitad todos los plazos legales de forma automática"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir celeridad con precipitación o con la reducción de plazos, que es una facultad distinta y con límites propios → la celeridad persigue un aprovechamiento razonable del tiempo, no decisiones apresuradas.",
+        "parte": 2,
+        "id": "tema-20-q80"
+      },
+      {
+        "enunciado": "Conforme al artículo 76, los interesados podrán presentar alegaciones y aportar documentos u otros elementos de juicio:",
+        "opciones": [
+          "Sólo durante el período de prueba",
+          "En cualquier momento anterior al trámite de audiencia",
+          "Únicamente en los 10 días posteriores a la notificación del acuerdo de iniciación",
+          "Sólo una vez dictada la propuesta de resolución"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: limitar las alegaciones a un plazo cerrado tras la iniciación → la ley permite presentarlas en cualquier momento anterior al trámite de audiencia, momento en que se tendrán en cuenta al dictar resolución.",
+        "parte": 2,
+        "id": "tema-20-q81"
+      },
+      {
+        "enunciado": "Entre los defectos que los interesados pueden alegar en cualquier momento del procedimiento, el tema destaca especialmente:",
+        "opciones": [
+          "Los relativos a la competencia territorial del órgano instructor",
+          "Los que supongan la paralización o la infracción de los plazos señalados por la norma",
+          "Los relativos exclusivamente a la forma de notificación",
+          "Los que se refieran a la lengua empleada en el procedimiento"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: distraer con cuestiones de competencia o lengua, tratadas en otra parte del tema → el texto subraya específicamente que pueden alegarse los defectos de tramitación y, en especial, la paralización o infracción de plazos.",
+        "parte": 2,
+        "id": "tema-20-q82"
+      },
+      {
+        "enunciado": "Como regla general, los informes emitidos por órganos administrativos consultivos durante la instrucción tienen carácter:",
+        "opciones": [
+          "Preceptivo y vinculante",
+          "Facultativo y no vinculante",
+          "Preceptivo pero no vinculante",
+          "Facultativo pero vinculante"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que todo informe condiciona necesariamente la resolución → la regla general es la facultatividad y la no vinculación → sólo cuando una norma lo declare preceptivo, e incluso vinculante, cobra esa fuerza.",
+        "parte": 2,
+        "id": "tema-20-q83"
+      },
+      {
+        "enunciado": "La falta de un informe que fuera preceptivo, e incluso vinculante, en la tramitación de un procedimiento origina:",
+        "opciones": [
+          "La mera anulabilidad de la resolución",
+          "La invalidez de pleno derecho",
+          "Ningún efecto si el plazo de 10 días ya ha transcurrido",
+          "La caducidad automática del procedimiento"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: rebajar la consecuencia a una simple anulabilidad → el tema es tajante: la falta de un informe preceptivo (y en su caso vinculante) origina su invalidez de pleno derecho.",
+        "parte": 2,
+        "id": "tema-20-q84"
+      },
+      {
+        "enunciado": "Salvo que una disposición o el cumplimiento del resto de plazos del procedimiento exija otro distinto, los informes deberán emitirse en el plazo de:",
+        "opciones": [
+          "5 días",
+          "10 días",
+          "15 días",
+          "20 días"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir con el plazo de subsanación (10+5 días) o el de información pública (20 días) → el plazo general del artículo 26 para la emisión de informes es de 10 días, salvo disposición en contrario.",
+        "parte": 2,
+        "id": "tema-20-q85"
+      },
+      {
+        "enunciado": "Si no se cumpliera el plazo establecido para la emisión de un informe que no fuera preceptivo:",
+        "opciones": [
+          "El procedimiento queda automáticamente caducado",
+          "Se podrá seguir con el procedimiento",
+          "Deberá reiniciarse el cómputo de todos los plazos",
+          "El órgano instructor queda inhabilitado para resolver"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: tratar el retraso en un informe no preceptivo como causa de caducidad o paralización → al no ser preceptivo, su demora no impide continuar con la tramitación del procedimiento.",
+        "parte": 2,
+        "id": "tema-20-q86"
+      },
+      {
+        "enunciado": "Cuando la prueba consista en la emisión de un informe de un órgano administrativo, organismo público o entidad de derecho público, dicho informe se entenderá que tiene carácter:",
+        "opciones": [
+          "Facultativo",
+          "Preceptivo",
+          "Meramente orientativo",
+          "Vinculante en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir «preceptivo» con «vinculante», que son conceptos distintos → el texto señala expresamente que ese informe se entenderá preceptivo, sin que ello implique necesariamente que sea vinculante.",
+        "parte": 2,
+        "id": "tema-20-q87"
+      },
+      {
+        "enunciado": "El trámite de información pública en el procedimiento administrativo tiene carácter:",
+        "opciones": [
+          "Preceptivo en todos los procedimientos",
+          "Potestativo, decidiéndolo discrecionalmente el órgano resolutorio",
+          "Obligatorio sólo en los procedimientos sancionadores",
+          "Vinculante para el órgano instructor"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: suponer que la información pública es siempre obligatoria → es el órgano resolutorio el que, de forma discrecional, decide su apertura cuando la naturaleza del procedimiento lo requiera.",
+        "parte": 2,
+        "id": "tema-20-q88"
+      },
+      {
+        "enunciado": "En el trámite de información pública pueden formular alegaciones y observaciones:",
+        "opciones": [
+          "Únicamente los interesados en el procedimiento",
+          "Cualquier persona física o jurídica que lo estime conveniente, no sólo los interesados",
+          "Sólo las personas jurídicas registradas",
+          "Únicamente quienes hayan sido citados expresamente por la Administración"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: limitar la participación a los interesados → precisamente su carácter de participación ciudadana permite que cualquier persona, sea o no interesada, formule alegaciones u observaciones.",
+        "parte": 2,
+        "id": "tema-20-q89"
+      },
+      {
+        "enunciado": "El trámite de información pública, que debe publicarse en el Boletín Oficial correspondiente, no podrá ser en ningún caso inferior a:",
+        "opciones": [
+          "10 días",
+          "15 días",
+          "20 días",
+          "30 días"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: confundir con el plazo de audiencia (10 a 15 días) o el de prueba (10 a 30 días) → la información pública exige un plazo mínimo propio de 20 días.",
+        "parte": 2,
+        "id": "tema-20-q90"
+      },
+      {
+        "enunciado": "Dado el carácter potestativo del trámite de información pública, su omisión cuando el órgano resolutorio aprecie que la naturaleza del procedimiento no lo exige:",
+        "opciones": [
+          "Provoca la nulidad de pleno derecho de la resolución",
+          "No causa la anulabilidad de la resolución",
+          "Obliga a retrotraer el procedimiento al momento de la iniciación",
+          "Impide dictar resolución expresa"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: tratar la omisión de este trámite como la de la audiencia, que sí puede acarrear nulidad → siendo potestativo, su omisión justificada no causa la anulabilidad de la resolución.",
+        "parte": 2,
+        "id": "tema-20-q91"
+      },
+      {
+        "enunciado": "El trámite de información pública debe efectuarse:",
+        "opciones": [
+          "Después del trámite de audiencia",
+          "Antes del trámite de audiencia",
+          "Simultáneamente con el período extraordinario de prueba",
+          "Tras dictarse la propuesta de resolución"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: invertir el orden de los trámites de la instrucción → el tema indica expresamente que la información pública debe efectuarse antes del trámite de audiencia.",
+        "parte": 2,
+        "id": "tema-20-q92"
+      },
+      {
+        "enunciado": "La Administración puede rechazar las pruebas propuestas que considere manifiestamente innecesarias o improcedentes mediante:",
+        "opciones": [
+          "Resolución motivada",
+          "Simple comunicación verbal",
+          "Silencio administrativo",
+          "Acuerdo del Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: pensar que basta una comunicación informal para rechazar una prueba → la ley exige una resolución motivada que justifique el rechazo de la prueba manifiestamente innecesaria o improcedente.",
+        "parte": 2,
+        "id": "tema-20-q93"
+      },
+      {
+        "enunciado": "Cuando el instructor abra de oficio el período de prueba, su duración será:",
+        "opciones": [
+          "No inferior a 5 días ni superior a 20",
+          "No inferior a 10 días ni superior a 30",
+          "No inferior a 15 días ni superior a 30",
+          "Exactamente de 20 días, sin posibilidad de ampliación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir con el plazo de información pública (20 días) o el de audiencia (10 a 15 días) → el período de prueba abierto de oficio por el instructor dura entre 10 y 30 días.",
+        "parte": 2,
+        "id": "tema-20-q94"
+      },
+      {
+        "enunciado": "A instancia del interesado, el instructor podrá acordar la apertura de un período extraordinario de prueba por un plazo:",
+        "opciones": [
+          "No superior a 5 días",
+          "No superior a 10 días",
+          "No superior a 15 días",
+          "No superior a 30 días"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir el período extraordinario (máximo 10 días) con el período ordinario (10 a 30 días) → son dos plazos distintos regulados ambos en el artículo 77.",
+        "parte": 2,
+        "id": "tema-20-q95"
+      },
+      {
+        "enunciado": "Entre los medios de prueba que menciona el tema para acreditar los hechos relevantes se encuentran:",
+        "opciones": [
+          "Únicamente los documentos públicos",
+          "Testigos, documentos públicos o privados e informes periciales",
+          "Sólo la prueba pericial judicial",
+          "Exclusivamente las actas notariales"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: reducir los medios de prueba a una sola categoría → el tema cita expresamente testigos, documentos públicos o privados e informes periciales como medios admisibles.",
+        "parte": 2,
+        "id": "tema-20-q96"
+      },
+      {
+        "enunciado": "Si un medio de prueba constituye fundamento básico de la decisión que se adopte en el procedimiento, por ser pieza imprescindible para la correcta evaluación de los hechos:",
+        "opciones": [
+          "Deberá incluirse en la propuesta de resolución",
+          "Deberá ocultarse por razones de confidencialidad",
+          "Pierde todo valor probatorio",
+          "Debe repetirse necesariamente en el período extraordinario"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: pensar que una prueba esencial pierde fuerza o debe repetirse → al contrario, si es pieza imprescindible para evaluar los hechos, debe incluirse expresamente en la propuesta de resolución.",
+        "parte": 2,
+        "id": "tema-20-q97"
+      },
+      {
+        "enunciado": "El trámite de audiencia del interesado debe sustanciarse en un plazo:",
+        "opciones": [
+          "No inferior a 5 días ni superior a 10",
+          "No inferior a 10 días ni superior a 15",
+          "No inferior a 15 días ni superior a 20",
+          "No inferior a 10 días ni superior a 30"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir con el plazo del período de prueba (10 a 30 días) o con el de informes (10 días) → la audiencia tiene su propio tramo, de 10 a 15 días.",
+        "parte": 2,
+        "id": "tema-20-q98"
+      },
+      {
+        "enunciado": "El trámite de audiencia del interesado debe practicarse siempre antes de que se dicte resolución y, en su caso, antes de:",
+        "opciones": [
+          "La apertura del período de información pública",
+          "La solicitud del informe del órgano competente para el asesoramiento jurídico o del Dictamen del Consejo de Estado u órgano consultivo equivalente",
+          "La notificación del acuerdo de iniciación",
+          "La adopción de medidas provisionales"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: invertir el orden situando la audiencia tras el dictamen jurídico o del Consejo de Estado → el tema exige que la audiencia preceda a esa solicitud de informe o dictamen, además de a la propia resolución.",
+        "parte": 2,
+        "id": "tema-20-q99"
+      },
+      {
+        "enunciado": "Se prescindirá del trámite de audiencia del interesado cuando:",
+        "opciones": [
+          "El procedimiento se tramite de forma simplificada, en todo caso",
+          "Los hechos y documentos no difieran de los presentados por el interesado en su escrito o solicitud, o éste manifieste expresamente su decisión de no alegar ni aportar nuevos documentos",
+          "Haya transcurrido el plazo de 20 días desde la iniciación",
+          "El interesado no haya comparecido en el trámite de información pública"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que la tramitación simplificada excluye automáticamente la audiencia, o confundir con la incomparecencia en información pública → los únicos supuestos que dispensan la audiencia son la ausencia de hechos o documentos nuevos y la renuncia expresa del interesado a alegar.",
+        "parte": 2,
+        "id": "tema-20-q100"
+      },
+      {
+        "enunciado": "Si se omite el trámite de audiencia siendo preceptivo, la doctrina y jurisprudencia mayoritarias se inclinan por considerar que la resolución adoptada es:",
+        "opciones": [
+          "Válida, al tratarse de un vicio de forma subsanable sin más",
+          "Nula de pleno derecho",
+          "Meramente anulable, sin posibilidad de alegarlo en vía de recurso",
+          "Inexistente, pero sin efectos jurídicos de ningún tipo"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: rebajar la gravedad de la omisión a un simple vicio subsanable → por la trascendencia del trámite, la doctrina y jurisprudencia mayoritarias se inclinan por la nulidad de pleno derecho.",
+        "parte": 2,
+        "id": "tema-20-q101"
+      },
+      {
+        "enunciado": "La finalidad del trámite de audiencia del interesado es, principalmente:",
+        "opciones": [
+          "Sustituir el trámite de prueba",
+          "Proteger los posibles derechos del interesado ante nuevos documentos o hechos certificados que no constaban en la documentación inicial",
+          "Determinar la competencia territorial del órgano",
+          "Fijar el inicio del cómputo de los plazos de prescripción"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir la finalidad de la audiencia con la de otros trámites o cuestiones de competencia → su objeto es proteger al interesado frente a nuevos documentos o hechos que no figuraban en la documentación inicial.",
+        "parte": 2,
+        "id": "tema-20-q102"
+      },
+      {
+        "enunciado": "La terminación normal del procedimiento administrativo se produce mediante:",
+        "opciones": [
+          "Resolución expresa o presunta (silencio negativo)",
+          "Únicamente resolución expresa, nunca presunta",
+          "Desistimiento o renuncia",
+          "Caducidad declarada de oficio"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: confundir terminación normal con las formas de terminación anormal (desistimiento, renuncia, caducidad) → la terminación normal admite tanto la resolución expresa como la presunta, identificada en el tema con el silencio negativo.",
+        "parte": 2,
+        "id": "tema-20-q103"
+      },
+      {
+        "enunciado": "Si el procedimiento hubiera sido iniciado por el interesado, la resolución que lo finalice:",
+        "opciones": [
+          "Podrá agravar libremente su posición inicial si existen razones de interés público",
+          "No podrá agravar la posición inicial del interesado (reformatio in peius)",
+          "Deberá siempre ser idéntica a lo solicitado",
+          "Sólo podrá dictarse de forma presunta"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: justificar un agravamiento de la posición del interesado en razones de interés público → el tema establece como regla la prohibición de la reformatio in peius cuando el procedimiento lo inició el propio interesado.",
+        "parte": 2,
+        "id": "tema-20-q104"
+      },
+      {
+        "enunciado": "En la terminación normal del procedimiento por resolución presunta, el tema la identifica con:",
+        "opciones": [
+          "El silencio administrativo positivo",
+          "El silencio administrativo negativo",
+          "La caducidad del procedimiento",
+          "El desistimiento tácito"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir silencio positivo y negativo → el texto vincula expresamente la resolución presunta, como forma de terminación normal, al silencio administrativo negativo.",
+        "parte": 2,
+        "id": "tema-20-q105"
+      },
+      {
+        "enunciado": "La terminación anormal del procedimiento administrativo admite, según el tema, las siguientes categorías:",
+        "opciones": [
+          "Dos categorías: desistimiento y caducidad",
+          "Tres categorías (realmente cuatro): desistimiento, renuncia, caducidad e imposibilidad material",
+          "Únicamente la caducidad",
+          "Cinco categorías, incluyendo la terminación convencional"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: incluir la terminación convencional dentro de la anormal → el propio tema la distingue como categoría aparte, y cifra la anormal en tres (realmente cuatro): desistimiento, renuncia, caducidad e imposibilidad material.",
+        "parte": 2,
+        "id": "tema-20-q106"
+      },
+      {
+        "enunciado": "Señale la afirmación CORRECTA sobre la diferencia entre desistimiento y renuncia:",
+        "opciones": [
+          "El desistimiento no impide reiterar la solicitud, mientras que la renuncia inhabilita para formular en el futuro otra petición en el mismo sentido",
+          "La renuncia no impide reiterar la solicitud y el desistimiento sí lo impide",
+          "Ambos impiden reiterar la solicitud en todo caso",
+          "Ambos permiten reiterar la solicitud sin ninguna limitación"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: invertir los efectos de ambas figuras → el desistimiento (como la caducidad) permite volver a solicitar, mientras que la renuncia supone un abandono del derecho que impide pedir en el futuro lo mismo.",
+        "parte": 2,
+        "id": "tema-20-q107"
+      },
+      {
+        "enunciado": "Si en el escrito de iniciación figurasen varios interesados y uno de ellos desiste, dicha declaración:",
+        "opciones": [
+          "Afecta a todos los interesados incluidos en el escrito inicial",
+          "Sólo afecta a quien la hubiese realizado, teniendo los demás un plazo de diez días para decidir sobre la continuación",
+          "Extingue automáticamente el procedimiento para todos",
+          "Obliga a reiniciar el procedimiento desde el acuerdo de iniciación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: extender los efectos del desistimiento a todos los interesados del escrito inicial → sólo afecta a quien lo realiza, concediéndose a los demás un plazo de diez días para decidir sobre la continuación.",
+        "parte": 2,
+        "id": "tema-20-q108"
+      },
+      {
+        "enunciado": "La Administración debe advertir al interesado de que, si transcurren ______ sin la debida actuación de éste en trámites indispensables, se declarará la caducidad del procedimiento:",
+        "opciones": [
+          "1 mes",
+          "2 meses",
+          "3 meses",
+          "6 meses"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: confundir este plazo con otros plazos del tema (10, 15, 20 o 30 días) → el plazo específico de inactividad que da lugar a la caducidad es de 3 meses, tras los cuales se archiva el procedimiento.",
+        "parte": 2,
+        "id": "tema-20-q109"
+      },
+      {
+        "enunciado": "Los procedimientos caducados, en relación con la prescripción:",
+        "opciones": [
+          "Interrumpen el plazo de prescripción, que vuelve a contarse desde cero",
+          "No interrumpirán el plazo de prescripción",
+          "Suspenden la prescripción hasta que se inicie un nuevo procedimiento",
+          "Hacen imprescriptible la acción administrativa correspondiente"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: suponer que la caducidad interrumpe la prescripción, como ocurre con otros actos administrativos → el tema señala expresamente lo contrario: los procedimientos caducados no interrumpen el plazo de prescripción.",
+        "parte": 2,
+        "id": "tema-20-q110"
+      },
+      {
+        "enunciado": "La resolución que declare la terminación del procedimiento por imposibilidad material de continuarlo por causas sobrevenidas:",
+        "opciones": [
+          "No requiere motivación alguna",
+          "Deberá ser motivada en todo caso",
+          "Sólo cabe si lo solicita expresamente el interesado",
+          "Equivale automáticamente a una renuncia del interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que, al tratarse de causas sobrevenidas ajenas a las partes, la resolución no necesita justificarse → el tema exige expresamente que dicha resolución sea motivada en todo caso.",
+        "parte": 2,
+        "id": "tema-20-q111"
+      },
+      {
+        "enunciado": "La terminación convencional del procedimiento, mediante acuerdos, pactos o convenios con la Administración, tiene como finalidad principal:",
+        "opciones": [
+          "Sustituir siempre la resolución expresa por silencio administrativo",
+          "Evitar en lo posible la formulación de interminables recursos y la ejecución forzosa de actos",
+          "Prorrogar indefinidamente el plazo máximo de resolución",
+          "Eliminar el trámite de audiencia del interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir la finalidad de la terminación convencional con la del silencio administrativo o con la supresión de garantías → el tema la presenta como fórmula para evitar interminables recursos y la ejecución forzosa de actos.",
+        "parte": 2,
+        "id": "tema-20-q112"
+      },
+      {
+        "enunciado": "Para que proceda la terminación convencional del procedimiento, los acuerdos, pactos o convenios deben cumplir, entre otros, los siguientes requisitos:",
+        "opciones": [
+          "No ser contrarios al Régimen Jurídico, no versar sobre materias no susceptibles de transacción y tener por objeto satisfacer el interés público",
+          "Ser aprobados previamente por el Consejo de Estado en todo caso",
+          "Limitarse exclusivamente a procedimientos sancionadores",
+          "Requerir la renuncia previa del interesado a cualquier derecho"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: pensar que cualquier pacto vale para terminar el procedimiento → la Ley exige que no contradigan el Régimen Jurídico, que la materia sea transigible y que se satisfaga el interés público; de lo contrario no cabe esta vía de terminación.",
+        "parte": 2,
+        "id": "tema-20-q113"
+      },
+      {
+        "enunciado": "En relación con la ejecución de las resoluciones, el órgano que ordene un acto de ejecución material:",
+        "opciones": [
+          "No tiene obligación de notificar nada al particular interesado",
+          "Está obligado a notificar al particular interesado la resolución que autorice la actuación administrativa",
+          "Sólo debe notificar si el interesado lo solicita expresamente",
+          "Debe esperar a que transcurra el plazo de prescripción antes de notificar"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que la ejecución material no requiere comunicación previa → el órgano que la ordena está obligado a notificar al particular interesado la resolución que autoriza esa actuación administrativa.",
+        "parte": 2,
+        "id": "tema-20-q114"
+      },
+      {
+        "enunciado": "Conforme al artículo 96, la tramitación simplificada del procedimiento podrá acordarse cuando:",
+        "opciones": [
+          "Así lo exija en todo caso una norma con rango de ley",
+          "Razones de interés público o la falta de complejidad del procedimiento lo aconsejen",
+          "El interesado lo solicite, siendo entonces obligatoria para la Administración",
+          "Haya transcurrido el plazo máximo para resolver sin que exista resolución expresa"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que la solicitud del interesado obliga automáticamente a la Administración → la tramitación simplificada depende de que concurran razones de interés público o la falta de complejidad, pudiendo la Administración incluso desestimar la solicitud del interesado.",
+        "parte": 2,
+        "id": "tema-20-q115"
+      },
+      {
+        "enunciado": "El acuerdo de tramitación simplificada:",
+        "opciones": [
+          "Es irrevocable una vez adoptado",
+          "Puede revocarse por el órgano competente para la tramitación en cualquier momento antes de la resolución, volviendo al procedimiento ordinario",
+          "Sólo puede revocarse si lo solicitan todos los interesados",
+          "Se revoca automáticamente transcurridos 30 días"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: considerar el acuerdo de simplificación como definitivo e inamovible → el tema permite su revocación por el órgano competente en cualquier momento anterior a la resolución, recuperándose el procedimiento ordinario.",
+        "parte": 2,
+        "id": "tema-20-q116"
+      },
+      {
+        "enunciado": "Si en un procedimiento tramitado de forma simplificada fuera preceptiva la emisión del Dictamen del Consejo de Estado u órgano consultivo equivalente, y éste manifestara un criterio contrario al fondo de la propuesta de resolución:",
+        "opciones": [
+          "La Administración deberá archivar el procedimiento sin más trámite",
+          "Para mayor garantía de los interesados, deberá continuarse el procedimiento, pero siguiendo la tramitación ordinaria",
+          "El dictamen contrario vincula y obliga a dictar resolución denegatoria automáticamente",
+          "Se mantiene la tramitación simplificada sin ninguna modificación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: pensar que la tramitación simplificada se mantiene siempre, o que el dictamen contrario vincula de forma automática la resolución → el texto prevé expresamente que, en garantía de los interesados, se pase a la tramitación ordinaria.",
+        "parte": 2,
+        "id": "tema-20-q117"
+      },
+      {
+        "enunciado": "Si la Administración acuerda de oficio la tramitación simplificada y alguno de los interesados manifiesta su oposición expresa:",
+        "opciones": [
+          "La Administración deberá seguir la tramitación ordinaria",
+          "La oposición de un solo interesado no tiene ningún efecto",
+          "El procedimiento se archiva automáticamente",
+          "Se abre un período de información pública obligatorio"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: restar eficacia a la oposición de un único interesado → basta esa oposición expresa de alguno de ellos para que la Administración deba seguir la tramitación ordinaria.",
+        "parte": 2,
+        "id": "tema-20-q118"
+      },
+      {
+        "enunciado": "Si los interesados solicitan la tramitación simplificada y el órgano competente aprecia que no concurre alguna de las razones previstas, podrá desestimar dicha solicitud, sin posibilidad de recurso, en el plazo de:",
+        "opciones": [
+          "3 días desde su presentación",
+          "5 días desde su presentación",
+          "10 días desde su presentación",
+          "15 días desde su presentación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: confundir con otros plazos cortos del tema (10 días de subsanación o de informes) → el plazo específico para desestimar la solicitud de tramitación simplificada es de 5 días, transcurrido el cual sin resolución se entiende desestimada.",
+        "parte": 2,
+        "id": "tema-20-q119"
+      },
+      {
+        "enunciado": "Los procedimientos administrativos tramitados de manera simplificada deberán ser resueltos en un plazo de:",
+        "opciones": [
+          "15 días desde la notificación del acuerdo de tramitación simplificada",
+          "20 días desde la notificación del acuerdo de tramitación simplificada",
+          "30 días, a contar desde el siguiente al que se notifique al interesado el acuerdo de tramitación simplificada",
+          "30 días desde la presentación de la solicitud inicial del interesado"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: confundir el día de inicio del cómputo (la presentación inicial) con el correcto (el día siguiente a la notificación del acuerdo de tramitación simplificada) → además la cifra correcta es 30 días, no 15 ni 20.",
+        "parte": 2,
+        "id": "tema-20-q120"
+      },
+      {
+        "enunciado": "La Administración instructora de un expediente decide, de oficio y antes de que venza el plazo ordinario para resolver, ampliar dicho plazo. Atendiendo estrictamente a los requisitos y límites que establece el temario para la ampliación de plazos, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "La ampliación puede acordarse hasta la mitad de la duración ordinaria del plazo, pero el plazo máximo para resolver solo puede ampliarse, como máximo, hasta un plazo igual al de tramitación del procedimiento; el acto de ampliación debe notificarse y no cabe recurso contra él.",
+          "La ampliación puede acordarse únicamente a instancia de parte, nunca de oficio, y su duración máxima es equivalente a la mitad del plazo de tramitación del procedimiento.",
+          "La ampliación puede acordarse en cualquier momento, incluso una vez vencido el plazo original, siempre que se motive en razones de interés público, y contra el acto de ampliación cabe recurso de alzada.",
+          "La ampliación solo resulta posible cuando la actuación se realice en territorio nacional, pues la Ley presume la falta de motivación para las actuaciones en el extranjero o de residentes fuera de España."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B es incorrecta porque la ampliación puede acordarse de oficio o a instancia de parte (no solo a instancia de parte); además confunde el límite general (mitad de la duración ordinaria) con el límite especial del plazo máximo para resolver. La opción C falla porque la ampliación debe acordarse siempre antes del vencimiento del plazo (no pueden resucitarse plazos ya vencidos) y porque contra el acto de ampliación no cabe recurso alguno. La opción D invierte la regla: la Ley presume precisamente la motivación (no la falta de ella) cuando se trata de actuaciones en el extranjero o de residentes fuera de España. → La respuesta correcta recoge los cuatro requisitos exactos: ampliación hasta la mitad de la duración ordinaria (de oficio o a instancia de parte), con el límite especial de que el plazo máximo para resolver solo puede ampliarse como máximo hasta un plazo igual al de tramitación del procedimiento, ampliación antes del vencimiento, sin perjuicio de terceros, motivada, notificada, y sin recurso posible. → Distinto es el régimen de la reducción de plazos, que también se limita a la mitad de la duración ordinaria pero nunca puede aplicarse a plazos de solicitudes o recursos.",
+        "nivel": "avanzado",
+        "id": "tema-20-q121"
+      },
+      {
+        "enunciado": "Por razones de interés público debidamente motivadas, un órgano administrativo declara la urgencia de un procedimiento y reduce varios de sus plazos. ¿Cuál de las siguientes reducciones sería conforme al temario?",
+        "opciones": [
+          "La reducción del plazo para la presentación de un recurso administrativo, acordándolo hasta la mitad de su duración ordinaria.",
+          "La reducción del plazo de un trámite de prueba hasta la mitad de su duración ordinaria, al tratarse de un plazo distinto del de presentación de solicitudes o recursos.",
+          "La reducción del plazo máximo para resolver el procedimiento hasta un cuarto de su duración ordinaria, siempre que se motive en razones de interés público.",
+          "La reducción de cualquier plazo del procedimiento, incluidos los de presentación de solicitudes y recursos, hasta la mitad de su duración, siempre que exista declaración de urgencia."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: las opciones A y D son incorrectas porque el temario establece expresamente que los plazos para presentar solicitudes o recursos nunca pueden ser objeto de reducción, por muy motivada que esté la urgencia. La opción C falla en el dato numérico: el límite de la reducción es la mitad de la duración ordinaria del plazo, no un cuarto. → La reducción de plazos (como la de un trámite de prueba, que no es un plazo de solicitud ni de recurso) puede acordarse hasta la mitad de su duración ordinaria, comportando la declaración de urgencia del procedimiento por razones de interés público, y contra esa decisión tampoco cabe recurso alguno. → Nótese el paralelismo y la diferencia con la ampliación: ambas comparten el límite de 'la mitad de la duración ordinaria', pero la ampliación tiene además un límite especial para el plazo máximo de resolución (hasta un plazo igual al de tramitación), mientras que la reducción tiene como límite absoluto la exclusión de solicitudes y recursos.",
+        "nivel": "avanzado",
+        "id": "tema-20-q122"
+      },
+      {
+        "enunciado": "Un interesado reside en un municipio en el que el día 12 de octubre es hábil (por no estar declarado festivo en su ámbito autonómico), mientras que ese mismo día es festivo e inhábil en la sede del órgano administrativo que tramita su expediente. Ese día presenta un escrito dentro de un plazo que vence precisamente el 12 de octubre. Conforme al temario, ¿qué consecuencia tiene esta circunstancia sobre el cómputo del plazo?",
+        "opciones": [
+          "El día se considera inhábil en todo caso, por lo que el plazo se entiende prorrogado al primer día hábil siguiente.",
+          "El día se considera hábil en todo caso, puesto que basta con que lo sea en el lugar de residencia del interesado para que el escrito se entienda presentado en plazo.",
+          "El día se considera hábil únicamente a los efectos de la presentación por parte del interesado, pero inhábil a los efectos de los actos del órgano administrativo, generándose un cómputo dual.",
+          "La discrepancia entre calendarios se resuelve siempre a favor de la sede del órgano administrativo, de modo que el día sería inhábil solo si lo fuera en dicha sede."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B invierte la regla legal, pues no basta con que el día sea hábil en la residencia del interesado; la opción C inventa un 'cómputo dual' que no existe en el temario; la opción D reduce la regla a un solo criterio (la sede), cuando en realidad la norma opera en ambos sentidos. → El temario es claro: 'cuando un día fuese hábil en el municipio o Comunidad Autónoma en que residiese el interesado, e inhábil en la sede del órgano administrativo, o a la inversa, se considerará inhábil en todo caso'; es decir, basta con que sea inhábil en cualquiera de los dos lugares para que se considere inhábil a todos los efectos, prorrogándose el plazo al primer día hábil siguiente. → Distinto es el supuesto de las horas hábiles: si la norma se refiere a horas hábiles, se entienden hábiles todas las horas que formen parte de un día hábil (novedad respecto de la derogada LRJPAC), pero esa regla no entra en juego en este caso porque el problema afecta al propio día, no a las horas dentro de él.",
+        "nivel": "avanzado",
+        "id": "tema-20-q123"
+      },
+      {
+        "enunciado": "Una resolución administrativa se notifica a un interesado por medios electrónicos. Días más tarde, ese mismo interesado presenta un documento electrónico normalizado en el registro electrónico de la Administración. ¿Cuándo comienza a computarse, respectivamente, el plazo derivado de la notificación y el plazo de presentación del documento electrónico?",
+        "opciones": [
+          "Ambos plazos comienzan a computarse desde la fecha y hora en que el interesado tuvo conocimiento efectivo del contenido, con independencia de la fecha formal de notificación o de presentación.",
+          "El plazo derivado de la notificación comienza el mismo día en que esta se produce; el de la presentación electrónica, desde el día siguiente a la fecha y hora de presentación en el registro.",
+          "El plazo derivado de la notificación comienza el día siguiente a aquel en que se produce la notificación; el inicio del cómputo del documento electrónico normalizado viene determinado por la fecha y hora de su presentación en el propio registro.",
+          "Ambos plazos comienzan a computarse el día siguiente a la fecha y hora de entrada en el registro del destinatario, sin distinguir si el documento es o no electrónico normalizado."
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo: la opción A confunde el cómputo legal con el conocimiento material del interesado, criterio que no maneja el temario. La opción B se equivoca al situar el inicio del plazo de notificación en el mismo día (debe ser el día siguiente) y en diferir el de presentación electrónica a 'el día siguiente', cuando en realidad el cómputo del documento electrónico normalizado se determina por la fecha y hora exactas de presentación en el registro, no por el día siguiente. La opción D generaliza incorrectamente la regla de 'entrada en el registro del destinatario', que el temario reserva para los documentos que NO sean electrónicos normalizados. → La regla correcta distingue: el plazo tras una notificación o publicación comienza el día siguiente a aquel en que se produce; en los procedimientos electrónicos, si se trata de documentos electrónicos normalizados, el inicio del cómputo viene determinado por la fecha y hora de presentación en el propio registro, mientras que si no lo son, se tendrá en cuenta la fecha y hora de entrada en el registro del destinatario. → Además, la fecha efectiva a partir de la que empiezan a correr los plazos debe ser notificada al interesado.",
+        "nivel": "avanzado",
+        "id": "tema-20-q124"
+      },
+      {
+        "enunciado": "Un plazo de un mes comienza a computarse el día 31 de enero. Al no existir un día 31 en el mes de febrero (mes de vencimiento), y resultando además que el último día del mes de febrero de ese año es inhábil, ¿cómo determina el temario la finalización de dicho plazo?",
+        "opciones": [
+          "El plazo finaliza el primer día hábil de marzo, puesto que la falta de día equivalente obliga a trasladar el vencimiento al mes siguiente.",
+          "El plazo finaliza el último día del mes de febrero (al no haber día equivalente), y como ese último día es inhábil, se entiende prorrogado al primer día hábil siguiente.",
+          "El plazo se considera nulo por imposibilidad de cómputo, debiendo la Administración fijar un nuevo plazo íntegro desde su notificación.",
+          "El plazo finaliza el día 28 (o 29) de febrero exclusivamente si ese día fuera hábil; de ser inhábil, el plazo se habría extinguido anticipadamente el último día hábil anterior."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A inventa un traslado al mes siguiente que no figura en el temario. La opción C es absurda: la falta de día equivalente no genera nulidad del plazo, sino una regla de cierre. La opción D invierte el sentido de la prórroga: cuando el último día es inhábil, el plazo se prorroga hacia adelante (al primer día hábil siguiente), nunca se extingue anticipadamente. → El temario combina dos reglas sucesivas: primero, cuando el plazo se computa por meses y en el mes de vencimiento no existe un día equivalente (aquí, el 31 de febrero no existe), se entiende que el plazo finaliza el último día de ese mes; segundo, y aplicada después, si ese último día del plazo resulta inhábil, se entiende prorrogado al primer día hábil siguiente. → Ambas reglas deben aplicarse de forma sucesiva y no excluyente, siendo un clásico supuesto de combinación de plazos en los exámenes.",
+        "nivel": "avanzado",
+        "id": "tema-20-q125"
+      },
+      {
+        "enunciado": "Tras la aprobación del RD-L 6/2024, de 5 de noviembre, con medidas urgentes de respuesta ante los daños causados por la DANA, se añade una disposición adicional novena a la Ley 39/2015. ¿Cuál de las siguientes afirmaciones describe correctamente su contenido?",
+        "opciones": [
+          "Permite la ampliación automática de todos los plazos administrativos en un 50% para los interesados afectados, sin necesidad de acuerdo del Consejo de Ministros.",
+          "Permite la suspensión de los plazos administrativos en los acuerdos del Consejo de Ministros de declaración de zonas gravemente afectadas por emergencias de protección civil, hasta que un nuevo acuerdo del Consejo de Ministros decrete la finalización de la medida, reanudándose entonces los plazos suspendidos.",
+          "Establece la caducidad automática de los procedimientos administrativos iniciados en las zonas afectadas mientras dure la emergencia, debiendo iniciarse de nuevo una vez finalizada.",
+          "Habilita a cada Comunidad Autónoma afectada para declarar, por sí misma y sin necesidad de acuerdo estatal, la suspensión de los plazos de los procedimientos de la Administración General del Estado."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A inventa un porcentaje de ampliación (50%) que no existe; de hecho, no se trata de una ampliación de plazos sino de una suspensión. La opción C es incorrecta porque la medida no implica caducidad de los procedimientos, sino la paralización temporal de los plazos, que se reanudan después. La opción D atribuye la competencia a las Comunidades Autónomas, cuando el mecanismo exige un acuerdo del Consejo de Ministros (y otro posterior para finalizar la suspensión). → La disposición adicional novena introducida por el RD-L 6/2024 permite suspender los plazos administrativos mediante acuerdos del Consejo de Ministros que declaren zonas gravemente afectadas por emergencias de protección civil, suspensión que dura hasta que otro acuerdo del Consejo de Ministros decrete su finalización, momento en el que se reanudan los plazos suspendidos. → Afecta a los interesados residentes en los municipios incluidos en el ámbito del acuerdo y, en su caso, a quienes acrediten que el cumplimiento les resulta imposible o gravoso por los efectos de la emergencia.",
+        "nivel": "avanzado",
+        "id": "tema-20-q126"
+      },
+      {
+        "enunciado": "Finalizado un procedimiento administrativo mediante resolución que reconoce un derecho a favor del interesado, la Administración no procede a su ejecución. Además, en otro procedimiento distinto, un órgano ordena un acto de ejecución material de una resolución. Conforme al temario, ¿qué es correcto respecto de la fase de ejecución?",
+        "opciones": [
+          "Si la resolución otorga derechos y la Administración no provee a su establecimiento, al interesado solo le queda la posibilidad de reiterar la solicitud, pues la ejecución de actos declarativos de derechos no es exigible por otra vía.",
+          "Si la resolución otorga derechos, la Administración debe proveer a su establecimiento y, de no hacerlo, cabe acudir a la vía contencioso-administrativa; además, el órgano que ordene un acto de ejecución material está obligado a notificar al interesado la resolución que autorice dicha actuación.",
+          "La ejecución de las resoluciones administrativas queda siempre a la libre discreción de la Administración, sin que exista obligación legal de notificar al interesado el acto que autorice la ejecución material.",
+          "Cuando el ciudadano viene obligado a cumplir una carga derivada de la resolución, la Administración únicamente puede acudir a la vía contencioso-administrativa para forzar su cumplimiento, sin disponer de prerrogativas propias de ejecución."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A deja sin remedio real al interesado, cuando el temario prevé expresamente acudir a la vía contencioso-administrativa si la Administración no provee al establecimiento del derecho. La opción C niega la obligación de notificar, que sí existe: el órgano que ordene un acto de ejecución material está obligado a notificar al interesado la resolución que autorice la actuación administrativa. La opción D invierte las prerrogativas: frente al incumplimiento de una carga por el ciudadano, es la Administración la que puede hacer uso de los medios que componen la prerrogativa de la tutela ejecutiva (no necesita acudir a la vía contenciosa). → Terminado el procedimiento, la declaración de voluntad debe cumplirse: si otorga derechos, la Administración debe proveer a su establecimiento y, de no hacerlo, cabe la vía contencioso-administrativa; en todo caso, el órgano que ordene la ejecución material debe notificar al interesado la resolución que la autorice; y si el ciudadano debe cumplir una carga y no lo hace en plazo, la Administración puede recurrir a la tutela ejecutiva.",
+        "nivel": "avanzado",
+        "id": "tema-20-q127"
+      },
+      {
+        "enunciado": "Un interesado presenta su solicitud en una oficina de Correos, dentro de un sobre cerrado, un sábado a las 23:00 horas. ¿Qué consecuencias tiene esto conforme al temario respecto de la forma de presentación y la fecha de entrada en plazo?",
+        "opciones": [
+          "La presentación es válida sin más requisitos, pues basta con depositarla en la oficina de Correos dentro de plazo, sin que la Ley exija ninguna formalidad adicional sobre el estado del sobre.",
+          "La presentación debe hacerse en sobre abierto, de modo que el personal de Correos pueda indicar en la primera hoja la fecha, hora y oficina de recepción; además, al presentarse en día inhábil (sábado), se entenderá realizada en la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil.",
+          "La presentación debe hacerse en sobre cerrado y lacrado por el propio interesado, y al haberse realizado en sábado, se considera presentada en ese mismo instante, pues los registros de Correos computan también los días inhábiles.",
+          "Las oficinas de Correos no son un lugar válido para la presentación de solicitudes dirigidas a la Administración, a diferencia de las oficinas de asistencia en materia de registros."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A omite una formalidad expresamente exigida por el temario (el sobre debe ir abierto, no cerrado). La opción C invierte el requisito del sobre (debe ir abierto, no cerrado ni lacrado) y además da por buena la presentación instantánea en día inhábil, cuando la regla general es justamente la contraria salvo previsión normativa expresa. La opción D es falsa, pues las oficinas de Correos son uno de los lugares expresamente habilitados por la Ley para presentar solicitudes, junto al registro electrónico, las representaciones diplomáticas, las oficinas de asistencia en materia de registros y cualquier otro que establezcan las disposiciones vigentes. → La presentación en Correos exige sobre abierto para que el personal certifique fecha, hora y oficina en la primera hoja (pudiendo el remitente quedarse con una copia sellada de esa primera hoja); y al tratarse de un día inhábil, la presentación se entiende realizada en la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil. → Distinto es el registro electrónico, que debe permitir la presentación todos los días del año durante las veinticuatro horas, emitiendo un recibo automático con fecha, hora y número de entrada.",
+        "nivel": "avanzado",
+        "id": "tema-20-q128"
+      },
+      {
+        "enunciado": "La Administración detecta que una solicitud no reúne los requisitos legalmente exigidos y requiere al interesado para que la subsane. El interesado alega dificultades para aportar cierta documentación y solicita una ampliación del plazo de subsanación. ¿Cuál de las siguientes respuestas es correcta conforme al temario?",
+        "opciones": [
+          "El plazo ordinario de subsanación es de 10 días, ampliable en 5 días más cuando existan dificultades para la aportación de los documentos requeridos y así se solicite por el interesado o se decida por iniciativa del órgano; esta ampliación nunca procede en procedimientos selectivos o de concurrencia competitiva.",
+          "El plazo ordinario de subsanación es de 10 días, ampliable en 5 días más en cualquier procedimiento, incluidos los selectivos y de concurrencia competitiva, siempre que lo solicite el interesado.",
+          "El plazo ordinario de subsanación es de 15 días, sin posibilidad de ampliación adicional en ningún caso.",
+          "El plazo ordinario de subsanación es de 10 días, pero la ampliación de 5 días solo puede acordarla el órgano de oficio, nunca a petición del interesado."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B elimina precisamente la excepción más importante: la ampliación de 5 días nunca procede en procedimientos selectivos o de concurrencia competitiva, sea cual sea la causa invocada. La opción C falla en el dato numérico del plazo ordinario (es de 10 días, no 15) y niega sin fundamento la posible ampliación. La opción D restringe indebidamente la iniciativa, cuando el temario permite que la ampliación se acuerde tanto a petición del interesado como por iniciativa del propio órgano. → El plazo ordinario de subsanación del artículo 68 es de 10 días, ampliable en 5 días más, pero solo cuando existan dificultades para la aportación de los documentos requeridos, nunca en procedimientos selectivos o de concurrencia competitiva, y puede acordarse tanto a petición del interesado como por iniciativa del órgano. → Además, la Administración no puede inadmitir de plano la solicitud defectuosa: está obligada a registrarla y a notificar el requerimiento de subsanación.",
+        "nivel": "avanzado",
+        "id": "tema-20-q129"
+      },
+      {
+        "enunciado": "Un interesado no subsana su solicitud dentro del plazo que le fue concedido al efecto. ¿Qué consecuencias señala el temario?",
+        "opciones": [
+          "Se tendrá por desestimada su petición, lo que impide definitivamente al interesado volver a presentar una nueva solicitud sobre el mismo objeto, aunque estuviera en plazo para ello.",
+          "Se tendrá por desestimada su petición, sin que ello impida al interesado presentar una nueva solicitud, siempre que estuviera en plazo para ello.",
+          "La Administración debe inadmitir de plano la solicitud desde el primer momento, sin posibilidad de registro ni de requerimiento de subsanación previo.",
+          "El procedimiento queda automáticamente suspendido sine die hasta que el interesado decida subsanar, sin que pueda la Administración declarar su finalización."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A acierta en el efecto inmediato pero yerra al cerrar la puerta a una nueva solicitud: el temario aclara expresamente que eso no impide presentar una nueva solicitud si el interesado sigue estando en plazo para ello. La opción C contradice una regla central de la subsanación: la Administración tiene prohibido inadmitir de plano la solicitud defectuosa, estando obligada a registrarla y a requerir la subsanación. La opción D inventa una suspensión indefinida que no aparece en el temario. → Si transcurre el plazo de subsanación (10 días, con la posible ampliación de 5) sin que el interesado complete o corrija su solicitud, se tendrá por desestimada su petición, lo que no significa que el interesado 'desistido' no pueda presentar una nueva solicitud, siempre que estuviera en plazo para ello. → Esto diferencia la subsanación de la caducidad, en la que, pese a archivarse el procedimiento, tampoco se interrumpe el plazo de prescripción, pero la lógica de permitir actuar de nuevo dentro de plazo es compartida.",
+        "nivel": "avanzado",
+        "id": "tema-20-q130"
+      },
+      {
+        "enunciado": "Un notario, sujeto obligado a relacionarse electrónicamente con la Administración conforme a los artículos 14.2 y 14.3 de la Ley 39/2015, presenta presencialmente una solicitud en una oficina de asistencia en materia de registros. ¿Qué debe hacer la Administración y qué fecha de presentación se tendrá en cuenta?",
+        "opciones": [
+          "Debe inadmitir la solicitud de forma inmediata, por haberse presentado por un cauce no permitido a los sujetos obligados electrónicamente, sin posibilidad de subsanación.",
+          "Debe admitirla sin más trámite y computar como fecha de presentación la del momento en que físicamente se entregó el escrito en la oficina de asistencia.",
+          "Debe requerir al interesado que la subsane mediante su presentación electrónica en un plazo de 10 días, considerándose como fecha de presentación de la solicitud aquella en que se haya realizado la subsanación.",
+          "Debe requerir al interesado que la subsane mediante su presentación electrónica en un plazo de 5 días, manteniéndose como fecha de presentación la de la entrega presencial originaria."
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo: la opción A es incorrecta porque, igual que en la subsanación ordinaria, la Administración no puede inadmitir de plano, sino que debe requerir la subsanación (aquí, mediante presentación electrónica). La opción B ignora que, al ser un sujeto obligado a relacionarse electrónicamente, su presentación presencial no es plenamente eficaz sin la subsanación correspondiente. La opción D acierta en el mecanismo pero falla en dos datos: el plazo es de 10 días (no 5) y, sobre todo, la fecha de presentación que se tiene en cuenta es la de la subsanación electrónica, no la de la entrega presencial originaria. → Cuando los sujetos obligados a relacionarse electrónicamente conforme a los artículos 14.2 y 14.3 (personas jurídicas, entidades sin personalidad jurídica, profesiones que requieren colegiación obligatoria —incluidos notarios y registradores—, representantes de interesados obligados, y empleados públicos para trámites de su condición) presentan su solicitud presencialmente, la Administración debe requerirles que la subsanen mediante su presentación electrónica en un plazo de 10 días, considerándose como fecha de presentación de la solicitud la fecha en que se haya realizado dicha subsanación.",
+        "nivel": "avanzado",
+        "id": "tema-20-q131"
+      },
+      {
+        "enunciado": "En un procedimiento iniciado a instancia de parte, la solicitud reúne todos los requisitos mínimos exigidos para su curso, pero el órgano competente considera que podría completarse con algún matiz adicional que no altera en esencia la petición originaria, por lo que recaba al interesado su modificación voluntaria. El interesado no atiende a esa petición. ¿Cuál de las siguientes afirmaciones distingue correctamente esta figura de la subsanación del artículo 68?",
+        "opciones": [
+          "Se trata de la mejora del artículo 68.3, que a diferencia de la subsanación, presupone una solicitud que ya reúne los requisitos mínimos para su curso (no es, en sentido estricto, defectuosa); la falta de atención del interesado a la mejora no permite considerarlo desistido, mientras que en la subsanación la inactividad puede dar lugar a tener por desestimada la petición.",
+          "Se trata exactamente del mismo mecanismo que la subsanación, pues ambas figuras exigen que la solicitud sea defectuosa y ambas producen el desistimiento automático del interesado si no se atiende el requerimiento.",
+          "Se trata de la mejora, que solo puede referirse a aspectos formales y nunca de fondo, por lo que el principio de congruencia impide cualquier modificación sustantiva de la petición.",
+          "Se trata de la subsanación, puesto que toda modificación de una solicitud, sea cual sea su alcance, se encuadra en el artículo 68 y da lugar, si no se atiende, a la desestimación de la petición."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B confunde ambas figuras cuando el propio temario advierte expresamente que 'la mejora no es equivalente a la subsanación'; además, la falta de atención a la mejora no produce desistimiento, a diferencia de lo que puede ocurrir en la subsanación. La opción C limita la mejora a aspectos formales, cuando el temario dice justamente lo contrario: la mejora puede referirse no solo a aspectos formales sino también de fondo, para flexibilizar las exigencias del principio de congruencia (si bien solo se admiten variaciones que no alteren en esencia la solicitud originaria). La opción D reconduce erróneamente el supuesto a la subsanación, pese a que la solicitud no es defectuosa. → La mejora del artículo 68.3 opera sobre una solicitud que ya reúne los requisitos mínimos para su curso (simplemente mejorable, no defectuosa en sentido estricto), se instrumenta mediante un acta sucinta que se incorpora al procedimiento, y su falta de atención por el interesado no equivale a desistimiento, al contrario de lo que puede derivarse de no subsanar en el plazo del artículo 68.",
+        "nivel": "avanzado",
+        "id": "tema-20-q132"
+      },
+      {
+        "enunciado": "En un procedimiento tramitado por un órgano periférico de la Administración General del Estado concurren dos interesados: uno se dirige en castellano y otro en la lengua cooficial de la Comunidad Autónoma, existiendo discrepancia entre ambos sobre la lengua del procedimiento. Conforme al artículo 15 de la Ley 39/2015, ¿cómo debe resolverse esta situación?",
+        "opciones": [
+          "El procedimiento se tramitará en la lengua cooficial, por ser la lengua propia del territorio donde se ubica el órgano periférico, con independencia de la postura del otro interesado.",
+          "El procedimiento se tramitará en castellano al existir discrepancia entre los interesados, si bien los documentos o testimonios que cada uno requiera se harán en la lengua que cada uno elija.",
+          "Al existir discrepancia, el procedimiento debe archivarse hasta que los interesados alcancen un acuerdo sobre la lengua a emplear.",
+          "El órgano periférico debe duplicar íntegramente todas las actuaciones del expediente en ambas lenguas, sin que pueda optarse por una sola lengua para la tramitación."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A ignora que la regla de discrepancia prevalece sobre la mera ubicación territorial del órgano. La opción C inventa una consecuencia (archivo) que no contempla el temario. La opción D exige una duplicación sistemática que tampoco se corresponde con la previsión legal, que combina una lengua única para el procedimiento con la posibilidad de documentos en otra lengua a petición de parte. → El artículo 15 establece que la lengua de los procedimientos tramitados por la AGE es el castellano, si bien los interesados que se dirijan a los órganos periféricos de la AGE pueden utilizar también la lengua cooficial; ahora bien, si existieran varios interesados y discrepancia entre ellos, el procedimiento se tramitará en castellano, sin perjuicio de que los documentos o testimonios que requieran se hagan en la lengua que cada uno elija. → Distinto es el régimen de los procedimientos tramitados por la Administración autonómica o local, que se ajustan a lo previsto en su propia legislación autonómica.",
+        "nivel": "avanzado",
+        "id": "tema-20-q133"
+      },
+      {
+        "enunciado": "Un órgano administrativo formula una petición razonada a otro órgano competente para que inicie un procedimiento administrativo. El órgano competente, tras valorar la petición, decide no iniciar el procedimiento. ¿Qué es correcto conforme al temario?",
+        "opciones": [
+          "La petición razonada vincula al órgano competente, que está obligado a iniciar el procedimiento en todo caso.",
+          "La petición razonada no vincula al órgano competente para iniciar el procedimiento, pero este deberá comunicar al órgano que la formuló los motivos por los que, en su caso, no procede la iniciación.",
+          "La petición razonada equivale a una denuncia y otorga automáticamente al órgano peticionario la condición de interesado en el procedimiento no iniciado.",
+          "La petición razonada solo puede formularse por un superior jerárquico, nunca por un órgano administrativo de igual rango o distinto ámbito."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A afirma justo lo contrario de lo que dice el temario, que es expreso en que la petición razonada no vincula al órgano competente. La opción C mezcla dos figuras distintas de la iniciación de oficio (petición razonada de otro órgano y denuncia de un ciudadano) que el temario trata como causas separadas, y además la condición de interesado no se otorga automáticamente ni siquiera al denunciante. La opción D confunde la petición razonada con la orden expresa del superior jerárquico, que es otra causa distinta e independiente de iniciación de oficio. → Entre las circunstancias que pueden dar lugar a la iniciación de oficio del procedimiento se encuentran: la orden expresa del superior jerárquico, la petición razonada de otro órgano administrativo (que no vincula al órgano competente, aunque este debe comunicar los motivos de la no iniciación), la denuncia de cualquier ciudadano, y la iniciativa propia del órgano competente para dictar resolución.",
+        "nivel": "avanzado",
+        "id": "tema-20-q134"
+      },
+      {
+        "enunciado": "Una persona presenta una denuncia ante la Administración sobre unos hechos presuntamente irregulares, sin que concurra en ella la condición de interesada en el eventual procedimiento que pudiera incoarse. Finalmente, el órgano competente inicia el procedimiento, que concluye con una resolución. ¿Qué derechos puede ejercer esta persona en su exclusiva condición de denunciante?",
+        "opciones": [
+          "Los mismos derechos que un interesado, incluyendo la consulta del expediente, la presentación de alegaciones y la notificación de la resolución final, pues la denuncia equivale siempre a la condición de interesado.",
+          "Ningún derecho derivado de la condición de interesado, como recibir contestación a las alegaciones expuestas en la denuncia o que se le notifique la resolución del procedimiento, salvo que además reúna la condición de interesado.",
+          "Únicamente el derecho a que se le notifique la resolución final, pero no el de consultar el expediente ni presentar alegaciones.",
+          "El derecho a recurrir en todo caso la resolución final, aunque no tenga la condición de interesado, por el solo hecho de haber formulado la denuncia."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A confunde denuncia con interesado: el temario precisa que la denuncia presentada por el particular no supone otorgarle la condición de interesado. La opción C reparte arbitrariamente algunos derechos sin fundamento en el texto. La opción D permite recurrir sin ser interesado, lo que contradice el régimen general de legitimación. → La sola condición de denunciante no habilita para ejercer los derechos propios del interesado (consulta del expediente, alegaciones, recibir contestación a ellas, o que se le notifique la resolución); solo si el denunciante reúne además la condición de interesado (por ejemplo, porque coincide con la persona afectada) podrá ejercer esos derechos. → El órgano competente, antes de decidir sobre la iniciación, puede incluso abrir un período de información previa para esclarecer si los hechos denunciados han existido o concurren indicios de que pudieran ser ciertos, y tras ello, iniciar el procedimiento o archivar la denuncia.",
+        "nivel": "avanzado",
+        "id": "tema-20-q135"
+      },
+      {
+        "enunciado": "Antes de iniciarse formalmente un procedimiento administrativo, el órgano competente adopta medidas provisionales para proteger los intereses debatidos, ante una situación de urgencia. Transcurrido un determinado plazo desde su adopción, se dicta el acuerdo de iniciación del procedimiento, pero este no contiene ninguna mención a dichas medidas. ¿Qué consecuencia señala el temario?",
+        "opciones": [
+          "Las medidas provisionales se entienden confirmadas automáticamente, pues el silencio del acuerdo de iniciación equivale a una confirmación tácita.",
+          "Las medidas provisionales deben ser necesariamente modificadas por el acuerdo de iniciación, no pudiendo mantenerse en sus mismos términos.",
+          "Las medidas provisionales se entienden levantadas, pues el acuerdo de iniciación debía confirmarlas, modificarlas o levantarlas a los 15 días de su adopción, y si nada dice al respecto se entienden levantadas (igual que si no llegara a dictarse acuerdo de iniciación).",
+          "Las medidas provisionales permanecen vigentes indefinidamente hasta que un acto expreso y posterior las levante, con independencia de lo que diga o deje de decir el acuerdo de iniciación."
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo: la opción A invierte el efecto del silencio del acuerdo de iniciación, que no confirma sino que levanta las medidas. La opción B afirma una obligación de modificación que no existe: el acuerdo de iniciación puede confirmar, modificar o levantar las medidas, siendo una de tres alternativas, no una obligación de modificar. La opción D ignora la regla concreta sobre el silencio del acuerdo de iniciación a los 15 días. → Las medidas provisionales adoptadas antes de la iniciación del procedimiento (art. 56), ya sea por iniciativa de la Administración obligada a resolver o a petición del interesado, pueden ser confirmadas, modificadas o levantadas en el acuerdo de iniciación, que debe pronunciarse sobre ellas a los 15 días de su adopción; si dicho acuerdo no dice nada al respecto, se entienden levantadas, al igual que ocurre si directamente no llega a dictarse acuerdo de iniciación.",
+        "nivel": "avanzado",
+        "id": "tema-20-q136"
+      },
+      {
+        "enunciado": "En la tramitación de expedientes de naturaleza homogénea, el titular de una unidad administrativa decide alterar el orden riguroso de incoación para resolver antes un expediente ingresado con posterioridad a otros. Además, decide acumular dicho expediente con otro procedimiento distinto para su tramitación conjunta. Conforme al temario, ¿qué es correcto?",
+        "opciones": [
+          "Alterar el orden de incoación es siempre ilícito y constituye automáticamente responsabilidad disciplinaria, mientras que la acumulación de procedimientos distintos nunca es posible, al exigir la Ley identidad absoluta de objeto.",
+          "Puede alterarse el orden de incoación solo mediante decisión expresa, recogida en una orden de la que quede constancia y debidamente motivada; la acumulación de los dos procedimientos distintos exige que exista entre ellos identidad causal o íntima conexión, y contra el acuerdo de acumulación no cabe recurso alguno.",
+          "Puede alterarse el orden de incoación libremente, sin exigencia de motivación ni constancia documental, mientras que la acumulación de procedimientos sí exige identidad causal, pudiendo recurrirse en alzada el acuerdo de acumulación.",
+          "Ni el orden de incoación ni la acumulación pueden alterarse o acordarse por el titular de la unidad administrativa, siendo competencias exclusivas e indelegables del órgano superior jerárquico."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A es demasiado tajante en ambos extremos: alterar el orden de incoación no es automáticamente ilícito si se cumplen los requisitos de motivación y constancia, y la acumulación de procedimientos distintos sí es posible cuando existe identidad causal o íntima conexión (no identidad absoluta de objeto). La opción C acierta en la identidad causal de la acumulación pero falla al exigir motivación para el orden de incoación (sí la exige) y al permitir recurso contra el acuerdo de acumulación, cuando el temario dice expresamente que no cabe recurso alguno contra él. La opción D niega sin fundamento la competencia del titular de la unidad administrativa para ambas decisiones. → El titular de la unidad administrativa puede apartarse del orden riguroso de incoación de asuntos homogéneos solo mediante decisión expresa, recogida en una orden de la que quede constancia, y motivada (su incumplimiento puede generar responsabilidad disciplinaria o remoción del puesto, por la discriminación que ocasiona); y puede disponer la acumulación de procedimientos distintos para su tramitación conjunta siempre que exista identidad causal o íntima conexión entre ellos, sin que contra ese acuerdo de acumulación quepa recurso alguno.",
+        "nivel": "avanzado",
+        "id": "tema-20-q137"
+      },
+      {
+        "enunciado": "Durante la tramitación de un procedimiento se suscitan dos cuestiones incidentales: una relativa a la nulidad de ciertas actuaciones y otra de recusación de un funcionario instructor. Simultáneamente, concurren varios trámites que, por su naturaleza, podrían cumplirse al mismo tiempo. Conforme al principio de celeridad, ¿qué es correcto?",
+        "opciones": [
+          "Ambas cuestiones incidentales, incluida la de recusación, suspenden la tramitación del procedimiento, y los trámites simultáneos deben acordarse siempre de forma sucesiva para preservar la seguridad jurídica.",
+          "Ninguna cuestión incidental suspende nunca la tramitación del procedimiento, ni siquiera la recusación, y los trámites que puedan cumplirse al mismo tiempo deben acordarse en trámites separados y sucesivos.",
+          "Las cuestiones incidentales, incluidas las relativas a la nulidad de actuaciones, no suspenden la tramitación, salvo la recusación; además, deben acordarse en un solo trámite todos aquellos que, por su naturaleza, puedan cumplirse al mismo tiempo (impulsión simultánea).",
+          "Las cuestiones incidentales relativas a la nulidad de actuaciones suspenden siempre la tramitación, mientras que la recusación nunca la suspende, invirtiendo la regla general de la opción anterior."
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo: la opción A generaliza la suspensión a todas las cuestiones incidentales (incluida la recusación), cuando la regla es justo la contraria salvo para la recusación, que es la única excepción que sí suspende. La opción B elimina incluso esa única excepción, afirmando que ni siquiera la recusación suspende, y además invierte la impulsión simultánea exigiendo trámites sucesivos. La opción D invierte completamente los papeles: es la recusación, y no la nulidad de actuaciones, la que constituye la excepción que suspende la tramitación. → El principio de celeridad se manifiesta, entre otros preceptos, en que las cuestiones incidentales que se suscitan en el procedimiento, incluidas las relativas a la nulidad de actuaciones, no suspenden la tramitación del mismo, salvo la recusación (que sí la suspende); y en la impulsión simultánea, por la que deben acordarse en un solo trámite todos aquellos actos que, por su naturaleza, puedan cumplirse al mismo tiempo.",
+        "nivel": "avanzado",
+        "id": "tema-20-q138"
+      },
+      {
+        "enunciado": "En la fase de instrucción de un procedimiento, el órgano competente solicita un informe a un organismo público, el cual tiene carácter preceptivo. El informe no se emite dentro del plazo legalmente previsto. Conforme al temario, ¿qué consecuencias se derivan de esta situación?",
+        "opciones": [
+          "Al tratarse de un informe preceptivo, su falta de emisión en plazo permite, en todo caso, continuar el procedimiento sin más consecuencias, igual que si fuera facultativo.",
+          "Los informes son, como regla general, facultativos y no vinculantes y deben emitirse en el plazo de diez días (salvo que otra disposición o el resto de plazos del procedimiento exijan un plazo mayor o menor); si el informe no fuera preceptivo, el incumplimiento del plazo permite continuar el procedimiento, pero si fuera preceptivo (y más aún si fuera vinculante) su falta puede originar la invalidez de pleno derecho de lo actuado.",
+          "Todos los informes, sean o no preceptivos, deben emitirse en el plazo improrrogable de veinte días, siendo nulo de pleno derecho cualquier procedimiento en el que no se respete dicho plazo.",
+          "Un informe solicitado como prueba, emitido por un órgano administrativo, organismo público o entidad de derecho público, tiene siempre carácter facultativo y nunca preceptivo."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A trata igual al informe preceptivo y al facultativo, cuando el temario distingue expresamente sus consecuencias: solo cuando el informe no es preceptivo puede continuarse sin más el procedimiento por el mero incumplimiento del plazo. La opción C inventa un plazo general de veinte días improrrogable, cuando el plazo ordinario es de diez días (art. 26), salvo que otra disposición o el resto de plazos del procedimiento permitan o exijan uno mayor o menor. La opción D contradice directamente el temario, que establece justo lo contrario: cuando la prueba consiste en la emisión de un informe de un órgano administrativo, organismo público o entidad de derecho público, se entenderá que dicho informe tiene carácter preceptivo. → Como regla general, los informes son facultativos y no vinculantes, debiendo emitirse por medios electrónicos conforme al artículo 26 en el plazo de diez días, salvo previsión distinta; si no fueran preceptivos y no se emiten en plazo, se puede continuar el procedimiento; pero si fueran preceptivos (y máxime si además fueran vinculantes), su falta originará la invalidez de pleno derecho.",
+        "nivel": "avanzado",
+        "id": "tema-20-q139"
+      },
+      {
+        "enunciado": "En un procedimiento administrativo, el órgano resolutorio decide abrir un período de información pública, en el que un ciudadano ajeno al procedimiento, que no tiene la condición de interesado, formula alegaciones. Posteriormente no comparece en el trámite de audiencia (al no ser interesado, no se le convoca a él). ¿Cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "La comparecencia de ese ciudadano en el trámite de información pública le otorga, por sí misma, la condición de interesado en el procedimiento, con derecho a ser convocado al trámite de audiencia.",
+          "El trámite de información pública es de carácter potestativo, correspondiendo al órgano resolutorio decidir discrecionalmente su apertura cuando la naturaleza del procedimiento lo requiera; la comparecencia en él no otorga, por sí misma, la condición de interesado, y la incomparecencia no impide a los interesados interponer los recursos procedentes contra la resolución definitiva.",
+          "El trámite de información pública es obligatorio en todos los procedimientos administrativos y su omisión produce siempre la anulabilidad de la resolución final, equiparándose en todo al trámite de audiencia.",
+          "El trámite de información pública debe practicarse siempre después del trámite de audiencia del interesado, pues su finalidad es revisar las alegaciones ya formuladas por este último."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A confunde comparecencia con legitimación: el temario precisa que la comparecencia en el trámite de información pública no otorga, por sí misma, la condición de interesado. La opción C convierte en obligatorio un trámite que el temario califica expresamente de potestativo, y además afirma que su omisión siempre genera anulabilidad, cuando el texto aclara que, al ser potestativo, su omisión (cuando el órgano aprecie que la naturaleza del procedimiento no lo exige) no causa la anulabilidad de la resolución. La opción D invierte el orden temporal: la información pública debe practicarse antes del trámite de audiencia, no después. → La información pública es una forma de participación ciudadana abierta a cualquier persona física o jurídica (no solo a los interesados), de carácter potestativo (decide el órgano resolutorio discrecionalmente su apertura), que debe publicarse en el boletín oficial correspondiente por un plazo no inferior a 20 días y practicarse antes de la audiencia; la incomparecencia no impide recurrir la resolución definitiva, y la comparecencia no concede la condición de interesado. → Distinto es el trámite de audiencia del interesado, reservado exclusivamente a quienes ya tienen esa condición, con plazo no inferior a 10 ni superior a 15 días.",
+        "nivel": "avanzado",
+        "id": "tema-20-q140"
+      },
+      {
+        "enunciado": "El instructor de un procedimiento abre de oficio un período de prueba de 25 días. Posteriormente, a instancia del interesado, acuerda además la apertura de un período extraordinario de prueba. ¿Cuál de las siguientes combinaciones de plazos resulta conforme al temario?",
+        "opciones": [
+          "El período ordinario de prueba abierto de oficio por el instructor puede tener una duración de entre 10 y 30 días, por lo que los 25 días son conformes; el período extraordinario, acordado a instancia del interesado, no puede exceder de 10 días.",
+          "El período ordinario de prueba abierto de oficio por el instructor puede durar como máximo 20 días, por lo que los 25 días excederían el límite legal; el período extraordinario no tiene límite máximo de duración.",
+          "El período ordinario de prueba nunca puede ser inferior a 20 días ni superior a 40; el período extraordinario solo puede acordarlo de oficio el propio instructor, nunca a instancia del interesado.",
+          "Tanto el período ordinario como el extraordinario de prueba deben tener idéntica duración, no pudiendo el extraordinario ser inferior ni superior al ordinario ya transcurrido."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B inventa un máximo de 20 días para el período ordinario (es de 30) y afirma que el extraordinario no tiene límite, cuando sí lo tiene (no superior a 10 días). La opción C altera los márgenes del período ordinario (no inferior a 20 ni superior a 40, cuando en realidad es no inferior a 10 ni superior a 30) y además invierte quién puede solicitar el extraordinario, que precisamente se acuerda a instancia del interesado. La opción D inventa una exigencia de igualdad de duración entre ambos períodos que no figura en el temario. → El período de prueba, cuando lo abre de oficio el instructor, no puede ser inferior a 10 días ni superior a 30; además, el propio instructor podrá, a instancia del interesado, acordar la apertura de un período extraordinario de prueba por un plazo no superior a 10 días. → La Administración puede rechazar mediante resolución motivada cualquier prueba manifiestamente innecesaria o improcedente, y si algún medio de prueba constituye fundamento básico de la decisión, deberá incluirse en la propuesta de resolución.",
+        "nivel": "avanzado",
+        "id": "tema-20-q141"
+      },
+      {
+        "enunciado": "Antes de dictar resolución, un órgano instructor debe conceder trámite de audiencia a los interesados. Sin embargo, estos manifiestan expresamente su decisión de no efectuar alegaciones ni aportar nuevos documentos o justificaciones. Conforme al temario, ¿qué es correcto?",
+        "opciones": [
+          "El órgano debe conceder igualmente el plazo de audiencia, no inferior a 10 ni superior a 15 días, pues la manifestación de los interesados no permite prescindir del trámite, que es siempre absolutamente preceptivo.",
+          "Puede prescindirse del trámite de audiencia cuando los interesados manifiesten expresamente su decisión de no efectuar alegaciones ni aportar nuevos documentos o justificaciones, o cuando los hechos y documentos no difieran de los ya presentados por el interesado en su escrito o solicitud; de ser preceptivo y omitirse indebidamente, buena parte de la doctrina y jurisprudencia se inclina por la nulidad de pleno derecho.",
+          "El trámite de audiencia debe practicarse siempre después de solicitado el Dictamen del Consejo de Estado u órgano consultivo equivalente, para que el interesado pueda alegar también sobre el contenido de dicho Dictamen.",
+          "El plazo del trámite de audiencia es siempre fijo de 15 días, sin margen de variación, y su omisión nunca genera la nulidad de la resolución, sino, a lo sumo, su anulabilidad."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A ignora que el propio temario contempla expresamente esa manifestación del interesado como causa para prescindir de la audiencia. La opción C invierte el orden temporal: la audiencia debe practicarse siempre antes de solicitar el informe de asesoramiento jurídico o el Dictamen del Consejo de Estado u órgano consultivo equivalente, no después. La opción D fija erróneamente el plazo en 15 días exactos (el margen es de 10 a 15 días) y además minimiza las consecuencias de su omisión, cuando el temario señala que buena parte de la doctrina y jurisprudencia se inclina por la nulidad de pleno derecho si se omite siendo preceptivo. → Puede prescindirse del trámite de audiencia cuando los hechos y documentos no difieran de los aportados por el interesado en su escrito o solicitud, o cuando este manifieste expresamente su decisión de no alegar ni aportar nada nuevo; en otro caso, debe concederse un plazo no inferior a 10 ni superior a 15 días, siempre antes de dictar resolución y antes de solicitar el informe de asesoramiento jurídico o el Dictamen del Consejo de Estado.",
+        "nivel": "avanzado",
+        "id": "tema-20-q142"
+      },
+      {
+        "enunciado": "En un procedimiento iniciado a instancia de varios interesados conjuntamente, uno de ellos renuncia a su derecho, otro desiste de su solicitud, y transcurren después tres meses sin que el resto de interesados realice ningún trámite indispensable para dictar resolución, pese a haber sido advertidos por la Administración. ¿Cuál de las siguientes afirmaciones recoge correctamente los efectos de estas tres figuras conforme al temario?",
+        "opciones": [
+          "La renuncia y el desistimiento afectan únicamente a quienes los hubiesen realizado, no al resto de interesados incluidos en el escrito inicial (que disponen de un plazo de 10 días para decidir sobre la continuación); transcurridos los 3 meses de inactividad tras la advertencia, procede declarar la caducidad y archivar el procedimiento, sin que ello interrumpa el plazo de prescripción; además, quien desiste puede reiterar su solicitud, mientras que quien renuncia queda inhabilitado para formular en el futuro otra petición en el mismo sentido.",
+          "La renuncia y el desistimiento se extienden automáticamente a todos los interesados del escrito inicial, sin que el resto disponga de plazo alguno para decidir sobre la continuación del procedimiento; la caducidad, en cambio, sí interrumpe el plazo de prescripción al tratarse de una causa imputable al interesado.",
+          "El desistimiento inhabilita para formular en el futuro otra petición en el mismo sentido, mientras que la renuncia permite siempre reiterar la solicitud; la caducidad requiere únicamente 1 mes de inactividad del interesado, sin necesidad de advertencia previa por parte de la Administración.",
+          "Tanto la renuncia como el desistimiento como la caducidad producen, en todo caso, la terminación convencional del procedimiento mediante un pacto con la Administración responsable de su tramitación."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: la opción B invierte dos reglas: ni la renuncia ni el desistimiento se extienden automáticamente a todos los interesados del escrito inicial (solo afectan a quienes los realizan, y el resto dispone de 10 días para decidir), y la caducidad no interrumpe el plazo de prescripción, al contrario de lo que afirma esta opción. La opción C intercambia los efectos de desistimiento y renuncia (es la renuncia la que inhabilita para reiterar la petición, y el desistimiento el que permite reiterarla) y además reduce erróneamente el plazo de caducidad a 1 mes, cuando son 3 meses, y omite la exigencia de advertencia previa por parte de la Administración. La opción D confunde estas tres causas de terminación anormal con la terminación convencional, que es una categoría distinta basada en acuerdos, pactos o convenios, y no se produce 'en todo caso' en los supuestos de renuncia, desistimiento o caducidad. → El desistimiento (que puede ejercer también la Administración) y la caducidad no impiden reiterar la solicitud; la renuncia, en cambio, es un abandono del derecho que inhabilita para formular en el futuro otra petición en el mismo sentido; si hay varios interesados en el escrito inicial, la renuncia o el desistimiento de uno solo afecta a quien la realiza, debiendo el resto decidir sobre la continuación en un plazo de 10 días; la caducidad exige 3 meses de inactividad en trámites indispensables, previa advertencia de la Administración, y no interrumpe el plazo de prescripción. → En todos los casos (caducidad, renuncia y desistimiento), si el procedimiento entrañase interés general o fuera conveniente sustanciarlo para su definición y esclarecimiento, el procedimiento seguirá.",
+        "nivel": "avanzado",
+        "id": "tema-20-q143"
+      },
+      {
+        "enunciado": "Un procedimiento administrativo, iniciado a instancia del interesado, finaliza mediante resolución expresa que empeora la posición jurídica inicial de dicho interesado respecto de lo que tenía antes de iniciar el procedimiento. ¿Qué es correcto conforme al temario?",
+        "opciones": [
+          "La resolución es válida sin ninguna limitación, pues el principio de congruencia solo exige resolver sobre lo pedido, sin impedir que el resultado sea más desfavorable que la situación de partida.",
+          "Si el procedimiento fue iniciado por el interesado, la resolución no podrá agravar su posición inicial (prohibición de la reformatio in peius), tanto si la terminación es por resolución expresa como si lo es por silencio administrativo negativo.",
+          "La prohibición de reformatio in peius solo se aplica a los procedimientos iniciados de oficio por la Administración, nunca a los iniciados a instancia del interesado.",
+          "La prohibición de reformatio in peius únicamente opera cuando la terminación es por silencio administrativo, pero no cuando existe resolución expresa."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A ignora por completo la garantía expresa que recoge el temario para la terminación normal. La opción C invierte el ámbito de aplicación: la regla opera precisamente cuando el procedimiento fue iniciado por el interesado, no cuando lo inicia de oficio la Administración. La opción D restringe la prohibición a un único modo de terminación (silencio), cuando el temario la enuncia 'en cualquier caso', abarcando tanto la resolución expresa como la presunta (silencio negativo). → La terminación normal del procedimiento se produce mediante resolución expresa o presunta (silencio negativo); en cualquier caso, si el procedimiento fue iniciado por el interesado, la resolución no podrá agravar su posición inicial, lo que constituye la prohibición de la reformatio in peius, aplicable con independencia de que la terminación sea expresa o por silencio.",
+        "nivel": "avanzado",
+        "id": "tema-20-q144"
+      },
+      {
+        "enunciado": "Un interesado solicita la tramitación simplificada de un procedimiento. El órgano competente, transcurridos 7 días desde la presentación de dicha solicitud, no ha contestado expresamente. Más adelante, dentro ya de la tramitación simplificada acordada, resulta preceptiva la emisión de Dictamen del Consejo de Estado, que manifiesta un criterio contrario al fondo de la propuesta de resolución. Conforme al temario, ¿qué es correcto en relación con los plazos y las consecuencias de esta tramitación?",
+        "opciones": [
+          "El silencio del órgano competente transcurridos 7 días debe interpretarse como estimación de la solicitud de tramitación simplificada, continuando esta sin alteración alguna aunque el Dictamen del Consejo de Estado sea contrario a la propuesta de resolución.",
+          "El plazo para resolver (desestimar) la solicitud de tramitación simplificada es de 5 días, transcurrido el cual sin contestación expresa se entiende desestimada dicha solicitud (sin posibilidad de recurso); además, si el Dictamen del Consejo de Estado manifiesta un criterio contrario al fondo de la propuesta, debe continuarse el procedimiento, pero siguiendo la tramitación ordinaria, para mayor garantía de los interesados.",
+          "El plazo para resolver la solicitud de tramitación simplificada es de 15 días, transcurrido el cual se entiende estimada por silencio positivo; un Dictamen del Consejo de Estado contrario a la propuesta de resolución obliga a archivar el procedimiento sin más trámite.",
+          "No existe plazo legal para contestar a la solicitud de tramitación simplificada, por lo que el interesado debe esperar indefinidamente; el Dictamen del Consejo de Estado, sea cual sea su sentido, no afecta en ningún caso al tipo de tramitación que deba seguirse."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo: la opción A inventa una estimación por silencio positivo que no corresponde a este trámite (la regla es justamente la contraria: silencio negativo transcurridos 5 días) y, además, ignora el efecto que debe tener un Dictamen del Consejo de Estado contrario. La opción C altera el plazo (son 5 días, no 15) y el sentido del silencio (negativo, no positivo), y además inventa el archivo del procedimiento ante un Dictamen contrario, cuando lo correcto es continuar el procedimiento por la vía ordinaria, no archivarlo. La opción D niega la existencia de un plazo legal, cuando el temario fija expresamente 5 días, y desconecta por completo el sentido del Dictamen de sus consecuencias sobre el tipo de tramitación. → Si el órgano competente aprecia que no concurre alguna de las razones que justifican la tramitación simplificada, puede desestimar la solicitud del interesado en el plazo de 5 días desde su presentación, sin posibilidad de recurso, y transcurrido dicho plazo sin contestación expresa se entiende desestimada la solicitud; además, si fuera preceptiva la emisión de Dictamen del Consejo de Estado u órgano consultivo equivalente y este manifestara un criterio contrario al fondo de la propuesta de resolución, para mayor garantía de los interesados debe continuarse el procedimiento, pero siguiendo la tramitación ordinaria. → Los procedimientos tramitados de forma simplificada, en todo caso, deben resolverse en 30 días desde el siguiente a la notificación del acuerdo de tramitación simplificada.",
+        "nivel": "avanzado",
+        "id": "tema-20-q145"
+      }
+    ]
+  },
+  {
     "id": "tema-21-bis",
     "bloque": "Bloque II. Derecho Administrativo",
     "titulo": "Tema 21. La actividad sancionadora de la administración y sus límites.",
@@ -37206,6 +40990,7 @@ const SIMULACROS = [
   {
     "id": "simulacro-1",
     "titulo": "Simulacro 1: Constitucional - Administrativo - Contabilidad",
+    "categoria": "general",
     "preguntas": [
       {
         "enunciado": "¿Cuál de los siguientes cargos no es nombrado por el Rey?",
