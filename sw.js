@@ -1,4 +1,4 @@
-const CACHE_NAME = 'opotest-v10';
+const CACHE_NAME = 'opotest-v11';
 const ASSETS = [
   './',
   './index.html',
