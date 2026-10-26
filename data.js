@@ -37201,6 +37201,5682 @@ const TEMAS = [
     ]
   },
   {
+    "id": "tema-24",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 24. La reclamación económico-administrativa.",
+    "preguntas": [
+      {
+        "enunciado": "Según FERREIRO, la reclamación económico-administrativa es un medio ordinario de control de la actividad administrativa, pero además es:",
+        "opciones": [
+          "Especial o cualificado por razón de la materia.",
+          "Extraordinario por razón del órgano que resuelve.",
+          "Subsidiario respecto del recurso de alzada.",
+          "Excepcional, solo utilizable en defecto de otros recursos."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, 'ordinario' no equivale a 'sin matices': FERREIRO señala que la reclamación económico-administrativa es ordinaria porque controla la actividad administrativa a instancia de parte, igual que el recurso de reposición, pero es especial o cualificada por razón de la materia tributaria. No es extraordinaria, subsidiaria ni excepcional.",
+        "parte": 1,
+        "id": "tema-24-q1"
+      },
+      {
+        "enunciado": "¿Por qué el texto califica la reclamación económico-administrativa como un medio 'ordinario'?",
+        "opciones": [
+          "Porque permite controlar la actividad administrativa a instancia de parte, igual que ocurre con el recurso de reposición.",
+          "Porque puede interponerla cualquier ciudadano sin necesidad de interés legítimo.",
+          "Porque resuelve siempre un órgano perteneciente al poder judicial.",
+          "Porque no es necesario agotarla antes de acudir a la vía contencioso-administrativa."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el carácter 'ordinario' no se refiere a una legitimación abierta a cualquiera ni a la naturaleza judicial del órgano, sino a que, igual que el recurso de reposición, permite controlar la actividad administrativa a instancia de parte. Las demás opciones no aparecen en el texto.",
+        "parte": 1,
+        "id": "tema-24-q2"
+      },
+      {
+        "enunciado": "El origen histórico de la reclamación económico-administrativa se sitúa en:",
+        "opciones": [
+          "La Ley Camacho de 1881.",
+          "La Ley General Tributaria de 1963.",
+          "El Real Decreto creador de los Tribunales de 1924.",
+          "La Constitución española de 1978."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir el origen del recurso con la creación de sus órganos revisores: el origen histórico se sitúa en la Ley Camacho de 1881, mientras que los actuales Tribunales Económico-Administrativos se crean en 1924, años después.",
+        "parte": 1,
+        "id": "tema-24-q3"
+      },
+      {
+        "enunciado": "Los actuales Tribunales Económico-Administrativos, como órganos revisores, fueron creados en:",
+        "opciones": [
+          "1881.",
+          "1924.",
+          "1958.",
+          "2003."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: 1881 es la fecha de la Ley Camacho, que marca el origen histórico del recurso, no la creación de los órganos. Los Tribunales Económico-Administrativos como tales se crean en 1924; 2003 corresponde a la LGT vigente, mucho más tardía.",
+        "parte": 1,
+        "id": "tema-24-q4"
+      },
+      {
+        "enunciado": "Pese a su denominación como 'Tribunales', los órganos económico-administrativos:",
+        "opciones": [
+          "Forman parte del poder judicial con plena independencia jurisdiccional.",
+          "No tienen nada que ver con el poder judicial y están integrados por altos funcionarios de Hacienda.",
+          "Son órganos mixtos compuestos por jueces y funcionarios de Hacienda.",
+          "Dependen orgánicamente del Consejo General del Poder Judicial."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, el nombre induce a confusión: a pesar de llamarse 'Tribunales', estos órganos nada tienen que ver con el poder judicial y están integrados por altos funcionarios de Hacienda, lo que explica que sus resoluciones sean actos administrativos y no sentencias.",
+        "parte": 1,
+        "id": "tema-24-q5"
+      },
+      {
+        "enunciado": "Como consecuencia de que los TEA no forman parte del poder judicial, sus resoluciones son:",
+        "opciones": [
+          "Sentencias firmes no susceptibles de ulterior recurso.",
+          "Verdaderos actos administrativos, impugnables en último término en vía contencioso-administrativa.",
+          "Dictámenes no vinculantes para la Administración tributaria.",
+          "Actos de trámite sin eficacia jurídica propia."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no son sentencias, puesto que el TEA no es un órgano judicial; sus resoluciones constituyen verdaderos actos administrativos, impugnables en último término en vía contencioso-administrativa, y son plenamente vinculantes, no simples dictámenes.",
+        "parte": 1,
+        "id": "tema-24-q6"
+      },
+      {
+        "enunciado": "La reclamación económico-administrativa, al igual que los demás recursos administrativos, constituye:",
+        "opciones": [
+          "Una vía alternativa y excluyente del recurso contencioso-administrativo.",
+          "Un requisito previo para el control judicial.",
+          "Un trámite opcional que puede omitirse sin consecuencias para acceder a la vía judicial.",
+          "Un procedimiento sancionador autónomo e independiente."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no es una vía alternativa a la judicial sino su presupuesto: el texto señala que, como los demás recursos administrativos, la reclamación económico-administrativa es un requisito previo para el control judicial en vía contencioso-administrativa.",
+        "parte": 1,
+        "id": "tema-24-q7"
+      },
+      {
+        "enunciado": "La reclamación económico-administrativa se regula en la LGT 58/2003 en los artículos:",
+        "opciones": [
+          "222 a 225.",
+          "226 a 248.",
+          "233 a 244.",
+          "240 a 248."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: los artículos 222 a 225 regulan el recurso de reposición, no la reclamación económico-administrativa en su conjunto, que se extiende en la LGT desde el artículo 226 hasta el 248.",
+        "parte": 1,
+        "id": "tema-24-q8"
+      },
+      {
+        "enunciado": "El Reglamento general de desarrollo de la LGT en materia de revisión en vía administrativa se aprobó por:",
+        "opciones": [
+          "El Real Decreto 520/2005, de 13 de mayo.",
+          "La Ley 22/2009, de 18 de diciembre.",
+          "El Real Decreto 1065/2007.",
+          "La propia Ley 58/2003, de 17 de diciembre."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con la Ley 22/2009 (que regula la cesión de competencias a las CCAA) ni con la LGT: el Reglamento de desarrollo en materia de revisión en vía administrativa es el Real Decreto 520/2005, de 13 de mayo, cuyos artículos 28 a 65 lo regulan.",
+        "parte": 1,
+        "id": "tema-24-q9"
+      },
+      {
+        "enunciado": "Entre las materias reclamables en vía económico-administrativa figura la aplicación de los tributos del Estado y la imposición de sanciones tributarias, realizadas por:",
+        "opciones": [
+          "Exclusivamente la Agencia Estatal de Administración Tributaria.",
+          "La Administración General del Estado, sus entidades vinculadas o dependientes, y las Administraciones tributarias de las CCAA y Ciudades con Estatuto de Autonomía.",
+          "Únicamente los ayuntamientos y diputaciones provinciales.",
+          "Solo los órganos judiciales con competencia en materia tributaria."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: esta materia no se limita a la AEAT; abarca la aplicación de tributos del Estado y sus recargos y la imposición de sanciones tanto por la AGE y sus entidades vinculadas o dependientes como por las Administraciones tributarias de las CCAA y Ciudades con Estatuto de Autonomía.",
+        "parte": 1,
+        "id": "tema-24-q10"
+      },
+      {
+        "enunciado": "Los actos recaudatorios de la AEAT relativos a ingresos de Derecho público del Estado se recogen en la materia:",
+        "opciones": [
+          "a).",
+          "b).",
+          "c).",
+          "e)."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con la materia a) (aplicación de tributos y sanciones): la materia b) se refiere específicamente a los actos recaudatorios de la AEAT sobre ingresos de Derecho público, tributarios o no, del Estado o de otras Administraciones.",
+        "parte": 1,
+        "id": "tema-24-q11"
+      },
+      {
+        "enunciado": "El reconocimiento o liquidación de obligaciones del Tesoro Público por autoridades de los Ministerios de Hacienda y Economía se encuadra en la materia:",
+        "opciones": [
+          "a).",
+          "b).",
+          "c).",
+          "e)."
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: no es la materia e), cláusula abierta de 'cualquier otra establecida por precepto legal expreso', sino la materia c), específicamente dedicada a las obligaciones del Tesoro Público y las operaciones de pago con cargo a él.",
+        "parte": 1,
+        "id": "tema-24-q12"
+      },
+      {
+        "enunciado": "El reconocimiento y pago de pensiones y derechos pasivos competencia del Ministerio de Economía y Hacienda corresponde a la materia:",
+        "opciones": [
+          "b).",
+          "c).",
+          "d).",
+          "e)."
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, no mezclar con las obligaciones del Tesoro Público (materia c): la materia d) es la específica de pensiones y derechos pasivos cuya competencia corresponde al Ministerio de Economía y Hacienda.",
+        "parte": 1,
+        "id": "tema-24-q13"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es reclamable, en ningún caso, por la vía económico-administrativa?",
+        "opciones": [
+          "Las liquidaciones de tributos estatales.",
+          "Los Reglamentos y la tributación propia autonómica y local.",
+          "Los actos recaudatorios de la AEAT.",
+          "Las sanciones tributarias impuestas por la AGE."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, los Reglamentos y la tributación propia autonómica y local quedan excluidos en todo caso de esta vía; en cambio, sí son reclamables las liquidaciones, los actos recaudatorios de la AEAT y las sanciones impuestas por la AGE.",
+        "parte": 1,
+        "id": "tema-24-q14"
+      },
+      {
+        "enunciado": "Aunque los Reglamentos y la tributación autonómica y local quedan excluidos de la reclamación económico-administrativa, sí son reclamables:",
+        "opciones": [
+          "Los actos tributarios en los que participe la AGE, como la elaboración de valores catastrales por el Centro de Gestión Catastral.",
+          "Todos los tributos locales sin excepción.",
+          "Las ordenanzas fiscales municipales.",
+          "Los reglamentos autonómicos de desarrollo tributario."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la exclusión de lo local y autonómico no es absoluta; cuando interviene la Administración General del Estado, como ocurre con la elaboración de valores catastrales por el Centro de Gestión Catastral, el acto sí resulta reclamable por esta vía.",
+        "parte": 1,
+        "id": "tema-24-q15"
+      },
+      {
+        "enunciado": "La reclamación económico-administrativa será admisible respecto de los actos que:",
+        "opciones": [
+          "Provisional o definitivamente reconozcan o denieguen un derecho o declaren una obligación.",
+          "Sean exclusivamente definitivos, nunca provisionales.",
+          "Procedan únicamente de resoluciones sancionadoras.",
+          "Hayan sido dictados precisamente por el TEAC."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es necesario que el acto sea definitivo; son admisibles tanto los actos provisionales como los definitivos que reconozcan o denieguen un derecho o declaren una obligación, además de los actos de trámite cualificados.",
+        "parte": 1,
+        "id": "tema-24-q16"
+      },
+      {
+        "enunciado": "Los actos de trámite serán admisibles en la reclamación económico-administrativa únicamente cuando:",
+        "opciones": [
+          "Decidan directa o indirectamente el fondo del asunto o pongan término a la vía de gestión.",
+          "Se trate de cualquier acto de trámite, sin excepción alguna.",
+          "Hayan sido dictados por un órgano distinto del que tramita el expediente.",
+          "Pongan fin exclusivamente al procedimiento sancionador."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no todo acto de trámite es recurrible: solo lo son los 'cualificados', esto es, los que decidan directa o indirectamente el fondo del asunto o pongan término a la vía de gestión; los demás actos de trámite quedan fuera.",
+        "parte": 1,
+        "id": "tema-24-q17"
+      },
+      {
+        "enunciado": "Entre los actos impugnables en materia de gestión tributaria, el texto cita expresamente:",
+        "opciones": [
+          "Las liquidaciones provisionales o definitivas.",
+          "Únicamente las liquidaciones definitivas.",
+          "Solo las liquidaciones provisionales.",
+          "Las liquidaciones ya firmes en vía judicial."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se restringe a un único tipo; el texto incluye expresamente tanto las liquidaciones provisionales como las definitivas entre los actos impugnables en gestión tributaria.",
+        "parte": 1,
+        "id": "tema-24-q18"
+      },
+      {
+        "enunciado": "¿Cuál de estos actos es impugnable en materia de gestión tributaria, según el texto?",
+        "opciones": [
+          "Las resoluciones expresas o presuntas derivadas de una solicitud de rectificación de una autoliquidación.",
+          "Las instrucciones internas de la AEAT sin efectos frente a terceros.",
+          "Los informes no vinculantes emitidos durante el procedimiento.",
+          "Las comunicaciones meramente informativas sin contenido decisorio."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata de meros informes o comunicaciones internas: sí son impugnables las resoluciones, expresas o presuntas, derivadas de una solicitud de rectificación de autoliquidación o de una comunicación de datos.",
+        "parte": 1,
+        "id": "tema-24-q19"
+      },
+      {
+        "enunciado": "Las comprobaciones de valor de rentas, productos, bienes, derechos y gastos son impugnables:",
+        "opciones": [
+          "Nunca, por tratarse de meros actos de trámite.",
+          "Cuando la normativa tributaria así lo establezca.",
+          "Solo si la cuantía comprobada supera 1.500 euros.",
+          "Únicamente cuando las dicte el TEAC."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no es una cuantía la que determina su impugnabilidad; las comprobaciones de valor y los actos de fijación de valores, rendimientos y bases son impugnables cuando la normativa tributaria lo establezca.",
+        "parte": 1,
+        "id": "tema-24-q20"
+      },
+      {
+        "enunciado": "Según el texto, son impugnables en gestión tributaria los actos que:",
+        "opciones": [
+          "Denieguen o reconozcan exenciones, beneficios o incentivos fiscales.",
+          "Solo denieguen beneficios fiscales, nunca los que los reconozcan.",
+          "Se refieran exclusivamente a incentivos a la inversión extranjera.",
+          "Hayan sido dictados únicamente por el Ministro de Hacienda."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la impugnabilidad opera en los dos sentidos: tanto si el acto deniega como si reconoce exenciones, beneficios o incentivos fiscales es impugnable; no se limita a las denegaciones.",
+        "parte": 1,
+        "id": "tema-24-q21"
+      },
+      {
+        "enunciado": "¿Son reclamables en vía económico-administrativa los actos que impongan sanciones tributarias?",
+        "opciones": [
+          "No, las sanciones tributarias solo pueden recurrirse en vía penal.",
+          "Sí, el texto señala expresamente que serán reclamables los actos que impongan sanciones.",
+          "Solo si la sanción impuesta supera 1.500 euros.",
+          "No, salvo autorización expresa del Ministro de Hacienda."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: las sanciones no quedan fuera de esta vía; el texto indica expresamente que 'asimismo, serán reclamables los actos que impongan sanciones', sin condicionarlo a ninguna cuantía.",
+        "parte": 1,
+        "id": "tema-24-q22"
+      },
+      {
+        "enunciado": "Entre las actuaciones u omisiones de los particulares reclamables en materia tributaria se incluyen las relativas a:",
+        "opciones": [
+          "Las obligaciones de repercutir y soportar la repercusión legalmente prevista.",
+          "Exclusivamente las obligaciones de pago de la deuda tributaria.",
+          "La negociación de aplazamientos con la Hacienda Pública.",
+          "La representación voluntaria ante la Administración tributaria."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata del pago de la deuda en general: el texto señala específicamente las actuaciones relativas a repercutir y soportar la repercusión, junto con las de retenciones, ingresos a cuenta y facturación.",
+        "parte": 1,
+        "id": "tema-24-q23"
+      },
+      {
+        "enunciado": "También son reclamables las actuaciones de los particulares relativas a:",
+        "opciones": [
+          "La obligación de practicar y soportar retenciones o ingresos a cuenta.",
+          "La obligación de llevar libros de contabilidad mercantil.",
+          "La obligación de presentar el Impuesto sobre Sociedades.",
+          "La obligación de inscribirse en el censo de empresarios."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se refiere a obligaciones contables o censales genéricas; el texto cita específicamente la obligación de practicar y soportar retenciones o ingresos a cuenta, junto con la repercusión y la facturación.",
+        "parte": 1,
+        "id": "tema-24-q24"
+      },
+      {
+        "enunciado": "La obligación de expedir, entregar y rectificar facturas que incumbe a empresarios y profesionales se encuadra entre:",
+        "opciones": [
+          "Los actos propios de la Administración tributaria.",
+          "Las actuaciones u omisiones de los particulares reclamables en materia tributaria.",
+          "Las obligaciones exclusivas de las entidades financieras.",
+          "Las obligaciones de las Administraciones Públicas como emisoras de facturas."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, esta obligación de facturación se enmarca entre las actuaciones u omisiones de los particulares reclamables en materia tributaria, no entre los actos propios de la Administración.",
+        "parte": 1,
+        "id": "tema-24-q25"
+      },
+      {
+        "enunciado": "No se admitirán reclamaciones económico-administrativas respecto de los actos dictados en procedimientos cuya resolución que ultime la vía administrativa esté reservada:",
+        "opciones": [
+          "Al Director General de la AEAT.",
+          "Al Ministro de Economía y Hacienda o al Secretario de Estado de Hacienda y Presupuestos.",
+          "Al Presidente del TEAC.",
+          "Al Director General de Tributos."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no es el Director General de la AEAT ni el Presidente del TEAC quien agota la vía administrativa en estos casos, sino el Ministro de Economía y Hacienda o el Secretario de Estado de Hacienda y Presupuestos.",
+        "parte": 1,
+        "id": "tema-24-q26"
+      },
+      {
+        "enunciado": "Además de los actos reservados al Ministro o al Secretario de Estado, no se admitirán reclamaciones económico-administrativas respecto de:",
+        "opciones": [
+          "Los actos dictados en virtud de una ley que los excluya de reclamación económico-administrativa.",
+          "Los actos dictados por órganos de recaudación.",
+          "Los actos de trámite que decidan el fondo del asunto.",
+          "Los actos que impongan sanciones tributarias."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con los actos de trámite cualificados o las sanciones, que sí son impugnables: el segundo supuesto de inadmisión es que una ley excluya expresamente el acto de la reclamación económico-administrativa.",
+        "parte": 1,
+        "id": "tema-24-q27"
+      },
+      {
+        "enunciado": "Están legitimados para promover reclamaciones económico-administrativas:",
+        "opciones": [
+          "Solo los obligados tributarios, nunca terceros con interés legítimo.",
+          "Los obligados tributarios, los sujetos infractores y cualquier otra persona con intereses legítimos afectados.",
+          "Únicamente los sujetos infractores sancionados.",
+          "Solo quienes hayan dictado el acto impugnado."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: la legitimación no se limita a los obligados tributarios; también están legitimados los sujetos infractores y cualquier otra persona cuyos intereses legítimos resulten afectados por el acto o actuación tributaria.",
+        "parte": 1,
+        "id": "tema-24-q28"
+      },
+      {
+        "enunciado": "Los funcionarios y empleados públicos NO están legitimados para promover la reclamación económico-administrativa, salvo que:",
+        "opciones": [
+          "Se vulnere inmediata y directamente un derecho que particularmente les esté reconocido o resulten afectados sus intereses legítimos.",
+          "Actúen en representación de la propia Administración.",
+          "Hayan sido ellos quienes dictaron el acto impugnado.",
+          "Figuren como denunciantes de la infracción tributaria."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la exclusión de los funcionarios no es absoluta: la excepción consiste en que el acto vulnere inmediata y directamente un derecho propio reconocido o afecte a sus intereses legítimos; actuar como representantes de la Administración o haber dictado el acto nunca legitima.",
+        "parte": 1,
+        "id": "tema-24-q29"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes personas NO está legitimada para promover la reclamación económico-administrativa?",
+        "opciones": [
+          "El obligado tributario destinatario del acto.",
+          "Quien tenga intereses legítimos directamente afectados por el acto.",
+          "El denunciante de la infracción tributaria.",
+          "El sujeto infractor sancionado."
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: aunque el denunciante haya puesto en marcha la actuación administrativa, carece de legitimación según el texto; sí están legitimados los obligados tributarios, los sujetos infractores y quienes tengan intereses legítimos afectados.",
+        "parte": 1,
+        "id": "tema-24-q30"
+      },
+      {
+        "enunciado": "Tampoco están legitimados para promover la reclamación económico-administrativa:",
+        "opciones": [
+          "Quienes asuman obligaciones tributarias en virtud de pacto o contrato, ni los organismos que dictaron el acto impugnado por ser destinatarios de los fondos gestionados.",
+          "Los obligados tributarios cuando el acto les perjudique económicamente.",
+          "Cualquier persona física mayor de edad sin más requisitos.",
+          "Los representantes legales de los obligados tributarios."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la falta de legitimación por pacto o contrato responde a que esas obligaciones nacen de un acuerdo privado y no de la ley; igualmente, el órgano que dictó el acto o cualquier entidad destinataria de los fondos gestionados no están legitimados por ese mero hecho.",
+        "parte": 1,
+        "id": "tema-24-q31"
+      },
+      {
+        "enunciado": "Para interponer el recurso de reposición previo a la vía económico-administrativa están legitimados:",
+        "opciones": [
+          "Los sujetos pasivos y, en su caso, los responsables de los tributos, así como cualquier otra persona con intereses legítimos y directos afectados.",
+          "Únicamente los obligados tributarios, sin posibilidad de que un tercero interesado lo interponga.",
+          "Solo los sujetos infractores sancionados.",
+          "Exclusivamente los Directores Generales del Ministerio de Economía y Hacienda."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la legitimación para la reposición no se limita al obligado tributario estricto: están legitimados los sujetos pasivos y, en su caso, los responsables, además de cualquier persona cuyos intereses legítimos y directos resulten afectados por el acto administrativo de gestión.",
+        "parte": 1,
+        "id": "tema-24-q32"
+      },
+      {
+        "enunciado": "Respecto de la falta de legitimación, ¿qué tienen en común la reclamación económico-administrativa y el recurso de reposición previo?",
+        "opciones": [
+          "En ambos carecen de legitimación los funcionarios (salvo vulneración de un derecho propio), los que actúan por delegación de la Administración, los denunciantes y quienes asumen obligaciones por pacto o contrato.",
+          "En la reposición sí están legitimados los denunciantes, a diferencia de la reclamación económico-administrativa.",
+          "En la reclamación económico-administrativa los funcionarios siempre están legitimados, a diferencia de la reposición.",
+          "Solo en el recurso de reposición se excluye a quienes actúan por delegación de la Administración."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: las causas de falta de legitimación coinciden en ambas vías: funcionarios y empleados públicos (salvo que se vulnere un derecho propio), quienes actúan por delegación de la Administración, los denunciantes y quienes asumen obligaciones tributarias por pacto o contrato carecen de legitimación tanto en la reposición como en la reclamación económico-administrativa.",
+        "parte": 1,
+        "id": "tema-24-q33"
+      },
+      {
+        "enunciado": "Como regla general, la interposición del recurso de reposición o de la reclamación económico-administrativa:",
+        "opciones": [
+          "Suspende automáticamente la ejecución del acto impugnado en todo caso.",
+          "No suspende la ejecución del acto impugnado.",
+          "Suspende la ejecución solo si el acto es una sanción.",
+          "Suspende la ejecución únicamente durante el primer mes."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, es justo al revés de lo que muchos piensan: la regla general es que recurrir NO suspende la ejecución del acto impugnado; la suspensión solo se produce en los supuestos concretos previstos en los artículos 224 y 233 de la LGT.",
+        "parte": 1,
+        "id": "tema-24-q34"
+      },
+      {
+        "enunciado": "La suspensión de la ejecución del acto impugnado se produce:",
+        "opciones": [
+          "De oficio, sin que el interesado deba solicitarla.",
+          "A solicitud del interesado, en los supuestos previstos en los artículos 224 y 233 de la LGT.",
+          "Automáticamente en todos los recursos, sin necesidad de petición.",
+          "Solo cuando lo decide discrecionalmente el órgano que dictó el acto."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: la suspensión no opera de oficio ni en todos los casos; requiere solicitud del interesado y debe encuadrarse en los supuestos de los artículos 224 (reposición) y 233 (reclamación económico-administrativa) de la LGT.",
+        "parte": 1,
+        "id": "tema-24-q35"
+      },
+      {
+        "enunciado": "Según el artículo 224 de la LGT, la suspensión automática en el recurso de reposición exige garantizar:",
+        "opciones": [
+          "Únicamente el importe de la deuda principal.",
+          "El importe del acto impugnado, los intereses de demora que genere la suspensión y los recargos que procederían en caso de ejecución de la garantía.",
+          "Solo los recargos, sin incluir intereses de demora.",
+          "El doble del importe del acto impugnado, como garantía reforzada."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no basta con garantizar la deuda principal: la suspensión automática exige garantizar conjuntamente el importe del acto impugnado, los intereses de demora generados por la suspensión y los recargos que procederían si se ejecutara la garantía.",
+        "parte": 1,
+        "id": "tema-24-q36"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una de las garantías admitidas para obtener la suspensión automática?",
+        "opciones": [
+          "Depósito de dinero o valores públicos.",
+          "Aval o fianza solidaria de entidad de crédito o sociedad de garantía recíproca.",
+          "Fianza personal y solidaria de otros contribuyentes de reconocida solvencia, para deudas hasta 1.500 euros.",
+          "Hipoteca sobre bienes inmuebles del interesado."
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: la hipoteca no figura entre las garantías tasadas; el texto enumera exclusivamente el depósito de dinero o valores públicos, el aval o fianza solidaria de entidad de crédito/sociedad de garantía recíproca o certificado de seguro de caución, y la fianza personal y solidaria hasta 1.500 euros.",
+        "parte": 1,
+        "id": "tema-24-q37"
+      },
+      {
+        "enunciado": "Entre las garantías admitidas para la suspensión automática figura el depósito de:",
+        "opciones": [
+          "Dinero o valores públicos.",
+          "Bienes muebles no inscribibles.",
+          "Acciones de sociedades cotizadas.",
+          "Créditos frente a terceros."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el texto no habla de cualquier tipo de bien: la garantía tasada es el depósito de dinero o valores públicos, junto con el aval/fianza de entidad de crédito y la fianza personal hasta 1.500 euros.",
+        "parte": 1,
+        "id": "tema-24-q38"
+      },
+      {
+        "enunciado": "El aval o fianza admitido como garantía para la suspensión automática debe tener carácter solidario y proceder de:",
+        "opciones": [
+          "Entidad de crédito, sociedad de garantía recíproca, o certificado de seguro de caución.",
+          "Cualquier particular con solvencia acreditada, sin límite de cuantía.",
+          "Una entidad aseguradora de responsabilidad civil general.",
+          "Un fondo de inversión colectiva autorizado por la CNMV."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no vale cualquier aval particular sin límite; el texto exige que sea aval o fianza de carácter solidario de entidad de crédito, sociedad de garantía recíproca, o certificado de seguro de caución, distinto de la fianza personal, que sí admite particulares pero solo hasta 1.500 euros.",
+        "parte": 1,
+        "id": "tema-24-q39"
+      },
+      {
+        "enunciado": "La fianza personal y solidaria de otros contribuyentes de reconocida solvencia como garantía para la suspensión automática solo es admisible:",
+        "opciones": [
+          "Para deudas de cualquier cuantía.",
+          "Para deudas hasta 1.500 euros.",
+          "Para deudas hasta 15.000 euros.",
+          "Exclusivamente en el recurso de alzada."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: esta garantía tiene un límite cuantitativo claro; solo resulta admisible para deudas hasta 1.500 euros, a diferencia del depósito o el aval, que no tienen ese tope.",
+        "parte": 1,
+        "id": "tema-24-q40"
+      },
+      {
+        "enunciado": "Si la impugnación, en reposición o en reclamación económico-administrativa, afecta a una sanción tributaria, la suspensión de su ejecución:",
+        "opciones": [
+          "No procede nunca, las sanciones no pueden suspenderse.",
+          "Se produce automáticamente, sin necesidad de aportar garantía alguna.",
+          "Requiere depósito del doble del importe de la sanción.",
+          "Solo se concede si lo autoriza expresamente el TEAC."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, aquí la regla es más favorable que la general: cuando se impugna una sanción tributaria, la ejecución queda suspendida automáticamente sin necesidad de aportar ninguna garantía, a diferencia de la suspensión automática ordinaria que sí exige garantías.",
+        "parte": 1,
+        "id": "tema-24-q41"
+      },
+      {
+        "enunciado": "También podrá suspenderse la ejecución del acto recurrido sin necesidad de aportar garantía cuando se aprecie que, al dictarlo, se ha podido incurrir en:",
+        "opciones": [
+          "Error aritmético, material o de hecho.",
+          "Cualquier tipo de error, incluido el de derecho.",
+          "Prevaricación o cohecho del funcionario actuante.",
+          "Falsedad documental declarada por sentencia firme."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se trata de errores de derecho ni de causas penales (eso corresponde al recurso extraordinario de revisión); aquí el supuesto exento de garantía es el error aritmético, material o de hecho al dictar el acto.",
+        "parte": 1,
+        "id": "tema-24-q42"
+      },
+      {
+        "enunciado": "El artículo 233 de la LGT, relativo a la suspensión en la reclamación económico-administrativa, respecto al artículo 224 de la reposición:",
+        "opciones": [
+          "Establece requisitos de garantía más estrictos.",
+          "Señala la misma literalidad que el artículo 224 para el recurso de reposición.",
+          "Elimina la posibilidad de suspensión automática.",
+          "Exige siempre la intervención previa del TEAC."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no hay un régimen distinto: el texto indica expresamente que el artículo 233 LGT, sobre suspensión en la reclamación económico-administrativa, recoge la misma literalidad que el artículo 224 para el recurso de reposición.",
+        "parte": 1,
+        "id": "tema-24-q43"
+      },
+      {
+        "enunciado": "En la reclamación económico-administrativa se distinguen tres tipos de suspensión. ¿Cuáles son?",
+        "opciones": [
+          "Automática, con otras garantías, y por el Tribunal Económico-Administrativo.",
+          "Automática, provisional y definitiva.",
+          "Total, parcial y condicionada.",
+          "Por el órgano de recaudación, por el Ministro de Hacienda y por el TEAC."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la clasificación no se basa en si es provisional/definitiva ni en el órgano ministerial; los tres tipos son la suspensión automática, la suspensión con otras garantías (novedad frente a la reposición) y la suspensión acordada por el Tribunal Económico-Administrativo.",
+        "parte": 1,
+        "id": "tema-24-q44"
+      },
+      {
+        "enunciado": "La suspensión automática en la reclamación económico-administrativa se acuerda por:",
+        "opciones": [
+          "El Tribunal Económico-Administrativo correspondiente.",
+          "El órgano de recaudación.",
+          "El Ministro de Economía y Hacienda.",
+          "El órgano que dictó el acto impugnado."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no es el Tribunal quien acuerda la suspensión automática, sino el órgano de recaudación; la intervención del Tribunal Económico-Administrativo es propia del tercer tipo de suspensión, la basada en la dispensa de garantías por perjuicios de difícil reparación.",
+        "parte": 1,
+        "id": "tema-24-q45"
+      },
+      {
+        "enunciado": "La suspensión 'con otras garantías', cuando el interesado no puede aportar las garantías tasadas, constituye una novedad de la reclamación económico-administrativa:",
+        "opciones": [
+          "Respecto del recurso de alzada ordinario.",
+          "Respecto del recurso de reposición, donde esta posibilidad no existe.",
+          "Respecto del recurso extraordinario de revisión.",
+          "Respecto del recurso de alzada extraordinario para unificación de criterio."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: la novedad se predica específicamente frente al recurso de reposición, donde no se contempla esta alternativa; en la reclamación económico-administrativa, si el interesado no puede aportar las garantías tasadas, el órgano de recaudación puede acordar la suspensión con otras garantías suficientes.",
+        "parte": 1,
+        "id": "tema-24-q46"
+      },
+      {
+        "enunciado": "El Tribunal Económico-Administrativo podrá suspender la ejecución del acto con dispensa total o parcial de garantías cuando:",
+        "opciones": [
+          "El interesado lo solicite, sin necesidad de motivo adicional.",
+          "Dicha ejecución pudiera causar perjuicios de difícil o imposible reparación.",
+          "El acto impugnado sea una sanción de cuantía superior a 1.500 euros.",
+          "Se trate siempre de actos de gestión tributaria, nunca de recaudación."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no basta la mera solicitud sin justificación: la dispensa total o parcial de garantías por el Tribunal exige que la ejecución del acto pudiera causar perjuicios de difícil o imposible reparación.",
+        "parte": 1,
+        "id": "tema-24-q47"
+      },
+      {
+        "enunciado": "Cuando el acto impugnado no tenga por objeto una deuda tributaria o cantidad líquida, el Tribunal podrá suspender su ejecución si:",
+        "opciones": [
+          "Lo solicita el interesado y justifica que la ejecución pudiera causar perjuicios de imposible o difícil reparación.",
+          "El acto proviene de un procedimiento sancionador.",
+          "Se presta cualquier tipo de garantía, sin más requisitos.",
+          "Lo decide de oficio el órgano de recaudación."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aquí no opera de oficio ni basta con prestar garantía; el texto exige que el interesado lo solicite expresamente y justifique que la ejecución pudiera causar perjuicios de imposible o difícil reparación.",
+        "parte": 1,
+        "id": "tema-24-q48"
+      },
+      {
+        "enunciado": "La suspensión producida en el recurso de reposición podrá mantenerse en la vía económico-administrativa, y se mantendrá además durante toda la tramitación del procedimiento económico-administrativo en todas sus instancias, siempre que:",
+        "opciones": [
+          "La garantía prestada mantenga su vigencia y eficacia en dicha vía.",
+          "Se vuelva a solicitar expresamente ante cada instancia del Tribunal.",
+          "El interesado deposite una garantía adicional del 50% en cada instancia.",
+          "El TEAC lo autorice de forma expresa en cada recurso de alzada."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no hace falta pedirla de nuevo en cada instancia ni aportar garantía adicional: basta con que la garantía prestada mantenga su vigencia y eficacia para que la suspensión continúe en la vía económico-administrativa y se mantenga durante toda su tramitación, en todas las instancias.",
+        "parte": 1,
+        "id": "tema-24-q49"
+      },
+      {
+        "enunciado": "Para que se mantenga la suspensión producida en vía administrativa una vez agotada esta, el interesado debe:",
+        "opciones": [
+          "Esperar a que se le notifique de oficio la decisión sobre la suspensión.",
+          "Comunicar a la Administración tributaria, en el plazo de interposición del recurso contencioso-administrativo, que ha interpuesto dicho recurso y solicitado la suspensión en él.",
+          "Aportar una garantía nueva, distinta de la ya prestada en vía administrativa.",
+          "Solicitar la suspensión directamente al órgano judicial sin informar a la Administración tributaria."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, el mantenimiento no es automático ni exige nueva garantía: el interesado debe comunicar a la Administración tributaria, dentro del plazo de interposición del recurso contencioso-administrativo, que lo ha interpuesto y que ha solicitado en él la suspensión, conservando la garantía ya aportada su vigencia y eficacia.",
+        "parte": 1,
+        "id": "tema-24-q50"
+      },
+      {
+        "enunciado": "La ejecución del acto o resolución impugnada mediante un recurso extraordinario de revisión:",
+        "opciones": [
+          "Podrá suspenderse si se aporta garantía suficiente.",
+          "No podrá suspenderse en ningún caso.",
+          "Se suspende automáticamente, igual que en la reposición.",
+          "Se suspende solo si lo acuerda el TEAC."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: a diferencia de la reposición y la reclamación económico-administrativa ordinarias, en el recurso extraordinario de revisión la ejecución del acto o resolución impugnada no podrá suspenderse en ningún caso, ni siquiera con garantía.",
+        "parte": 1,
+        "id": "tema-24-q51"
+      },
+      {
+        "enunciado": "El recurso de reposición está regulado en la LGT por los artículos:",
+        "opciones": [
+          "222 a 225.",
+          "226 a 248.",
+          "233 a 240.",
+          "241 a 244."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir con el bloque general de la reclamación económico-administrativa (arts. 226-248): el recurso de reposición tiene su propia regulación específica en los artículos 222 a 225 de la LGT.",
+        "parte": 1,
+        "id": "tema-24-q52"
+      },
+      {
+        "enunciado": "Entre las características del recurso de reposición se encuentra que:",
+        "opciones": [
+          "Es obligatorio y debe interponerse siempre antes de la reclamación económico-administrativa.",
+          "Es potestativo y previo a la reclamación económico-administrativa, no pudiendo simultanearse ambos.",
+          "Puede interponerse simultáneamente con la reclamación económico-administrativa.",
+          "Es incompatible con cualquier otro recurso posterior."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: el recurso de reposición no es obligatorio, es potestativo; además, es previo a la reclamación económico-administrativa y ambos no pueden simultanearse: hay que optar por uno u otro.",
+        "parte": 1,
+        "id": "tema-24-q53"
+      },
+      {
+        "enunciado": "Una de las características del recurso de reposición es que:",
+        "opciones": [
+          "Interrumpe los plazos para el ejercicio de otros recursos.",
+          "Suspende automáticamente, en todo caso, la ejecución del acto.",
+          "Agota siempre la vía administrativa sin posibilidad de reclamación posterior.",
+          "Solo puede interponerse una vez agotada la reclamación económico-administrativa."
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no suspende automáticamente la ejecución salvo en los supuestos ya vistos del art. 224: lo que sí hace siempre es interrumpir los plazos para el ejercicio de otros recursos, siendo además potestativo y previo a la reclamación económico-administrativa.",
+        "parte": 1,
+        "id": "tema-24-q54"
+      },
+      {
+        "enunciado": "Será competente para conocer y resolver el recurso de reposición:",
+        "opciones": [
+          "El Tribunal Económico-Administrativo Regional.",
+          "El órgano que haya dictado el acto administrativo impugnado.",
+          "El TEAC en todo caso.",
+          "El Director General de Tributos."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no interviene ningún Tribunal Económico-Administrativo en la reposición; la competencia para conocer y resolver corresponde al propio órgano que dictó el acto administrativo impugnado.",
+        "parte": 1,
+        "id": "tema-24-q55"
+      },
+      {
+        "enunciado": "El plazo para interponer el recurso de reposición es de:",
+        "opciones": [
+          "15 días desde la notificación del acto.",
+          "1 mes, contado desde el día siguiente al de la notificación del acto o al de los efectos del silencio administrativo.",
+          "2 meses desde la notificación del acto.",
+          "3 meses desde que se produjeron los efectos del silencio administrativo."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con el plazo de 2 meses del recurso contencioso-administrativo: el recurso de reposición debe interponerse en el plazo de 1 mes, contado desde el día siguiente a la notificación del acto recurrible o a los efectos del silencio administrativo.",
+        "parte": 1,
+        "id": "tema-24-q56"
+      },
+      {
+        "enunciado": "El plazo máximo para notificar la resolución del recurso de reposición es de:",
+        "opciones": [
+          "15 días desde la presentación del recurso.",
+          "1 mes desde el día siguiente a la presentación del recurso.",
+          "3 meses desde la presentación del recurso.",
+          "1 año desde la presentación del recurso."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no hay que confundir este plazo con el de un año propio de otros recursos; la resolución del recurso de reposición debe notificarse en el plazo máximo de 1 mes contado desde el día siguiente a la presentación del recurso.",
+        "parte": 1,
+        "id": "tema-24-q57"
+      },
+      {
+        "enunciado": "Si transcurre el plazo de un mes para resolver el recurso de reposición sin que se haya notificado resolución expresa, y se había acordado la suspensión del acto recurrido, ¿qué ocurre con el interés de demora?",
+        "opciones": [
+          "Se sigue devengando normalmente hasta la resolución expresa.",
+          "Se duplica como penalización por la demora de la Administración.",
+          "Deja de devengarse el interés de demora.",
+          "Se convierte automáticamente en recargo de apremio."
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, el silencio no perjudica aquí al interesado: transcurrido el plazo de un mes sin resolución expresa, y habiéndose acordado la suspensión del acto recurrido, deja de devengarse el interés de demora, en lugar de seguir corriendo o agravarse.",
+        "parte": 1,
+        "id": "tema-24-q58"
+      },
+      {
+        "enunciado": "Transcurrido el plazo de un mes desde la interposición del recurso de reposición sin resolución expresa, el interesado:",
+        "opciones": [
+          "Debe esperar indefinidamente hasta obtener resolución expresa.",
+          "Podrá considerar desestimado el recurso a efectos de interponer la reclamación procedente.",
+          "Deberá interponer necesariamente un recurso de alzada ante el TEAC.",
+          "Pierde definitivamente la posibilidad de impugnar el acto."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: el silencio no cierra la vía de impugnación; transcurrido el mes sin resolución expresa, el interesado puede considerar desestimado el recurso de reposición precisamente para poder interponer la reclamación económico-administrativa procedente.",
+        "parte": 1,
+        "id": "tema-24-q59"
+      },
+      {
+        "enunciado": "Si el recurso de reposición se resuelve expresamente, rige el principio de prohibición de reformatio in peius, lo que significa que:",
+        "opciones": [
+          "El recurrente no puede ver empeorada su situación jurídica, en caso de desestimación, como consecuencia de haber interpuesto el recurso.",
+          "La Administración puede agravar la situación del recurrente si descubre nuevos hechos durante la tramitación.",
+          "El órgano competente puede imponer una sanción adicional no solicitada por nadie.",
+          "La resolución puede incrementar la deuda tributaria inicialmente liquidada si así lo estima oportuno el órgano."
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la prohibición de reformatio in peius significa precisamente que la resolución del recurso de reposición no puede suponer un agravamiento de la situación inicial del recurrente en caso de desestimación; el recurrente no puede ver empeorada su situación jurídica por haber recurrido.",
+        "parte": 1,
+        "id": "tema-24-q60"
+      },
+      {
+        "enunciado": "¿Qué resoluciones son recurribles mediante el recurso de alzada ordinario del artículo 241 LGT?",
+        "opciones": [
+          "Las dictadas en primera instancia por los TEAR/TEAL y por los órganos económico-administrativos de las CCAA y Ciudades con Estatuto de Autonomía",
+          "Únicamente las dictadas por el TEAC en primera instancia",
+          "Las dictadas por el Director General de Tributos en cualquier instancia",
+          "Solo las resoluciones dictadas en el recurso de reposición"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el alzada ordinario no se dirige contra resoluciones del TEAC, que es precisamente quien lo resuelve, sino contra las resoluciones dictadas en primera instancia por los TEAR/TEAL y por los órganos económico-administrativos de CCAA y Ciudades con Estatuto de Autonomía. El TEAC actúa aquí como órgano de segunda instancia, no como autor del acto recurrido.",
+        "parte": 2,
+        "id": "tema-24-q61"
+      },
+      {
+        "enunciado": "Según el artículo 59 de la Ley 22/2009, ¿qué pueden hacer las Comunidades Autónomas y Ciudades con Estatuto de Autonomía respecto a las reclamaciones económico-administrativas?",
+        "opciones": [
+          "Optar por asumir la competencia para resolverlas en única instancia, sin que quepa entonces recurso de alzada ordinario",
+          "Optar por suprimir el recurso de reposición en su territorio",
+          "Optar por que el TEAC resuelva siempre en primera instancia",
+          "Optar por ampliar el plazo de interposición del recurso de reposición a tres meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: podría pensarse que esta opción afecta a la reposición o a sus plazos, pero no es así. El artículo 59 de la Ley 22/2009 permite a las CCAA asumir la competencia para resolver en única instancia, lo que elimina la posibilidad de un posterior recurso de alzada ordinario.",
+        "parte": 2,
+        "id": "tema-24-q62"
+      },
+      {
+        "enunciado": "¿Qué órgano es competente para conocer en segunda instancia los recursos de alzada ordinario?",
+        "opciones": [
+          "El TEAC",
+          "La Sala Especial para la Unificación de Doctrina",
+          "El TEAR o TEAL que dictó la resolución recurrida",
+          "El Director General de Tributos"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la Sala Especial resuelve el recurso de unificación de doctrina, no la alzada ordinaria. El órgano competente para conocer en segunda instancia los recursos de alzada ordinario es siempre el TEAC.",
+        "parte": 2,
+        "id": "tema-24-q63"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo para interponer el recurso de alzada ordinario?",
+        "opciones": [
+          "1 mes desde el día siguiente a la notificación de la resolución",
+          "3 meses desde la notificación de la resolución",
+          "15 días desde la notificación de la resolución",
+          "2 meses desde la notificación de la resolución"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundas este plazo con los 3 meses del alzada extraordinario para unificación de criterio ni con los 2 meses del recurso contencioso-administrativo. El alzada ordinario se interpone en el plazo de 1 mes, igual que el recurso de reposición.",
+        "parte": 2,
+        "id": "tema-24-q64"
+      },
+      {
+        "enunciado": "¿En qué plazo debe resolverse el recurso de alzada ordinario?",
+        "opciones": [
+          "1 año",
+          "6 meses",
+          "3 meses",
+          "1 mes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: es el único recurso de este tema con un plazo de resolución tan largo, un año. No lo confundas con los 6 meses de la unificación de doctrina o de la revisión, ni con los 3 meses de la unificación de criterio.",
+        "parte": 2,
+        "id": "tema-24-q65"
+      },
+      {
+        "enunciado": "¿Quiénes están legitimados para interponer el recurso de alzada ordinario?",
+        "opciones": [
+          "Los interesados, los Directores Generales del Ministerio de Economía y Hacienda y los Directores de Departamento de la AEAT en sus materias, así como los órganos equivalentes de las CCAA",
+          "Únicamente los Directores Generales del Ministerio y los Directores de Departamento de la AEAT",
+          "Únicamente el Director General de Tributos",
+          "Únicamente los interesados que hubieran comparecido en vía de reposición"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: a diferencia del alzada extraordinario para unificación de criterio, reservado solo a Directores Generales, en el alzada ordinario también están legitimados los propios interesados, además de los Directores Generales del Ministerio y de la AEAT.",
+        "parte": 2,
+        "id": "tema-24-q66"
+      },
+      {
+        "enunciado": "El escrito de interposición del recurso de alzada ordinario debe dirigirse...",
+        "opciones": [
+          "Al Tribunal que hubiese dictado la resolución recurrida, que lo remitirá al TEAC en el plazo de un mes",
+          "Directamente al TEAC",
+          "Al órgano de recaudación que gestiona la deuda",
+          "Al Director General de Tributos"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque el TEAC es quien finalmente resuelve, el escrito no se presenta directamente ante él. Se dirige al Tribunal autor de la resolución recurrida, que dispone de un mes para remitirlo al TEAC.",
+        "parte": 2,
+        "id": "tema-24-q67"
+      },
+      {
+        "enunciado": "¿De cuánto tiempo dispone el Tribunal que dictó la resolución recurrida para remitir el escrito de alzada al TEAC?",
+        "opciones": [
+          "Un mes",
+          "Tres meses",
+          "Quince días",
+          "Seis meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundas este trámite con los plazos de tres o seis meses de otros recursos del tema. La remisión del escrito al TEAC debe hacerse en el plazo de un mes.",
+        "parte": 2,
+        "id": "tema-24-q68"
+      },
+      {
+        "enunciado": "Si el recurrente hubiera estado personado en primera instancia, ¿qué pruebas resultan admisibles en el escrito de interposición del recurso de alzada ordinario?",
+        "opciones": [
+          "Únicamente las que no hayan podido aportarse en primera instancia",
+          "Todas las pruebas, sin ninguna limitación",
+          "Ninguna prueba, solo alegaciones",
+          "Solo las pruebas documentales de carácter público"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no cabe repetir en alzada toda la prueba de primera instancia. La ley solo admite las pruebas que no pudieron aportarse entonces, evitando que la alzada se convierta en una repetición del proceso anterior.",
+        "parte": 2,
+        "id": "tema-24-q69"
+      },
+      {
+        "enunciado": "¿Qué establece la LGT respecto a la resolución del recurso de alzada ordinario?",
+        "opciones": [
+          "Que será de aplicación lo dispuesto en el artículo 240 LGT sobre el procedimiento en única o primera instancia",
+          "Que se aplicará un procedimiento completamente distinto y autónomo",
+          "Que la resolución corresponde siempre a la Sala Especial para la Unificación de Doctrina",
+          "Que no cabe resolución expresa, solo silencio administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el alzada ordinario no tiene un procedimiento de resolución propio y distinto. La LGT remite al régimen del artículo 240, previsto para el procedimiento en única o primera instancia.",
+        "parte": 2,
+        "id": "tema-24-q70"
+      },
+      {
+        "enunciado": "Un contribuyente recibe una resolución del TEAR en primera instancia y quiere recurrirla en alzada. Han transcurrido 1 mes y 10 días desde la notificación sin que haya interpuesto el recurso. ¿Qué ocurre?",
+        "opciones": [
+          "Ha perdido la posibilidad de interponer el recurso de alzada ordinario, pues el plazo de un mes ya ha expirado",
+          "Aún está en plazo, porque dispone de 3 meses",
+          "Aún está en plazo, porque dispone de un año",
+          "Puede interponerlo igualmente porque el plazo solo corre para la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundas el plazo de interposición (1 mes) con el plazo de resolución (1 año), que es el que corresponde al TEAC una vez admitido el recurso. Transcurrido el mes desde la notificación sin recurrir, la resolución gana firmeza y ya no cabe la alzada ordinaria.",
+        "parte": 2,
+        "id": "tema-24-q71"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el recurso de alzada ordinario es FALSA?",
+        "opciones": [
+          "Puede interponerlo cualquier interesado en el procedimiento",
+          "El plazo de interposición es de un mes",
+          "El plazo de resolución es de tres meses",
+          "El órgano competente en segunda instancia es el TEAC"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: el plazo de resolución del alzada ordinario no es de tres meses, ese es el plazo del alzada extraordinario para unificación de criterio, sino de un año. Las demás afirmaciones son correctas.",
+        "parte": 2,
+        "id": "tema-24-q72"
+      },
+      {
+        "enunciado": "Una CCAA no ha optado por asumir la competencia en única instancia conforme al artículo 59 de la Ley 22/2009. Un contribuyente de esa CCAA recibe una resolución desfavorable de su órgano económico-administrativo en primera instancia. ¿Qué recurso le corresponde si quiere una segunda instancia administrativa?",
+        "opciones": [
+          "El recurso de alzada ordinario ante el TEAC",
+          "El recurso extraordinario para la unificación de doctrina ante la Sala Especial",
+          "El recurso de reposición ante el mismo órgano",
+          "El recurso extraordinario de revisión"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la unificación de doctrina y la revisión son recursos extraordinarios reservados a supuestos tasados o a legitimados concretos, no una vía ordinaria de segunda instancia. Cuando la CCAA no optó por única instancia, el camino ordinario frente a la resolución del órgano regional es el alzada ordinario ante el TEAC.",
+        "parte": 2,
+        "id": "tema-24-q73"
+      },
+      {
+        "enunciado": "¿En qué condición pueden los Directores de Departamento de la AEAT interponer el recurso de alzada ordinario?",
+        "opciones": [
+          "En las materias de su competencia",
+          "Solo cuando el interesado se lo solicite expresamente",
+          "Nunca, solo pueden interponer el alzada extraordinario",
+          "Solo en materia de sanciones tributarias"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hace falta petición del interesado ni se limita a sanciones. La ley legitima a los Directores de Departamento de la AEAT para recurrir en alzada ordinario en las materias propias de su competencia, igual que a los Directores Generales del Ministerio.",
+        "parte": 2,
+        "id": "tema-24-q74"
+      },
+      {
+        "enunciado": "Respecto al recurso de alzada ordinario, ¿qué combinación de plazos es correcta?",
+        "opciones": [
+          "Interposición: 1 mes; Resolución: 1 año",
+          "Interposición: 3 meses; Resolución: 3 meses",
+          "Interposición: 1 mes; Resolución: 6 meses",
+          "Interposición: 3 meses; Resolución: 1 año"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no mezcles estos plazos con los del alzada extraordinario para unificación de criterio, que se interpone y se resuelve en 3 meses. El alzada ordinario se interpone en 1 mes y se resuelve en el plazo de 1 año.",
+        "parte": 2,
+        "id": "tema-24-q75"
+      },
+      {
+        "enunciado": "A diferencia de los legitimados para el recurso de reposición, ¿qué sujetos adicionales pueden interponer el recurso de alzada ordinario?",
+        "opciones": [
+          "Los Directores Generales del Ministerio de Economía y Hacienda y los Directores de Departamento de la AEAT",
+          "Los denunciantes",
+          "Los funcionarios públicos en cualquier caso",
+          "Las entidades destinatarias de los fondos gestionados por el acto"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: los denunciantes y los simples destinatarios de los fondos gestionados nunca están legitimados en esta vía. Lo que distingue a la alzada ordinaria es que, además de los interesados, pueden recurrir los Directores Generales del Ministerio y los Directores de Departamento de la AEAT en sus materias.",
+        "parte": 2,
+        "id": "tema-24-q76"
+      },
+      {
+        "enunciado": "¿Contra qué resoluciones puede interponerse el recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "Las dictadas por TEAR/TEAL y órganos de CCAA que no sean susceptibles de alzada ordinario, y también las dictadas en única instancia por órganos de CCAA, cuando concurran las causas legales",
+          "Únicamente las dictadas por el TEAC",
+          "Únicamente las dictadas en primera instancia que ya hayan sido recurridas en alzada ordinario",
+          "Cualquier resolución firme, sin excepción"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: este recurso no es una tercera vía sobre lo ya recurrido en alzada ordinario, sino un cauce para resoluciones que precisamente NO son susceptibles de alzada ordinario, incluidas las de única instancia de las CCAA, cuando concurren causas tasadas.",
+        "parte": 2,
+        "id": "tema-24-q77"
+      },
+      {
+        "enunciado": "¿Cuáles son las causas que permiten interponer el recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "Que la resolución sea gravemente dañosa y errónea, que no se adecúe a la doctrina del TEAC, o que aplique criterios distintos a los de otros tribunales económico-administrativos",
+          "Que exista un error aritmético evidente en la liquidación",
+          "Que aparezcan documentos nuevos posteriores a la resolución",
+          "Que la resolución se haya dictado por prevaricación o cohecho"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: los documentos nuevos y la prevaricación o el cohecho son causas del recurso extraordinario de revisión, no de la unificación de criterio. Esta se basa en que la resolución sea gravemente dañosa y errónea, no se adecúe a la doctrina del TEAC o aplique criterios dispares entre tribunales.",
+        "parte": 2,
+        "id": "tema-24-q78"
+      },
+      {
+        "enunciado": "¿Qué órgano es competente para conocer el recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "El TEAC",
+          "La Sala Especial para la Unificación de Doctrina",
+          "El TEAR o TEAL que dictó la resolución",
+          "El Consejo para la Defensa del Contribuyente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundas con la Sala Especial, que resuelve la unificación de doctrina contra resoluciones del TEAC. La unificación de criterio, en cambio, es competencia del propio TEAC.",
+        "parte": 2,
+        "id": "tema-24-q79"
+      },
+      {
+        "enunciado": "¿Quiénes están legitimados para interponer el recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "Únicamente los Directores Generales del Ministerio de Economía y Hacienda, los Directores de Departamento de la AEAT y los órganos equivalentes de las CCAA",
+          "Los interesados y los Directores Generales, indistintamente",
+          "Únicamente los interesados que fueron parte en el procedimiento",
+          "Cualquier contribuyente afectado por una resolución similar"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: a diferencia del alzada ordinario, aquí los interesados NO están legitimados. Solo pueden interponerlo los Directores Generales del Ministerio, los Directores de Departamento de la AEAT y sus equivalentes autonómicos.",
+        "parte": 2,
+        "id": "tema-24-q80"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo para interponer el recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "3 meses desde el día siguiente a la notificación de la resolución",
+          "1 mes desde la notificación de la resolución",
+          "1 año desde la notificación de la resolución",
+          "6 meses desde la notificación de la resolución"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no lo confundas con el mes del alzada ordinario ni con los seis meses de la revisión o la unificación de doctrina. Este recurso se interpone en el plazo de tres meses.",
+        "parte": 2,
+        "id": "tema-24-q81"
+      },
+      {
+        "enunciado": "¿En qué plazo debe resolverse el recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "3 meses",
+          "1 año",
+          "6 meses",
+          "1 mes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aquí interposición y resolución coinciden en el mismo plazo, tres meses, a diferencia del alzada ordinario, donde la resolución tarda un año.",
+        "parte": 2,
+        "id": "tema-24-q82"
+      },
+      {
+        "enunciado": "¿Qué efecto especial tiene la resolución del recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "Respeta la situación jurídica particular derivada de la resolución recurrida, sin afectar individualmente al reclamante original, y solo sirve para unificar el criterio administrativo",
+          "Anula siempre la resolución recurrida en perjuicio del reclamante original",
+          "Beneficia directamente al reclamante original, mejorando su situación",
+          "Obliga a reabrir el procedimiento de primera instancia del caso concreto"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque el recurso se dirige contra una resolución concreta, su finalidad no es alterar el caso del particular que reclamó. La resolución respeta su situación jurídica particular y únicamente fija criterio para el futuro.",
+        "parte": 2,
+        "id": "tema-24-q83"
+      },
+      {
+        "enunciado": "Los criterios fijados en las resoluciones del recurso de alzada extraordinario para unificación de criterio son vinculantes para...",
+        "opciones": [
+          "Los Tribunales Económico-Administrativos, los órganos económico-administrativos de las CCAA y Ciudades con Estatuto de Autonomía, y el resto de la Administración tributaria estatal y autonómica",
+          "Únicamente para el TEAC que los dictó",
+          "Únicamente para los órganos judiciales",
+          "Únicamente para el contribuyente que inició el procedimiento original"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no vinculan al reclamante original, de hecho su situación jurídica queda al margen, ni a los tribunales de justicia. Vinculan a los TEA, a los órganos autonómicos equivalentes y a toda la Administración tributaria.",
+        "parte": 2,
+        "id": "tema-24-q84"
+      },
+      {
+        "enunciado": "¿Cuál es la diferencia esencial entre los legitimados del alzada extraordinario para unificación de criterio y los del recurso extraordinario para unificación de doctrina?",
+        "opciones": [
+          "El de unificación de criterio lo interponen Directores Generales del Ministerio y Directores de Departamento de la AEAT; el de unificación de doctrina, el Director General de Tributos y sus equivalentes autonómicos",
+          "Ambos solo pueden ser interpuestos por los interesados afectados",
+          "El de unificación de criterio lo interpone el Presidente del TEAC y el de doctrina, el Consejo para la Defensa del Contribuyente",
+          "Son exactamente los mismos legitimados en ambos recursos"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque ambos recursos unifican algo, sus legitimados no coinciden. La unificación de criterio corresponde a los Directores Generales del Ministerio y Directores de Departamento de la AEAT, mientras que la unificación de doctrina está reservada al Director General de Tributos, estatal o autonómico equivalente.",
+        "parte": 2,
+        "id": "tema-24-q85"
+      },
+      {
+        "enunciado": "El Director General de Tributos de una CCAA que ha optado por la única instancia considera que una resolución de su órgano económico-administrativo es gravemente dañosa y errónea. ¿Qué recurso puede interponer?",
+        "opciones": [
+          "El recurso de alzada extraordinario para unificación de criterio",
+          "El recurso de alzada ordinario, porque esa resolución nunca es susceptible de alzada ordinario",
+          "El recurso de reposición",
+          "El recurso contencioso-administrativo directamente, sin agotar la vía económico-administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: precisamente porque la CCAA optó por única instancia, esa resolución no admite alzada ordinario. El cauce previsto para corregir resoluciones gravemente dañosas y erróneas, incluidas las dictadas en única instancia por las CCAA, es el alzada extraordinario para unificación de criterio.",
+        "parte": 2,
+        "id": "tema-24-q86"
+      },
+      {
+        "enunciado": "¿Puede una misma resolución ser objeto simultáneamente de recurso de alzada ordinario y de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "No, porque el extraordinario para unificación de criterio solo cabe contra resoluciones que no sean susceptibles de alzada ordinario",
+          "Sí, siempre que lo interpongan sujetos distintos",
+          "Sí, sin ninguna limitación",
+          "No, porque ambos recursos están reservados exclusivamente a los interesados"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la ley define el ámbito de la unificación de criterio precisamente por exclusión del alzada ordinario. Solo procede frente a resoluciones que no sean susceptibles de este último, más las de única instancia de las CCAA en los supuestos tasados.",
+        "parte": 2,
+        "id": "tema-24-q87"
+      },
+      {
+        "enunciado": "¿Qué requisito deben cumplir los órganos equivalentes autonómicos para poder interponer el recurso de alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "Que actúen respecto a las materias de su competencia",
+          "Que cuenten con la autorización previa del TEAC",
+          "Que el interesado original lo solicite expresamente",
+          "Que la cuantía del asunto supere 1.800.000 euros"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se exige autorización del TEAC ni petición del interesado, ni depende de la cuantía, que es lo relevante en la alzada ordinaria. Solo se exige que los órganos equivalentes autonómicos actúen en materias de su propia competencia.",
+        "parte": 2,
+        "id": "tema-24-q88"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el recurso de alzada extraordinario para unificación de criterio es FALSA?",
+        "opciones": [
+          "Puede ser interpuesto por los interesados afectados por la resolución",
+          "Es competente para resolverlo el TEAC",
+          "El plazo de interposición es de 3 meses",
+          "La resolución respeta la situación jurídica particular del caso"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: a diferencia del alzada ordinario, los interesados NO están legitimados para este recurso extraordinario. Las demás afirmaciones son correctas: lo resuelve el TEAC, se interpone en tres meses y respeta la situación jurídica particular.",
+        "parte": 2,
+        "id": "tema-24-q89"
+      },
+      {
+        "enunciado": "Si se compara el plazo de resolución del recurso de alzada ordinario con el del alzada extraordinario para unificación de criterio, ¿cuál es correcto?",
+        "opciones": [
+          "El ordinario se resuelve en 1 año y el extraordinario para unificación de criterio en 3 meses",
+          "Ambos se resuelven en el mismo plazo de 3 meses",
+          "El ordinario se resuelve en 3 meses y el extraordinario en 1 año",
+          "Ambos se resuelven en 1 año"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: son los dos recursos del tema con plazos de resolución más dispares entre sí, un año para el alzada ordinario frente a solo tres meses para el extraordinario de unificación de criterio.",
+        "parte": 2,
+        "id": "tema-24-q90"
+      },
+      {
+        "enunciado": "¿Contra qué resoluciones se dirige el recurso extraordinario para la unificación de doctrina (art. 243 LGT)?",
+        "opciones": [
+          "Contra las resoluciones en materia tributaria dictadas por el TEAC",
+          "Contra las resoluciones dictadas en primera instancia por los TEAR/TEAL",
+          "Contra los actos firmes de gestión tributaria",
+          "Contra las resoluciones de la Sala Especial para la Unificación de Doctrina"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se dirige contra resoluciones de primera instancia, eso sería objeto de alzada, ni contra actos de gestión. Este recurso se dirige específicamente contra resoluciones del propio TEAC con las que el Director General de Tributos esté en desacuerdo.",
+        "parte": 2,
+        "id": "tema-24-q91"
+      },
+      {
+        "enunciado": "¿Quién puede interponer el recurso extraordinario para la unificación de doctrina cuando esté en desacuerdo con una resolución del TEAC?",
+        "opciones": [
+          "El Director General de Tributos del Ministerio de Economía y Hacienda",
+          "El Director General de la AEAT",
+          "Cualquier interesado afectado por la resolución",
+          "El Presidente del TEAC"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque el Director General de la AEAT y el Presidente del TEAC forman parte de la Sala Especial que resuelve el recurso, quien lo interpone es el Director General de Tributos del Ministerio de Economía y Hacienda, o su equivalente autonómico según el caso.",
+        "parte": 2,
+        "id": "tema-24-q92"
+      },
+      {
+        "enunciado": "¿En qué supuesto pueden los Directores Generales de Tributos de las Comunidades Autónomas interponer el recurso extraordinario para la unificación de doctrina?",
+        "opciones": [
+          "Cuando el recurso tenga su origen en una resolución de un órgano dependiente de su respectiva Comunidad Autónoma",
+          "En cualquier caso, sin ninguna condición",
+          "Solo si lo autoriza previamente el Director General de Tributos del Estado",
+          "Nunca, solo está legitimado el Director General de Tributos estatal"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la legitimación autonómica no es general ni requiere autorización estatal. Procede concretamente cuando el origen del recurso está en una resolución de un órgano dependiente de esa misma Comunidad Autónoma o Ciudad con Estatuto de Autonomía.",
+        "parte": 2,
+        "id": "tema-24-q93"
+      },
+      {
+        "enunciado": "¿Qué órgano es competente para resolver el recurso extraordinario para la unificación de doctrina?",
+        "opciones": [
+          "La Sala Especial para la Unificación de Doctrina",
+          "El TEAC en pleno",
+          "El TEAR o TEAL que dictó la resolución originaria",
+          "El Consejo para la Defensa del Contribuyente en exclusiva"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque el recurso se dirige contra resoluciones del TEAC, no lo resuelve el propio TEAC como tal, sino una Sala Especial creada específicamente para la unificación de doctrina, con una composición particular.",
+        "parte": 2,
+        "id": "tema-24-q94"
+      },
+      {
+        "enunciado": "¿Quién preside la Sala Especial para la Unificación de Doctrina?",
+        "opciones": [
+          "El Presidente del TEAC",
+          "El Director General de Tributos",
+          "El Presidente del Consejo para la Defensa del Contribuyente",
+          "El Director General de la AEAT"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque todos ellos forman parte de la Sala Especial, quien la presidirá es el Presidente del TEAC. Los demás son vocales o miembros, no el presidente.",
+        "parte": 2,
+        "id": "tema-24-q95"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO forma parte de la Sala Especial para la Unificación de Doctrina?",
+        "opciones": [
+          "El Presidente del TEAR o TEAL que dictó la resolución",
+          "Tres vocales del TEAC",
+          "El Director General de Tributos",
+          "El Presidente del Consejo para la Defensa del Contribuyente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la Sala Especial no incluye al presidente del tribunal regional o local que dictó la resolución originaria. Está formada por el Presidente del TEAC, tres vocales de dicho tribunal, el Director General de Tributos, el Director General de la AEAT, el Director del Departamento de la AEAT del que dependa funcionalmente el órgano autor del acto, y el Presidente del Consejo para la Defensa del Contribuyente.",
+        "parte": 2,
+        "id": "tema-24-q96"
+      },
+      {
+        "enunciado": "¿Qué ocurre en la Sala Especial para la Unificación de Doctrina si se produce un empate en la votación?",
+        "opciones": [
+          "El Presidente tiene voto de calidad",
+          "Se repite la votación hasta que exista mayoría absoluta",
+          "Decide el Director General de la AEAT",
+          "El asunto se remite al TEAC en pleno"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la resolución se adopta por decisión mayoritaria, pero cuando hay empate la ley resuelve el bloqueo dando al Presidente de la Sala voto de calidad, sin necesidad de repetir votaciones ni remitir el asunto a otro órgano.",
+        "parte": 2,
+        "id": "tema-24-q97"
+      },
+      {
+        "enunciado": "¿En qué plazo debe dictarse la resolución del recurso extraordinario para la unificación de doctrina?",
+        "opciones": [
+          "6 meses",
+          "3 meses",
+          "1 año",
+          "1 mes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no lo confundas con los tres meses de la unificación de criterio ni con el año del alzada ordinario. La unificación de doctrina debe resolverse en el plazo de seis meses.",
+        "parte": 2,
+        "id": "tema-24-q98"
+      },
+      {
+        "enunciado": "¿Qué efecto tiene la resolución del recurso extraordinario para la unificación de doctrina sobre la situación del caso concreto que dio origen al recurso?",
+        "opciones": [
+          "Respeta la situación jurídica particular derivada de la resolución recurrida, limitándose a establecer la doctrina aplicable",
+          "Anula siempre la resolución del TEAC en perjuicio del contribuyente afectado",
+          "Obliga a reabrir el expediente del caso concreto con nueva liquidación",
+          "Beneficia automáticamente al contribuyente que fue parte en el procedimiento original"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: igual que ocurre en la unificación de criterio, este recurso extraordinario no altera el caso concreto ya resuelto por el TEAC. Su resolución respeta la situación jurídica particular y únicamente fija la doctrina aplicable hacia el futuro.",
+        "parte": 2,
+        "id": "tema-24-q99"
+      },
+      {
+        "enunciado": "¿Qué carácter tiene la doctrina establecida en las resoluciones del recurso extraordinario para la unificación de doctrina?",
+        "opciones": [
+          "Carácter vinculante",
+          "Carácter meramente orientativo",
+          "Carácter vinculante solo para el TEAC que dictó la resolución recurrida",
+          "Carácter vinculante solo si lo ratifica el Consejo para la Defensa del Contribuyente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es una doctrina orientativa ni necesita ratificación adicional. La LGT establece expresamente que la doctrina fijada en estas resoluciones será vinculante.",
+        "parte": 2,
+        "id": "tema-24-q100"
+      },
+      {
+        "enunciado": "¿En qué se diferencia el objeto del recurso extraordinario para la unificación de doctrina respecto del alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "La unificación de doctrina se dirige contra resoluciones del TEAC, mientras que la unificación de criterio se dirige contra resoluciones de TEAR/TEAL y órganos de CCAA",
+          "Ambos recursos se dirigen exactamente contra las mismas resoluciones",
+          "La unificación de doctrina se dirige contra actos firmes de gestión, y la de criterio contra resoluciones del TEAC",
+          "Ambos recursos solo pueden dirigirse contra actos de la AEAT"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque ambos unifican algo, actúan en planos distintos. La unificación de criterio corrige resoluciones de tribunales regionales o locales o autonómicos, mientras que la unificación de doctrina corrige al propio TEAC cuando resuelve en último término.",
+        "parte": 2,
+        "id": "tema-24-q101"
+      },
+      {
+        "enunciado": "El Director General de Tributos del Ministerio de Economía y Hacienda está en desacuerdo con el contenido de una resolución dictada por el TEAC en materia tributaria. ¿Qué recurso puede interponer?",
+        "opciones": [
+          "El recurso extraordinario para la unificación de doctrina",
+          "El recurso de alzada ordinario",
+          "El recurso de alzada extraordinario para unificación de criterio",
+          "El recurso de reposición"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la alzada ordinaria y la reposición no caben contra resoluciones del TEAC, que agotan la vía. El cauce específico para que el Director General de Tributos discrepe de una resolución del TEAC es el recurso extraordinario para la unificación de doctrina.",
+        "parte": 2,
+        "id": "tema-24-q102"
+      },
+      {
+        "enunciado": "¿Está legitimado el Director de Departamento de la AEAT para interponer el recurso extraordinario para la unificación de doctrina?",
+        "opciones": [
+          "No, ese recurso solo puede interponerlo el Director General de Tributos, del Ministerio o de las CCAA según el origen de la resolución",
+          "Sí, en cualquier caso",
+          "Sí, pero solo si cuenta con el visto bueno del Director General de Tributos",
+          "Sí, únicamente cuando actúe conjuntamente con el Director General de la AEAT"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundas el alzada extraordinario para unificación de criterio, donde sí interviene el Director de Departamento de la AEAT, con la unificación de doctrina, reservada en exclusiva al Director General de Tributos del Ministerio o de las CCAA según el origen de la resolución.",
+        "parte": 2,
+        "id": "tema-24-q103"
+      },
+      {
+        "enunciado": "¿Qué tienen en común, en cuanto a plazo de resolución, el recurso extraordinario para la unificación de doctrina y el recurso extraordinario de revisión?",
+        "opciones": [
+          "Ambos deben resolverse en el plazo de 6 meses",
+          "Ambos deben resolverse en el plazo de 3 meses",
+          "Ambos deben resolverse en el plazo de 1 año",
+          "El primero se resuelve en 6 meses y el segundo en 3 meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque son recursos distintos, en cuanto al plazo de resolución coinciden. Tanto la unificación de doctrina como el extraordinario de revisión deben resolverse en 6 meses, frente a los 3 meses de la unificación de criterio o el año del alzada ordinario.",
+        "parte": 2,
+        "id": "tema-24-q104"
+      },
+      {
+        "enunciado": "¿Contra qué actos o resoluciones puede interponerse el recurso extraordinario de revisión (art. 244 LGT)?",
+        "opciones": [
+          "Contra los actos firmes de la Administración tributaria y las resoluciones firmes de los órganos económico-administrativos",
+          "Contra cualquier acto, firme o no, de la Administración tributaria",
+          "Únicamente contra resoluciones del TEAC que no hayan ganado firmeza",
+          "Únicamente contra liquidaciones provisionales"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: a diferencia de los recursos ordinarios, que se dirigen contra actos o resoluciones aún no firmes, el extraordinario de revisión presupone precisamente la firmeza. Solo cabe contra actos firmes de la Administración tributaria y resoluciones firmes de los órganos económico-administrativos.",
+        "parte": 2,
+        "id": "tema-24-q105"
+      },
+      {
+        "enunciado": "¿Cuál es uno de los motivos tasados para interponer el recurso extraordinario de revisión?",
+        "opciones": [
+          "Que aparezcan documentos de valor esencial, posteriores al acto o de imposible aportación en su momento, que evidencien el error cometido",
+          "Que el interesado no esté de acuerdo con el criterio jurídico aplicado",
+          "Que la cuantía del asunto supere los 150.000 euros",
+          "Que haya transcurrido el plazo de resolución sin respuesta expresa"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el simple desacuerdo con el criterio aplicado, la cuantía del asunto o el silencio de la Administración no son motivos de revisión. Uno de los tres motivos tasados es precisamente la aparición de documentos esenciales, posteriores o de imposible aportación entonces, que evidencien el error.",
+        "parte": 2,
+        "id": "tema-24-q106"
+      },
+      {
+        "enunciado": "¿Cuál es otro de los motivos tasados del recurso extraordinario de revisión?",
+        "opciones": [
+          "Que al dictar el acto o la resolución hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme",
+          "Que el acto se haya dictado por un órgano incompetente por razón del territorio",
+          "Que exista un error de cálculo evidente en la liquidación",
+          "Que el interesado no haya sido notificado correctamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la incompetencia territorial, un simple error de cálculo o un defecto de notificación se combaten por otras vías, como la nulidad, la reposición o la alzada. El motivo tasado de revisión es que hayan influido esencialmente documentos o testimonios declarados falsos por sentencia judicial firme.",
+        "parte": 2,
+        "id": "tema-24-q107"
+      },
+      {
+        "enunciado": "¿Cuál es el tercer motivo tasado para interponer el recurso extraordinario de revisión?",
+        "opciones": [
+          "Que el acto o la resolución se hubiese dictado como consecuencia de prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible, declarada por sentencia judicial firme",
+          "Que se haya producido una modificación legislativa posterior más favorable",
+          "Que el TEAC haya cambiado de criterio en una resolución posterior",
+          "Que el interesado presente nuevas alegaciones no formuladas antes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: un cambio de criterio posterior del TEAC o una ley más favorable no reabren un acto firme por esta vía. El tercer motivo tasado exige que el acto se haya dictado como consecuencia de delitos como prevaricación, cohecho, violencia o maquinación fraudulenta, declarados por sentencia judicial firme.",
+        "parte": 2,
+        "id": "tema-24-q108"
+      },
+      {
+        "enunciado": "¿Qué órgano es competente para resolver el recurso extraordinario de revisión?",
+        "opciones": [
+          "El TEAC, salvo que la CCAA o Ciudad con Estatuto de Autonomía haya optado por la única instancia, en cuyo caso conocerá su propio órgano económico-administrativo respecto de sus actos y resoluciones firmes",
+          "Siempre el TEAC, sin excepción alguna",
+          "Siempre la Sala Especial para la Unificación de Doctrina",
+          "El órgano de recaudación que ejecutó el acto impugnado"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la competencia del TEAC en revisión no es absoluta. Cuando la CCAA o Ciudad con Estatuto de Autonomía optó por la única instancia, es su propio órgano económico-administrativo el que conoce la revisión frente a sus actos y resoluciones firmes.",
+        "parte": 2,
+        "id": "tema-24-q109"
+      },
+      {
+        "enunciado": "¿Quiénes están legitimados para interponer el recurso extraordinario de revisión?",
+        "opciones": [
+          "Los mismos a quienes se otorga legitimación para interponer el recurso de alzada ordinario",
+          "Únicamente los Directores Generales del Ministerio de Economía y Hacienda",
+          "Únicamente el Director General de Tributos",
+          "Cualquier persona, sin necesidad de ser interesado"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se trata de una legitimación restringida a Directores Generales, como ocurre en los recursos de unificación, ni de una legitimación universal. La ley remite expresamente a los mismos legitimados que para el recurso de alzada ordinario.",
+        "parte": 2,
+        "id": "tema-24-q110"
+      },
+      {
+        "enunciado": "¿Desde cuándo se computa el plazo de 3 meses para interponer el recurso extraordinario de revisión?",
+        "opciones": [
+          "Desde el conocimiento de los documentos o desde que quedó firme la sentencia judicial",
+          "Desde la notificación del acto o resolución originaria",
+          "Desde que se produjo el acto impugnado",
+          "Desde el día siguiente a la finalización de la vía de gestión"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: a diferencia de los demás recursos del tema, cuyo plazo corre desde la notificación de la resolución, en la revisión el cómputo arranca desde el momento en que se conocen los documentos esenciales o desde que la sentencia judicial queda firme, por la propia naturaleza extraordinaria de este recurso.",
+        "parte": 2,
+        "id": "tema-24-q111"
+      },
+      {
+        "enunciado": "¿Qué ocurre frente a la resolución que se dicte en el recurso extraordinario de revisión?",
+        "opciones": [
+          "No se dará ningún otro recurso en vía administrativa",
+          "Cabe recurso de alzada ordinario ante el TEAC",
+          "Cabe recurso de reposición ante el mismo órgano",
+          "Cabe un nuevo recurso extraordinario de revisión sobre la misma resolución"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: siendo un recurso ya extraordinario contra actos firmes, su resolución cierra definitivamente la vía administrativa. La LGT establece expresamente que no cabrá ningún otro recurso administrativo frente a ella.",
+        "parte": 2,
+        "id": "tema-24-q112"
+      },
+      {
+        "enunciado": "¿Qué ocurre si transcurren 6 meses desde la interposición del recurso extraordinario de revisión sin que se haya notificado resolución expresa?",
+        "opciones": [
+          "El interesado podrá entender desestimado el recurso, por silencio desestimatorio",
+          "El interesado podrá entender estimado el recurso automáticamente",
+          "El recurso se traslada automáticamente a la vía contencioso-administrativa",
+          "El plazo se amplía automáticamente a un año"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay silencio positivo en este recurso. Transcurrido el plazo de 6 meses sin resolución expresa, el efecto es el silencio desestimatorio, pudiendo el interesado entender rechazado su recurso.",
+        "parte": 2,
+        "id": "tema-24-q113"
+      },
+      {
+        "enunciado": "¿En qué se diferencian los plazos del recurso extraordinario de revisión respecto a los del alzada extraordinario para unificación de criterio?",
+        "opciones": [
+          "Ambos se interponen en 3 meses, pero la revisión se resuelve en 6 meses y la unificación de criterio en 3 meses",
+          "Ambos se interponen y resuelven exactamente en los mismos plazos",
+          "La revisión se interpone en 1 mes y se resuelve en 1 año",
+          "La unificación de criterio se resuelve en 6 meses y la revisión en 3 meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: comparten el mismo plazo de interposición, 3 meses, lo que invita a pensar que también comparten el de resolución. Sin embargo, la revisión se resuelve en 6 meses mientras que la unificación de criterio lo hace en 3 meses.",
+        "parte": 2,
+        "id": "tema-24-q114"
+      },
+      {
+        "enunciado": "Una sentencia judicial firme declara que un testimonio que influyó esencialmente en una liquidación tributaria firme era falso. ¿Qué recurso puede interponer el interesado?",
+        "opciones": [
+          "El recurso extraordinario de revisión",
+          "El recurso de reposición",
+          "El recurso de alzada ordinario",
+          "El recurso extraordinario para la unificación de doctrina"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: tratándose de un acto ya firme, no caben los recursos ordinarios de reposición o alzada. El motivo de testimonios declarados falsos por sentencia judicial firme es precisamente uno de los tres supuestos tasados del recurso extraordinario de revisión.",
+        "parte": 2,
+        "id": "tema-24-q115"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el recurso extraordinario de revisión es FALSA?",
+        "opciones": [
+          "Puede interponerse contra actos que aún no han ganado firmeza",
+          "Los motivos para interponerlo están tasados legalmente",
+          "El plazo de interposición es de 3 meses",
+          "El plazo de resolución es de 6 meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: justo al revés de lo que podría pensarse, este recurso exige que el acto o la resolución sean firmes; no cabe contra actos todavía recurribles por las vías ordinarias. Las demás afirmaciones son correctas: los motivos están tasados, el plazo de interposición es de 3 meses y el de resolución, de 6 meses.",
+        "parte": 2,
+        "id": "tema-24-q116"
+      },
+      {
+        "enunciado": "Según el esquema de decisión del itinerario impugnatorio, ¿pueden simultanearse el recurso de reposición y la reclamación económico-administrativa directa frente al mismo acto?",
+        "opciones": [
+          "No, nunca pueden simultanearse: hay que optar por una u otra vía",
+          "Sí, siempre que se interpongan ante órganos distintos",
+          "Sí, pero solo si la cuantía supera 150.000 euros",
+          "Sí, siempre que se interpongan en el mismo plazo de un mes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es una cuestión de órganos, plazos o cuantía. El esquema es tajante en que reposición y reclamación directa son vías alternativas y excluyentes, nunca simultaneables, porque la reposición es potestativa y previa.",
+        "parte": 2,
+        "id": "tema-24-q117"
+      },
+      {
+        "enunciado": "¿Qué papel juega la cuantía del asunto en el itinerario impugnatorio según el esquema de decisión?",
+        "opciones": [
+          "Determina si cabe doble instancia mediante recurso de alzada ordinario o única instancia: por encima de 150.000 euros (o 1.800.000 euros si se discute base o valoración), y sin que la CCAA haya optado por única instancia, cabe alzada ordinario",
+          "Determina el plazo de interposición de la reclamación, que varía entre 1 y 3 meses según el importe",
+          "Determina si cabe o no recurso de reposición",
+          "Determina si la ejecución del acto queda suspendida automáticamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la cuantía no afecta al plazo de interposición de la reclamación, siempre 1 mes, ni a la procedencia de la reposición ni a la suspensión automática. Su función específica en el esquema es decidir si existe doble instancia mediante alzada ordinario, en función de los umbrales de 150.000 y 1.800.000 euros.",
+        "parte": 2,
+        "id": "tema-24-q118"
+      },
+      {
+        "enunciado": "¿En qué supuesto se aplica el umbral de cuantía de 1.800.000 euros en lugar del de 150.000 euros para determinar la doble instancia?",
+        "opciones": [
+          "Cuando se discute la base o la valoración",
+          "Cuando se trata de sanciones tributarias",
+          "Cuando el recurrente es un Director General",
+          "Cuando la CCAA ha optado por la única instancia"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el umbral superior no depende de que el recurrente sea un Director General ni de que se trate de sanciones, ni se relaciona con la opción autonómica por la única instancia. Se aplica específicamente cuando lo que se discute es la base imponible o una valoración.",
+        "parte": 2,
+        "id": "tema-24-q119"
+      },
+      {
+        "enunciado": "Una vez agotada la vía económico-administrativa, ¿en qué plazo debe interponerse el recurso contencioso-administrativo?",
+        "opciones": [
+          "2 meses",
+          "1 mes",
+          "3 meses",
+          "6 meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundas este plazo con el de interposición de los recursos administrativos del tema, de 1 o 3 meses. Una vez agotada la vía económico-administrativa, el recurso contencioso-administrativo debe interponerse en el plazo de 2 meses.",
+        "parte": 2,
+        "id": "tema-24-q120"
+      },
+      {
+        "enunciado": "Respecto al origen histórico y la naturaleza de los órganos que conocen de la reclamación económico-administrativa, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "Los Tribunales Económico-Administrativos fueron creados en 1881 junto con la Ley Camacho, y forman parte del poder judicial.",
+          "El origen de la figura se sitúa en la Ley Camacho de 1881, pero los actuales órganos revisores (los TEA) se crean en 1924 y, a pesar de su denominación de 'Tribunales', no pertenecen al poder judicial, sino que están integrados por altos funcionarios de Hacienda.",
+          "Los TEA se crearon en 1881 y, aunque están integrados por funcionarios de Hacienda, forman parte del poder judicial.",
+          "El origen de la figura es de 1924 (Ley Camacho) y los TEA, creados en 1881, son órganos jurisdiccionales."
+        ],
+        "correcta": 1,
+        "explicacion": "La trampa está en mezclar las dos fechas o en atribuir naturaleza judicial a los TEA. El texto distingue con claridad: el origen de la institución se remonta a la Ley Camacho de 1881, mientras que los órganos revisores actuales (los Tribunales Económico-Administrativos) se crean en 1924. A pesar de llamarse 'Tribunales', nada tienen que ver con el poder judicial, pues están integrados por altos funcionarios de Hacienda, lo que explica que sus resoluciones sean verdaderos actos administrativos y no resoluciones jurisdiccionales.",
+        "nivel": "avanzado",
+        "id": "tema-24-q121"
+      },
+      {
+        "enunciado": "Un opositor afirma que la reclamación económico-administrativa es un recurso extraordinario, comparable en su naturaleza al recurso extraordinario de revisión, y que además puede acudirse directamente a la vía contencioso-administrativa sin agotarla. ¿Es correcta esta afirmación conforme al tema?",
+        "opciones": [
+          "Sí, es un recurso extraordinario según FERREIRO, porque solo puede fundarse en los motivos tasados del artículo 244 LGT, y además es optativo acudir directamente a la vía judicial.",
+          "No; es un recurso ordinario, pues permite controlar la actividad administrativa a instancia de parte igual que el recurso de reposición (aunque FERREIRO lo califica de especial o cualificado por razón de la materia); y, además, constituye un requisito previo necesario para su control en vía contencioso-administrativa.",
+          "No; es un recurso ordinario, pero no constituye requisito previo alguno, pudiendo acudirse directamente a los tribunales sin necesidad de agotar la vía económico-administrativa.",
+          "Sí, es extraordinario, porque sus resoluciones no son actos administrativos sino resoluciones jurisdiccionales asimilables a las judiciales."
+        ],
+        "correcta": 1,
+        "explicacion": "El error habitual es confundir 'especial o cualificado por razón de la materia' (como dice FERREIRO) con 'extraordinario', y pensar que al ser administrativo se puede saltar. El texto es claro: se trata de un medio ordinario porque controla la actividad administrativa a instancia de parte, igual que el recurso de reposición, aunque sea especial por la materia que trata; y, como todo recurso administrativo, constituye un requisito previo obligado para acceder después a la vía contencioso-administrativa, no una opción.",
+        "nivel": "avanzado",
+        "id": "tema-24-q122"
+      },
+      {
+        "enunciado": "Un ayuntamiento dicta una liquidación del IBI (tributo local) y, por otro lado, el Centro de Gestión Catastral fija unos valores catastrales. ¿Cuál de las siguientes afirmaciones sobre la vía económico-administrativa es correcta?",
+        "opciones": [
+          "Ambos actos son reclamables en vía económico-administrativa, por tratarse de materia tributaria.",
+          "Ninguno de los dos actos es reclamable en vía económico-administrativa, al tratarse en ambos casos de tributación local.",
+          "La liquidación del IBI no es reclamable en vía económico-administrativa, por ser tributación local, pero la fijación de valores catastrales sí lo es, al tratarse de un acto tributario en el que participa la AGE (a través del Centro de Gestión Catastral).",
+          "La liquidación del IBI es reclamable por implicar un reglamento local, y la fijación de valores catastrales no lo es porque constituye un reglamento."
+        ],
+        "correcta": 2,
+        "explicacion": "La trampa es tratar ambos actos igual por ser 'tributarios'. El texto excluye en todo caso de la vía económico-administrativa los reglamentos y la tributación propia autonómica y local, pero admite los actos tributarios en los que participe la AGE, citando expresamente como ejemplo la elaboración de valores catastrales por el Centro de Gestión Catastral; la liquidación del IBI, en cambio, es tributación local pura y queda fuera de esta vía.",
+        "nivel": "avanzado",
+        "id": "tema-24-q123"
+      },
+      {
+        "enunciado": "Un contribuyente pretende reclamar en vía económico-administrativa un acto dictado en un procedimiento cuya resolución, que ultima la vía administrativa, está reservada al Secretario de Estado de Hacienda y Presupuestos. ¿Es admisible dicha reclamación?",
+        "opciones": [
+          "Sí, siempre es admisible, porque todos los actos de naturaleza tributaria son reclamables en vía económico-administrativa.",
+          "No, porque la LGT excluye expresamente de la reclamación económico-administrativa los actos dictados en procedimientos cuya resolución que ultime la vía administrativa esté reservada al Ministro de Economía y Hacienda o al Secretario de Estado de Hacienda y Presupuestos.",
+          "Sí, pero solo si el contribuyente acredita que el acto le causa un perjuicio de difícil o imposible reparación.",
+          "No, porque dicho acto únicamente puede impugnarse mediante recurso de reposición, nunca mediante ningún otro recurso administrativo."
+        ],
+        "correcta": 1,
+        "explicacion": "El matiz que distingue esta pregunta es recordar que no todos los actos tributarios son reclamables: el tema enumera expresamente dos supuestos de inadmisión, y uno de ellos es precisamente este, cuando la resolución que ultima la vía administrativa está reservada al Ministro o al Secretario de Estado de Hacienda y Presupuestos. No se trata de que quede vedada toda impugnación administrativa (la opción D inventa una limitación al recurso de reposición que el texto no establece), simplemente esta vía concreta no es admisible.",
+        "nivel": "avanzado",
+        "id": "tema-24-q124"
+      },
+      {
+        "enunciado": "Comparando la legitimación activa 'por intereses afectados' (más allá del obligado tributario) en el recurso de reposición y en la reclamación económico-administrativa, ¿cuál de las siguientes afirmaciones refleja con precisión lo que señala el tema?",
+        "opciones": [
+          "En ambos casos el texto exige idéntica fórmula: intereses legítimos y directos afectados por el acto.",
+          "Para la reclamación económico-administrativa basta con que resulten afectados 'intereses legítimos', mientras que para el recurso de reposición se exige que esos intereses sean 'legítimos y directos'.",
+          "Para el recurso de reposición basta con 'intereses legítimos', mientras que la reclamación económico-administrativa exige 'intereses legítimos y directos'.",
+          "Ninguna de las dos vías admite legitimar a quien no sea el obligado tributario o sujeto infractor."
+        ],
+        "correcta": 1,
+        "explicacion": "Esta es una distinción fina que el texto marca con precisión literal: en la reclamación económico-administrativa se legitima a 'cualquier otra persona cuyos intereses legítimos resulten afectados', mientras que en el recurso de reposición la fórmula añade un requisito más estricto: 'intereses legítimos y directos'. Invertir los términos (opción C) es el error típico de quien recuerda que hay una diferencia pero no en qué sentido va.",
+        "nivel": "avanzado",
+        "id": "tema-24-q125"
+      },
+      {
+        "enunciado": "Un funcionario público considera que sus intereses legítimos personales (sin que se vulnere un derecho que en particular le esté reconocido) se han visto afectados por un acto tributario, y se plantea recurrir tanto en reposición como, alternativamente, en vía económico-administrativa. ¿En cuál de las dos vías estaría legitimado conforme al tema?",
+        "opciones": [
+          "En ninguna de las dos, porque los funcionarios nunca están legitimados en materia económico-administrativa.",
+          "Únicamente en el recurso de reposición, porque su excepción de legitimación de los funcionarios incluye expresamente la afectación de intereses legítimos.",
+          "Únicamente en la reclamación económico-administrativa, cuya excepción de legitimación de los funcionarios incluye expresamente que 'resulten afectados sus intereses legítimos', mención que la regulación del recurso de reposición no recoge (que solo habla de vulneración de un derecho reconocido).",
+          "En ambas vías, ya que las dos regulaciones son idénticas en este punto."
+        ],
+        "correcta": 2,
+        "explicacion": "El tema distingue, dentro de la regla general de no legitimación de funcionarios, dos excepciones redactadas de forma distinta: en la reclamación económico-administrativa la excepción opera 'cuando inmediata y directamente se vulnere un derecho que en particular les esté reconocido o resulten afectados sus intereses legítimos'; en el recurso de reposición, en cambio, solo se contempla 'salvo que se vulnere un derecho que en particular les está reconocido', sin mencionar los intereses legítimos. Por tanto, solo en la vía económico-administrativa quedaría legitimado en este supuesto concreto.",
+        "nivel": "avanzado",
+        "id": "tema-24-q126"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes personas NO estaría legitimada para promover una reclamación económico-administrativa, conforme a las exclusiones que señala expresamente el tema?",
+        "opciones": [
+          "Un obligado tributario destinatario de una liquidación.",
+          "Una persona cuyos intereses legítimos resultan afectados por el acto tributario, sin ser el obligado tributario.",
+          "El denunciante de una infracción tributaria cometida por un tercero.",
+          "Un sujeto infractor al que se le ha impuesto una sanción tributaria."
+        ],
+        "correcta": 2,
+        "explicacion": "La trampa consiste en pensar que quien denuncia una infracción tiene, por ello mismo, un interés legítimo en el resultado del procedimiento. El tema excluye expresamente de la legitimación a 'los denunciantes', frente a los obligados tributarios, sujetos infractores y terceros con intereses legítimos afectados, que sí están legitimados tanto en la reclamación económico-administrativa como, en su caso, en el recurso de reposición.",
+        "nivel": "avanzado",
+        "id": "tema-24-q127"
+      },
+      {
+        "enunciado": "Un contribuyente interpone recurso de reposición contra una liquidación de 1.200 euros y, para obtener la suspensión automática, ofrece como garantía una fianza personal y solidaria de otro contribuyente de reconocida solvencia. ¿Es válida esta garantía para la suspensión automática?",
+        "opciones": [
+          "No, la fianza personal y solidaria de otros contribuyentes nunca es válida como garantía para obtener la suspensión automática.",
+          "Sí, es válida, puesto que esta garantía solo puede utilizarse para deudas de hasta 1.500 euros, y la deuda en este caso es de 1.200 euros.",
+          "Sí, es válida sin límite de cuantía alguno.",
+          "No, porque para la suspensión automática solo se admiten el depósito de dinero o el aval de entidad de crédito, nunca una fianza personal."
+        ],
+        "correcta": 1,
+        "explicacion": "El dato clave que hay que combinar es el tipo de garantía con su límite cuantitativo: entre las garantías tasadas para la suspensión automática, la fianza personal y solidaria de otros contribuyentes de reconocida solvencia solo es válida para deudas de hasta 1.500 euros. Como la deuda del supuesto (1.200 euros) no supera ese umbral, la garantía sí resulta válida; si la deuda hubiera sido, por ejemplo, de 2.000 euros, esta misma garantía ya no serviría.",
+        "nivel": "avanzado",
+        "id": "tema-24-q128"
+      },
+      {
+        "enunciado": "Un obligado tributario recurre en reposición, de un lado, una sanción tributaria, y de otro, una liquidación por cuota tributaria no sancionadora. ¿Qué diferencia existe entre ambos actos en cuanto a la suspensión automática de su ejecución?",
+        "opciones": [
+          "En ambos casos la suspensión automática exige aportar alguna de las garantías tasadas (depósito, aval o fianza).",
+          "La sanción se suspende automáticamente sin necesidad de aportar garantía alguna, mientras que la liquidación por cuota exige aportar alguna de las garantías legalmente previstas para obtener la suspensión automática.",
+          "Ninguno de los dos actos puede suspenderse automáticamente; ambos requieren resolución expresa previa del órgano de recaudación.",
+          "La liquidación por cuota se suspende automáticamente sin garantía, mientras que la sanción exige una garantía reforzada."
+        ],
+        "correcta": 1,
+        "explicacion": "El matiz que se exige combinar es el tipo de acto impugnado con el régimen de garantías: como regla general, la suspensión automática exige aportar alguna de las garantías tasadas (dinero, aval o fianza personal hasta 1.500 euros), pero el tema introduce una excepción expresa para las sanciones tributarias, cuya ejecución queda suspendida automáticamente sin necesidad de aportar garantía alguna. Invertir esta regla (opción D) es el error típico de quien recuerda que existe una excepción sin garantía, pero no a qué acto se aplica.",
+        "nivel": "avanzado",
+        "id": "tema-24-q129"
+      },
+      {
+        "enunciado": "En una reclamación económico-administrativa, un interesado no puede aportar ninguna de las garantías tasadas (dinero, aval de entidad de crédito o fianza personal hasta 1.500 euros) para la suspensión automática, pero sí puede ofrecer otro tipo de garantía que se estime suficiente. De los tres tipos de suspensión que distingue el tema, ¿cuál es aplicable y qué órgano la acuerda?",
+        "opciones": [
+          "La suspensión automática, acordada por el Tribunal Económico-Administrativo.",
+          "La suspensión con otras garantías, acordada por el órgano de recaudación; esta modalidad constituye, según el propio tema, una novedad respecto del recurso de reposición.",
+          "La suspensión acordada por el Tribunal Económico-Administrativo, con dispensa total o parcial de garantías.",
+          "No cabe ninguna suspensión si no se aportan exactamente las garantías tasadas del artículo 224."
+        ],
+        "correcta": 1,
+        "explicacion": "El tema distingue tres tipos de suspensión en la vía económico-administrativa y cada uno responde a un supuesto distinto: la automática (con las garantías tasadas), la 'con otras garantías' (cuando el interesado no puede aportar las tasadas pero sí otras que el órgano de recaudación estime suficientes, señalada expresamente como novedad frente a la reposición) y la del propio Tribunal (dispensa total o parcial de garantías por perjuicios de difícil o imposible reparación). El supuesto planteado encaja exactamente en la segunda, y es importante no confundir el órgano que la acuerda (recaudación, no el Tribunal).",
+        "nivel": "avanzado",
+        "id": "tema-24-q130"
+      },
+      {
+        "enunciado": "Se impugna ante el Tribunal Económico-Administrativo un acto que no tiene por objeto una deuda tributaria ni una cantidad líquida (por ejemplo, la denegación de un aplazamiento). ¿En qué condiciones puede el Tribunal suspender su ejecución, según el tema?",
+        "opciones": [
+          "Nunca puede suspenderse la ejecución de actos que no tengan por objeto una deuda tributaria o cantidad líquida.",
+          "El Tribunal podrá suspender su ejecución cuando así lo solicite el interesado y este justifique que la ejecución pudiera causarle perjuicios de imposible o difícil reparación.",
+          "Solo puede suspenderse si el interesado aporta alguna de las garantías tasadas de la suspensión automática.",
+          "La suspensión en este caso es siempre automática, sin necesidad de solicitud ni de justificación alguna."
+        ],
+        "correcta": 1,
+        "explicacion": "La trampa es asumir que, al no tratarse de una deuda líquida, no cabe ninguna suspensión, o que opera igual que la automática. El tema prevé expresamente este supuesto: cuando el acto no tiene por objeto una deuda tributaria o cantidad líquida, el Tribunal podrá suspender su ejecución si el interesado lo solicita y justifica el riesgo de perjuicios de imposible o difícil reparación, un régimen distinto tanto de la suspensión automática (que exige garantía tasada) como de la ausencia total de suspensión.",
+        "nivel": "avanzado",
+        "id": "tema-24-q131"
+      },
+      {
+        "enunciado": "Un contribuyente obtuvo la suspensión automática de un acto en recurso de reposición al aportar un aval bancario. Desestimado el recurso, interpone a continuación reclamación económico-administrativa. ¿Qué ocurre con la suspensión ya obtenida, y durante cuánto tiempo se mantiene en vía económico-administrativa?",
+        "opciones": [
+          "Se pierde automáticamente, debiendo solicitar y constituir una nueva garantía ante el Tribunal Económico-Administrativo.",
+          "Se mantiene en la vía económico-administrativa, siempre que la garantía prestada conserve su vigencia y eficacia, y dicha suspensión se mantendrá durante la tramitación del procedimiento económico-administrativo en todas sus instancias.",
+          "Se mantiene solo durante la primera instancia económico-administrativa, debiendo renovarse la garantía para acceder a la segunda instancia (alzada).",
+          "Se mantiene únicamente si el Tribunal dicta expresamente, en los primeros quince días, una nueva resolución confirmando la suspensión."
+        ],
+        "correcta": 1,
+        "explicacion": "El dato que distingue esta pregunta es que el mantenimiento de la suspensión no se limita a la primera instancia ni exige un nuevo pronunciamiento expreso: el tema señala que la suspensión producida en el recurso de reposición se mantiene en la vía económico-administrativa mientras la garantía conserve su vigencia y eficacia, y que dicho mantenimiento se extiende a todas las instancias del procedimiento económico-administrativo, incluida por tanto la de alzada si llegara a darse.",
+        "nivel": "avanzado",
+        "id": "tema-24-q132"
+      },
+      {
+        "enunciado": "Un interesado interpone un recurso extraordinario de revisión contra un acto firme y solicita, simultáneamente, la suspensión de su ejecución alegando perjuicios de difícil reparación. ¿Es esto posible conforme al tema?",
+        "opciones": [
+          "Sí, el Tribunal podrá suspender con dispensa total o parcial de garantías, igual que en la reclamación económico-administrativa ordinaria.",
+          "No; la ejecución del acto o resolución impugnada mediante recurso extraordinario de revisión no podrá suspenderse en ningún caso.",
+          "Sí, pero solo si aporta alguna de las garantías tasadas del artículo 224 LGT.",
+          "Sí, siempre que se trate de una sanción tributaria, en cuyo caso la suspensión sería automática."
+        ],
+        "correcta": 1,
+        "explicacion": "El error es trasladar al recurso extraordinario de revisión las reglas generales de suspensión (automática, con otras garantías, o por el Tribunal) que sí operan en el recurso de reposición y en la reclamación económico-administrativa ordinaria. El tema establece una regla específica y tajante para este recurso: su ejecución no podrá suspenderse en ningún caso, sin excepciones ni siquiera para sanciones.",
+        "nivel": "avanzado",
+        "id": "tema-24-q133"
+      },
+      {
+        "enunciado": "Un contribuyente, disconforme con una liquidación, interpone simultáneamente recurso de reposición y reclamación económico-administrativa contra el mismo acto, pensando que así agiliza su resolución. ¿Es correcta esta actuación conforme al tema?",
+        "opciones": [
+          "Sí, ambas vías son compatibles y pueden tramitarse simultáneamente, al tratarse de recursos distintos.",
+          "No, porque el recurso de reposición es potestativo y previo a la reclamación económico-administrativa, y el tema señala expresamente que no podrán simultanearse ambos.",
+          "Sí, siempre que se trate de actos de cuantía inferior a 150.000 euros.",
+          "No, porque el recurso de reposición solo cabe cuando el acto ha sido dictado por el propio TEAC."
+        ],
+        "correcta": 1,
+        "explicacion": "La característica esencial del recurso de reposición que el tema subraya es precisamente esta: es potestativo y previo a la reclamación económico-administrativa, de modo que el interesado elige una u otra vía, pero el texto es explícito en que 'no podrán simultanearse el recurso de reposición y la reclamación económico-administrativa'. La cuantía (opción C) no tiene nada que ver con esta incompatibilidad, que rige siempre.",
+        "nivel": "avanzado",
+        "id": "tema-24-q134"
+      },
+      {
+        "enunciado": "Transcurrido el plazo de un mes desde la interposición de un recurso de reposición sin que se haya notificado resolución expresa, ¿qué puede hacer el interesado, y qué límite se aplicaría si la Administración resolviera después expresamente desestimando el recurso?",
+        "opciones": [
+          "El interesado puede considerar desestimado el recurso para interponer la reclamación procedente; y si posteriormente se resuelve de forma expresa, la resolución no puede suponer un agravamiento de su situación inicial, en caso de desestimación, por el principio de prohibición de reformatio in peius.",
+          "El interesado debe esperar indefinidamente a la resolución expresa, ya que el silencio no produce ningún efecto en este recurso.",
+          "El interesado puede considerar estimado el recurso por silencio positivo, de modo que la Administración ya no podrá resolver después de forma expresa.",
+          "El interesado puede considerar desestimado el recurso, pero si posteriormente se resuelve expresamente, la Administración puede agravar su situación inicial sin límite alguno, pues el recurrente asume ese riesgo al recurrir."
+        ],
+        "correcta": 0,
+        "explicacion": "Hay que combinar dos reglas del tema que se refieren al mismo plazo: transcurrido el mes sin resolución expresa, el interesado puede entender desestimado el recurso a efectos de interponer la reclamación procedente (no hay silencio positivo, descartando la opción C); y si la Administración resuelve expresamente, rige la prohibición de reformatio in peius, de modo que la resolución no puede agravar la situación inicial del recurrente en caso de desestimación, lo que descarta la posibilidad de un empeoramiento sin límite que plantea la opción D.",
+        "nivel": "avanzado",
+        "id": "tema-24-q135"
+      },
+      {
+        "enunciado": "Un interesado obtuvo la suspensión del acto al interponer recurso de reposición. Transcurre el plazo máximo de un mes para resolver sin que se notifique resolución expresa. ¿Qué efecto produce esto sobre los intereses de demora?",
+        "opciones": [
+          "Los intereses de demora se siguen devengando con normalidad, sin alteración alguna por el transcurso del plazo.",
+          "Dejará de devengarse el interés de demora, siempre que se haya acordado la suspensión del acto recurrido.",
+          "Se devengan intereses de demora al doble del tipo ordinario, como sanción por la demora administrativa en resolver.",
+          "Los intereses de demora solo dejan de devengarse si el interesado lo solicita expresamente y el órgano de recaudación lo concede."
+        ],
+        "correcta": 1,
+        "explicacion": "El dato que hay que combinar es la existencia de suspensión acordada con el incumplimiento del plazo de un mes para resolver: el tema señala que, transcurrido dicho plazo sin resolución expresa, y siempre que se haya acordado la suspensión del acto recurrido, dejará de devengarse el interés de demora. Si no hubiera suspensión acordada, este efecto no se produciría, de modo que la condición de la suspensión es determinante y no un automatismo general.",
+        "nivel": "avanzado",
+        "id": "tema-24-q136"
+      },
+      {
+        "enunciado": "Una resolución dictada en primera instancia por un TEAR es, por razón de la cuantía, susceptible de recurso de alzada ordinario. El Director del Departamento de la AEAT competente por razón de la materia no está de acuerdo con dicha resolución. ¿Qué recurso debe utilizar?",
+        "opciones": [
+          "El recurso de alzada extraordinario para unificación de criterio, porque los Directores de Departamento de la AEAT solo pueden recurrir por esa vía, nunca mediante el alzada ordinario.",
+          "El recurso de alzada ordinario, puesto que el Director de Departamento de la AEAT está también legitimado para interponerlo, y el recurso extraordinario para unificación de criterio solo cabe contra resoluciones que NO sean susceptibles de alzada ordinario.",
+          "El recurso extraordinario de revisión, al ser el de legitimación más amplia entre los recursos extraordinarios.",
+          "Ninguno, porque los Directores de Departamento de la AEAT carecen de legitimación para recurrir resoluciones dictadas por los TEAR."
+        ],
+        "correcta": 1,
+        "explicacion": "La clave para distinguir ambos recursos no es solo quién puede interponerlos, sino también qué resoluciones son recurribles por cada vía. El tema legitima para el alzada ordinario tanto a los interesados como a los Directores Generales del Ministerio y a los Directores de Departamento de la AEAT; en cambio, reserva el recurso extraordinario para unificación de criterio a las resoluciones que NO sean susceptibles de alzada ordinario (o, en su caso, dictadas en única instancia). Como en este supuesto la resolución sí es recurrible en alzada ordinaria, es esa la vía que corresponde, y no la extraordinaria.",
+        "nivel": "avanzado",
+        "id": "tema-24-q137"
+      },
+      {
+        "enunciado": "En relación con la tramitación del recurso de alzada ordinario, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "El escrito de interposición se dirige directamente al TEAC, que resuelve en el plazo de un mes desde su interposición.",
+          "El escrito de interposición se dirige al Tribunal que hubiese dictado la resolución recurrida, el cual dispone de un mes para remitirlo al TEAC; el plazo de interposición del recurso es de un mes y el plazo de resolución por el TEAC es de un año.",
+          "El escrito de interposición se dirige directamente al TEAC, y el plazo para dictar resolución es de seis meses, igual que en el recurso de unificación de doctrina.",
+          "El escrito de interposición se dirige al Tribunal que dictó la resolución recurrida, que resuelve él mismo el recurso en segunda instancia en el plazo de un año."
+        ],
+        "correcta": 1,
+        "explicacion": "La trampa habitual es pensar que, como el órgano competente en segunda instancia es el TEAC, el escrito se presenta directamente ante él. El tema precisa que el escrito de interposición se dirige al Tribunal que dictó la resolución recurrida (es decir, el TEAR, TEAL u órgano autonómico de origen), que dispone de un mes para remitirlo al TEAC; además, hay que distinguir con cuidado los plazos: un mes para interponer el recurso desde la notificación, y un año como plazo máximo de resolución por el TEAC, sin confundirlo con los seis meses de la unificación de doctrina.",
+        "nivel": "avanzado",
+        "id": "tema-24-q138"
+      },
+      {
+        "enunciado": "Una Comunidad Autónoma ha optado, conforme al artículo 59 de la Ley 22/2009, por asumir la competencia para resolver las reclamaciones económico-administrativas en única instancia. Un contribuyente de dicha Comunidad recibe una resolución sobre un asunto cuya cuantía supera los 150.000 euros. ¿Cabe recurso de alzada ordinario ante el TEAC?",
+        "opciones": [
+          "Sí, porque la cuantía supera el umbral de 150.000 euros que, con carácter general, da acceso a la doble instancia.",
+          "No, porque la opción autonómica por la única instancia, conforme al artículo 59 de la Ley 22/2009, excluye el recurso de alzada ordinario con independencia de que la cuantía supere los umbrales que en otro caso permitirían la doble instancia.",
+          "Sí, pero únicamente ante el órgano económico-administrativo autonómico, nunca ante el TEAC.",
+          "No, porque las Comunidades Autónomas nunca pueden optar por la única instancia, siendo esa opción exclusiva del Estado."
+        ],
+        "correcta": 1,
+        "explicacion": "Esta pregunta exige combinar dos elementos que normalmente se estudian por separado: la cuantía (que decide, con carácter general, si hay una o dos instancias) y la opción autonómica del artículo 59 de la Ley 22/2009. El tema precisa que, cuando la Comunidad Autónoma ha optado por resolver en única instancia, 'no cabrá recurso de alzada', de modo que esta opción prevalece y hace irrelevante que la cuantía supere el umbral que, de no mediar esa opción, habría permitido la doble instancia.",
+        "nivel": "avanzado",
+        "id": "tema-24-q139"
+      },
+      {
+        "enunciado": "Un contribuyente obtuvo una resolución favorable en primera instancia económico-administrativa. El Director del Departamento competente de la AEAT, por considerarla gravemente dañosa y errónea, interpone contra ella un recurso de alzada extraordinario para unificación de criterio. ¿Debe preocuparse el contribuyente por perder lo ya ganado si el TEAC estima el recurso?",
+        "opciones": [
+          "Sí, porque si el TEAC estima el recurso, la resolución favorable al contribuyente queda anulada y este debe devolver lo percibido.",
+          "No, porque la resolución que se dicte en este recurso respetará la situación jurídica particular derivada de la resolución recurrida, de modo que el contribuyente no queda afectado individualmente; el recurso solo sirve para unificar el criterio administrativo hacia el futuro.",
+          "Sí, porque el recurso de unificación de criterio tiene efectos retroactivos sobre el caso concreto que lo origina.",
+          "No debe preocuparse, pero únicamente porque el plazo de resolución (3 meses) habrá transcurrido antes de dictarse la resolución."
+        ],
+        "correcta": 1,
+        "explicacion": "La particularidad esencial de este recurso, que el propio tema subraya, es que su resolución 'respetará la situación jurídica particular derivada de la resolución que se recurra', de modo que el particular que obtuvo la resolución favorable no queda afectado individualmente por lo que se decida; el recurso sirve únicamente para fijar un criterio administrativo hacia adelante, no para revertir el caso concreto, lo que descarta cualquier efecto retroactivo sobre esa resolución.",
+        "nivel": "avanzado",
+        "id": "tema-24-q140"
+      },
+      {
+        "enunciado": "En la Sala Especial para la Unificación de Doctrina se produce un empate en la votación sobre la resolución a dictar. ¿Cómo se resuelve dicho empate, y cuál es el plazo máximo para dictar la resolución desde la interposición del recurso?",
+        "opciones": [
+          "Se resuelve por sorteo entre los miembros de la Sala, y el plazo de resolución es de 3 meses.",
+          "El Presidente del TEAC, que preside la Sala, tiene voto de calidad en caso de empate, y la resolución debe dictarse en el plazo de 6 meses.",
+          "El empate se resuelve siempre a favor de la postura del Director General de Tributos, y el plazo de resolución es de 1 año.",
+          "No puede producirse empate, porque la Sala está compuesta por un número impar de miembros; el plazo de resolución es de 6 meses."
+        ],
+        "correcta": 1,
+        "explicacion": "La Sala Especial se compone de ocho miembros (el Presidente del TEAC, tres vocales de dicho tribunal, el Director General de Tributos, el Director General de la AEAT, el Director del Departamento de la AEAT del que dependa el órgano autor del acto, y el Presidente del Consejo para la Defensa del Contribuyente), un número par que sí permite el empate, por lo que la opción D es incorrecta. El tema resuelve ese empate atribuyendo al Presidente voto de calidad, y fija el plazo de resolución en 6 meses, no en 3 meses ni en un año.",
+        "nivel": "avanzado",
+        "id": "tema-24-q141"
+      },
+      {
+        "enunciado": "Un contribuyente particular, disconforme con una resolución del TEAC que considera errónea y perjudicial para sus intereses, pretende interponer directamente un recurso extraordinario para la unificación de doctrina. ¿Puede hacerlo?",
+        "opciones": [
+          "Sí, cualquier interesado puede interponer este recurso contra resoluciones del TEAC que le perjudiquen.",
+          "No, porque este recurso solo puede interponerlo el Director General de Tributos del Ministerio de Economía y Hacienda (o, en su caso, los Directores Generales de Tributos de las Comunidades Autónomas cuando el origen sea una resolución de un órgano de su respectiva Comunidad), nunca un particular.",
+          "Sí, pero solo si previamente ha agotado el recurso de alzada extraordinario para unificación de criterio.",
+          "No, porque este recurso solo puede dirigirse contra resoluciones de los TEAR, nunca contra resoluciones del TEAC."
+        ],
+        "correcta": 1,
+        "explicacion": "Al igual que ocurre con el alzada extraordinario para unificación de criterio, este recurso tiene una legitimación cerrada que excluye a los particulares: el tema dice expresamente que 'solo puede ser interpuesto' por el Director General de Tributos del Ministerio (o por los Directores Generales de Tributos de las Comunidades Autónomas, cuando el origen sea una resolución de un órgano dependiente de esa Comunidad). Además, se dirige precisamente contra resoluciones del TEAC, no de los TEAR, lo que descarta también la opción D.",
+        "nivel": "avanzado",
+        "id": "tema-24-q142"
+      },
+      {
+        "enunciado": "Tras dictarse una resolución económico-administrativa firme, se descubre que uno de los testimonios que influyeron esencialmente en dicha resolución fue declarado falso por una sentencia judicial firme posterior. ¿Cabe algún recurso frente a dicha resolución firme, y en qué plazo debe interponerse?",
+        "opciones": [
+          "No cabe ningún recurso contra resoluciones firmes, al margen de las circunstancias sobrevenidas que puedan concurrir.",
+          "Cabe el recurso extraordinario de revisión, en el plazo de 3 meses a contar desde que quedó firme la sentencia judicial que declaró la falsedad.",
+          "Cabe el recurso de alzada ordinario, en el plazo de un mes desde que se conoció la sentencia.",
+          "Cabe el recurso extraordinario para unificación de doctrina, en el plazo de 6 meses desde la sentencia."
+        ],
+        "correcta": 1,
+        "explicacion": "El recurso de alzada ordinario (opción C) solo cabe contra resoluciones de primera instancia, no contra resoluciones firmes, y la unificación de doctrina (opción D) tiene una legitimación restringida a Directores Generales y no responde a esta causa. El supuesto encaja exactamente en una de las tres circunstancias tasadas del recurso extraordinario de revisión: que al dictar la resolución hayan influido esencialmente testimonios declarados falsos por sentencia judicial firme; el plazo de interposición, en este caso, se cuenta desde que quedó firme dicha sentencia, y es de 3 meses.",
+        "nivel": "avanzado",
+        "id": "tema-24-q143"
+      },
+      {
+        "enunciado": "Tras resolverse un recurso extraordinario de revisión, el interesado no está satisfecho con la resolución dictada por el TEAC y pretende volver a recurrirla en vía administrativa. ¿Es esto posible conforme al tema?",
+        "opciones": [
+          "Sí, cabe interponer recurso de alzada ordinario ante el propio TEAC.",
+          "Sí, cabe interponer un nuevo recurso extraordinario de revisión si aparecen nuevos documentos relevantes.",
+          "No; contra la resolución que se dicte en el recurso de revisión no se dará ningún otro recurso en vía administrativa, por lo que solo quedaría, en su caso, la vía contencioso-administrativa.",
+          "Sí, cabe el recurso extraordinario para unificación de criterio, interpuesto directamente por el propio interesado."
+        ],
+        "correcta": 2,
+        "explicacion": "El tema cierra expresamente la vía administrativa tras este recurso: 'contra la resolución que se dicte en el recurso de revisión no se dará ningún otro en vía administrativa'. Esto descarta tanto un nuevo recurso de revisión (que, además, exigiría una nueva circunstancia tasada distinta, no una simple reiteración) como el alzada ordinario o el de unificación de criterio (que, por añadidura, no puede interponerlo un particular). La única vía que quedaría abierta es, en su caso, la contencioso-administrativa.",
+        "nivel": "avanzado",
+        "id": "tema-24-q144"
+      },
+      {
+        "enunciado": "Un contribuyente discute en una reclamación económico-administrativa la valoración de un inmueble, con una diferencia de 1.600.000 euros respecto a lo declarado. La resolución de primera instancia no le es favorable y la Comunidad Autónoma correspondiente no ha optado por la única instancia del artículo 59 de la Ley 22/2009. ¿Cabe recurso de alzada ordinario?",
+        "opciones": [
+          "Sí, porque la cuantía supera los 150.000 euros, umbral general que da acceso a la doble instancia.",
+          "No, porque al discutirse una cuestión de valoración, el umbral aplicable es de 1.800.000 euros, y la cuantía de 1.600.000 euros no lo supera, por lo que la resolución es en única instancia y no cabe alzada ordinario.",
+          "Sí, porque toda discusión sobre valoración de bienes da siempre acceso a la doble instancia, cualquiera que sea su cuantía.",
+          "No, porque las cuestiones de valoración nunca pueden ser objeto de recurso de alzada ordinario, cualquiera que sea su cuantía."
+        ],
+        "correcta": 1,
+        "explicacion": "La trampa es aplicar automáticamente el umbral general de 150.000 euros sin advertir que el esquema del tema prevé un umbral distinto y más elevado (1.800.000 euros) cuando lo que se discute es precisamente la base o la valoración. Como la diferencia de valoración del supuesto (1.600.000 euros) no alcanza ese umbral específico, la resolución de primera instancia es en única instancia y no cabe recurso de alzada ordinario, aunque si se tratase de una cuantía 'ordinaria' por encima de 150.000 euros sí habría dado acceso a la doble instancia.",
+        "nivel": "avanzado",
+        "id": "tema-24-q145"
+      }
+    ]
+  },
+  {
+    "id": "tema-25",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 25. La reclamación administrativa previa a las vías jurisdiccionales civil y laboral.",
+    "preguntas": [
+      {
+        "enunciado": "¿En qué Título y artículos de la Ley 30/1992 se regulaba la reclamación administrativa previa a las vías civil y laboral?",
+        "opciones": [
+          "Título VII, arts. 120 a 126",
+          "Título VI, arts. 107 a 113",
+          "Título VIII, arts. 130 a 136",
+          "Título IV, arts. 89 a 95"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con confundir el título. La reclamación previa se regulaba en el Título VII (arts. 120 a 126) de la extinta Ley 30/1992, denominado \"De las reclamaciones previas al ejercicio de las acciones civiles y laborales\".",
+        "parte": 1,
+        "id": "tema-25-q1"
+      },
+      {
+        "enunciado": "¿Qué norma suprimió la exigencia de presentar reclamación administrativa previa a la demanda civil o social contra la Administración?",
+        "opciones": [
+          "La Ley 39/2015 (LPAC)",
+          "La Ley 40/2015 (LRJSP)",
+          "La Ley 29/1998 (LJCA)",
+          "La Ley 6/1997 (LOFAGE)"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa clásica: confundir la Ley 39/2015 (procedimiento, que suprime la reclamación previa) con la Ley 40/2015 (régimen jurídico del sector público). Fue la Ley 39/2015 del Procedimiento Administrativo Común la que suprimió esta exigencia, por su \"escasa utilidad práctica\".",
+        "parte": 1,
+        "id": "tema-25-q2"
+      },
+      {
+        "enunciado": "Según el legislador, ¿cuál fue la razón esgrimida para suprimir la reclamación administrativa previa?",
+        "opciones": [
+          "Su escasa utilidad práctica",
+          "Su inconstitucionalidad declarada por el TC",
+          "Su incompatibilidad con el Derecho de la Unión Europea",
+          "Su coste económico excesivo para la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que parece: la figura no fue declarada inconstitucional (de hecho la STC 330/2006 la avaló), sino que el legislador alegó su \"escasa utilidad práctica\" como razón de la supresión.",
+        "parte": 1,
+        "id": "tema-25-q3"
+      },
+      {
+        "enunciado": "¿En qué artículos de la LOFAGE (Ley 6/1997) se regulaba la competencia para conocer de las reclamaciones previas de organismos autónomos y entidades públicas empresariales, respectivamente?",
+        "opciones": [
+          "Arts. 52.2 y 60.2",
+          "Arts. 60.2 y 52.2",
+          "Arts. 120.1 y 121.1",
+          "Arts. 42.1 y 50.3"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con el orden: el art. 52.2 LOFAGE se refiere a los organismos autónomos y el art. 60.2 a las entidades públicas empresariales, en ese orden, no al revés.",
+        "parte": 1,
+        "id": "tema-25-q4"
+      },
+      {
+        "enunciado": "¿Desde qué fecha quedó derogada la LOFAGE (Ley 6/1997) por la Ley 40/2015?",
+        "opciones": [
+          "2 de octubre de 2016",
+          "1 de octubre de 2016",
+          "2 de octubre de 2015",
+          "2 de octubre de 2017"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa de fecha: la derogación, por la disposición derogatoria única.c) de la Ley 40/2015, surte efectos desde el 2 de octubre de 2016, no en 2015 (año de aprobación de la propia Ley 40/2015) ni en 2017.",
+        "parte": 1,
+        "id": "tema-25-q5"
+      },
+      {
+        "enunciado": "¿Qué disposición concreta de la Ley 40/2015 deroga la LOFAGE?",
+        "opciones": [
+          "La disposición derogatoria única, letra c)",
+          "La disposición adicional primera",
+          "La disposición transitoria tercera",
+          "El artículo 1.2"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata de una disposición adicional ni transitoria: es la disposición derogatoria única.c) de la Ley 40/2015 la que deroga expresamente la LOFAGE.",
+        "parte": 1,
+        "id": "tema-25-q6"
+      },
+      {
+        "enunciado": "El art. 103 CE enumera varios principios de actuación de la Administración junto al sometimiento pleno a la Ley y al Derecho. ¿Cuál de los siguientes NO aparece entre ellos?",
+        "opciones": [
+          "Proporcionalidad",
+          "Eficacia",
+          "Jerarquía",
+          "Descentralización"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la proporcionalidad es un principio general del Derecho Administrativo, pero no es uno de los enumerados en el art. 103 CE, que cita eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+        "parte": 1,
+        "id": "tema-25-q7"
+      },
+      {
+        "enunciado": "¿Qué consecuencia directa señala el texto cuando un acto de una Administración Pública se somete al Derecho Privado o laboral y no al Derecho Administrativo?",
+        "opciones": [
+          "La determinación de la jurisdicción competente",
+          "La exigencia de reclamación previa en todo caso",
+          "La aplicación automática del silencio positivo",
+          "La inaplicación del art. 103 CE"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no es que siempre haya reclamación previa (precisamente esta se suprimió); la consecuencia directa que destaca el texto es la determinación de la Jurisdicción competente para conocer del asunto.",
+        "parte": 1,
+        "id": "tema-25-q8"
+      },
+      {
+        "enunciado": "Según el art. 1 de la Ley 29/1998 (LJCA), ¿de qué conocen los Juzgados y Tribunales del orden contencioso-administrativo?",
+        "opciones": [
+          "De las pretensiones relacionadas con la actuación de las Administraciones Públicas sujeta al Derecho Administrativo",
+          "De todas las pretensiones relacionadas con cualquier actuación de la Administración, sea pública o privada",
+          "De las pretensiones relacionadas exclusivamente con el Derecho Laboral",
+          "De las pretensiones civiles y laborales entre particulares"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa habitual: la jurisdicción contencioso-administrativa no conoce de toda actuación administrativa, sino solo de la sujeta a Derecho Administrativo; cuando la Administración actúa conforme a Derecho Privado o del Trabajo, esa jurisdicción no es competente.",
+        "parte": 1,
+        "id": "tema-25-q9"
+      },
+      {
+        "enunciado": "¿Qué nombre reciben los actos \"relativos a la formación de la voluntad de la Administración, a su preparación y adjudicación\" que, según la STS 781/2007, siguen sometidos al Derecho Administrativo?",
+        "opciones": [
+          "Actos separables",
+          "Actos de trámite cualificados",
+          "Actos preparatorios autónomos",
+          "Actos de gestión patrimonial"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con el nombre técnico: se llaman \"actos separables\", y pese a que la relación final pueda regirse por Derecho Privado, estos actos previos de formación de la voluntad administrativa quedan sujetos a Derecho Administrativo y a control contencioso-administrativo.",
+        "parte": 1,
+        "id": "tema-25-q10"
+      },
+      {
+        "enunciado": "¿Qué sentencia acuña la doctrina de los \"actos separables\" citada en el texto?",
+        "opciones": [
+          "STS 781/2007",
+          "STC 330/2006",
+          "STC 120/93",
+          "STS de 12 de mayo de 1961"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundir con la STC 330/2006 (sobre compatibilidad de la reclamación previa con el art. 24.1 CE) ni con la STC 120/93 (sobre conciliación). La doctrina de los actos separables procede de la STS 781/2007.",
+        "parte": 1,
+        "id": "tema-25-q11"
+      },
+      {
+        "enunciado": "La reclamación administrativa previa tenía, respecto del ejercicio de las acciones civiles o laborales, el carácter de:",
+        "opciones": [
+          "Requisito previo a su ejercicio",
+          "Recurso administrativo potestativo",
+          "Trámite exclusivamente laboral",
+          "Condición de admisibilidad del recurso de alzada"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trataba de un recurso administrativo ni de algo exclusivamente laboral: era \"requisito previo\" al ejercicio de las acciones civiles o laborales ante los órganos jurisdiccionales correspondientes.",
+        "parte": 1,
+        "id": "tema-25-q12"
+      },
+      {
+        "enunciado": "¿Cuál es el origen histórico más antiguo de la reclamación administrativa previa citado en el texto?",
+        "opciones": [
+          "La Real Orden de 9 de junio de 1847",
+          "La Ley de Bases de 11 de abril de 1868",
+          "La Ley de Procedimiento Administrativo de 1958",
+          "La Ley 30/1992"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa de orden cronológico: el origen más remoto es la Real Orden de 9 de junio de 1847, que luego se reitera en la Ley de Bases de 1868 sobre unificación de fueros.",
+        "parte": 1,
+        "id": "tema-25-q13"
+      },
+      {
+        "enunciado": "¿Qué norma reitera, en 1868, el régimen iniciado por la Real Orden de 1847 sobre unificación de fueros?",
+        "opciones": [
+          "La Ley de Bases de 11 de abril de 1868",
+          "El Real Decreto 2205/1980",
+          "La Ley de Procedimiento Administrativo de 1958",
+          "La Ley 29/1998"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con el año: la norma que reitera ese régimen es la Ley de Bases de 11 de abril de 1868, sobre unificación de fueros, no la Ley de Procedimiento Administrativo (que es de 1958).",
+        "parte": 1,
+        "id": "tema-25-q14"
+      },
+      {
+        "enunciado": "¿Cuál es el antecedente normativo más próximo a la regulación de la Ley 30/1992 que cita el texto?",
+        "opciones": [
+          "La Ley de Procedimiento Administrativo de 1958",
+          "La Real Orden de 1847",
+          "La Ley de Bases de 1868",
+          "La LOFAGE de 1997"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: entre los antecedentes citados, el más próximo en el tiempo a la Ley 30/1992 es la Ley de Procedimiento Administrativo de 1958, y no la LOFAGE (que es posterior, de 1997, pero regula otra cuestión: la competencia para conocer reclamaciones).",
+        "parte": 1,
+        "id": "tema-25-q15"
+      },
+      {
+        "enunciado": "¿Cómo se denominaba exactamente el Título VII de la Ley 30/1992?",
+        "opciones": [
+          "\"De las reclamaciones previas al ejercicio de las acciones civiles y laborales\"",
+          "\"Del procedimiento administrativo común\"",
+          "\"De la revisión de los actos en vía administrativa\"",
+          "\"De las reclamaciones previas al recurso contencioso-administrativo\""
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no hay que confundirlo con el recurso contencioso-administrativo: el Título VII se titulaba \"De las reclamaciones previas al ejercicio de las acciones civiles y laborales\", referido exclusivamente a esas dos vías.",
+        "parte": 1,
+        "id": "tema-25-q16"
+      },
+      {
+        "enunciado": "¿Qué norma regulaba originalmente la competencia para conocer de las reclamaciones previas de los organismos autónomos y las entidades públicas empresariales?",
+        "opciones": [
+          "La LOFAGE (Ley 6/1997)",
+          "La LRJSP (Ley 40/2015)",
+          "La LPAC (Ley 39/2015)",
+          "La LJCA (Ley 29/1998)"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque la LRJSP (Ley 40/2015) es la que deroga esta regulación desde 2016, la norma que originalmente la contenía era la LOFAGE (Ley 6/1997), en sus arts. 52.2 y 60.2.",
+        "parte": 1,
+        "id": "tema-25-q17"
+      },
+      {
+        "enunciado": "Cuando la Administración actúa como empresario conforme a la normativa del Derecho del Trabajo, ¿qué explica el texto sobre esa posibilidad?",
+        "opciones": [
+          "Que la Ley lo permite, sometiéndose a reglas de Derecho Privado o laboral en vez de Derecho Administrativo",
+          "Que queda automáticamente excluida del control judicial",
+          "Que se aplica siempre y en todo caso la jurisdicción contencioso-administrativa",
+          "Que desaparece la reclamación administrativa previa en todo caso desde 1958"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no implica exclusión del control judicial: simplemente, cuando la Ley lo permite, la Administración actúa siguiendo reglas de Derecho Privado o del Trabajo en vez de Derecho Administrativo, lo que determina después qué jurisdicción es competente.",
+        "parte": 1,
+        "id": "tema-25-q18"
+      },
+      {
+        "enunciado": "¿Qué tipo de normas eran, conforme al art. 120.1 de la Ley 30/1992, las que podían exceptuar la exigencia de reclamación previa?",
+        "opciones": [
+          "Disposiciones con rango de ley",
+          "Reglamentos de desarrollo",
+          "Órdenes ministeriales",
+          "Circulares administrativas internas"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa de jerarquía normativa: el art. 120.1 exigía rango de ley para exceptuar el requisito, no bastaba un reglamento, una orden ministerial ni una circular.",
+        "parte": 1,
+        "id": "tema-25-q19"
+      },
+      {
+        "enunciado": "¿Qué jurisdicción resulta incompetente, según el art. 1 LJCA, para conocer de actuaciones de las Administraciones Públicas sometidas a Derecho Privado o laboral?",
+        "opciones": [
+          "La jurisdicción contencioso-administrativa",
+          "La jurisdicción civil",
+          "La jurisdicción social",
+          "La jurisdicción penal"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que podría pensarse: precisamente por ese sometimiento a Derecho Privado o laboral, es la jurisdicción contencioso-administrativa la que no resulta competente, correspondiendo entonces el conocimiento a la civil o laboral.",
+        "parte": 1,
+        "id": "tema-25-q20"
+      },
+      {
+        "enunciado": "¿Qué naturaleza tenía la reclamación administrativa previa según el texto?",
+        "opciones": [
+          "Naturaleza procesal, como requisito procesal subsanable",
+          "Naturaleza sustantiva e insubsanable",
+          "Naturaleza puramente formal sin efectos procesales",
+          "Naturaleza penal"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con \"insubsanable\": precisamente lo contrario, la reclamación previa tenía naturaleza procesal pero con carácter subsanable en cualquier momento del litigio, conforme al principio antiformalista y pro actione.",
+        "parte": 1,
+        "id": "tema-25-q21"
+      },
+      {
+        "enunciado": "¿Qué principio permitía que, si la reclamación previa no se había interpuesto antes, pudiera subsanarse en un momento ulterior del litigio?",
+        "opciones": [
+          "El principio antiformalista y pro actione",
+          "El principio de autotutela administrativa",
+          "El principio de legalidad presupuestaria",
+          "El principio de jerarquía normativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se trata de autotutela (que es la base de la posición privilegiada de la Administración, no de la subsanación), sino del principio antiformalista y pro actione, que facilitaba el acceso a la jurisdicción.",
+        "parte": 1,
+        "id": "tema-25-q22"
+      },
+      {
+        "enunciado": "¿Cómo definía el art. 120.1 de la Ley 30/1992 la reclamación en vía administrativa?",
+        "opciones": [
+          "Como requisito previo al ejercicio de acciones fundadas en derecho privado o laboral contra cualquier Administración Pública, salvo exceptuación por norma con rango de ley",
+          "Como recurso potestativo frente a actos de trámite",
+          "Como condición de admisibilidad del recurso contencioso-administrativo",
+          "Como trámite exclusivo de la vía laboral militar"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se limitaba a lo laboral militar ni al recurso contencioso-administrativo: el art. 120.1 la definía como requisito previo al ejercicio de acciones fundadas en Derecho privado o laboral contra cualquier Administración Pública.",
+        "parte": 1,
+        "id": "tema-25-q23"
+      },
+      {
+        "enunciado": "Según el art. 121.1 de la Ley 30/1992, ¿qué ocurría si, planteada la reclamación, esta no había sido resuelta y no había transcurrido el plazo para entenderla desestimada?",
+        "opciones": [
+          "No podía deducirse la misma pretensión ante la jurisdicción correspondiente",
+          "Podía deducirse igualmente la demanda sin ninguna limitación",
+          "Se entendía automáticamente estimada la reclamación",
+          "Se abría directamente la vía contencioso-administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se producía estimación automática ni se abría la contencioso-administrativa; el art. 121.1 impedía deducir la misma pretensión ante la jurisdicción civil o laboral hasta la resolución expresa o el transcurso del plazo de silencio.",
+        "parte": 1,
+        "id": "tema-25-q24"
+      },
+      {
+        "enunciado": "¿Qué correspondencia exigía la jurisprudencia entre la reclamación administrativa previa y la demanda posterior?",
+        "opciones": [
+          "Conformidad sustancial, sin exigir identidad absoluta",
+          "Identidad absoluta y literal",
+          "Ninguna correspondencia, al ser trámites independientes",
+          "Coincidencia exclusivamente en la cuantía reclamada"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se requería identidad absoluta: la STS Sala 1ª de 12 de mayo de 1961 exigía una correspondencia de conformidad sustancial entre reclamación y demanda, no una identidad literal perfecta.",
+        "parte": 1,
+        "id": "tema-25-q25"
+      },
+      {
+        "enunciado": "¿Qué sentencia estableció el criterio de \"conformidad sustancial\" (no identidad absoluta) entre la reclamación previa y la demanda?",
+        "opciones": [
+          "STS Sala 1ª de 12 de mayo de 1961",
+          "STC 330/2006, de 20 de noviembre",
+          "STC 120/93",
+          "STS 781/2007"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundir con las sentencias constitucionales (STC 330/2006 y STC 120/93), que tratan otras cuestiones. El criterio de conformidad sustancial proviene de la STS Sala 1ª de 12 de mayo de 1961.",
+        "parte": 1,
+        "id": "tema-25-q26"
+      },
+      {
+        "enunciado": "¿Qué valoración hizo la mayor parte de la doctrina sobre la derogación de la reclamación previa?",
+        "opciones": [
+          "La consideró acertada, pues solo servía para retrasar desestimaciones o generar inadmisibilidad",
+          "La consideró un grave error que dejaba sin tutela a la Administración",
+          "La consideró inconstitucional por vulnerar el art. 103 CE",
+          "La consideró irrelevante por no haberse aplicado nunca en la práctica"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la doctrina no la tildó de inconstitucional ni de irrelevante: la mayoría la consideró acertada, entendiendo que la reclamación previa obligatoria solo servía para retrasar desestimaciones o generar inadmisibilidad, perjudicando al ciudadano.",
+        "parte": 1,
+        "id": "tema-25-q27"
+      },
+      {
+        "enunciado": "¿Qué perjuicio para el ciudadano señalaba la doctrina mayoritaria como consecuencia de la reclamación previa obligatoria?",
+        "opciones": [
+          "Le obligaba a sufrir dilaciones temporales para poder demandar a la Administración",
+          "Le impedía definitivamente acceder a la jurisdicción civil o laboral",
+          "Le obligaba a pagar una tasa judicial adicional",
+          "Le privaba del derecho a la tutela judicial efectiva de forma absoluta"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la reclamación previa no impedía de forma absoluta el acceso a la jurisdicción (de hecho, la STC 330/2006 confirma que no se veía impedida), sino que generaba dilaciones temporales que perjudicaban al ciudadano antes de poder demandar.",
+        "parte": 1,
+        "id": "tema-25-q28"
+      },
+      {
+        "enunciado": "¿Qué autor describe la reclamación previa como un \"status jurídico privilegiado\" en el seno del proceso, manifestación de la autotutela administrativa?",
+        "opciones": [
+          "García de Enterría",
+          "Santamaría Pastor",
+          "El Tribunal Constitucional en la STC 120/93",
+          "El Consejo General del Poder Judicial en su informe de 2015"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con atribuir esta idea a Santamaría Pastor, que trata el tema de la conciliación: la caracterización como \"status jurídico privilegiado\" y manifestación de la autotutela administrativa corresponde a García de Enterría.",
+        "parte": 1,
+        "id": "tema-25-q29"
+      },
+      {
+        "enunciado": "Según García de Enterría, ¿con qué institución del proceso contencioso-administrativo se puede comparar la reclamación previa dentro del proceso civil?",
+        "opciones": [
+          "Con la vía administrativa y el acto que le pone fin",
+          "Con el acto de conciliación preprocesal",
+          "Con el recurso de alzada potestativo",
+          "Con la ejecución de sentencias firmes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se compara con el acto de conciliación (esa es la tesis del TC en la STC 120/93), sino que García de Enterría afirma que la reclamación previa era al proceso civil lo que la vía administrativa y el acto que le pone fin es al proceso contencioso-administrativo.",
+        "parte": 1,
+        "id": "tema-25-q30"
+      },
+      {
+        "enunciado": "¿A qué precepto constitucional se refiere la STC 330/2006 al examinar la compatibilidad del requisito de reclamación previa?",
+        "opciones": [
+          "El art. 24.1 CE (tutela judicial efectiva)",
+          "El art. 103 CE (principios de actuación administrativa)",
+          "El art. 9.3 CE (seguridad jurídica)",
+          "El art. 14 CE (igualdad)"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata del art. 103 CE (que define los principios de actuación de la Administración) sino del art. 24.1 CE, sobre el derecho a la tutela judicial efectiva, con el que la STC 330/2006 declaró compatible este requisito procesal.",
+        "parte": 1,
+        "id": "tema-25-q31"
+      },
+      {
+        "enunciado": "Según la STC 330/2006, de 20 de noviembre, ¿cómo califica técnicamente ese requisito procesal, más que como mero requisito?",
+        "opciones": [
+          "Como carga procesal del demandante",
+          "Como presupuesto de capacidad procesal",
+          "Como requisito de legitimación activa",
+          "Como excepción procesal dilatoria"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa de terminología procesal: el TC precisa que, en rigor, se trata de una carga procesal del demandante, y no de un presupuesto de capacidad ni de una excepción dilatoria strictu sensu.",
+        "parte": 1,
+        "id": "tema-25-q32"
+      },
+      {
+        "enunciado": "¿Qué finalidad atribuye la STC 330/2006 a la reclamación administrativa previa?",
+        "opciones": [
+          "Poner en conocimiento de la Administración el contenido y fundamento de la pretensión, dándole oportunidad de resolver el litigio y evitar la vía judicial",
+          "Garantizar la transacción de derechos entre el ciudadano y la Administración",
+          "Sustituir la conciliación judicial obligatoria",
+          "Servir de condición de admisibilidad del recurso de alzada"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no implica transacción de derechos (eso es propio de la conciliación, no de la reclamación previa, según Santamaría Pastor): su finalidad, según la STC 330/2006, es poner en conocimiento de la Administración la pretensión y darle la oportunidad de resolver evitando el pleito.",
+        "parte": 1,
+        "id": "tema-25-q33"
+      },
+      {
+        "enunciado": "¿Considera la STC 330/2006 que el requisito de reclamación previa impedía el acceso a la jurisdicción ordinaria?",
+        "opciones": [
+          "No, suponía una dificultad de acceso pero en ningún caso lo impedía",
+          "Sí, lo impedía de forma absoluta y por ello fue declarado inconstitucional",
+          "Sí, pero solo en la vía laboral, no en la civil",
+          "No, porque la jurisdicción contencioso-administrativa sustituía a la civil y laboral"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la reclamación previa no fue declarada inconstitucional; la STC 330/2006 señala que, pese a suponer una dificultad en el acceso a la jurisdicción ordinaria, esta en ningún caso se ve impedida, por lo que resultaba compatible con el art. 24.1 CE.",
+        "parte": 1,
+        "id": "tema-25-q34"
+      },
+      {
+        "enunciado": "¿En qué fundamenta la STC 330/2006 la justificación constitucional del requisito de reclamación previa?",
+        "opciones": [
+          "En las especiales funciones y tareas que la Administración tiene encomendadas por el ordenamiento constitucional",
+          "En el principio de economía procesal exclusivamente",
+          "En la necesidad de recaudar tasas administrativas",
+          "En la escasa litigiosidad existente contra la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata solo de economía procesal: la STC 330/2006 vincula la justificación a las especiales funciones y tareas que el ordenamiento constitucional encomienda a la Administración.",
+        "parte": 1,
+        "id": "tema-25-q35"
+      },
+      {
+        "enunciado": "¿Qué alcance temporal tenía la subsanabilidad de la reclamación previa conforme al principio antiformalista y pro actione?",
+        "opciones": [
+          "Podía subsanarse en cualquier momento del litigio",
+          "Solo podía subsanarse antes de la contestación a la demanda",
+          "No era subsanable en ningún caso",
+          "Solo era subsanable si la Administración lo autorizaba expresamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no había un límite temporal estricto ni se requería autorización administrativa; el carácter subsanable operaba en cualquier momento del litigio, conforme al principio antiformalista y pro actione.",
+        "parte": 1,
+        "id": "tema-25-q36"
+      },
+      {
+        "enunciado": "¿Qué correspondencia exigía la jurisprudencia, además de entre reclamación y demanda, para configurar el presupuesto procesal?",
+        "opciones": [
+          "Entre la contestación a la reclamación y la contestación a la demanda",
+          "Entre el plazo de prescripción civil y el plazo administrativo de resolución",
+          "Entre el órgano competente administrativo y el juez civil",
+          "Entre la cuantía de la reclamación y las costas del proceso"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la correspondencia exigida no era de plazos ni de cuantías: debía darse también correspondencia entre la contestación a la reclamación administrativa y la contestación a la demanda judicial.",
+        "parte": 1,
+        "id": "tema-25-q37"
+      },
+      {
+        "enunciado": "¿Qué excepción admitía el art. 120.1 de la Ley 30/1992 a la exigencia general de reclamación previa?",
+        "opciones": [
+          "Los supuestos exceptuados por una disposición con rango de ley",
+          "Los supuestos en que el demandante fuera una persona jurídica",
+          "Los supuestos de urgencia declarados por el Ministro competente",
+          "Los supuestos en que la cuantía reclamada fuera inferior a cierto umbral"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no había excepción por cuantía ni por tipo de demandante; la única excepción prevista era que un supuesto estuviera exceptuado por una disposición con rango de ley.",
+        "parte": 1,
+        "id": "tema-25-q38"
+      },
+      {
+        "enunciado": "¿Qué relación guardaba el carácter de \"presupuesto procesal\" de la reclamación previa con el acceso al proceso civil o laboral?",
+        "opciones": [
+          "Era necesario presentarla ante el órgano administrativo competente para poder acceder al proceso",
+          "Era un trámite meramente informativo sin incidencia en el acceso al proceso",
+          "Sustituía por completo a la demanda judicial",
+          "Solo era necesaria si la Administración lo solicitaba expresamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no era un trámite sin consecuencias ni sustituía a la demanda: para acceder al proceso civil o laboral resultaba necesario presentar antes la reclamación administrativa previa ante el órgano competente, de ahí su naturaleza de presupuesto procesal.",
+        "parte": 1,
+        "id": "tema-25-q39"
+      },
+      {
+        "enunciado": "¿Qué caracterización de la reclamación previa la identifica como manifestación del principio de autotutela de la Administración?",
+        "opciones": [
+          "La que la describe como status jurídico privilegiado dentro del proceso",
+          "La que la asimila a un acto de conciliación",
+          "La que la considera un recurso administrativo ordinario",
+          "La que la vincula al principio de buena fe procesal"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se trata de la tesis de la asimilación a la conciliación (defendida por el TC), sino de la que ve en la reclamación previa un status jurídico privilegiado, manifestación de la autotutela administrativa, en palabras de García de Enterría.",
+        "parte": 1,
+        "id": "tema-25-q40"
+      },
+      {
+        "enunciado": "¿Qué autor sostiene que la reclamación previa y el acto de conciliación son instituciones sustancialmente dispares?",
+        "opciones": [
+          "Santamaría Pastor",
+          "García de Enterría",
+          "El Tribunal Constitucional",
+          "El Consejo General del Poder Judicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no es la postura del TC (que las asimila funcionalmente): quien destaca que son instituciones sustancialmente dispares es Santamaría Pastor, apoyándose en que los antecedentes normativos de la reclamación previa no aluden al acto de conciliación.",
+        "parte": 1,
+        "id": "tema-25-q41"
+      },
+      {
+        "enunciado": "Según Santamaría Pastor, ¿qué ausencia observa en los antecedentes normativos de la reclamación previa?",
+        "opciones": [
+          "Ninguna alusión al acto de conciliación",
+          "Ninguna alusión al principio de autotutela",
+          "Ninguna referencia al art. 24.1 CE",
+          "Ninguna mención a la Administración Militar"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se trata de la autotutela ni del art. 24.1 CE (cuestiones tratadas por otros autores o sentencias), sino de que, según Santamaría Pastor, en los escasos antecedentes normativos no hay alusión alguna al acto de conciliación.",
+        "parte": 1,
+        "id": "tema-25-q42"
+      },
+      {
+        "enunciado": "Según Santamaría Pastor, ¿cuál de las siguientes NO es una de las tres diferencias tradicionales entre reclamación previa y acto de conciliación?",
+        "opciones": [
+          "La reclamación previa exige siempre la intervención de un abogado y la conciliación no",
+          "La conciliación es un trámite jurisdiccional y la reclamación previa un trámite administrativo",
+          "La conciliación implica la posibilidad de transacción de derechos, imposible en la reclamación previa",
+          "La reclamación previa tiene carácter unilateral frente al esquema bilateral de la conciliación"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la exigencia de abogado no aparece entre las diferencias señaladas por Santamaría Pastor. Las tres diferencias reales son: trámite jurisdiccional frente a administrativo, posibilidad de transacción de derechos, y carácter unilateral frente a bilateral.",
+        "parte": 1,
+        "id": "tema-25-q43"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es, según Santamaría Pastor, la diferencia entre reclamación previa y conciliación referida al tipo de trámite?",
+        "opciones": [
+          "La conciliación es un trámite jurisdiccional y la reclamación previa es un trámite administrativo",
+          "Ambas son trámites jurisdiccionales, pero ante distinto órgano",
+          "Ambas son trámites administrativos, pero de distinta Administración",
+          "La reclamación previa es jurisdiccional y la conciliación administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que a veces se memoriza mal: es la conciliación la que ha sido tradicionalmente un trámite jurisdiccional, mientras que la reclamación previa es un trámite administrativo, fuera del alcance de las potestades de impulso del órgano jurisdiccional.",
+        "parte": 1,
+        "id": "tema-25-q44"
+      },
+      {
+        "enunciado": "¿Qué elemento de la conciliación se considera, según el texto, \"de imposible utilización\" en la vía administrativa previa?",
+        "opciones": [
+          "La transacción de derechos",
+          "La intervención de un juez de paz",
+          "El carácter gratuito del trámite",
+          "La notificación por edictos"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata de aspectos procedimentales menores: la conciliación implica necesariamente la posibilidad de transacción de derechos, elemento que resultaba de imposible utilización en la reclamación administrativa previa.",
+        "parte": 1,
+        "id": "tema-25-q45"
+      },
+      {
+        "enunciado": "¿Por qué se dice que la reclamación previa tiene carácter unilateral, a diferencia del esquema bilateral de la conciliación?",
+        "opciones": [
+          "Porque solo funciona cuando la Administración es demandada, no cuando actúa como demandante",
+          "Porque solo puede instarla el funcionario público, no el particular",
+          "Porque no admite nunca resolución expresa, solo silencio",
+          "Porque solo se aplica en la vía laboral, nunca en la civil"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no depende de si hay silencio o resolución expresa, ni de la vía civil o laboral; el carácter unilateral deriva de que la reclamación previa solo funciona cuando la Administración es la parte demandada, no cuando actúa como demandante.",
+        "parte": 1,
+        "id": "tema-25-q46"
+      },
+      {
+        "enunciado": "¿Qué postura mantiene el Tribunal Constitucional sobre la relación entre reclamación previa y acto de conciliación?",
+        "opciones": [
+          "Que son asimilables en su funcionamiento y objetivo",
+          "Que son instituciones radicalmente distintas e incompatibles",
+          "Que la reclamación previa sustituye por completo al acto de conciliación en toda materia",
+          "Que solo son asimilables en materia laboral, nunca en materia civil"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el TC no las declara incompatibles ni limita la asimilación a lo laboral: entiende que las reclamaciones administrativas previas constituyen un requisito procesal asimilable, en su funcionamiento y objetivo, a los actos de conciliación.",
+        "parte": 1,
+        "id": "tema-25-q47"
+      },
+      {
+        "enunciado": "¿Qué sentencia constitucional recoge la asimilación funcional entre reclamación previa y acto de conciliación?",
+        "opciones": [
+          "STC 120/93",
+          "STC 330/2006",
+          "STS 781/2007",
+          "STS de 12 de mayo de 1961"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no confundir con la STC 330/2006 (sobre compatibilidad con el art. 24.1 CE) ni con las sentencias del orden civil o contencioso. La asimilación funcional entre ambas figuras procede de la STC 120/93.",
+        "parte": 1,
+        "id": "tema-25-q48"
+      },
+      {
+        "enunciado": "¿Qué afirma literalmente la STC 120/93 sobre la función de la reclamación administrativa previa?",
+        "opciones": [
+          "Que equivale a la de la conciliación preprocesal, porque esta no es factible ni obligada cuando el demandado es la Administración",
+          "Que es un trámite completamente innecesario que debería eliminarse",
+          "Que debe sustituirse siempre por un acto de conciliación judicial",
+          "Que solo tiene función conciliatoria en los procedimientos laborales militares"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la STC 120/93 no pide eliminarla ni la limita a lo militar: afirma que su función equivale a la de la conciliación preprocesal, precisamente porque esta no es factible ni obligada cuando el demandado es la Administración.",
+        "parte": 1,
+        "id": "tema-25-q49"
+      },
+      {
+        "enunciado": "Según García de Enterría, ¿por qué cobraba sentido identificar la reclamación previa con el acto de conciliación?",
+        "opciones": [
+          "Por la insuficiencia normativa de la reclamación administrativa, suplida por la semejanza e identidad de fines con la conciliación",
+          "Porque ambas instituciones estaban reguladas en el mismo título de la Ley 30/1992",
+          "Porque la jurisprudencia las declaró expresamente idénticas desde 1958",
+          "Porque la conciliación sustituyó legalmente a la reclamación previa en 1992"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay identidad normativa declarada ni sustitución legal; según García de Enterría, la identificación cobraba sentido por la insuficiencia normativa de la reclamación administrativa, suplida con la de la conciliación por su semejanza e identidad de fines.",
+        "parte": 1,
+        "id": "tema-25-q50"
+      },
+      {
+        "enunciado": "¿Convierte García de Enterría, en su razonamiento, a la reclamación previa en una \"réplica pura y simple\" del acto de conciliación?",
+        "opciones": [
+          "No, afirma expresamente que no la convierte en tal réplica",
+          "Sí, afirma que son exactamente la misma institución",
+          "Sí, pero solo en la vía laboral",
+          "No, porque niega cualquier semejanza entre ambas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con los extremos: García de Enterría no niega toda semejanza (de hecho, habla de semejanza e identidad de fines), pero tampoco llega a convertir la reclamación previa en una réplica pura y simple del acto de conciliación.",
+        "parte": 1,
+        "id": "tema-25-q51"
+      },
+      {
+        "enunciado": "¿A qué institución se refiere Santamaría Pastor al describirla como \"trámite administrativo, fuera del alcance de las potestades de impulso del órgano jurisdiccional\"?",
+        "opciones": [
+          "A la reclamación administrativa previa",
+          "Al acto de conciliación",
+          "Al recurso de alzada",
+          "Al recurso contencioso-administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es la conciliación (que sí es un trámite jurisdiccional, según Santamaría Pastor) sino precisamente la reclamación previa la que se describe como trámite administrativo ajeno a las potestades de impulso del órgano jurisdiccional.",
+        "parte": 1,
+        "id": "tema-25-q52"
+      },
+      {
+        "enunciado": "¿Qué diferencia señalada por Santamaría Pastor se refiere a la posibilidad de negociar o disponer de derechos?",
+        "opciones": [
+          "La relativa a la transacción de derechos, propia de la conciliación pero no de la reclamación previa",
+          "La relativa al carácter unilateral o bilateral del trámite",
+          "La relativa al trámite jurisdiccional o administrativo",
+          "La relativa al plazo de resolución de tres meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata del carácter unilateral/bilateral (otra diferencia distinta) ni del plazo de tres meses (cuestión de procedimiento especial, ajena a esta discusión doctrinal): la diferencia referida a disponer de derechos es la de la transacción de derechos.",
+        "parte": 1,
+        "id": "tema-25-q53"
+      },
+      {
+        "enunciado": "¿Qué institución, según el esquema de Santamaría Pastor, responde a un modelo bilateral, frente al carácter unilateral de la reclamación previa?",
+        "opciones": [
+          "El acto de conciliación",
+          "El recurso de reposición",
+          "El recurso de alzada",
+          "La tercería de dominio"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se trata de recursos administrativos ni de la tercería de dominio (que es una excepción posterior a la supresión general); el esquema bilateral, frente al unilateral de la reclamación previa, es propio del acto de conciliación.",
+        "parte": 1,
+        "id": "tema-25-q54"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor la discusión doctrinal sobre reclamación previa y conciliación?",
+        "opciones": [
+          "Santamaría Pastor las distingue por tres diferencias, mientras el Tribunal Constitucional las asimila funcionalmente",
+          "Tanto Santamaría Pastor como el Tribunal Constitucional coinciden en que son instituciones idénticas",
+          "García de Enterría niega por completo cualquier relación entre ambas figuras",
+          "El CGPJ identificó plenamente la reclamación previa con la conciliación en su informe de 2015"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con atribuir coincidencia donde hay matices: Santamaría Pastor marca tres diferencias sustanciales, el Tribunal Constitucional (STC 120/93) las asimila en su funcionamiento y objetivo, y García de Enterría se sitúa en un término intermedio (semejanza de fines sin identidad plena).",
+        "parte": 1,
+        "id": "tema-25-q55"
+      },
+      {
+        "enunciado": "¿Qué fin común destaca García de Enterría entre la reclamación previa y el acto de conciliación?",
+        "opciones": [
+          "La semejanza e identidad de fines entre ambas instituciones",
+          "La identidad absoluta de trámites y plazos",
+          "La competencia exclusiva de los órganos jurisdiccionales para ambas",
+          "La naturaleza penal de ambas figuras"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay identidad de trámites y plazos (que de hecho son distintos, al ser una administrativa y otra jurisdiccional), sino una semejanza e identidad de fines que, según García de Enterría, explica la tentación de identificarlas.",
+        "parte": 1,
+        "id": "tema-25-q56"
+      },
+      {
+        "enunciado": "Según el esquema de Santamaría Pastor, ¿qué ocurre cuando la Administración actúa como demandante en vez de demandada?",
+        "opciones": [
+          "No opera la reclamación previa, por su carácter unilateral",
+          "Se exige igualmente la reclamación previa, por su carácter bilateral",
+          "Se sustituye automáticamente por un acto de conciliación",
+          "Se abre directamente la vía contencioso-administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se sustituye por conciliación ni se abre la contencioso-administrativa: precisamente por su carácter unilateral, la reclamación previa solo funciona cuando la Administración es la parte demandada, no cuando actúa como demandante.",
+        "parte": 1,
+        "id": "tema-25-q57"
+      },
+      {
+        "enunciado": "¿Qué puntualiza la STC 120/93 sobre la viabilidad de la conciliación preprocesal cuando el demandado es la Administración?",
+        "opciones": [
+          "Que no es ni factible ni obligada en ese caso",
+          "Que resulta obligatoria y sustituye a la reclamación previa",
+          "Que se tramita ante el mismo órgano que resuelve la reclamación previa",
+          "Que solo es factible en los procedimientos laborales militares"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la STC 120/93 no la declara obligatoria ni la limita a lo militar; puntualiza justamente lo contrario, que la conciliación preprocesal no es ni factible ni obligada cuando el demandado es la Administración, lo que explica la función equivalente de la reclamación previa.",
+        "parte": 1,
+        "id": "tema-25-q58"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones resume correctamente la postura de García de Enterría frente a la de Santamaría Pastor en esta discusión doctrinal?",
+        "opciones": [
+          "García de Enterría admite una semejanza funcional por insuficiencia normativa, mientras Santamaría Pastor insiste en diferencias estructurales entre ambas figuras",
+          "Ambos autores niegan cualquier relación entre reclamación previa y conciliación",
+          "Ambos autores sostienen que son la misma institución con distinto nombre",
+          "García de Enterría niega la figura de la reclamación previa y Santamaría Pastor la defiende como constitucional"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo con simplificar en exceso: no es que ambos nieguen toda relación ni que la identifiquen por completo; García de Enterría ve una semejanza funcional explicada por la insuficiencia normativa de la reclamación, mientras que Santamaría Pastor subraya las diferencias estructurales (trámite, transacción, unilateralidad frente a bilateralidad).",
+        "parte": 1,
+        "id": "tema-25-q59"
+      },
+      {
+        "enunciado": "¿Qué tipo de diferencia señala Santamaría Pastor al decir que la reclamación previa queda \"fuera del alcance de las potestades de impulso del órgano jurisdiccional\"?",
+        "opciones": [
+          "Una diferencia de naturaleza del trámite (administrativo frente a jurisdiccional)",
+          "Una diferencia de plazos de resolución",
+          "Una diferencia de cuantía económica",
+          "Una diferencia de órgano competente dentro de la misma Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es una cuestión de plazos ni de cuantía, sino de la naturaleza del trámite: al ser la reclamación previa un trámite administrativo y no jurisdiccional, queda fuera del alcance de las potestades de impulso del órgano jurisdiccional, que sí rigen la conciliación.",
+        "parte": 1,
+        "id": "tema-25-q60"
+      },
+      {
+        "enunciado": "Según el informe del Consejo General del Poder Judicial (CGPJ) sobre el Anteproyecto de la Ley 39/2015, el requisito de la reclamación previa obligatoria era, para la doctrina mayoritaria, una manifestación de:",
+        "opciones": [
+          "Una prerrogativa general de la Administración para decidir cuándo puede ser llevado el Estado ante los tribunales, carente ya de justificación",
+          "Un derecho fundamental del ciudadano reconocido en el art. 24 CE que debía reforzarse, no suprimirse",
+          "Una obligación internacional derivada de tratados de la Unión Europea sobre tutela judicial",
+          "Una competencia exclusiva de las Comunidades Autónomas que el Estado no podía regular"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo: el CGPJ no defendía ampliar esta figura como garantía del ciudadano, todo lo contrario. En su informe la calificó como una prerrogativa general de la Administración —la de decidir cuándo puede ser llevada ante los tribunales— que ya carecía de justificación, tanto por los principios del ordenamiento (tutela judicial efectiva, igualdad de las partes) como, desde un punto de vista funcional, porque la gran mayoría de reclamaciones previas se desestimaban, incluso por silencio.",
+        "parte": 2,
+        "id": "tema-25-q61"
+      },
+      {
+        "enunciado": "Según la Exposición de Motivos de la Ley 39/2015, ¿qué calificación recibe el trámite de reclamación previa suprimido?",
+        "opciones": [
+          "Una carga que dificultaba el ejercicio de los derechos de los administrados",
+          "Una ventaja procesal para los administrados frente a la Administración",
+          "Un requisito imprescindible para garantizar la igualdad de partes",
+          "Un mecanismo eficaz de conciliación extrajudicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el texto dice justo lo contrario de que fuera una \"ventaja\" —la Exposición de Motivos afirma literalmente que, lejos de constituir una ventaja para los administrados, el trámite suponía una carga que dificultaba el ejercicio de sus derechos. Por eso se suprime, alegando su escasa utilidad práctica.",
+        "parte": 2,
+        "id": "tema-25-q62"
+      },
+      {
+        "enunciado": "¿Qué vías jurisdiccionales deja de exigir la reclamación previa según la Exposición de Motivos de la Ley 39/2015?",
+        "opciones": [
+          "La vía civil y la vía laboral",
+          "La vía civil y la vía contencioso-administrativa",
+          "La vía laboral y la vía penal",
+          "Únicamente la vía laboral"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la supresión afecta solo a las reclamaciones previas en vía civil y laboral; los recursos administrativos previos a la vía contencioso-administrativa son otra institución distinta, que el propio informe del CGPJ cita como ejemplo de trámite ya facultativo. No conviene confundir ambas figuras.",
+        "parte": 2,
+        "id": "tema-25-q63"
+      },
+      {
+        "enunciado": "¿Qué expresión literal utiliza la Exposición de Motivos de la Ley 39/2015 para justificar que la reclamación previa quede suprimida?",
+        "opciones": [
+          "\"la escasa utilidad práctica que han demostrado hasta la fecha\"",
+          "\"su manifiesta inconstitucionalidad sobrevenida\"",
+          "\"el elevado coste económico que generaban para la Administración\"",
+          "\"la saturación de los juzgados de lo civil y de lo social\""
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni la inconstitucionalidad, ni el coste económico, ni la saturación judicial son los motivos citados literalmente. La Ley 39/2015 habla, textualmente, de la \"escasa utilidad práctica que han demostrado hasta la fecha\" como razón de la supresión.",
+        "parte": 2,
+        "id": "tema-25-q64"
+      },
+      {
+        "enunciado": "La \"voluntad de suprimir trámites\" que menciona la Exposición de Motivos de la Ley 39/2015 se enmarca en:",
+        "opciones": [
+          "El objetivo de eliminar cargas que dificultaban el ejercicio de derechos de los administrados, sin que supusieran ventaja alguna",
+          "Un plan de reducción del número de recursos de alzada",
+          "La armonización con el Derecho de la Unión Europea en materia procesal civil",
+          "La necesidad de reducir el número de órganos administrativos competentes"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés: la norma no busca reducir recursos de alzada ni armonizar con la UE, sino, en sus propias palabras, suprimir trámites que, lejos de constituir una ventaja para los administrados, suponían una carga que dificultaba el ejercicio de sus derechos. Ese es el marco exacto en que se sitúa la supresión.",
+        "parte": 2,
+        "id": "tema-25-q65"
+      },
+      {
+        "enunciado": "¿En qué fecha adoptó el Pleno del CGPJ el acuerdo relativo al informe sobre el Anteproyecto que suprimía la reclamación previa?",
+        "opciones": [
+          "5 de marzo de 2015",
+          "20 de noviembre de 2006",
+          "12 de mayo de 1961",
+          "2 de octubre de 2016"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: 20 de noviembre de 2006 es la fecha de la STC 330/2006 y el 2 de octubre de 2016 es cuando entra en vigor la derogación de la LOFAGE; ninguna tiene que ver con el informe del CGPJ. El acuerdo del Pleno del CGPJ sobre el Anteproyecto es del 5 de marzo de 2015.",
+        "parte": 2,
+        "id": "tema-25-q66"
+      },
+      {
+        "enunciado": "El CGPJ, en su informe sobre el Anteproyecto de la Ley 39/2015, consideró la reclamación previa como manifestación de:",
+        "opciones": [
+          "Una prerrogativa general de la Administración para decidir cuándo puede ser llevado el Estado ante los tribunales",
+          "El principio de tutela judicial efectiva reconocido en el art. 24 CE",
+          "El principio de buena fe procesal de las partes",
+          "La potestad sancionadora de la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el CGPJ no vincula la reclamación previa con la tutela judicial efectiva como fundamento, sino justo al contrario: la considera una prerrogativa de la Administración para decidir cuándo puede ser llevada a juicio, prerrogativa que entra en tensión precisamente con la tutela judicial efectiva y la igualdad de partes.",
+        "parte": 2,
+        "id": "tema-25-q67"
+      },
+      {
+        "enunciado": "Según el informe del CGPJ, ¿qué dos principios o valores del ordenamiento quedaban comprometidos por la reclamación previa?",
+        "opciones": [
+          "La tutela judicial efectiva y la igualdad de las partes",
+          "La seguridad jurídica y la jerarquía normativa",
+          "La eficacia administrativa y la coordinación interadministrativa",
+          "La buena administración y la proporcionalidad sancionadora"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el CGPJ no habla de seguridad jurídica ni de eficacia administrativa, sino de que la reclamación previa carecía de justificación tanto por los principios y valores del ordenamiento (tutela judicial efectiva, igualdad de las partes) como desde un punto de vista funcional.",
+        "parte": 2,
+        "id": "tema-25-q68"
+      },
+      {
+        "enunciado": "¿Qué dato funcional destacó el CGPJ para cuestionar la utilidad de la reclamación previa?",
+        "opciones": [
+          "Que la gran mayoría de las reclamaciones previas eran desestimadas, incluso por silencio",
+          "Que apenas un 10% de los ciudadanos la utilizaba antes de acudir a los tribunales",
+          "Que su tramitación duraba de media más de un año",
+          "Que generaba un coste superior al de la propia vía judicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, el informe no cuantifica porcentaje de uso, duración media ni coste comparado; el dato funcional que sí recoge el texto es que la gran mayoría de las reclamaciones previas eran desestimadas, incluso por silencio, por lo que no cumplía su función ni siquiera conciliatoria.",
+        "parte": 2,
+        "id": "tema-25-q69"
+      },
+      {
+        "enunciado": "Según el CGPJ, la reclamación previa no cumplía su función ni siquiera:",
+        "opciones": [
+          "Conciliatoria",
+          "Recaudatoria",
+          "Sancionadora",
+          "Probatoria"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el texto no habla de funciones recaudatoria, sancionadora ni probatoria de la reclamación previa; el informe del CGPJ dice literalmente que, al desestimarse la gran mayoría incluso por silencio, no cumplía su función ni siquiera conciliatoria.",
+        "parte": 2,
+        "id": "tema-25-q70"
+      },
+      {
+        "enunciado": "El CGPJ reforzó su crítica a la reclamación previa señalando que resultaba \"tanto más cuestionable\" porque:",
+        "opciones": [
+          "En muchos casos los recursos administrativos previos a la vía contencioso-administrativa tienen carácter facultativo",
+          "El recurso de alzada en vía contencioso-administrativa es siempre obligatorio",
+          "No existía un recurso equivalente en el orden contencioso-administrativo",
+          "La vía contencioso-administrativa carecía de plazos de resolución"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no es que el recurso de alzada sea siempre obligatorio en lo contencioso-administrativo; de hecho ocurre lo contrario. El CGPJ remarca que la exigencia de reclamación previa resultaba tanto más cuestionable cuanto en muchos casos los recursos administrativos previos a la vía contencioso-administrativa tienen carácter facultativo.",
+        "parte": 2,
+        "id": "tema-25-q71"
+      },
+      {
+        "enunciado": "¿Qué valoración global hizo el CGPJ sobre la medida de suprimir la reclamación previa?",
+        "opciones": [
+          "La consideró acertada",
+          "La consideró contraria al art. 24.1 CE",
+          "Recomendó mantenerla con carácter obligatorio",
+          "No se pronunció sobre la supresión"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el CGPJ sí se pronunció, y no en contra: el texto dice expresamente que el Consejo consideró acertada la medida, apoyándose en que la reclamación previa era una prerrogativa sin justificación suficiente desde los principios del ordenamiento ni desde el punto de vista funcional.",
+        "parte": 2,
+        "id": "tema-25-q72"
+      },
+      {
+        "enunciado": "El argumento sobre mantener la reclamación previa con carácter potestativo se apoya en el precedente de:",
+        "opciones": [
+          "El acto de conciliación y el recurso de reposición",
+          "El recurso de alzada y el recurso extraordinario de revisión",
+          "La tercería de dominio y la tercería de mejor derecho",
+          "El silencio administrativo positivo y negativo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni las tercerías ni el silencio administrativo son los precedentes citados. El texto dice que el mantenimiento con carácter potestativo eliminaría esos inconvenientes, \"como ocurrió con el acto de conciliación y sucede con el recurso de reposición\", ambos hoy voluntarios para el administrado.",
+        "parte": 2,
+        "id": "tema-25-q73"
+      },
+      {
+        "enunciado": "¿Qué consecuencia señala el texto que tendría prescindir totalmente de la reclamación previa frente a la Administración?",
+        "opciones": [
+          "Descartar todo posible mecanismo de solución de la controversia distinto de la sentencia o resolución final",
+          "Reducir el coste de los procedimientos judiciales para el Estado",
+          "Eliminar la necesidad de agotar la vía administrativa en todos los casos",
+          "Aumentar automáticamente el número de recursos de alzada presentados"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el texto no habla de reducción de costes ni de recursos de alzada, sino de que prescindir de la reclamación previa equivale, en la práctica, a descartar todo posible mecanismo de solución de la controversia distinto de la sentencia o resolución que ponga fin al proceso.",
+        "parte": 2,
+        "id": "tema-25-q74"
+      },
+      {
+        "enunciado": "Según el texto, ¿por qué la supresión total de la reclamación previa podría suponer una carga mayor para los administrados que su exigencia?",
+        "opciones": [
+          "Porque les obligaría a acudir siempre a la vía jurisdiccional con los costes que ello conlleva",
+          "Porque incrementaría los plazos de resolución de los recursos administrativos",
+          "Porque impediría formular tercerías de dominio en el apremio administrativo",
+          "Porque suprimiría también el acto de conciliación laboral"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la supresión no afecta a las tercerías (que siguen vigentes) ni deroga el acto de conciliación laboral; el riesgo que señala el texto es que, al no existir ya ningún mecanismo previo de solución, el administrado se vería obligado a acudir siempre a la vía jurisdiccional con los costes que ello conlleva.",
+        "parte": 2,
+        "id": "tema-25-q75"
+      },
+      {
+        "enunciado": "¿En cuáles de los siguientes ámbitos sigue vigente la reclamación previa a pesar de su supresión general?",
+        "opciones": [
+          "Tercerías de dominio y de mejor derecho en apremio administrativo, y prestaciones de Seguridad Social o salarios de tramitación",
+          "Reclamaciones por responsabilidad patrimonial de la Administración",
+          "Reclamaciones derivadas de contratos administrativos de obras",
+          "Reclamaciones en materia de función pública y provisión de puestos"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, la responsabilidad patrimonial, los contratos administrativos y la función pública no son los ámbitos citados. El texto señala expresamente que la reclamación previa sigue vigente en las tercerías (de dominio y de mejor derecho) en expedientes de apremio administrativo y en las reclamaciones de prestaciones de Seguridad Social o salarios de tramitación.",
+        "parte": 2,
+        "id": "tema-25-q76"
+      },
+      {
+        "enunciado": "Las tercerías que conservan la exigencia de reclamación previa son las que se interponen en:",
+        "opciones": [
+          "Expedientes de apremio administrativo",
+          "Procedimientos sancionadores tributarios",
+          "Procedimientos de extranjería y asilo",
+          "Procedimientos de responsabilidad patrimonial"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el texto no vincula las tercerías con procedimientos sancionadores, de extranjería ni de responsabilidad patrimonial; las tercerías de dominio y de mejor derecho que mantienen la reclamación previa son, concretamente, las interpuestas en los expedientes de apremio administrativo.",
+        "parte": 2,
+        "id": "tema-25-q77"
+      },
+      {
+        "enunciado": "¿Qué dos tipos de tercería se citan en el texto como ámbitos donde pervive la reclamación previa?",
+        "opciones": [
+          "De dominio y de mejor derecho",
+          "De dominio y de nulidad",
+          "De mejor derecho y de oposición",
+          "De dominio y de preferencia registral"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, las denominaciones \"de nulidad\", \"de oposición\" o \"de preferencia registral\" no aparecen en el texto. Las dos tercerías que el texto menciona expresamente son la de dominio y la de mejor derecho, ambas en el marco del apremio administrativo.",
+        "parte": 2,
+        "id": "tema-25-q78"
+      },
+      {
+        "enunciado": "Además de las tercerías, ¿qué otra materia conserva la exigencia de reclamación previa según el texto?",
+        "opciones": [
+          "Las prestaciones de Seguridad Social o los salarios de tramitación",
+          "Las sanciones de tráfico y seguridad vial",
+          "Las actuaciones en materia de extranjería y asilo",
+          "Las liquidaciones tributarias y aduaneras"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: tráfico, extranjería/asilo y tributos/aduanas aparecen en el texto, pero en el contexto distinto de la Disposición Adicional Primera (normativa específica supletoria), no como ámbitos donde pervive literalmente la reclamación previa. El texto identifica expresamente las prestaciones de Seguridad Social y los salarios de tramitación como ese otro ámbito de pervivencia.",
+        "parte": 2,
+        "id": "tema-25-q79"
+      },
+      {
+        "enunciado": "La pervivencia de la reclamación previa en tercerías y en Seguridad Social se presenta en el texto como coherente con:",
+        "opciones": [
+          "El art. 1.2 de la Ley 39/2015",
+          "El art. 103 de la Constitución de 1978",
+          "El art. 24.1 de la Constitución de 1978",
+          "El art. 120.1 de la antigua Ley 30/1992"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, ni el art. 103 ni el art. 24.1 CE son los citados en ese pasaje concreto, y el art. 120.1 de la Ley 30/1992 pertenece al régimen ya derogado. El texto dice expresamente que esa pervivencia es coherente con el art. 1.2 de la Ley 39/2015, que permite trámites adicionales solo mediante ley.",
+        "parte": 2,
+        "id": "tema-25-q80"
+      },
+      {
+        "enunciado": "El art. 1.2 de la Ley 39/2015 permite incluir trámites adicionales o distintos a los contemplados en la propia Ley:",
+        "opciones": [
+          "Solo mediante ley, cuando resulte eficaz, proporcionado y necesario, y de manera motivada",
+          "Mediante cualquier norma reglamentaria, sin necesidad de motivación",
+          "Únicamente mediante Real Decreto aprobado en Consejo de Ministros",
+          "Mediante convenio entre la Administración y los interesados"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni un reglamento, ni un Real Decreto, ni un convenio bastan según este artículo. El art. 1.2 de la Ley 39/2015 exige que sea solo mediante ley, cuando resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento, y de manera motivada.",
+        "parte": 2,
+        "id": "tema-25-q81"
+      },
+      {
+        "enunciado": "¿Qué tres requisitos exige el art. 1.2 de la Ley 39/2015 para que una ley pueda incluir trámites adicionales o distintos?",
+        "opciones": [
+          "Eficacia, proporcionalidad y necesidad para los fines del procedimiento",
+          "Urgencia, excepcionalidad y temporalidad",
+          "Economía procesal, celeridad y oficialidad",
+          "Igualdad, generalidad y publicidad"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el artículo no habla de urgencia, economía procesal ni igualdad como requisitos para este fin; exige literalmente que el trámite adicional resulte eficaz, proporcionado y necesario para la consecución de los fines propios del procedimiento, además de incluirse de manera motivada.",
+        "parte": 2,
+        "id": "tema-25-q82"
+      },
+      {
+        "enunciado": "El fundamento legal que explica por qué la reclamación previa en tercerías y Seguridad Social puede seguir exigiéndose, pese a la supresión general, es:",
+        "opciones": [
+          "Que se trata de un trámite adicional incluido por ley, conforme al art. 1.2 de la Ley 39/2015",
+          "Que esas materias quedan excluidas del ámbito de aplicación de la Ley 39/2015",
+          "Que así lo exige directamente el art. 24.1 de la Constitución",
+          "Que se trata de materias reservadas a reglamento, no a ley"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: estas materias no quedan excluidas de la Ley 39/2015 ni se trata de una exigencia reglamentaria; precisamente el art. 1.2 exige que sea mediante ley para poder incluir trámites adicionales, y eso es lo que permite que la reclamación previa especial subsista en esos ámbitos.",
+        "parte": 2,
+        "id": "tema-25-q83"
+      },
+      {
+        "enunciado": "La Disposición Adicional Primera de la Ley 39/2015 regula:",
+        "opciones": [
+          "Las especialidades de los procedimientos administrativos regulados en leyes especiales",
+          "El régimen transitorio de los procedimientos iniciados antes de su entrada en vigor",
+          "La derogación expresa de la Ley 30/1992",
+          "El régimen de recursos administrativos ordinarios"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, el régimen transitorio y la derogación de la Ley 30/1992 se regulan en otras disposiciones de la norma, no en esta. La Disposición Adicional Primera es la que mantiene las especialidades de los procedimientos administrativos regulados en leyes especiales.",
+        "parte": 2,
+        "id": "tema-25-q84"
+      },
+      {
+        "enunciado": "Según el apartado 1 de la Disposición Adicional Primera, los procedimientos regulados en leyes especiales que no exijan algún trámite de la Ley 39/2015 o regulen trámites adicionales o distintos:",
+        "opciones": [
+          "Se regirán, respecto a éstos, por lo dispuesto en dichas leyes especiales",
+          "Se regirán en todo caso por la Ley 39/2015, que prevalece sobre la ley especial",
+          "Quedarán automáticamente derogados en lo que contradigan la Ley 39/2015",
+          "Requerirán autorización previa del Consejo de Estado para aplicarse"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es la Ley 39/2015 la que prevalece ni se deroga automáticamente la ley especial; el apartado 1 dice justamente lo contrario, que esos procedimientos especiales se regirán, respecto a éstos, por lo dispuesto en dichas leyes especiales.",
+        "parte": 2,
+        "id": "tema-25-q85"
+      },
+      {
+        "enunciado": "El apartado 2 de la Disposición Adicional Primera establece que determinadas actuaciones y procedimientos se regirán por:",
+        "opciones": [
+          "Su normativa específica y, supletoriamente, por la Ley 39/2015",
+          "Exclusivamente por la Ley 39/2015, sin normativa específica",
+          "Su normativa específica, sin posibilidad de aplicación supletoria de ninguna otra norma",
+          "Un reglamento específico aprobado para cada materia, al margen de cualquier ley"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata de aplicación exclusiva ni de exclusión total de la Ley 39/2015. El apartado 2 dice que esas actuaciones se regirán por su normativa específica y supletoriamente por lo dispuesto en esta Ley, combinando ambas.",
+        "parte": 2,
+        "id": "tema-25-q86"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes materias NO aparece citada en el apartado 2 de la Disposición Adicional Primera de la Ley 39/2015?",
+        "opciones": [
+          "Responsabilidad patrimonial de las Administraciones Públicas",
+          "Tributos en materia tributaria y aduanera",
+          "Gestión y recaudación en materia de Seguridad Social y Desempleo",
+          "Actuaciones en materia de extranjería y asilo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa de \"cuál NO\": tributos, Seguridad Social/Desempleo y extranjería/asilo sí figuran expresamente en los apartados a), b) y d) de la Disposición Adicional Primera. La responsabilidad patrimonial no aparece en esa lista del texto.",
+        "parte": 2,
+        "id": "tema-25-q87"
+      },
+      {
+        "enunciado": "El apartado 2.c) de la Disposición Adicional Primera se refiere a los procedimientos sancionadores en materia de:",
+        "opciones": [
+          "Tributaria y aduanera, orden social, tráfico y seguridad vial, y extranjería",
+          "Urbanismo, medio ambiente y patrimonio histórico",
+          "Seguridad Social, Desempleo y asilo",
+          "Función pública, contratación y subvenciones"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, urbanismo, función pública o subvenciones no figuran en ese apartado. El texto enumera expresamente las actuaciones y procedimientos sancionadores en materia tributaria y aduanera, en el orden social, en materia de tráfico y seguridad vial y en materia de extranjería.",
+        "parte": 2,
+        "id": "tema-25-q88"
+      },
+      {
+        "enunciado": "¿Qué apartado de la Disposición Adicional Primera se refiere específicamente a las actuaciones en materia de extranjería y asilo?",
+        "opciones": [
+          "El apartado 2.d)",
+          "El apartado 2.a)",
+          "El apartado 2.b)",
+          "El apartado 1"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el apartado 2.a) habla de tributos, el 2.b) de Seguridad Social y Desempleo, y el apartado 1 de procedimientos especiales en general. Las actuaciones y procedimientos en materia de extranjería y asilo se recogen específicamente en el apartado 2.d).",
+        "parte": 2,
+        "id": "tema-25-q89"
+      },
+      {
+        "enunciado": "Las actuaciones de gestión, inspección, liquidación, recaudación, impugnación y revisión en materia de Seguridad Social y Desempleo se rigen, conforme a la Disposición Adicional Primera, por:",
+        "opciones": [
+          "Su normativa específica y, supletoriamente, por la Ley 39/2015",
+          "Exclusivamente por el Texto Refundido de la Ley General de la Seguridad Social, sin supletoriedad",
+          "Por la Ley 39/2015 con carácter preferente sobre la normativa de Seguridad Social",
+          "Por reglamento del Ministerio de Trabajo, sin intervención de ninguna ley"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se excluye la supletoriedad de la Ley 39/2015 ni se invierte la prelación. El apartado 2.b) de la Disposición Adicional Primera somete esas actuaciones a su normativa específica y supletoriamente por lo dispuesto en esta Ley.",
+        "parte": 2,
+        "id": "tema-25-q90"
+      },
+      {
+        "enunciado": "A pesar del extenso elenco de normas derogadas por la Ley 39/2015, ¿qué ocurrió con las normas especiales sobre tercerías?",
+        "opciones": [
+          "No fueron modificadas ni derogadas expresamente",
+          "Fueron derogadas expresamente por la Disposición Derogatoria única",
+          "Quedaron suspendidas temporalmente hasta su desarrollo reglamentario",
+          "Fueron sustituidas por el art. 1.2 de la Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la Disposición Derogatoria única sí deroga un extenso elenco de normas, pero no estas. El texto precisa que la Ley 39/2015 no ha modificado ni derogado expresamente estas normas especiales, de lo que se infiere la voluntad de respetar la reclamación previa en materia de tercerías.",
+        "parte": 2,
+        "id": "tema-25-q91"
+      },
+      {
+        "enunciado": "¿Qué norma posterior a la Ley 39/2015 confirma la voluntad del legislador de mantener la reclamación administrativa previa en materia de Seguridad Social?",
+        "opciones": [
+          "El Texto Refundido de la Ley General de la Seguridad Social",
+          "El Real Decreto 2205/1980",
+          "La Ley 40/2015, de Régimen Jurídico del Sector Público",
+          "La Ley 29/1998, reguladora de la Jurisdicción Contencioso-administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, ni la Ley 40/2015 ni la Ley 29/1998 ni el RD 2205/1980 (este último, anterior y relativo al personal militar) son la norma citada aquí. El texto señala que es el propio Texto Refundido de la Ley General de la Seguridad Social, posterior a la Ley 39/2015, el que mantiene expresamente esa reclamación como requisito previo.",
+        "parte": 2,
+        "id": "tema-25-q92"
+      },
+      {
+        "enunciado": "De la ausencia de derogación expresa de las normas especiales sobre tercerías, el texto deduce que la voluntad del legislador fue:",
+        "opciones": [
+          "Respetar la reclamación previa obligatoria en materia de tercerías, como especialidad procedimental",
+          "Suprimir también esas reclamaciones por vía de derogación tácita",
+          "Remitir su regulación íntegramente a la vía reglamentaria",
+          "Trasladar su competencia a la jurisdicción contencioso-administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay derogación tácita ni remisión a reglamento ni cambio de jurisdicción; el texto concluye justo lo contrario, que debe entenderse que la voluntad del legislador fue respetar la reclamación previa obligatoria en materia de tercerías, como especialidad procedimental.",
+        "parte": 2,
+        "id": "tema-25-q93"
+      },
+      {
+        "enunciado": "En la vía civil, ¿ante qué órgano se dirigía la reclamación previa cuando se trataba de la Administración del Estado?",
+        "opciones": [
+          "El Ministro del departamento competente por razón de la materia",
+          "El Jefe del Departamento en el que el trabajador prestara sus servicios",
+          "El Director General competente por razón del territorio",
+          "El Consejo de Ministros, en todo caso"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el Jefe del Departamento o Director del establecimiento es el órgano de la vía laboral (art. 125 LRJPAC), no de la vía civil. En la vía civil, para la Administración del Estado, la reclamación se planteaba ante el Ministro del departamento competente por razón de la materia.",
+        "parte": 2,
+        "id": "tema-25-q94"
+      },
+      {
+        "enunciado": "¿Dónde podía presentarse el escrito de reclamación previa en vía civil?",
+        "opciones": [
+          "En cualquiera de los lugares previstos por la Ley para la presentación de escritos y solicitudes",
+          "Únicamente en el registro del Ministerio correspondiente",
+          "Solo ante el órgano jurisdiccional que fuera a conocer de la demanda",
+          "Exclusivamente por correo administrativo certificado"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se exigía presentación exclusiva en un registro ministerial ni ante el órgano jurisdiccional. El texto señala que podía presentarse en cualquiera de los lugares previstos por la Ley para la presentación de escritos y solicitudes.",
+        "parte": 2,
+        "id": "tema-25-q95"
+      },
+      {
+        "enunciado": "¿En qué plazo debía el órgano receptor de la reclamación previa civil remitir el escrito y los antecedentes al órgano competente?",
+        "opciones": [
+          "5 días",
+          "15 días",
+          "20 días",
+          "1 mes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: 15 y 20 días son plazos que aparecen en otros contextos del tema (por ejemplo, el procedimiento militar); el plazo para reunir los antecedentes y remitir todo al órgano competente en la vía civil (y también en la laboral) era de 5 días.",
+        "parte": 2,
+        "id": "tema-25-q96"
+      },
+      {
+        "enunciado": "En cuanto a la forma del escrito de reclamación previa civil, el texto señala que:",
+        "opciones": [
+          "No estaba sujeto a formalidad alguna, surtiendo efectos si de su contenido se deducía su verdadero carácter",
+          "Debía presentarse necesariamente en modelo normalizado aprobado por el Ministerio",
+          "Requería la firma de letrado, como en la vía judicial",
+          "Debía ser visado por el órgano jurisdiccional antes de su tramitación administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, ni se exigía modelo normalizado, ni firma de letrado, ni visado judicial previo. El texto es explícito: el escrito no estaba sujeto a formalidad alguna, surtiendo efectos cualquiera que fuese su calificación, siempre que de su contenido se dedujese su verdadero carácter.",
+        "parte": 2,
+        "id": "tema-25-q97"
+      },
+      {
+        "enunciado": "Junto al escrito de reclamación previa civil, el interesado debía acompañar:",
+        "opciones": [
+          "Los documentos en que fundara su derecho",
+          "Un informe pericial sobre los daños reclamados",
+          "Un poder notarial de representación obligatorio",
+          "Copia de la demanda civil que posteriormente presentaría"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni informe pericial, ni poder notarial, ni copia de una demanda (que aún no existía) eran exigidos. El texto solo requiere acompañar los documentos en que el demandante fundara su derecho.",
+        "parte": 2,
+        "id": "tema-25-q98"
+      },
+      {
+        "enunciado": "Una vez resuelta (expresa o por silencio) la reclamación previa civil, ¿en qué plazo debía formularse la demanda civil?",
+        "opciones": [
+          "En cualquier tiempo, sin otra limitación que la prescripción del derecho material reclamado",
+          "En el plazo de dos meses desde la notificación de la resolución",
+          "En el plazo de tres meses desde que venciera el plazo de resolución",
+          "En el plazo de un año desde la resolución expresa o el silencio"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: dos meses, tres meses o un año son plazos típicos de otras fases del tema (resolución, vía laboral, etc.), pero no aplican aquí. Para la demanda civil posterior, el texto dice expresamente que podía formularse en cualquier tiempo, sin otra limitación que la derivada del plazo de prescripción del derecho material reclamado.",
+        "parte": 2,
+        "id": "tema-25-q99"
+      },
+      {
+        "enunciado": "¿Cuál era el plazo de resolución de la reclamación previa en vía civil?",
+        "opciones": [
+          "Tres meses",
+          "Un mes",
+          "Dos meses",
+          "Seis meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, un mes es el plazo de resolución de las reclamaciones laborales, no civiles. El texto establece un plazo de resolución de tres meses para las civiles y de un mes para las laborales, ambos con silencio negativo.",
+        "parte": 2,
+        "id": "tema-25-q100"
+      },
+      {
+        "enunciado": "El silencio administrativo en la resolución de la reclamación previa, tanto civil como laboral, tenía efecto:",
+        "opciones": [
+          "Negativo",
+          "Positivo",
+          "Mixto, según la cuantía reclamada",
+          "Interruptivo del plazo de prescripción, sin efecto resolutorio"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no había efecto positivo ni mixto según cuantía. El texto es claro: los plazos de resolución (tres meses civiles, un mes laborales) operaban con silencio negativo.",
+        "parte": 2,
+        "id": "tema-25-q101"
+      },
+      {
+        "enunciado": "Según el art. 125 LRJPAC, ¿ante qué órgano debía dirigirse la reclamación previa en vía laboral?",
+        "opciones": [
+          "El Jefe del Departamento o Director del establecimiento u Organismo en el que el trabajador prestara sus servicios",
+          "El Ministro del departamento competente por razón de la materia",
+          "El Director General de la Función Pública",
+          "El Juzgado de lo Social del domicilio del trabajador"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, el Ministro del departamento es el órgano de la vía civil (art. 122 LRJPAC); en la vía laboral, el art. 125 LRJPAC exigía dirigir la reclamación al Jefe del Departamento o Director del establecimiento u Organismo en el que el trabajador prestara sus servicios.",
+        "parte": 2,
+        "id": "tema-25-q102"
+      },
+      {
+        "enunciado": "¿En qué plazo debía remitirse la reclamación previa laboral, con sus antecedentes, al órgano competente?",
+        "opciones": [
+          "5 días",
+          "10 días",
+          "15 días",
+          "20 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: 10, 15 y 20 días son plazos de otros trámites del tema (especialmente del procedimiento militar). En la vía laboral, igual que en la civil, la instrucción del expediente implicaba la remisión de la reclamación previa al órgano competente con todos los antecedentes en el plazo de cinco días.",
+        "parte": 2,
+        "id": "tema-25-q103"
+      },
+      {
+        "enunciado": "La resolución de la reclamación previa laboral debía ser motivada, conforme a:",
+        "opciones": [
+          "Los arts. 89.3 y 54 LRJPAC",
+          "Los arts. 120.1 y 121.1 LRJPAC",
+          "Los arts. 1 y 103 de la Constitución de 1978",
+          "El art. 1.2 de la Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: los arts. 120.1 y 121.1 LRJPAC definen la reclamación previa en general, no la exigencia de motivación; esta remite expresamente a los arts. 89.3 y 54 LRJPAC como fundamento de que la resolución laboral debía ser motivada.",
+        "parte": 2,
+        "id": "tema-25-q104"
+      },
+      {
+        "enunciado": "¿Cómo terminaba el procedimiento de reclamación previa laboral?",
+        "opciones": [
+          "Con resolución notificada al interesado o por silencio administrativo, dejando expedita la vía jurisdiccional",
+          "Únicamente mediante resolución expresa, sin posibilidad de silencio",
+          "Mediante acto de conciliación ante el órgano jurisdiccional laboral",
+          "Con la firma de un acuerdo transaccional entre las partes"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el texto descarta que terminara solo por resolución expresa o mediante conciliación o transacción (instituciones distintas de la reclamación previa). El procedimiento finalizaba con la resolución notificada al interesado o por silencio administrativo, dejando expedita la vía jurisdiccional pertinente.",
+        "parte": 2,
+        "id": "tema-25-q105"
+      },
+      {
+        "enunciado": "Denegada la reclamación previa laboral, expresa o tácitamente, ¿en qué plazo debía formularse la demanda en vía laboral?",
+        "opciones": [
+          "Dos meses",
+          "Un mes",
+          "Tres meses",
+          "Veinte días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: un mes era el plazo de resolución de la propia reclamación laboral, y tres meses el de resolución en la vía civil; ninguno es el plazo para demandar. El texto fija en dos meses el plazo para formular demanda en vía laboral tras la denegación.",
+        "parte": 2,
+        "id": "tema-25-q106"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la vía laboral de la reclamación previa (arts. 125-126 LRJPAC) es correcta?",
+        "opciones": [
+          "El plazo de resolución era de un mes, con silencio negativo",
+          "El plazo de resolución era de tres meses, con silencio positivo",
+          "El plazo de resolución era de dos meses, sin posibilidad de silencio",
+          "No existía plazo de resolución, debiendo esperar indefinidamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, el silencio era negativo, no positivo, y sí existía plazo de resolución. El texto fija ese plazo en un mes para las laborales, con silencio negativo, distinto del plazo de dos meses para formular la demanda tras la denegación.",
+        "parte": 2,
+        "id": "tema-25-q107"
+      },
+      {
+        "enunciado": "Comparando los plazos de resolución entre la vía civil y la vía laboral de la reclamación previa, es correcto afirmar que:",
+        "opciones": [
+          "La vía civil tenía un plazo de resolución más largo (tres meses) que la vía laboral (un mes)",
+          "Ambas vías compartían el mismo plazo de resolución de dos meses",
+          "La vía laboral tenía un plazo de resolución más largo que la vía civil",
+          "La vía civil carecía de plazo de resolución, a diferencia de la laboral"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no comparten plazo, y no es la laboral la más larga; es justo al contrario. El texto establece un plazo de resolución de tres meses para las civiles y de un mes para las laborales, siendo la civil la de plazo más extenso.",
+        "parte": 2,
+        "id": "tema-25-q108"
+      },
+      {
+        "enunciado": "El art. 126 LRJPAC remitía las reclamaciones del personal civil no funcionario al servicio de la Administración Militar a:",
+        "opciones": [
+          "El Real Decreto 2205/1980, de 13 de junio",
+          "La Ley 6/1997, de Organización y Funcionamiento de la Administración General del Estado",
+          "El Texto Refundido de la Ley General de la Seguridad Social",
+          "La Ley de Procedimiento Administrativo de 1958"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, la LOFAGE, el TRLGSS y la Ley de 1958 son normas citadas en otros contextos del tema. El art. 126 LRJPAC remitía específicamente al Real Decreto 2205/1980, de 13 de junio, que regula el régimen de reclamación peculiar en razón de los intereses de la defensa nacional.",
+        "parte": 2,
+        "id": "tema-25-q109"
+      },
+      {
+        "enunciado": "El Real Decreto 2205/1980 regulaba, en relación con el personal civil no funcionario de la Administración Militar:",
+        "opciones": [
+          "Dos procedimientos: reclamación en vía administrativa y reclamación en procedimiento laboral",
+          "Un único procedimiento mixto, administrativo y laboral a la vez",
+          "Tres procedimientos: administrativo, laboral y disciplinario militar",
+          "Un procedimiento exclusivamente ante la jurisdicción contencioso-administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no era un procedimiento único mixto, ni había un tercer cauce disciplinario militar, ni se limitaba a lo contencioso-administrativo. El RD 2205/1980 regulaba dos procedimientos: uno de reclamación en vía administrativa y otro de reclamación en procedimiento laboral.",
+        "parte": 2,
+        "id": "tema-25-q110"
+      },
+      {
+        "enunciado": "¿En qué plazo debía formularse por escrito la reclamación del personal laboral militar sobre su contrato de trabajo, desde el hecho o la notificación/publicación del acuerdo?",
+        "opciones": [
+          "Veinte días",
+          "Cinco días",
+          "Diez días",
+          "Treinta días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: cinco días es el plazo de remisión de antecedentes en los procedimientos civil y laboral comunes, y treinta días es el plazo del Ministerio de Defensa para cumplir una sentencia firme; ninguno es este. La reclamación del personal laboral militar debía formularse en el plazo de veinte días desde el hecho o la notificación/publicación del acuerdo.",
+        "parte": 2,
+        "id": "tema-25-q111"
+      },
+      {
+        "enunciado": "¿Ante quién se formulaba la reclamación en vía administrativa del personal laboral militar?",
+        "opciones": [
+          "Ante la Dirección de Servicios de la que dependiera el Establecimiento, a través del Jefe del mismo",
+          "Directamente ante el Ministro de Defensa",
+          "Ante el Juzgado de lo Social competente por razón del territorio",
+          "Ante la Sección Laboral del Ministerio de Defensa, sin intervención del Jefe del Establecimiento"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se dirigía directamente al Ministro de Defensa (que solo interviene después, en alzada) ni a un juzgado. La reclamación se formulaba ante la Dirección de Servicios de la que dependiera el Establecimiento, a través del Jefe del mismo.",
+        "parte": 2,
+        "id": "tema-25-q112"
+      },
+      {
+        "enunciado": "En el procedimiento de reclamación en vía administrativa militar, ¿quién tramitaba el expediente con diligencias y pruebas, y en qué plazo?",
+        "opciones": [
+          "Un Instructor nombrado por la Jefatura, en el plazo de veinte días",
+          "El propio Jefe del Establecimiento, en el plazo de cinco días",
+          "La Dirección de Servicios directamente, en el plazo de treinta días",
+          "El Ministro de Defensa, en el plazo de quince días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni el Jefe del Establecimiento, ni la Dirección de Servicios, ni el Ministro de Defensa tramitan directamente el expediente. Es la Jefatura la que nombraba un Instructor que tramitaba un procedimiento al que se unían diligencias y pruebas, en el término de veinte días.",
+        "parte": 2,
+        "id": "tema-25-q113"
+      },
+      {
+        "enunciado": "¿Durante cuántos días se ponía de manifiesto el expediente al trabajador en el procedimiento administrativo militar?",
+        "opciones": [
+          "Tres días",
+          "Cinco días",
+          "Diez días",
+          "Veinte días"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, cinco, diez y veinte días son plazos de otras fases de este mismo procedimiento (remisión de antecedentes, instrucción, recurso de alzada). El trámite de vista del expediente al trabajador tenía una duración específica de tres días.",
+        "parte": 2,
+        "id": "tema-25-q114"
+      },
+      {
+        "enunciado": "¿Ante qué órgano cabía recurso de alzada contra la resolución de la Dirección de Servicios en el procedimiento administrativo militar, y en qué plazo?",
+        "opciones": [
+          "Ante el Ministro de Defensa, en veinte días",
+          "Ante el Consejo de Ministros, en un mes",
+          "Ante el Jefe del Estado Mayor de la Defensa, en quince días",
+          "Ante la Sección Laboral, en diez días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni el Consejo de Ministros ni el Jefe del Estado Mayor de la Defensa son los órganos citados por el texto en este trámite. Contra la resolución de la Dirección de Servicios cabía recurso de alzada ante el Ministro de Defensa en veinte días, cuya resolución agotaba la vía administrativa.",
+        "parte": 2,
+        "id": "tema-25-q115"
+      },
+      {
+        "enunciado": "Contra las resoluciones firmes de la Administración Militar dictadas como Autoridad laboral, solo cabía:",
+        "opciones": [
+          "El recurso contencioso-administrativo",
+          "El recurso de reposición ante el mismo órgano",
+          "El recurso de alzada ante el Ministro de Defensa",
+          "La reclamación ante el Juzgado de lo Social"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el recurso de alzada ante el Ministro de Defensa ya se había agotado en la fase anterior, y la reclamación laboral es un cauce distinto (el procedimiento laboral paralelo). Una vez firmes esas resoluciones, el texto dice que solo cabía, en su caso, el recurso contencioso-administrativo.",
+        "parte": 2,
+        "id": "tema-25-q116"
+      },
+      {
+        "enunciado": "En el procedimiento laboral militar (segunda vía regulada por el RD 2205/1980), ¿en qué plazo desde la notificación podía formularse la reclamación ante el Órgano Jurisdiccional del Orden Social?",
+        "opciones": [
+          "Veinte días",
+          "Diez días",
+          "Treinta días",
+          "Dos meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: diez días, treinta días y dos meses son plazos de otras fases del tema (cumplimiento de sentencia, demanda laboral ordinaria). Las resoluciones firmes en vía administrativa militar eran ejecutivas en todo caso, sin perjuicio de poder formularse la correspondiente reclamación ante el Órgano Jurisdiccional del Orden Social, en veinte días desde la notificación.",
+        "parte": 2,
+        "id": "tema-25-q117"
+      },
+      {
+        "enunciado": "Sobre las particularidades del procedimiento laboral militar regulado en el RD 2205/1980, señale la afirmación correcta:",
+        "opciones": [
+          "El Ministerio de Defensa debía cumplimentar la remisión del expediente en quince días, y cumplir la sentencia firme en treinta días, salvo que su cumplimiento en pronunciamientos no estrictamente económicos resultase perjudicial para la Defensa Nacional",
+          "El Ministerio de Defensa disponía de treinta días para remitir el expediente y de quince días para cumplir la sentencia firme en todo caso, sin excepción posible",
+          "El Ministerio de Defensa podía denegar el cumplimiento de cualquier sentencia, económica o no, sin necesidad de resolución motivada",
+          "El Ministerio de Defensa carecía de plazo para cumplir las sentencias firmes dictadas por el Orden Social"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: los plazos están invertidos en la segunda opción, y en la tercera y cuarta se exagera la potestad del Ministerio de Defensa, que debe dictar resolución y solo puede eximirse de cumplir pronunciamientos no estrictamente económicos. El texto fija quince días para cumplimentar el expediente a instancia de la Magistratura y treinta días, desde la notificación de la sentencia firme, para ordenar su cumplimiento, salvo ese supuesto excepcional de perjuicio para la Defensa Nacional.",
+        "parte": 2,
+        "id": "tema-25-q118"
+      },
+      {
+        "enunciado": "¿Qué limitación particular se imponía a la práctica de diligencias en el procedimiento laboral regulado por el RD 2205/1980?",
+        "opciones": [
+          "No podía practicarse diligencia alguna dentro de recintos militares, buques o aeronaves de guerra sin previo conocimiento y autorización de la Autoridad Militar",
+          "No podía practicarse ninguna diligencia sin la presencia de un abogado del Estado",
+          "Todas las diligencias debían practicarse necesariamente en sede del Ministerio de Defensa",
+          "Las diligencias requerían autorización previa del Juzgado de lo Social, sin intervención militar"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se exigía abogado del Estado ni sede obligatoria en el Ministerio de Defensa, y la autorización no era judicial sino militar. El texto precisa que no podía practicarse diligencia alguna dentro de recintos militares, buques o aeronaves de guerra sin previo conocimiento y autorización de la Autoridad Militar, que además podía denegarla por razones de Defensa Nacional.",
+        "parte": 2,
+        "id": "tema-25-q119"
+      },
+      {
+        "enunciado": "Comunicada al trabajador la resolución del Ministerio de Defensa sobre el cumplimiento de la sentencia, ¿en qué plazo podía instar ante el órgano jurisdiccional que se señalase la indemnización sustitutoria?",
+        "opciones": [
+          "Veinte días",
+          "Treinta días",
+          "Quince días",
+          "Dos meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés, treinta días es el plazo del propio Ministerio de Defensa para dictar resolución tras la sentencia firme, y quince días el plazo para cumplimentar el expediente; ninguno es el del trabajador. El texto fija que, comunicada esa resolución, el trabajador podía, en veinte días, instar ante el órgano jurisdiccional, en trámite de ejecución de sentencia, que se señalase la indemnización sustitutoria que correspondiese.",
+        "parte": 2,
+        "id": "tema-25-q120"
+      },
+      {
+        "enunciado": "Según el tema, ¿cuál es el origen histórico más antiguo citado de la reclamación administrativa previa, anterior incluso a la Ley de Bases de 1868 sobre unificación de fueros?",
+        "opciones": [
+          "La Real Orden de 9 de junio de 1847",
+          "La Ley de Procedimiento Administrativo de 1958",
+          "El Título VII (arts. 120 a 126) de la Ley 30/1992",
+          "Los arts. 52.2 y 60.2 de la Ley 6/1997 (LOFAGE)"
+        ],
+        "correcta": 0,
+        "explicacion": "El origen más remoto que cita el tema es la Real Orden de 9 de junio de 1847, reiterada después por la Ley de Bases de 11 de abril de 1868 sobre unificación de fueros. La Ley de Procedimiento Administrativo de 1958 se menciona como el antecedente normativo 'más próximo', no como origen histórico, por lo que confundirla con el origen es el error típico. El Título VII de la Ley 30/1992 fue la regulación general vigente hasta la reforma de 2015, y la LOFAGE solo atribuía competencia para conocer de estas reclamaciones en organismos autónomos y entidades públicas empresariales, sin relación con su origen.",
+        "nivel": "avanzado",
+        "id": "tema-25-q121"
+      },
+      {
+        "enunciado": "Los arts. 52.2 y 60.2 de la LOFAGE (Ley 6/1997) regulaban la competencia para conocer de las reclamaciones previas en organismos autónomos y entidades públicas empresariales. ¿Qué ocurrió con esa ley y desde cuándo?",
+        "opciones": [
+          "Quedó derogada por la disposición derogatoria única.c) de la Ley 40/2015, con efectos desde el 2 de octubre de 2016",
+          "Quedó derogada por la propia Ley 39/2015 desde el momento de su entrada en vigor",
+          "Sigue plenamente vigente en lo relativo a la reclamación previa, pese a la reforma de 2015",
+          "Fue derogada ya en 1992 por la Ley 30/1992 al regular de forma más completa la materia"
+        ],
+        "correcta": 0,
+        "explicacion": "El error habitual es atribuir la derogación de la LOFAGE a la Ley 39/2015 (la del procedimiento administrativo común), cuando en realidad fue la Ley 40/2015, de Régimen Jurídico del Sector Público, la que la derogó expresamente mediante su disposición derogatoria única.c), con efectos desde el 2 de octubre de 2016. Las leyes 39/2015 y 40/2015 son normas gemelas de la misma reforma de 2015 pero con objetos distintos, y el tema distingue expresamente cuál deroga la LOFAGE. Ni la Ley 30/1992 (anterior) ni la pervivencia de la LOFAGE son correctas.",
+        "nivel": "avanzado",
+        "id": "tema-25-q122"
+      },
+      {
+        "enunciado": "Un ente público empresarial, sometido al Derecho Privado en la ejecución de un contrato, dictó previamente un acto relativo a la adjudicación de ese contrato. Conforme a la doctrina de los 'actos separables' (STS 781/2007) que recoge el tema, ¿qué jurisdicción es competente para conocer de ese acto de adjudicación?",
+        "opciones": [
+          "La jurisdicción contencioso-administrativa, pues la formación de la voluntad, la preparación y la adjudicación están sometidas al Derecho Administrativo",
+          "La jurisdicción civil, porque todo el iter contractual sigue la naturaleza privada que rige la ejecución del contrato",
+          "La jurisdicción social, por tratarse de una actuación de una entidad que actúa como empresario",
+          "Ninguna jurisdicción ordinaria resultaba competente sin agotar antes la reclamación administrativa previa"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 1 de la Ley 29/1998 excluye de lo contencioso-administrativo las actuaciones de la Administración sujetas a Derecho Privado o Laboral, pero el tema matiza esa regla con los 'actos separables' (STS 781/2007): los actos relativos a la formación de la voluntad, preparación y adjudicación siguen sometidos al Derecho Administrativo y, por tanto, a control contencioso-administrativo, aunque la ejecución del contrato se rija por Derecho Privado. Las opciones civil y social ignoran esta excepción jurisprudencial, y la reclamación previa es una figura distinta que no condiciona la jurisdicción competente sobre actos separables.",
+        "nivel": "avanzado",
+        "id": "tema-25-q123"
+      },
+      {
+        "enunciado": "¿Qué consecuencia práctica tenía el carácter 'subsanable' de la reclamación administrativa previa como presupuesto procesal, conforme al principio antiformalista y pro actione que destaca el tema?",
+        "opciones": [
+          "Que, si no se había interpuesto previamente, podía presentarse en un momento ulterior del litigio sin perder por ello la posibilidad de acceder al proceso",
+          "Que su omisión nunca impedía en ningún caso el avance del proceso civil o laboral, cualquiera que fuese el momento procesal en que se advirtiera",
+          "Que bastaba con alegar verbalmente la reclamación ante el juez civil o laboral, sin necesidad de presentarla ante el órgano administrativo",
+          "Que el demandante quedaba exento de presentarla siempre que la Administración demandada no la exigiera expresamente en su contestación"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema precisa que la reclamación previa tenía naturaleza procesal y era, en rigor, un requisito exigible, pero de carácter subsanable: si no se había presentado antes, el principio antiformalista y pro actione permitía interponerla en un momento posterior del litigio. La opción 2 exagera esa idea al sugerir que su omisión jamás tenía consecuencias, cuando en realidad sí era un obstáculo que debía subsanarse; las opciones 3 y 4 inventan mecanismos de sustitución que el texto no recoge, pues la reclamación debía presentarse siempre ante el órgano administrativo competente.",
+        "nivel": "avanzado",
+        "id": "tema-25-q124"
+      },
+      {
+        "enunciado": "El art. 120.1 de la Ley 30/1992 permitía exceptuar la exigencia de reclamación previa en determinados supuestos. ¿Mediante qué tipo de norma debía establecerse esa excepción?",
+        "opciones": [
+          "Una disposición con rango de ley",
+          "Un reglamento de desarrollo de la propia Ley 30/1992",
+          "Una orden ministerial del departamento competente por razón de la materia",
+          "Una instrucción o circular interna de la Administración afectada"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema cita literalmente el art. 120.1: la reclamación es requisito previo 'salvo los supuestos en que dicho requisito esté exceptuado por una disposición con rango de ley'. Rebajar esa exigencia a un reglamento, una orden ministerial o una simple instrucción interna contradice el texto legal, que reserva la excepción a norma con rango de ley, coherente además con el posterior art. 1.2 de la Ley 39/2015 sobre trámites adicionales.",
+        "nivel": "avanzado",
+        "id": "tema-25-q125"
+      },
+      {
+        "enunciado": "Un ciudadano presenta una reclamación administrativa previa frente a un organismo público y, antes de que transcurra el plazo para entenderla desestimada por silencio, acude directamente a la vía civil formulando la misma pretensión. Conforme al art. 121.1 de la Ley 30/1992, ¿qué consecuencia tiene esa actuación?",
+        "opciones": [
+          "No podía deducirse la misma pretensión ante la jurisdicción correspondiente hasta que la reclamación fuera resuelta o transcurriera el plazo determinante del silencio",
+          "La demanda civil era perfectamente válida, porque la reclamación previa solo era exigible en la vía laboral y no en la civil",
+          "La demanda se admitía automáticamente por el solo hecho de haberse iniciado ya la vía administrativa",
+          "El organismo quedaba obligado a resolver en el acto, en cuanto tuviera constancia de la demanda judicial presentada"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.1 es claro: planteada la reclamación y no resuelta, mientras no haya transcurrido el plazo del silencio negativo, 'no podrá deducirse la misma pretensión ante la jurisdicción correspondiente'. La reclamación previa operaba tanto en vía civil como laboral (arts. 122-126 LRJPAC regulan ambas), por lo que la opción que la limita a lo laboral es incorrecta, y ni la admisión automática ni una obligación de resolución inmediata figuran en el texto.",
+        "nivel": "avanzado",
+        "id": "tema-25-q126"
+      },
+      {
+        "enunciado": "Según la STS de la Sala 1ª de 12 de mayo de 1961 que recoge el tema, ¿qué tipo de correspondencia debía existir entre la reclamación administrativa previa y la posterior demanda judicial para que aquella cumpliera su función de presupuesto procesal?",
+        "opciones": [
+          "Una conformidad sustancial, sin exigirse identidad absoluta entre ambas",
+          "Una identidad absoluta y literal en los hechos y fundamentos jurídicos invocados en una y otra",
+          "Ninguna correspondencia, pues se trataba de procedimientos completamente autónomos e independientes entre sí",
+          "Identidad absoluta solo en la vía laboral, bastando con conformidad sustancial en la vía civil"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema matiza expresamente que la correspondencia exigida 'no' era de identidad absoluta, 'pero sí de conformidad sustancial', según la STS Sala 1ª de 12 de mayo de 1961, y que esa correspondencia debía darse también entre la contestación a la reclamación y la contestación a la demanda. La opción que exige identidad absoluta es el error típico que el matiz jurisprudencial busca evitar, y la distinción artificial entre vía civil y laboral en este punto no aparece en el texto.",
+        "nivel": "avanzado",
+        "id": "tema-25-q127"
+      },
+      {
+        "enunciado": "¿Qué autor comparó la relación entre la reclamación administrativa previa y el proceso civil con la relación entre la vía administrativa (y el acto que le pone fin) y el proceso contencioso-administrativo, presentando la reclamación previa como manifestación de un status jurídico privilegiado basado en la autotutela administrativa?",
+        "opciones": [
+          "García de Enterría",
+          "Santamaría Pastor",
+          "El Tribunal Constitucional, en la STC 120/93",
+          "El Consejo General del Poder Judicial, en su informe sobre el Anteproyecto de la Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema atribuye expresamente a García de Enterría la frase según la cual 'la reclamación previa era al proceso civil lo que la vía administrativa y el acto que le pone fin es al proceso contencioso-administrativo', enmarcando la figura como manifestación del principio de autotutela. Santamaría Pastor es el autor citado para las diferencias entre reclamación previa y conciliación, no para esta analogía; la STC 120/93 trata la equivalencia funcional con la conciliación, y el CGPJ se pronuncia sobre los motivos de la reforma, no sobre esta comparación doctrinal.",
+        "nivel": "avanzado",
+        "id": "tema-25-q128"
+      },
+      {
+        "enunciado": "La STC 330/2006 consideró compatible la exigencia de reclamación administrativa previa con el art. 24.1 CE. ¿Cuál fue, según el tema, el razonamiento central del Tribunal Constitucional?",
+        "opciones": [
+          "Aunque suponía una dificultad de acceso a la jurisdicción ordinaria (que en ningún caso quedaba impedida), se justificaba por las funciones especiales encomendadas a la Administración y por darle la oportunidad de resolver el litigio evitando la vía judicial",
+          "El requisito no afectaba en absoluto al art. 24.1 CE porque tenía naturaleza puramente sustantiva y no procesal",
+          "Resultaba compatible porque equivalía, a todos los efectos, a un acto de conciliación de naturaleza jurisdiccional",
+          "Era claramente inconstitucional, aunque el Tribunal decidió mantenerla vigente por razones de seguridad jurídica hasta 2015"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema recoge que la STC 330/2006 califica el requisito, en rigor, como una 'carga procesal del demandante' compatible con el art. 24.1 CE, precisando que supone una dificultad de acceso pero nunca un impedimento, justificada por las especiales funciones de la Administración y por su finalidad conciliadora previa a la vía judicial. Calificarla de sustantiva, de mera conciliación jurisdiccional o de inconstitucional contradice directamente el sentido de esa sentencia tal como se describe en el texto.",
+        "nivel": "avanzado",
+        "id": "tema-25-q129"
+      },
+      {
+        "enunciado": "Santamaría Pastor señaló tres diferencias tradicionales entre la reclamación administrativa previa y el acto de conciliación. ¿Cuál de las siguientes NO figura entre esas tres diferencias según el tema?",
+        "opciones": [
+          "Que la reclamación previa debía resolverse siempre en un plazo máximo de un mes, mientras que el acto de conciliación carecía de plazo legal de resolución",
+          "Que la conciliación es tradicionalmente un trámite jurisdiccional, mientras que la reclamación previa es un trámite administrativo ajeno a las potestades de impulso del órgano jurisdiccional",
+          "Que la conciliación implica necesariamente la posibilidad de transacción de derechos, elemento de imposible utilización en la vía administrativa previa",
+          "Que la reclamación previa tiene carácter unilateral (solo funciona cuando la Administración es demandada), frente al esquema bilateral de la conciliación"
+        ],
+        "correcta": 0,
+        "explicacion": "Las tres diferencias que recoge el tema son: la naturaleza jurisdiccional frente a administrativa del trámite, la posibilidad de transacción de derechos propia de la conciliación y ausente en la reclamación previa, y el carácter unilateral de la reclamación previa frente al bilateral de la conciliación. La referencia a un plazo máximo uniforme de un mes es una afirmación inventada que, además, es inexacta en sí misma, pues el propio tema distingue un plazo de tres meses en vía civil y de un mes en vía laboral, y no la presenta como una de las diferencias doctrinales señaladas por Santamaría Pastor.",
+        "nivel": "avanzado",
+        "id": "tema-25-q130"
+      },
+      {
+        "enunciado": "Frente a la tesis de Santamaría Pastor sobre la disparidad sustancial entre reclamación previa y conciliación, ¿qué postura mantuvo el Tribunal Constitucional en la STC 120/93, según el tema?",
+        "opciones": [
+          "Que la reclamación previa constituye un requisito procesal asimilable en su funcionamiento y objetivo a los actos de conciliación, puesto que esta no es ni factible ni obligada cuando el demandado es la Administración",
+          "Que ambas instituciones son completamente idénticas en su naturaleza jurídica y en sus efectos procesales, sin matiz alguno",
+          "Que la reclamación previa debía suprimirse precisamente por no equivaler nunca a un acto de conciliación",
+          "Que la equiparación con la conciliación solo era admisible en la vía laboral, nunca en la vía civil"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema contrapone expresamente ambas posiciones: mientras Santamaría Pastor defiende que son instituciones 'sustancialmente dispares', el Tribunal Constitucional, en la STC 120/93, sostiene la tesis de la equivalencia funcional, señalando que la reclamación previa cumple el papel de la conciliación preprocesal precisamente porque esta no es factible ni obligatoria frente a la Administración. Afirmar identidad absoluta, vincular la postura a la supresión de la figura o limitarla a la vía laboral tergiversa el contenido literal de esa sentencia.",
+        "nivel": "avanzado",
+        "id": "tema-25-q131"
+      },
+      {
+        "enunciado": "Según García de Enterría, ¿por qué cobraba sentido identificar la reclamación administrativa previa con el acto de conciliación, sin que ello la convirtiera en una réplica exacta de este?",
+        "opciones": [
+          "Por la insuficiencia normativa de la reclamación administrativa, que se suplía con la figura de la conciliación por su semejanza e identidad de fines",
+          "Porque ambas instituciones compartían siempre el mismo órgano competente para resolverlas",
+          "Porque la jurisprudencia obligaba a tramitar simultáneamente ambos procedimientos ante el mismo tribunal",
+          "Porque la Ley 30/1992 remitía expresamente a las normas procesales de conciliación para completar su regulación"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema atribuye a García de Enterría la explicación de que la equiparación con la conciliación respondía a la 'insuficiencia normativa' de la reclamación administrativa, suplida por la semejanza e identidad de fines con la conciliación, pero sin que por ello se transformara en una réplica pura y simple de esta. No hay en el texto ninguna remisión normativa expresa de la Ley 30/1992 a las reglas de la conciliación, ni coincidencia de órgano o tramitación simultánea entre ambas figuras.",
+        "nivel": "avanzado",
+        "id": "tema-25-q132"
+      },
+      {
+        "enunciado": "¿Cuál es la razón que expresamente recoge la Exposición de Motivos de la Ley 39/2015 para suprimir las reclamaciones previas en vía civil y laboral?",
+        "opciones": [
+          "La escasa utilidad práctica demostrada hasta la fecha, al suponer una carga que dificultaba el ejercicio de derechos de los administrados en lugar de constituir una ventaja para ellos",
+          "La declaración de inconstitucionalidad de la figura por el Tribunal Constitucional en la STC 330/2006",
+          "La necesidad de homologar el procedimiento español con el de otros Estados miembros de la Unión Europea",
+          "La saturación de los juzgados civiles y laborales derivada del elevado número de litigios contra la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "La Exposición de Motivos citada en el tema es literal: se suprimen las reclamaciones previas por la 'escasa utilidad práctica' demostrada, en el marco de la voluntad de eliminar trámites que, lejos de beneficiar a los administrados, suponían una carga que dificultaba el ejercicio de sus derechos. La STC 330/2006, lejos de declarar la figura inconstitucional, la había avalado como compatible con el art. 24.1 CE; ni la homologación europea ni la saturación judicial aparecen como motivos en el texto.",
+        "nivel": "avanzado",
+        "id": "tema-25-q133"
+      },
+      {
+        "enunciado": "El informe del CGPJ sobre el Anteproyecto de la Ley 39/2015 señaló que el requisito de reclamación previa resultaba 'tanto más cuestionable' por una circunstancia adicional relacionada con otro trámite administrativo previo distinto. ¿Cuál era esa circunstancia, según el tema?",
+        "opciones": [
+          "Que, en muchos casos, los recursos administrativos previos a la vía contencioso-administrativa tenían carácter facultativo, mientras que la reclamación previa civil y laboral resultaba obligatoria",
+          "Que el recurso de alzada frente a actos sujetos a la jurisdicción contencioso-administrativa había sido declarado inconstitucional",
+          "Que el silencio administrativo había dejado de producir efectos negativos en todos los procedimientos administrativos",
+          "Que el Tribunal Constitucional había declarado nulo de pleno derecho el Título VII de la Ley 30/1992"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema recoge que el CGPJ, tras señalar que la reclamación previa no cumplía siquiera su función conciliatoria porque la gran mayoría se desestimaban (incluso por silencio), añade que el requisito era 'tanto más cuestionable' porque, en muchos casos, los recursos administrativos previos a la vía contencioso-administrativa tienen carácter facultativo, lo que hacía aún más injustificado mantener la obligatoriedad en vía civil y laboral. Ninguna de las otras tres afirmaciones (inconstitucionalidad del recurso de alzada, desaparición general del silencio negativo, nulidad del Título VII) aparece en el informe del CGPJ descrito.",
+        "nivel": "avanzado",
+        "id": "tema-25-q134"
+      },
+      {
+        "enunciado": "Parte de la doctrina advirtió que la supresión total de la reclamación previa podía suponer, paradójicamente, una carga mayor para el administrado al obligarle siempre a acudir a la vía jurisdiccional. ¿Qué alternativa se sugirió, por analogía con otras dos figuras del ordenamiento que citó el tema?",
+        "opciones": [
+          "Mantenerla con carácter potestativo, tal como ocurrió con el acto de conciliación y sucede con el recurso de reposición",
+          "Sustituirla por un arbitraje obligatorio administrado por el Consejo de Estado en todos los casos",
+          "Trasladar su tramitación íntegramente a los Juzgados de lo Contencioso-Administrativo antes de admitir la demanda civil o laboral",
+          "Reducir su plazo de resolución a veinticuatro horas, manteniendo intacto su carácter obligatorio"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala expresamente que el mantenimiento con carácter potestativo de la reclamación previa, 'como ocurrió con el acto de conciliación y sucede con el recurso de reposición', habría eliminado los inconvenientes de la supresión total sin imponer al ciudadano la carga de acudir siempre a la vía jurisdiccional con sus costes asociados. No se menciona ningún arbitraje ante el Consejo de Estado, ni una intervención previa de la jurisdicción contencioso-administrativa, ni una simple reducción de plazos manteniendo la obligatoriedad.",
+        "nivel": "avanzado",
+        "id": "tema-25-q135"
+      },
+      {
+        "enunciado": "Un particular pretende hacer valer, en un expediente de apremio administrativo, un mejor derecho sobre un bien embargado frente al derecho de la Administración embargante. ¿Qué ocurre con la exigencia de reclamación previa en este supuesto, tras la Ley 39/2015, según el tema?",
+        "opciones": [
+          "Sigue exigiéndose, pues las tercerías (de dominio y de mejor derecho) interpuestas en expedientes de apremio administrativo son uno de los ámbitos en los que la reclamación previa pervive",
+          "Ha quedado completamente suprimida, exactamente igual que en el resto de materias civiles y laborales",
+          "Solo pervive para las tercerías de dominio, no para las tercerías de mejor derecho",
+          "Pervive únicamente si el embargo supera una cuantía mínima fijada por la Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema menciona expresamente, entre los ámbitos donde la reclamación previa sigue vigente, 'las tercerías (de dominio y de mejor derecho) interpuestas en los expedientes de apremio administrativos', sin distinguir entre ambos tipos de tercería ni fijar cuantía mínima alguna. Afirmar la supresión total ignora esta excepción explícita que el propio texto considera coherente con el art. 1.2 de la Ley 39/2015.",
+        "nivel": "avanzado",
+        "id": "tema-25-q136"
+      },
+      {
+        "enunciado": "¿Qué precepto de la Ley 39/2015 permite justificar, en coherencia con el mantenimiento de la reclamación previa en materia de tercerías o de Seguridad Social, la existencia de trámites adicionales a los previstos en la propia Ley?",
+        "opciones": [
+          "El art. 1.2, que permite incluir trámites adicionales o distintos solo mediante ley, cuando resulte eficaz, proporcionado y necesario para los fines del procedimiento, y de manera motivada",
+          "El art. 103 de la Constitución Española de 1978, sobre los principios de actuación de la Administración Pública",
+          "El art. 24.1 de la Constitución Española de 1978, sobre el derecho a la tutela judicial efectiva",
+          "La disposición derogatoria única de la propia Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema vincula expresamente la pervivencia de la reclamación previa en ciertos ámbitos con el art. 1.2 de la Ley 39/2015, que exige que cualquier trámite adicional o distinto a los previstos en la Ley se establezca 'solo mediante ley, cuando resulte eficaz, proporcionado y necesario... y de manera motivada'. El art. 103 CE y el art. 24.1 CE se citan en el tema en otros contextos (principios de actuación administrativa y compatibilidad constitucional de la carga procesal, respectivamente), y la disposición derogatoria única es precisamente la norma que deroga, no la que habilita trámites adicionales.",
+        "nivel": "avanzado",
+        "id": "tema-25-q137"
+      },
+      {
+        "enunciado": "La Disposición Adicional Primera de la Ley 39/2015 relaciona actuaciones y procedimientos que se rigen por su normativa específica y, solo supletoriamente, por la LPAC. ¿Cuál de las siguientes materias NO figura en esa relación según el tema?",
+        "opciones": [
+          "Los procedimientos de contratación urbanística y de planeamiento municipal",
+          "Las actuaciones y procedimientos de aplicación de los tributos en materia tributaria y aduanera, así como su revisión en vía administrativa",
+          "Las actuaciones y procedimientos de gestión, inspección, liquidación, recaudación, impugnación y revisión en materia de Seguridad Social y Desempleo",
+          "Las actuaciones y procedimientos en materia de extranjería y asilo"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema enumera expresamente, como contenido de la Disposición Adicional Primera, las materias tributaria y aduanera, Seguridad Social y Desempleo, los procedimientos sancionadores en varios ámbitos (tributario, social, tráfico y extranjería) y extranjería y asilo. La contratación urbanística y el planeamiento municipal no aparecen en ninguna de las cuatro categorías listadas en el texto, lo que la convierte en la opción correcta por ser la única materia inventada.",
+        "nivel": "avanzado",
+        "id": "tema-25-q138"
+      },
+      {
+        "enunciado": "¿Por qué debe entenderse, según el razonamiento del tema, que la reclamación previa obligatoria en materia de tercerías sigue vigente a pesar del extenso elenco de normas derogadas por la disposición derogatoria única de la Ley 39/2015?",
+        "opciones": [
+          "Porque la Ley 39/2015 no modificó ni derogó expresamente las normas especiales que regulan esas tercerías, debiendo entenderse que el legislador quiso respetar esa especialidad procedimental, lo que se confirma además por el TRLGSS, posterior a la propia Ley 39/2015",
+          "Porque el Tribunal Constitucional declaró expresamente inaplicable la disposición derogatoria única a las tercerías administrativas",
+          "Porque las tercerías no se consideran, a ningún efecto, acciones civiles ni laborales dentro del ámbito de la Ley 39/2015",
+          "Porque la propia Disposición Adicional Primera menciona por su nombre, de forma expresa, a la 'reclamación previa en tercerías'"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema explica que, pese al extenso catálogo de normas derogadas, la Ley 39/2015 no ha modificado ni derogado expresamente las normas especiales sobre tercerías, por lo que debe entenderse que la voluntad del legislador fue respetar esa reclamación previa como especialidad procedimental; añade que esa voluntad se confirma porque el Texto Refundido de la LGSS, posterior a la propia Ley 39/2015, mantiene expresamente la reclamación administrativa como requisito previo. No hay en el texto ninguna sentencia del Tribunal Constitucional sobre este punto concreto, ni una calificación de las tercerías como ajenas a lo civil o laboral, ni una mención nominal de las tercerías en la Disposición Adicional Primera.",
+        "nivel": "avanzado",
+        "id": "tema-25-q139"
+      },
+      {
+        "enunciado": "En el procedimiento especial de la reclamación previa en vía civil (arts. 122-124 LRJPAC), ¿qué combinación de reglas sobre el plazo de resolución y el plazo para presentar la demanda era la correcta?",
+        "opciones": [
+          "El plazo de resolución era de tres meses con silencio negativo, y la demanda civil podía formularse en cualquier tiempo, sin otro límite que la prescripción del derecho material reclamado",
+          "El plazo de resolución era de un mes con silencio positivo, y la demanda debía presentarse en los dos meses siguientes a la resolución",
+          "El plazo de resolución era de tres meses con silencio positivo, sin que existiera plazo posterior alguno para demandar",
+          "El plazo de resolución era de un mes con silencio negativo, igual que en vía laboral, y la demanda civil debía presentarse en dos meses"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema fija en tres meses el plazo de resolución en vía civil, con silencio negativo, y precisa que, una vez resuelta (expresa o tácitamente) la reclamación, la demanda civil podía formularse 'en cualquier tiempo, sin otra limitación que la derivada del plazo de prescripción del derecho material reclamado'. Esto contrasta con la vía laboral, donde el plazo de resolución era de un mes y, además, existía un plazo de dos meses para demandar tras la denegación; mezclar esos plazos entre vías, o atribuir silencio positivo a la vía civil, es el error que las demás opciones buscan inducir.",
+        "nivel": "avanzado",
+        "id": "tema-25-q140"
+      },
+      {
+        "enunciado": "En la reclamación previa en vía laboral (arts. 125-126 LRJPAC), ¿ante qué órgano debía dirigirse la reclamación y qué plazo tenía el trabajador para demandar tras una denegación expresa o tácita?",
+        "opciones": [
+          "Ante el Jefe del Departamento o Director del establecimiento u Organismo donde el trabajador prestara sus servicios, con un plazo de dos meses para formular la demanda laboral tras la denegación",
+          "Ante el Ministro del departamento competente por razón de la materia, con un plazo de tres meses para formular la demanda laboral",
+          "Ante el Jefe del Departamento correspondiente, con un plazo de cinco días para formular la demanda laboral",
+          "Ante la Dirección de Servicios correspondiente, con un plazo de veinte días para demandar, igual que en el régimen militar"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 125 LRJPAC, según recoge el tema, dirigía la reclamación laboral al 'Jefe del Departamento o Director del establecimiento u Organismo' donde el trabajador prestara servicios, y fijaba en dos meses el plazo para formular la demanda tras la denegación expresa o por silencio. El órgano 'Ministro del departamento' corresponde a la vía civil (no laboral), el plazo de cinco días se refiere a la remisión interna de antecedentes (no al plazo de demanda), y la Dirección de Servicios con veinte días es propio del régimen especial militar, no del general laboral de la LRJPAC.",
+        "nivel": "avanzado",
+        "id": "tema-25-q141"
+      },
+      {
+        "enunciado": "¿Qué diferencia existía entre el plazo de resolución de la reclamación previa en vía civil y en vía laboral conforme a la LRJPAC, compartiendo ambas vías, en cambio, el mismo plazo para la remisión de antecedentes al órgano competente?",
+        "opciones": [
+          "El plazo de resolución era de tres meses en vía civil y de un mes en vía laboral, mientras que en ambas vías el órgano receptor debía remitir los antecedentes en el plazo de cinco días",
+          "El plazo de resolución era de un mes en vía civil y de tres meses en vía laboral, con una remisión de antecedentes de diez días en ambas vías",
+          "El plazo de resolución era idéntico (dos meses) en ambas vías, variando únicamente el plazo de remisión de antecedentes",
+          "El plazo de resolución era de seis meses en vía civil y de tres meses en vía laboral, sin plazo fijado para la remisión de antecedentes"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema establece, para ambas vías, un plazo de cinco días para que el órgano ante el que se presentó la reclamación remita los antecedentes al órgano competente, mientras que el plazo de resolución difiere: tres meses para la vía civil y un mes para la vía laboral, ambos con silencio negativo. Invertir esos plazos de resolución, igualarlos en dos meses, o alargar el plazo de remisión a diez días o dejarlo sin fijar, contradice los datos literales del texto.",
+        "nivel": "avanzado",
+        "id": "tema-25-q142"
+      },
+      {
+        "enunciado": "El art. 126 LRJPAC remitía la reclamación previa del personal civil no funcionario de la Administración Militar a una norma específica. ¿Cuál era esa norma y cuál es su situación actual según el tema?",
+        "opciones": [
+          "El Real Decreto 2205/1980, de 13 de junio, que en principio queda derogado de acuerdo con la Exposición de Motivos de la Ley 39/2015",
+          "La propia Ley 39/2015, que mantiene expresamente este régimen especial sin ninguna modificación",
+          "El Real Decreto 2205/1980, que sigue íntegramente vigente al tratarse de personal militar y no de personal civil",
+          "La Ley Orgánica de Régimen Disciplinario de las Fuerzas Armadas, vigente en la actualidad"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema identifica el Real Decreto 2205/1980, de 13 de junio, como la norma a la que remitía el art. 126 LRJPAC para el personal civil no funcionario de la Administración Militar, precisando entre paréntesis que 'en principio, este punto queda derogado de acuerdo a la Exposición de Motivos de la Ley 39/2015'. Afirmar que la Ley 39/2015 mantiene el régimen sin cambios, que el RD sigue íntegramente vigente, o confundirlo con una Ley Orgánica de régimen disciplinario (que no aparece en el texto), contradice esa precisión final del tema.",
+        "nivel": "avanzado",
+        "id": "tema-25-q143"
+      },
+      {
+        "enunciado": "En el procedimiento de reclamación en vía administrativa regulado por el RD 2205/1980 para el personal laboral de la Administración Militar, ¿cuál era la secuencia correcta de órganos y plazos hasta agotar la vía administrativa?",
+        "opciones": [
+          "Reclamación en veinte días ante la Dirección de Servicios, a través del Jefe del Establecimiento; instrucción de veinte días; exposición del expediente al trabajador durante tres días; y recurso de alzada ante el Ministro de Defensa en veinte días, cuya resolución agotaba la vía administrativa",
+          "Reclamación en cinco días ante el Ministro de Defensa directamente, sin instrucción posterior ni trámite de alzada",
+          "Reclamación en treinta días ante la Autoridad Militar del recinto, con recurso de alzada ante el Jefe del Establecimiento en quince días",
+          "Reclamación en veinte días ante la Dirección de Servicios, resuelta directamente sin posibilidad de recurso de alzada posterior"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema detalla esta secuencia: reclamación por escrito en veinte días ante la Dirección de Servicios a través del Jefe del Establecimiento; instrucción del expediente por un Instructor nombrado por la Jefatura en veinte días; puesta de manifiesto del expediente al trabajador durante tres días; resolución de la Dirección de Servicios previo informe de la Sección Laboral; y, contra esa resolución, recurso de alzada ante el Ministro de Defensa en veinte días, cuya resolución agota la vía administrativa (quedando solo abierto, en su caso, el recurso contencioso-administrativo). Las demás opciones alteran los órganos, invierten los plazos o eliminan el trámite de alzada que el texto describe expresamente.",
+        "nivel": "avanzado",
+        "id": "tema-25-q144"
+      },
+      {
+        "enunciado": "En el procedimiento laboral militar tras agotarse la vía administrativa, ¿qué combinación de reglas era correcta respecto al plazo para demandar ante el Orden Social, el plazo del Ministerio de Defensa para remitir el expediente, y las limitaciones a la práctica de diligencias?",
+        "opciones": [
+          "El trabajador disponía de veinte días desde la notificación para formular la demanda; el Ministerio de Defensa debía cumplimentar la petición del expediente en quince días; y no podía practicarse diligencia alguna dentro de recintos militares, buques o aeronaves de guerra sin autorización previa de la Autoridad Militar",
+          "El trabajador disponía de dos meses para demandar, igual que en el régimen laboral general de la LRJPAC, sin restricción alguna para practicar diligencias en recintos militares",
+          "El Ministerio de Defensa debía remitir el expediente en treinta días, plazo que coincidía exactamente con el otorgado para ordenar el cumplimiento de la sentencia firme",
+          "No existía plazo alguno para demandar ante el Orden Social, al ser las resoluciones militares ejecutivas por su propia naturaleza"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema fija en veinte días el plazo del trabajador para reclamar ante el órgano jurisdiccional del Orden Social desde la notificación de la resolución militar ejecutiva, en quince días el plazo del Ministerio de Defensa para cumplimentar la petición del expediente, y añade la restricción de no poder practicar diligencia alguna en recintos militares, buques o aeronaves de guerra sin previa autorización de la Autoridad Militar. Ese plazo de quince días para remitir el expediente es distinto del de treinta días que el propio Ministerio tenía después para ordenar el cumplimiento de la sentencia firme, por lo que igualarlos es un error; tampoco aplica aquí el plazo de dos meses del régimen laboral general, ni es cierto que no existiera plazo para demandar.",
+        "nivel": "avanzado",
+        "id": "tema-25-q145"
+      }
+    ]
+  },
+  {
+    "id": "tema-26",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 26. La jurisdicción contencioso-administrativa.",
+    "preguntas": [
+      {
+        "enunciado": "El texto cita tres preceptos constitucionales como fundamento de la jurisdicción contencioso-administrativa. ¿Qué artículo de la CE reconoce el derecho de todo ciudadano a la tutela judicial efectiva de sus derechos e intereses legítimos?",
+        "opciones": [
+          "Artículo 103.1 CE",
+          "Artículo 24 CE",
+          "Artículo 106 CE",
+          "Artículo 9.1 CE"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no mezcles los tres artículos citados como fundamento: el 24 CE es el que consagra la tutela judicial efectiva, mientras que el 103.1 CE habla del sometimiento de la Administración a la ley y el 106 CE del control judicial de la potestad reglamentaria y la legalidad administrativa. Los tres son el soporte constitucional del control de la Administración, pero cada uno cubre una idea distinta.",
+        "parte": 1,
+        "id": "tema-26-q1"
+      },
+      {
+        "enunciado": "¿Qué artículo constitucional recoge el sometimiento de la Administración Pública a la ley y al Derecho, citado como pilar de la jurisdicción contencioso-administrativa?",
+        "opciones": [
+          "Artículo 106 CE",
+          "Artículo 24 CE",
+          "Artículo 103.1 CE",
+          "Artículo 9.3 CE"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: el 106 CE no habla de sometimiento de la Administración, sino del control judicial de su actuación; el que proclama que la Administración Pública se somete a la ley y al Derecho es el 103.1 CE. Es uno de los tres preceptos (junto al 24 y al 106 CE) que el texto señala como fundamento constitucional de este control.",
+        "parte": 1,
+        "id": "tema-26-q2"
+      },
+      {
+        "enunciado": "¿Qué artículo de la Constitución encomienda a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa?",
+        "opciones": [
+          "Artículo 24 CE",
+          "Artículo 103.1 CE",
+          "Artículo 106 CE",
+          "Artículo 117.3 CE"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, el 103.1 CE impone a la Administración el deber de sometimiento a la ley, pero es el 106 CE el que atribuye a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa. Son dos caras de la misma garantía: una exige el sometimiento y la otra confía su control a los jueces.",
+        "parte": 1,
+        "id": "tema-26-q3"
+      },
+      {
+        "enunciado": "Según el texto, ¿cuál de los siguientes NO se menciona como principio que informa el verdadero procedimiento judicial en que consiste la vía contencioso-administrativa?",
+        "opciones": [
+          "La dualidad de las partes",
+          "La contradicción",
+          "Iura Novit Curia",
+          "El principio de oficialidad"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: el principio de oficialidad suena plausible en un proceso judicial, pero el texto no lo cita entre los principios de la vía contencioso-administrativa. Los que sí enumera son la dualidad de las partes, la contradicción, Iura Novit Curia y la congruencia, propios de cualquier verdadero procedimiento judicial.",
+        "parte": 1,
+        "id": "tema-26-q4"
+      },
+      {
+        "enunciado": "La actuación de los tribunales competentes para controlar a la Administración (la Jurisdicción Contencioso-administrativa) se regula en...",
+        "opciones": [
+          "La Ley 30/1992, de 26 de noviembre",
+          "La Ley 29/1998, de 13 de julio",
+          "La Ley 39/2015, de 1 de octubre",
+          "La Ley 40/2015, de 1 de octubre"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundas la LJCA con las leyes del procedimiento administrativo común (39/2015 y 40/2015) ni con la antigua Ley 30/1992. La norma que regula la jurisdicción contencioso-administrativa es la Ley 29/1998, de 13 de julio (LJCA), citada expresamente en la introducción del tema.",
+        "parte": 1,
+        "id": "tema-26-q5"
+      },
+      {
+        "enunciado": "Conforme al artículo 6 LJCA, los Juzgados de lo Contencioso-administrativo tienen carácter...",
+        "opciones": [
+          "Colegiado y de ámbito estatal",
+          "Unipersonal y de ámbito provincial",
+          "Colegiado y de ámbito provincial",
+          "Unipersonal y de ámbito estatal"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no los confundas con los Juzgados Centrales: los Juzgados de lo Contencioso-administrativo son unipersonales y de ámbito provincial, pudiendo existir varios en una misma provincia. Los Juzgados Centrales, en cambio, también son unipersonales pero de ámbito estatal con sede en Madrid.",
+        "parte": 1,
+        "id": "tema-26-q6"
+      },
+      {
+        "enunciado": "Los Juzgados Centrales de lo Contencioso-administrativo se caracterizan por ser...",
+        "opciones": [
+          "Colegiados, con sede en Madrid y competencia estatal",
+          "Unipersonales, de ámbito provincial, pudiendo existir varios por provincia",
+          "Unipersonales, de carácter estatal, con sede en Madrid",
+          "Colegiados, de ámbito autonómico"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: que sean de ámbito estatal no significa que sean colegiados. Los Juzgados Centrales de lo Contencioso-administrativo son unipersonales, de carácter estatal, con sede en Madrid, a diferencia de los Juzgados de lo Contencioso-administrativo, que son unipersonales pero de ámbito provincial.",
+        "parte": 1,
+        "id": "tema-26-q7"
+      },
+      {
+        "enunciado": "¿Qué órganos del orden contencioso-administrativo, entre los enumerados en el artículo 6 LJCA, son de carácter colegiado?",
+        "opciones": [
+          "Solo la Sala Tercera del Tribunal Supremo",
+          "Las Salas de los TSJ, la Sala de la Audiencia Nacional y la Sala Tercera del TS",
+          "Los Juzgados de lo Contencioso-administrativo y los Juzgados Centrales",
+          "Únicamente las Salas de los Tribunales Superiores de Justicia"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, los dos tipos de Juzgados (de lo Contencioso-administrativo y Centrales) son unipersonales, no colegiados. Los órganos colegiados del art. 6 LJCA son las Salas de lo Contencioso-administrativo de los TSJ, la Sala de la Audiencia Nacional y la Sala Tercera del Tribunal Supremo.",
+        "parte": 1,
+        "id": "tema-26-q8"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes órganos jurisdiccionales NO figura entre los cinco tipos de órganos que integran el orden jurisdiccional contencioso-administrativo conforme al artículo 6 LJCA?",
+        "opciones": [
+          "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+          "Las Audiencias Provinciales, en su Sección de lo Contencioso-administrativo",
+          "Los Juzgados Centrales de lo Contencioso-administrativo",
+          "La Sala Tercera de lo Contencioso-administrativo del Tribunal Supremo"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: las Audiencias Provinciales existen en el orden civil y penal, pero no forman parte de la estructura del orden contencioso-administrativo. El art. 6 LJCA recoge solo cinco órganos: Juzgados de lo CA, Juzgados Centrales de lo CA, Salas de los TSJ, Sala de la Audiencia Nacional y Sala Tercera del TS.",
+        "parte": 1,
+        "id": "tema-26-q9"
+      },
+      {
+        "enunciado": "La Sala Tercera de lo Contencioso-administrativo del Tribunal Supremo se define en el texto como...",
+        "opciones": [
+          "Un órgano unipersonal de ámbito estatal",
+          "El órgano superior en materia de derecho administrativo",
+          "Un órgano colegiado de ámbito autonómico",
+          "El órgano competente exclusivamente en materia electoral"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no es unipersonal (eso describe a los Juzgados), ni su ámbito es autonómico (eso corresponde a las Salas de los TSJ). La Sala Tercera del Tribunal Supremo se define expresamente como el órgano superior en materia de derecho administrativo, cerrando la estructura del art. 6 LJCA.",
+        "parte": 1,
+        "id": "tema-26-q10"
+      },
+      {
+        "enunciado": "Según el artículo 2 LJCA, ¿cuál de las siguientes materias está siempre sujeta al control jurisdiccional contencioso-administrativo?",
+        "opciones": [
+          "La protección jurisdiccional de los derechos fundamentales, elementos reglados e indemnizaciones derivados de actos del Gobierno o de los Consejos de Gobierno autonómicos",
+          "Las cuestiones atribuidas expresamente a la jurisdicción civil",
+          "El recurso contencioso-disciplinario militar",
+          "Los conflictos de atribuciones entre órganos de una misma Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: las otras tres opciones pertenecen precisamente a las materias excluidas del artículo 3 LJCA, no a las sujetas del artículo 2. Lo que el art. 2.1 LJCA somete siempre al control jurisdiccional es la protección de derechos fundamentales, los elementos reglados y las indemnizaciones derivados de actos del Gobierno estatal o autonómico, sea cual sea su naturaleza.",
+        "parte": 1,
+        "id": "tema-26-q11"
+      },
+      {
+        "enunciado": "De acuerdo con el artículo 2 LJCA, ¿qué materia contractual queda siempre sujeta al control contencioso-administrativo?",
+        "opciones": [
+          "Los contratos administrativos y los actos de preparación y adjudicación de los demás contratos sujetos a la legislación de contratación pública",
+          "Únicamente los contratos privados que celebre la Administración, sea cual sea su naturaleza",
+          "Los contratos civiles entre particulares relacionados con una obra pública",
+          "Solo los contratos ya ejecutados y liquidados por la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el art. 2.b) LJCA no habla de todo tipo de contrato privado de la Administración, sino de los contratos administrativos y de los actos de preparación y adjudicación de los demás contratos sujetos a la legislación de contratación de las Administraciones públicas. Esa es la fórmula exacta que emplea la ley para fijar este supuesto.",
+        "parte": 1,
+        "id": "tema-26-q12"
+      },
+      {
+        "enunciado": "Respecto a los concesionarios de servicios públicos, el artículo 2 LJCA somete al control contencioso-administrativo...",
+        "opciones": [
+          "Únicamente los actos internos de organización de la empresa concesionaria",
+          "Los actos de control o fiscalización de la Administración concedente sobre los dictados por los concesionarios que impliquen potestades administrativas, y los actos de los propios concesionarios cuando puedan recurrirse directamente",
+          "Solo los actos de la Administración concedente, nunca los de los concesionarios",
+          "Exclusivamente los contratos de concesión ya extinguidos"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no se limita a los actos de la Administración concedente; el art. 2.d) LJCA también somete a control los actos de los propios concesionarios cuando, conforme a la legislación sectorial, puedan ser recurridos directamente ante este orden jurisdiccional. La clave es que esos actos impliquen el ejercicio de potestades administrativas conferidas al concesionario.",
+        "parte": 1,
+        "id": "tema-26-q13"
+      },
+      {
+        "enunciado": "En materia de responsabilidad patrimonial de las Administraciones públicas, el artículo 2 LJCA establece que...",
+        "opciones": [
+          "No podrán ser demandadas ante los órdenes civil o social por este motivo, aunque en el daño concurran particulares o exista un seguro de responsabilidad",
+          "Solo quedan sujetas al control contencioso-administrativo si no existe seguro de responsabilidad civil",
+          "Pueden ser demandadas ante la jurisdicción civil si concurre un particular en la producción del daño",
+          "Quedan excluidas del control contencioso-administrativo cuando la Administración cuente con seguro de responsabilidad"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, ni la concurrencia de un particular ni la existencia de un seguro de responsabilidad sacan este asunto de la jurisdicción contencioso-administrativa. El art. 2.e) LJCA es tajante: la responsabilidad patrimonial de las Administraciones públicas, cualquiera que sea la naturaleza de la actividad o relación de que derive, no puede demandarse ante los órdenes civil o social.",
+        "parte": 1,
+        "id": "tema-26-q14"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una de las materias que el artículo 2 LJCA somete siempre al control jurisdiccional contencioso-administrativo?",
+        "opciones": [
+          "La responsabilidad patrimonial de las Administraciones públicas",
+          "Los contratos privados que ocasionalmente celebre la Administración, cualquiera que sea su naturaleza",
+          "Los contratos administrativos y los actos de preparación y adjudicación de contratos públicos",
+          "Los actos y disposiciones de las Corporaciones de Derecho público dictados en ejercicio de funciones públicas"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: suena a materia contractual propia del art. 2, pero la fórmula de \"contratos privados de cualquier naturaleza\" no es la que emplea la ley. El art. 2 LJCA habla de contratos administrativos y de los actos de preparación y adjudicación sujetos a la legislación de contratación pública, no de contratos privados en general.",
+        "parte": 1,
+        "id": "tema-26-q15"
+      },
+      {
+        "enunciado": "¿A qué cuestiones se extiende la competencia del orden jurisdiccional contencioso-administrativo según el artículo 4 LJCA, además de las propiamente administrativas?",
+        "opciones": [
+          "A las cuestiones prejudiciales e incidentales no pertenecientes al orden administrativo, directamente relacionadas con un recurso contencioso-administrativo",
+          "A cualquier cuestión civil, penal o social, sin excepción alguna",
+          "Únicamente a las cuestiones de naturaleza tributaria",
+          "A las cuestiones prejudiciales constitucionales, con preferencia sobre el Tribunal Constitucional"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el art. 4 LJCA no da vía libre a resolver cualquier cuestión ajena a lo administrativo; se limita a las cuestiones prejudiciales e incidentales no administrativas que estén directamente relacionadas con el recurso contencioso-administrativo, y siempre con la excepción de las de carácter constitucional y penal.",
+        "parte": 1,
+        "id": "tema-26-q16"
+      },
+      {
+        "enunciado": "Conforme al artículo 4 LJCA, ¿qué cuestiones prejudiciales quedan excluidas del conocimiento del orden contencioso-administrativo?",
+        "opciones": [
+          "Las de carácter civil y social",
+          "Las de carácter constitucional y penal, y lo dispuesto en los Tratados internacionales",
+          "Las de carácter mercantil y laboral",
+          "Ninguna; el orden contencioso-administrativo puede resolver cualquier cuestión prejudicial"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés: precisamente las civiles y sociales SÍ pueden resolverse (a sensu contrario) por el orden contencioso-administrativo cuando sean prejudiciales. Lo que el art. 4 LJCA excluye expresamente son las cuestiones de carácter constitucional y penal, además de lo dispuesto en los Tratados internacionales.",
+        "parte": 1,
+        "id": "tema-26-q17"
+      },
+      {
+        "enunciado": "Cuando el orden jurisdiccional contencioso-administrativo resuelve una cuestión prejudicial civil o social dentro de un recurso contencioso-administrativo, esa decisión...",
+        "opciones": [
+          "Vincula al orden jurisdiccional civil o social correspondiente para futuros procesos",
+          "No produce efectos fuera del proceso en que se dicta y no vincula al orden jurisdiccional correspondiente",
+          "Produce efectos de cosa juzgada frente a todos, erga omnes",
+          "Solo es válida si se ratifica posteriormente por el orden jurisdiccional civil"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, resolver la cuestión prejudicial no equivale a imponerla al orden competente: el art. 4 LJCA es claro en que la decisión que se pronuncie no producirá efectos fuera del proceso en que se dicte y no vinculará al orden jurisdiccional correspondiente. Son efectos limitados, pensados solo para resolver el litigio contencioso-administrativo concreto.",
+        "parte": 1,
+        "id": "tema-26-q18"
+      },
+      {
+        "enunciado": "Conforme al artículo 1.3 LJCA, el orden contencioso-administrativo conoce también de las pretensiones relacionadas con los actos y disposiciones en materia de personal, administración y gestión patrimonial de...",
+        "opciones": [
+          "Los juzgados de paz exclusivamente",
+          "El Congreso de los Diputados, el Senado, el Tribunal Constitucional, el Tribunal de Cuentas y el Defensor del Pueblo, entre otros",
+          "Las empresas públicas mercantiles sin excepción",
+          "Los colegios profesionales, en toda su actividad"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no se trata de cualquier entidad pública, sino de una lista tasada de órganos constitucionales y análogos autonómicos. El art. 1.3.a) LJCA incluye expresamente al Congreso, el Senado, el Tribunal Constitucional, el Tribunal de Cuentas y el Defensor del Pueblo, además de las Asambleas Legislativas autonómicas y las instituciones análogas, pero solo en materia de personal, administración y gestión patrimonial sujeta a derecho público.",
+        "parte": 1,
+        "id": "tema-26-q19"
+      },
+      {
+        "enunciado": "Según el artículo 1.3.b) LJCA, el orden contencioso-administrativo conoce de los actos y disposiciones de...",
+        "opciones": [
+          "El Consejo General del Poder Judicial y la actividad administrativa de los órganos de gobierno de Juzgados y Tribunales",
+          "El Tribunal Supremo en el ejercicio de su función jurisdiccional ordinaria",
+          "Los Colegios de Abogados en su potestad disciplinaria interna",
+          "Las Cámaras de Comercio en su actividad mercantil"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se trata de la actividad jurisdiccional ordinaria del Poder Judicial, que queda fuera. El art. 1.3.b) LJCA somete específicamente al control contencioso-administrativo los actos y disposiciones del Consejo General del Poder Judicial y la actividad administrativa de los órganos de gobierno de los Juzgados y Tribunales, en los términos de la LOPJ.",
+        "parte": 1,
+        "id": "tema-26-q20"
+      },
+      {
+        "enunciado": "La actuación de la Administración electoral, en los términos de la Ley Orgánica del Régimen Electoral General, se somete al orden contencioso-administrativo conforme a...",
+        "opciones": [
+          "El artículo 1.3.c) LJCA",
+          "El artículo 2.1 LJCA",
+          "El artículo 3.1 LJCA, como cuestión excluida",
+          "El artículo 4 LJCA, como cuestión prejudicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es una cuestión excluida ni una prejudicial, sino una materia adicional expresamente atribuida. El art. 1.3.c) LJCA incluye la actuación de la Administración electoral, en los términos previstos en la LOREG (LO 5/1985), dentro del ámbito de conocimiento de este orden jurisdiccional.",
+        "parte": 1,
+        "id": "tema-26-q21"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes cuestiones queda excluida, conforme al artículo 3 LJCA, del orden jurisdiccional contencioso-administrativo?",
+        "opciones": [
+          "Las cuestiones expresamente atribuidas a las jurisdicciones civil, penal y social, aunque estén relacionadas con la actividad de la Administración Pública",
+          "La responsabilidad patrimonial de las Administraciones públicas",
+          "Los contratos administrativos y los actos de preparación y adjudicación",
+          "La protección jurisdiccional de los derechos fundamentales frente a actos del Gobierno"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, las otras tres opciones son precisamente materias del art. 2 LJCA que SIEMPRE están sujetas a este orden jurisdiccional. Lo excluido por el art. 3.1 LJCA son las cuestiones atribuidas expresamente a las jurisdicciones civil, penal y social, aunque guarden relación con la actividad administrativa.",
+        "parte": 1,
+        "id": "tema-26-q22"
+      },
+      {
+        "enunciado": "El recurso contencioso-disciplinario militar está atribuido, según el artículo 3.2 LJCA, a...",
+        "opciones": [
+          "La jurisdicción militar y, en casación, a la Sala de lo Militar del Tribunal Supremo",
+          "La Sala Tercera de lo Contencioso-administrativo del Tribunal Supremo",
+          "Las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia",
+          "El Tribunal de Conflictos de Jurisdicción"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque tenga la palabra \"contencioso\" en su nombre, este recurso queda expresamente excluido del orden contencioso-administrativo. El art. 3.2 LJCA lo atribuye a la jurisdicción militar y, en casación, a la Sala de lo Militar del Tribunal Supremo.",
+        "parte": 1,
+        "id": "tema-26-q23"
+      },
+      {
+        "enunciado": "¿Quién resuelve, respectivamente, los conflictos de jurisdicción entre Juzgados y Tribunales y la Administración, y los conflictos de atribuciones entre órganos de una misma Administración?",
+        "opciones": [
+          "El Tribunal de Conflictos de Jurisdicción (los primeros) y el superior jerárquico común (los segundos)",
+          "La Sala Tercera del Tribunal Supremo en ambos casos",
+          "El Tribunal Constitucional en ambos casos",
+          "El superior jerárquico común (los primeros) y el Tribunal de Conflictos de Jurisdicción (los segundos)"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no son intercambiables: los conflictos de jurisdicción (entre Juzgados/Tribunales y la Administración) los resuelve el Tribunal de Conflictos de Jurisdicción, creado por la LO 2/1987, mientras que los conflictos de atribuciones (entre órganos de una misma Administración) los resuelve el superior jerárquico común. Ambos quedan excluidos del orden contencioso-administrativo conforme al art. 3.3 LJCA.",
+        "parte": 1,
+        "id": "tema-26-q24"
+      },
+      {
+        "enunciado": "Los recursos contra las Normas Forales fiscales de las Juntas Generales de los Territorios Históricos de Álava, Guipúzcoa y Vizcaya corresponden en exclusiva a...",
+        "opciones": [
+          "El Tribunal Constitucional",
+          "La Sala Tercera del Tribunal Supremo",
+          "Las Salas de lo Contencioso-administrativo de los TSJ del País Vasco",
+          "El Tribunal de Conflictos de Jurisdicción"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque sean normas de contenido fiscal con apariencia reglamentaria, no se impugnan ante el orden contencioso-administrativo. El art. 3.4 LJCA excluye estos recursos, directos o indirectos, y los atribuye en exclusiva al Tribunal Constitucional, conforme a la disposición adicional quinta de su Ley Orgánica.",
+        "parte": 1,
+        "id": "tema-26-q25"
+      },
+      {
+        "enunciado": "El procedimiento ordinario regulado en el artículo 43 y siguientes LJCA versa sobre...",
+        "opciones": [
+          "La validez de los actos que hayan agotado la vía administrativa",
+          "Exclusivamente las cuestiones de personal al servicio de las Administraciones públicas",
+          "Únicamente los asuntos cuya cuantía no supere los 30.000 euros",
+          "La protección sumaria de los derechos fundamentales"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: las otras tres opciones describen, respectivamente, materias del procedimiento abreviado y de los procedimientos especiales, no del ordinario. El procedimiento ordinario procede cuando, por razón de la materia o de la cuantía, no proceda otro, y versa sobre la validez de los actos que hayan agotado la vía administrativa.",
+        "parte": 1,
+        "id": "tema-26-q26"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes materias se tramita por el procedimiento abreviado del artículo 78 LJCA ante los Juzgados de lo Contencioso-administrativo?",
+        "opciones": [
+          "Cuestiones de personal al servicio de las Administraciones públicas, extranjería, inadmisión de asilo político y disciplina deportiva en materia de dopaje",
+          "Los recursos de casación ante el Tribunal Supremo",
+          "La cuestión de ilegalidad regulada en el artículo 123 LJCA",
+          "Los litigios entre Administraciones públicas de cuantía superior a 30.000 euros"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la casación y la cuestión de ilegalidad no son materias del procedimiento abreviado. El art. 78 LJCA reserva este procedimiento, entre otros asuntos, a las cuestiones de personal, extranjería, inadmisión de peticiones de asilo político y disciplina deportiva en materia de dopaje, además de los asuntos de cuantía no superior a 30.000 euros.",
+        "parte": 1,
+        "id": "tema-26-q27"
+      },
+      {
+        "enunciado": "¿Cuál es el umbral de cuantía que determina, con carácter general, que un asunto se tramite por el procedimiento abreviado en lugar del ordinario?",
+        "opciones": [
+          "30.000 euros",
+          "18.000 euros",
+          "60.000 euros",
+          "3.000 euros"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundas este umbral con otras cuantías de distintos ámbitos del derecho procesal. El artículo 78 LJCA fija en 30.000 euros el límite de cuantía por debajo del cual el asunto se conoce por procedimiento abreviado, al margen de las materias tasadas que también lo determinan (personal, extranjería, asilo, dopaje).",
+        "parte": 1,
+        "id": "tema-26-q28"
+      },
+      {
+        "enunciado": "El procedimiento especial de protección de los derechos fundamentales de la persona se caracteriza por ser...",
+        "opciones": [
+          "Sumario y preferente, conforme al artículo 53.2 CE",
+          "El procedimiento general para toda impugnación de actos administrativos",
+          "Un procedimiento exclusivamente escrito, sin fase de vista",
+          "Idéntico en plazos y trámites al procedimiento ordinario"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es el procedimiento general ni coincide con el ordinario; es un procedimiento especial, distinto del ordinario y del abreviado. El texto lo define como sumario y preferente, en desarrollo del artículo 53.2 CE, frente al otro procedimiento especial, la cuestión de ilegalidad del artículo 123 LJCA.",
+        "parte": 1,
+        "id": "tema-26-q29"
+      },
+      {
+        "enunciado": "La cuestión de ilegalidad, como procedimiento especial regulado en la LJCA, se encuentra prevista en...",
+        "opciones": [
+          "El artículo 123 LJCA",
+          "El artículo 53.2 CE",
+          "El artículo 78 LJCA",
+          "El artículo 19 LJCA"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el art. 53.2 CE es el fundamento constitucional del otro procedimiento especial (protección de derechos fundamentales), no de la cuestión de ilegalidad. La cuestión de ilegalidad, como segundo procedimiento especial citado en el texto, se regula en el artículo 123 LJCA.",
+        "parte": 1,
+        "id": "tema-26-q30"
+      },
+      {
+        "enunciado": "Para interponer un recurso contencioso-administrativo, la parte demandante debe reunir dos requisitos. ¿Cuáles son?",
+        "opciones": [
+          "Capacidad procesal y legitimación",
+          "Nacionalidad española y mayoría de edad",
+          "Representación por procurador y abogado de oficio",
+          "Haber agotado previamente la vía penal"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni la nacionalidad ni la mayoría de edad se exigen como tales, y la representación por procurador no es siempre obligatoria. El texto es claro: los requisitos de la parte demandante son la capacidad procesal y la legitimación.",
+        "parte": 1,
+        "id": "tema-26-q31"
+      },
+      {
+        "enunciado": "Conforme al artículo 19.a) LJCA, están legitimadas ante el orden contencioso-administrativo...",
+        "opciones": [
+          "Las personas físicas o jurídicas que ostenten un derecho o interés legítimo",
+          "Únicamente las personas jurídico-públicas",
+          "Solo quienes acrediten un derecho subjetivo, nunca un mero interés legítimo",
+          "Exclusivamente las personas físicas, no las jurídicas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la legitimación del art. 19.a) LJCA no se restringe al derecho subjetivo ni a un tipo de persona: abarca a las personas físicas o jurídicas que ostenten un derecho O un interés legítimo, fórmula amplia que es la letra a) del listado del artículo 19.",
+        "parte": 1,
+        "id": "tema-26-q32"
+      },
+      {
+        "enunciado": "El artículo 19.b) LJCA legitima para recurrir a...",
+        "opciones": [
+          "Las corporaciones, asociaciones, sindicatos y grupos y entidades afectados o legalmente habilitados para la defensa de derechos e intereses legítimos colectivos",
+          "Únicamente los sindicatos con representatividad estatal",
+          "Solo las asociaciones inscritas en el registro correspondiente con más de un año de antigüedad",
+          "Las corporaciones de derecho público, pero no las asociaciones privadas"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay exigencia de antigüedad ni se limita a los sindicatos más representativos. La letra b) del art. 19 LJCA legitima a corporaciones, asociaciones, sindicatos y grupos y entidades que resulten afectados o estén legalmente habilitados para la defensa de derechos e intereses legítimos colectivos.",
+        "parte": 1,
+        "id": "tema-26-q33"
+      },
+      {
+        "enunciado": "Según el artículo 19.c) LJCA, la Administración del Estado está legitimada para...",
+        "opciones": [
+          "Impugnar los actos y disposiciones de la Administración de las Comunidades Autónomas, de sus Organismos públicos vinculados, de las Entidades locales y de otras entidades no sometidas a su fiscalización, cuando ostente un derecho o interés legítimo",
+          "Impugnar cualquier acto administrativo sin necesidad de acreditar interés legítimo",
+          "Impugnar únicamente actos de otras Administraciones del Estado",
+          "Actuar solo como parte demandada, nunca como demandante"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la Administración del Estado sí puede ser parte demandante, y no de forma ilimitada: necesita ostentar un derecho o interés legítimo. El art. 19.c) LJCA la legitima para impugnar actos y disposiciones de las CCAA y sus organismos vinculados, de las Entidades locales, y de cualquier otra entidad pública no sometida a su fiscalización.",
+        "parte": 1,
+        "id": "tema-26-q34"
+      },
+      {
+        "enunciado": "La Administración de las Comunidades Autónomas está legitimada, conforme al artículo 19.d) LJCA, para impugnar...",
+        "opciones": [
+          "Los actos y disposiciones que afecten al ámbito de su autonomía, emanados de la Administración del Estado, de otra Administración u Organismo público, o de las Entidades locales",
+          "Únicamente los actos del propio Gobierno autonómico",
+          "Solo los actos de otras Comunidades Autónomas limítrofes",
+          "Exclusivamente disposiciones reglamentarias, nunca actos administrativos"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la legitimación no se limita a actos de Administraciones autonómicas vecinas ni excluye los actos administrativos singulares. El art. 19.d) LJCA legitima a la Administración autonómica para impugnar actos y disposiciones que afecten al ámbito de su autonomía, procedan del Estado, de otra Administración u Organismo público, o de las Entidades locales.",
+        "parte": 1,
+        "id": "tema-26-q35"
+      },
+      {
+        "enunciado": "Las Entidades locales territoriales, según el artículo 19.e) LJCA, pueden impugnar...",
+        "opciones": [
+          "Los actos y disposiciones que afecten al ámbito de su autonomía, emanados del Estado, de las CCAA, de Organismos públicos vinculados o de otras Entidades locales",
+          "Únicamente los actos de otros ayuntamientos de la misma provincia",
+          "Solo las disposiciones generales, nunca actos administrativos concretos",
+          "Exclusivamente actos dictados por el Tribunal de Cuentas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no se restringe a entes locales de la misma provincia ni excluye los actos singulares. El art. 19.e) LJCA legitima a las Entidades locales territoriales para impugnar actos y disposiciones que afecten al ámbito de su autonomía, emanados de las Administraciones del Estado y de las CCAA, de Organismos públicos vinculados a ellas o de otras Entidades locales.",
+        "parte": 1,
+        "id": "tema-26-q36"
+      },
+      {
+        "enunciado": "El Ministerio Fiscal está legitimado ante el orden contencioso-administrativo, conforme al artículo 19.f) LJCA, para...",
+        "opciones": [
+          "Intervenir en los procesos que determine la Ley",
+          "Recurrir cualquier acto administrativo en defensa del interés general sin limitación alguna",
+          "Actuar únicamente como parte demandada",
+          "Ejercer la acción popular en sustitución de los ciudadanos"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: su legitimación no es universal ni sustituye a la acción popular de los ciudadanos (letra h). El art. 19.f) LJCA legitima al Ministerio Fiscal para intervenir en los procesos que determine la Ley, es decir, en los supuestos tasados legalmente.",
+        "parte": 1,
+        "id": "tema-26-q37"
+      },
+      {
+        "enunciado": "Según el artículo 19.g) LJCA, están legitimadas para recurrir las Entidades de Derecho público con personalidad jurídica propia vinculadas o dependientes de las Administraciones públicas, siempre que...",
+        "opciones": [
+          "Impugnen actos o disposiciones que afecten al ámbito de sus fines",
+          "Cuenten con autorización expresa del Consejo de Ministros",
+          "Actúen en nombre de la Administración de la que dependen, nunca en nombre propio",
+          "Se trate de entidades sin ánimo de lucro exclusivamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no necesitan autorización del Consejo de Ministros ni actúan solo por delegación de la Administración matriz: pueden recurrir en nombre propio. El art. 19.g) LJCA las legitima cuando impugnan actos o disposiciones que afecten al ámbito de sus propios fines.",
+        "parte": 1,
+        "id": "tema-26-q38"
+      },
+      {
+        "enunciado": "La acción popular ante el orden contencioso-administrativo, recogida en el artículo 19.h) LJCA, corresponde a...",
+        "opciones": [
+          "Cualquier ciudadano, en los casos expresamente previstos por las Leyes",
+          "Cualquier ciudadano, sin ninguna limitación legal",
+          "Únicamente a las asociaciones de defensa de intereses colectivos",
+          "Solo a quienes ostenten un interés legítimo directo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la acción popular no es ilimitada; solo opera en los casos que las Leyes prevean expresamente. El art. 19.h) LJCA legitima a cualquier ciudadano para ejercerla, pero circunscrita a esos supuestos tasados legalmente.",
+        "parte": 1,
+        "id": "tema-26-q39"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO figura entre los legitimados que enumera el artículo 19 LJCA?",
+        "opciones": [
+          "Las personas físicas o jurídicas que ostenten un derecho o interés legítimo",
+          "El Ministerio Fiscal, para intervenir en los procesos que determine la Ley",
+          "El Tribunal de Cuentas, en defensa genérica de la legalidad presupuestaria",
+          "Cualquier ciudadano, en ejercicio de la acción popular en los casos previstos por las Leyes"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: el Tribunal de Cuentas aparece en el tema, pero como posible parte demandada (art. 1.3.a y art. 21 LJCA) cuando se impugnan sus actos de personal o gestión patrimonial, no como legitimado activo genérico del artículo 19. Las otras tres opciones sí corresponden literalmente a letras del art. 19 LJCA (a, f y h).",
+        "parte": 1,
+        "id": "tema-26-q40"
+      },
+      {
+        "enunciado": "Además de los legitimados del artículo 19 LJCA, el texto señala que también puede recurrir...",
+        "opciones": [
+          "La propia Administración autora de un acto, previa su declaración de lesividad para el interés público",
+          "Un tercero totalmente ajeno al procedimiento administrativo, sin necesidad de interés alguno",
+          "Solo los funcionarios públicos que hayan intervenido en la tramitación del acto",
+          "Cualquier Administración, sin necesidad de declaración previa alguna"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la Administración no puede simplemente \"arrepentirse\" de su propio acto y recurrirlo sin más trámite. El texto exige que, para que la Administración autora de un acto pueda impugnarlo, lo declare previamente lesivo para el interés público en los términos legalmente establecidos.",
+        "parte": 1,
+        "id": "tema-26-q41"
+      },
+      {
+        "enunciado": "¿Qué consecuencia procesal tiene la falta de legitimación de quien interpone un recurso contencioso-administrativo?",
+        "opciones": [
+          "Es causa determinante de la inadmisibilidad del recurso",
+          "No tiene consecuencia alguna, se resuelve igualmente sobre el fondo",
+          "Obliga a suspender el procedimiento hasta que subsane el defecto en cualquier momento",
+          "Determina automáticamente la nulidad del acto administrativo impugnado"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no es un defecto subsanable sin más ni algo irrelevante para el fondo; impide entrar a resolver sobre el asunto. El texto afirma expresamente que la falta de legitimación es causa determinante de la inadmisibilidad del recurso.",
+        "parte": 1,
+        "id": "tema-26-q42"
+      },
+      {
+        "enunciado": "¿Bajo qué principio es posible acumular varias pretensiones en un recurso contencioso-administrativo, y qué límite existe?",
+        "opciones": [
+          "Bajo el principio de economía procesal, salvo que el Secretario Judicial no lo estime oportuno por falta de conexión entre ellas",
+          "Nunca es posible acumular pretensiones en este orden jurisdiccional",
+          "Solo si todas las pretensiones se dirigen contra la misma persona física",
+          "Únicamente cuando lo autorice expresamente el Tribunal Supremo"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la acumulación sí es posible, no está vetada en este orden jurisdiccional, pero tampoco es automática. El texto señala que se basa en el principio de economía procesal, salvo que el Secretario Judicial no lo estime oportuno por falta de conexión entre las pretensiones, en cuyo caso deben sustanciarse en recursos diferentes.",
+        "parte": 1,
+        "id": "tema-26-q43"
+      },
+      {
+        "enunciado": "Conforme al artículo 21 LJCA, ¿quién es, con carácter general, la parte demandada en el recurso contencioso-administrativo?",
+        "opciones": [
+          "Siempre la Administración Pública contra cuya actividad se dirija el recurso",
+          "El funcionario público que haya firmado materialmente el acto",
+          "El Ministerio Fiscal, como representante del interés general",
+          "El particular que haya denunciado la actuación administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni el funcionario firmante ni el Ministerio Fiscal son la parte demandada por defecto. El art. 21 LJCA establece con claridad que la parte demandada es siempre la Administración Pública contra cuya actividad se dirija el recurso.",
+        "parte": 1,
+        "id": "tema-26-q44"
+      },
+      {
+        "enunciado": "¿En qué supuesto el Congreso de los Diputados, el Senado, el Tribunal Constitucional, el Tribunal de Cuentas o el Defensor del Pueblo pueden tener la condición de parte demandada?",
+        "opciones": [
+          "Cuando el recurso se dirija contra sus actos y disposiciones en materia de personal, administración y gestión patrimonial sujetos a derecho público",
+          "En cualquier recurso contencioso-administrativo, sea cual sea su objeto",
+          "Únicamente cuando actúen como legitimados activos, nunca como demandados",
+          "Solo si el recurso se refiere a su actividad parlamentaria o jurisdiccional ordinaria"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, estos órganos constitucionales no son demandados por cualquier tipo de recurso, sino solo cuando este se dirige contra sus actos de personal, administración y gestión patrimonial sujetos a derecho público, en coherencia con lo previsto en el artículo 1.3 LJCA.",
+        "parte": 1,
+        "id": "tema-26-q45"
+      },
+      {
+        "enunciado": "Además de la Administración autora del acto, ¿en qué otro caso se considera parte demandada en el procedimiento contencioso-administrativo?",
+        "opciones": [
+          "Cuando el demandante funde sus pretensiones en la ilegalidad de una disposición general, se considera también parte demandada a la Administración autora de la misma, aunque no proceda de ella la actuación recurrida",
+          "Nunca puede haber más de una parte demandada en un mismo recurso",
+          "Solo cuando lo solicite expresamente el Ministerio Fiscal",
+          "Únicamente cuando el recurrente sea una persona jurídica"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: sí puede haber pluralidad de partes demandadas. El texto prevé expresamente que, si el demandante basa sus pretensiones en la ilegalidad de una disposición general, también se considera parte demandada a la Administración autora de esa disposición, aunque la actuación recurrida no proceda de ella; y lo mismo ocurre con quienes puedan ver afectados sus derechos o intereses legítimos por la estimación de la pretensión.",
+        "parte": 1,
+        "id": "tema-26-q46"
+      },
+      {
+        "enunciado": "En cuanto a la representación y defensa de las partes en el proceso contencioso-administrativo, el texto señala que...",
+        "opciones": [
+          "Las partes deberán estar en todo caso asistidas por abogado",
+          "Nunca es necesaria la intervención de abogado, al ser un procedimiento de autodefensa",
+          "El abogado solo es obligatorio en los órganos colegiados",
+          "Solo la Administración necesita abogado; el particular puede comparecer sin él"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la obligatoriedad del abogado no depende de si el órgano es unipersonal o colegiado (eso afecta al procurador), ni se limita a una de las partes. El texto es claro: las partes, en todo caso, deberán estar asistidas por abogado.",
+        "parte": 1,
+        "id": "tema-26-q47"
+      },
+      {
+        "enunciado": "¿Cuándo es obligatoria la intervención de procurador en el procedimiento contencioso-administrativo, y quién asume la defensa de la Administración General del Estado?",
+        "opciones": [
+          "El procurador solo es obligatorio en actuaciones ante órganos colegiados; la defensa de la AGE corresponde a los Abogados del Estado",
+          "El procurador es siempre obligatorio, igual que el abogado; la AGE se defiende a través del Ministerio Fiscal",
+          "El procurador nunca es necesario en este orden jurisdiccional; la AGE se defiende por sus propios funcionarios",
+          "El procurador es obligatorio solo ante los Juzgados unipersonales; la AGE se defiende por los Letrados municipales"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el procurador no es siempre obligatorio ni nunca necesario: solo lo es ante órganos colegiados, pudiendo conferirse su representación voluntariamente en el resto de los casos. Y la defensa y representación de la Administración General del Estado está atribuida específicamente a los Abogados del Estado.",
+        "parte": 1,
+        "id": "tema-26-q48"
+      },
+      {
+        "enunciado": "El recurso contencioso-administrativo se inicia, en el procedimiento ordinario, mediante...",
+        "opciones": [
+          "Un escrito reducido a citar la disposición, acto, inactividad o actuación en vía de hecho que se impugne y a solicitar que se tenga por interpuesto el recurso",
+          "Directamente la demanda, con todos los fundamentos de hecho y de derecho",
+          "Una solicitud verbal ante el Secretario Judicial",
+          "Un escrito de alegaciones previas sobre el fondo del asunto"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no se confunde con la demanda, que se presenta después (en el abreviado sí se inicia por demanda, pero no en el ordinario). El ordinario se inicia por un escrito de interposición reducido a citar lo que se impugna y a solicitar que se tenga por interpuesto el recurso.",
+        "parte": 1,
+        "id": "tema-26-q49"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo general para interponer el recurso contencioso-administrativo cuando el acto que agota la vía administrativa es expreso?",
+        "opciones": [
+          "Dos meses desde el día siguiente a su notificación o publicación",
+          "Seis meses desde el día siguiente a su notificación o publicación",
+          "Un mes desde el día siguiente a su notificación",
+          "Veinte días desde el día siguiente a su notificación"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: los seis meses corresponden al acto presunto, no al expreso. Cuando el acto que agota la vía administrativa es expreso, el plazo general es de dos meses desde el día siguiente a la publicación de la disposición o a la notificación o publicación del acto.",
+        "parte": 1,
+        "id": "tema-26-q50"
+      },
+      {
+        "enunciado": "Cuando el acto que pone fin a la vía administrativa es presunto (por silencio), el plazo para interponer el recurso contencioso-administrativo es de...",
+        "opciones": [
+          "Seis meses, contados desde el día siguiente a aquel en que se produzca el acto presunto",
+          "Dos meses, igual que si fuera expreso",
+          "Tres meses, por aplicación del plazo general de inactividad",
+          "Un año, al no existir notificación formal"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el plazo de dos meses es el que rige para el acto expreso; cuando el acto es presunto, el plazo se amplía a seis meses, contados para el solicitante y otros posibles interesados desde el día siguiente a aquel en que, según su normativa específica, se produzca el acto presunto.",
+        "parte": 1,
+        "id": "tema-26-q51"
+      },
+      {
+        "enunciado": "Si el recurso contencioso-administrativo se dirige contra una actuación en vía de hecho, ¿cuáles son los plazos aplicables?",
+        "opciones": [
+          "Veinte días desde que se inició la vía de hecho, o diez días desde el requerimiento para que cese (con otros diez días más si la Administración no contesta en diez días)",
+          "Dos meses desde que se inició la vía de hecho, sin posibilidad de requerimiento previo",
+          "Seis meses desde que se inició la vía de hecho, igual que el acto presunto",
+          "Quince días desde que se inició la vía de hecho, sin excepción alguna"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la vía de hecho no sigue los plazos de dos o seis meses propios de los actos expresos o presuntos; tiene su propio régimen, más breve. El plazo es de veinte días desde el inicio de la vía de hecho, o de diez días desde el requerimiento para que cese, con otros diez días adicionales si la Administración no contesta a dicho requerimiento en diez días.",
+        "parte": 1,
+        "id": "tema-26-q52"
+      },
+      {
+        "enunciado": "En los supuestos de inactividad de la Administración, ¿cómo se computa el plazo para interponer el recurso contencioso-administrativo?",
+        "opciones": [
+          "Rige el plazo general de dos meses, computado desde el día siguiente al vencimiento de los plazos (tres meses, o un mes para ejecución de actos firmes) establecidos para considerar producida la inactividad",
+          "Rige un plazo único y directo de seis meses desde que se produce el hecho que genera la inactividad",
+          "No existe plazo, al tratarse de una omisión y no de un acto",
+          "Rige el mismo plazo de veinte días previsto para la vía de hecho"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la inactividad no carece de plazo ni se asimila a la vía de hecho. Rige el plazo general de dos meses, pero su cómputo arranca al vencer los plazos fijados para entender producida la inactividad: tres meses en el supuesto general o un mes si se trata de la ejecución de actos firmes, una vez requerida la Administración.",
+        "parte": 1,
+        "id": "tema-26-q53"
+      },
+      {
+        "enunciado": "Conforme al artículo 49.1 LJCA, una vez acordada la remisión del expediente, ¿en qué plazos se notifica a los interesados y se les emplaza para personarse?",
+        "opciones": [
+          "Se notifica a los 5 días siguientes a la adopción de la resolución, emplazándoles para personarse en el plazo de 9 días",
+          "Se notifica a los 10 días siguientes, emplazándoles para personarse en el plazo de 20 días",
+          "Se notifica de forma inmediata, sin plazo para personarse",
+          "Se notifica a los 20 días siguientes, emplazándoles para personarse en el plazo de 5 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay que confundir estos plazos iniciales con los de 20 días de la demanda y la contestación. El art. 49.1 LJCA fija que la notificación se hace a los 5 días siguientes a la resolución que acuerda remitir el expediente, emplazando a los interesados para personarse como demandados en el plazo de 9 días.",
+        "parte": 1,
+        "id": "tema-26-q54"
+      },
+      {
+        "enunciado": "Según el artículo 50 LJCA, ¿cómo se entiende efectuado el emplazamiento de la Administración y cuándo se la considera personada en el proceso?",
+        "opciones": [
+          "El emplazamiento se entiende efectuado por la reclamación del expediente, y se entiende personada por el envío del expediente",
+          "El emplazamiento requiere notificación personal al titular del órgano, y se persona mediante escrito expreso de comparecencia",
+          "El emplazamiento se entiende efectuado por la publicación en el BOE, y se persona mediante contestación a la demanda",
+          "La Administración nunca necesita emplazamiento, al ser siempre parte demandada por ministerio de la ley"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el régimen de la Administración es distinto al de otros interesados: no requiere notificación personal ni escrito expreso de comparecencia. El art. 50.1 LJCA entiende efectuado su emplazamiento por la reclamación del expediente, y el art. 50.2 LJCA la entiende personada en el proceso por el envío de dicho expediente.",
+        "parte": 1,
+        "id": "tema-26-q55"
+      },
+      {
+        "enunciado": "Recibido el expediente administrativo y comprobados los emplazamientos, ¿qué plazo tiene el recurrente para deducir la demanda, y qué ocurre si no la presenta?",
+        "opciones": [
+          "Dispone de 20 días; si no presenta la demanda en plazo, el Juzgado o Sala declarará de oficio, por auto, la caducidad del recurso",
+          "Dispone de 30 días; si no la presenta, el recurso queda automáticamente admitido sin demanda",
+          "Dispone de 10 días; si no la presenta, se le impone una multa sin afectar al recurso",
+          "Dispone de 15 días; si no la presenta, se traslada el plazo a la parte demandada"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la falta de demanda no se sanciona con una multa ni se traslada el plazo a la contraparte; implica la terminación del recurso. El art. 52.1 y 2 LJCA concede 20 días para deducir la demanda y, si no se presenta en plazo, el Juzgado o Sala declara de oficio, mediante auto, la caducidad del recurso.",
+        "parte": 1,
+        "id": "tema-26-q56"
+      },
+      {
+        "enunciado": "Presentada la demanda, ¿en qué plazo deben contestarla las partes demandadas que hubieran comparecido, y qué regla rige sobre la aportación de documentos?",
+        "opciones": [
+          "20 días, debiendo acompañar la contestación los documentos en que se funde el derecho, sin poder presentarlos después como regla general",
+          "40 días, pudiendo presentar documentos en cualquier momento posterior sin restricción",
+          "15 días, sin exigencia de acompañar documento alguno a la contestación",
+          "10 días, con posibilidad de ampliación automática a 20 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el plazo de contestación coincide con el de la demanda (20 días), pero conlleva una exigencia documental estricta: la contestación debe ir acompañada de los documentos en que la parte funde su derecho, sin que, como regla general, puedan presentarse documentos con posterioridad a la contestación.",
+        "parte": 1,
+        "id": "tema-26-q57"
+      },
+      {
+        "enunciado": "¿En qué plazo pueden las partes demandadas formular alegaciones previas sobre incompetencia del órgano o inadmisibilidad del recurso, conforme al artículo 58 LJCA?",
+        "opciones": [
+          "Dentro de los primeros 5 días del plazo para contestar la demanda",
+          "Dentro de los primeros 20 días, coincidiendo con todo el plazo de contestación",
+          "En cualquier momento anterior a la vista o conclusiones",
+          "Únicamente en el escrito de contestación, nunca antes"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: las alegaciones previas no agotan todo el plazo de contestación ni se limitan exclusivamente a la propia contestación. El art. 58 LJCA permite plantearlas dentro de los primeros 5 días del plazo para contestar, sin perjuicio de que, salvo la incompetencia del órgano, también puedan alegarse en la contestación.",
+        "parte": 1,
+        "id": "tema-26-q58"
+      },
+      {
+        "enunciado": "¿En qué procedimiento NO cabe formular alegaciones previas, y cómo se plantean allí los motivos de inadmisibilidad?",
+        "opciones": [
+          "En el procedimiento abreviado, donde los motivos de inadmisibilidad se ponen de manifiesto al comienzo del acto de la vista",
+          "En el procedimiento ordinario, donde se plantean únicamente en el recurso de apelación",
+          "En los procedimientos especiales, donde se plantean ante el Tribunal Constitucional",
+          "En ningún procedimiento; las alegaciones previas son siempre obligatorias"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, las alegaciones previas son un trámite propio del procedimiento ordinario, no del abreviado. En el procedimiento abreviado no cabe formularlas como tal; los motivos de inadmisibilidad deben ponerse de manifiesto al comienzo del acto de la vista.",
+        "parte": 1,
+        "id": "tema-26-q59"
+      },
+      {
+        "enunciado": "En materia de prueba en el procedimiento ordinario (arts. 60 y 61 LJCA), ¿cuáles son los plazos para proponerla y para practicarla?",
+        "opciones": [
+          "15 días para proponer y 30 días para practicar",
+          "30 días para proponer y 15 días para practicar",
+          "10 días para proponer y 20 días para practicar",
+          "20 días tanto para proponer como para practicar"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no están invertidos los plazos. La prueba, que se desarrolla conforme a las normas generales del proceso civil, dispone de un plazo de 15 días para proponerla y de 30 días para practicarla, si bien pueden aportarse pruebas practicadas fuera de ese plazo por causas no imputables a quien las propuso (art. 60.4 LJCA).",
+        "parte": 1,
+        "id": "tema-26-q60"
+      },
+      {
+        "enunciado": "¿En qué plazo debe dictarse la sentencia desde que el pleito quedó concluso, conforme a la LJCA?",
+        "opciones": [
+          "10 días",
+          "15 días",
+          "20 días",
+          "30 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, es fácil confundirlo con otros plazos del procedimiento (20 días para demanda/contestación, 30 días para practicar prueba). La LJCA fija el plazo de la sentencia en 10 días desde que el pleito quedó concluso, aunque si es superior debe razonarse debidamente.",
+        "parte": 2,
+        "id": "tema-26-q61"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una causa de inadmisibilidad del recurso contencioso-administrativo conforme al artículo 69 LJCA?",
+        "opciones": [
+          "Que el recurrente no esté de acuerdo con el fondo del acto impugnado",
+          "Falta de jurisdicción del Juzgado o Tribunal",
+          "Cosa juzgada o litispendencia",
+          "Presentación del recurso fuera de plazo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: estar en desacuerdo con el fondo del acto no es causa de inadmisibilidad, sino el motivo de fondo que debe resolverse mediante desestimación o estimación. Las causas de inadmisibilidad del art. 69 LJCA son tasadas: falta de jurisdicción, incapacidad/falta de representación o legitimación, objeto no susceptible de impugnación, cosa juzgada o litispendencia, y extemporaneidad.",
+        "parte": 2,
+        "id": "tema-26-q62"
+      },
+      {
+        "enunciado": "Según la LJCA, la sentencia será desestimatoria cuando...",
+        "opciones": [
+          "lo impugnado se ajuste al ordenamiento jurídico",
+          "lo impugnado incurra en desviación de poder",
+          "el recurrente carezca de legitimación",
+          "el recurso se haya presentado fuera de plazo"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no confundir desestimación con inadmisibilidad: la falta de legitimación y la extemporaneidad son causas de inadmisibilidad (art. 69), no de desestimación. La sentencia desestimatoria se dicta cuando, entrando en el fondo, lo impugnado se ajusta al ordenamiento jurídico.",
+        "parte": 2,
+        "id": "tema-26-q63"
+      },
+      {
+        "enunciado": "La sentencia será estimatoria cuando lo impugnado incurra en cualquier infracción del ordenamiento jurídico, incluyendo expresamente...",
+        "opciones": [
+          "la desviación de poder",
+          "la litispendencia",
+          "la falta de jurisdicción",
+          "la incapacidad procesal del recurrente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: litispendencia, falta de jurisdicción e incapacidad procesal son causas de inadmisibilidad, no supuestos de estimación. La LJCA señala expresamente que la estimación procede ante cualquier infracción del ordenamiento jurídico, incluida la desviación de poder.",
+        "parte": 2,
+        "id": "tema-26-q64"
+      },
+      {
+        "enunciado": "¿Sobre qué extremo adicional debe pronunciarse siempre la sentencia, además de sobre el fondo del asunto?",
+        "opciones": [
+          "Sobre las costas",
+          "Sobre la ejecución provisional",
+          "Sobre el interés casacional objetivo",
+          "Sobre la caución"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la ejecución provisional, el interés casacional y la caución pertenecen a la fase de recursos, no al contenido obligatorio de toda sentencia. La LJCA establece que la sentencia también se pronunciará sobre las costas.",
+        "parte": 2,
+        "id": "tema-26-q65"
+      },
+      {
+        "enunciado": "¿Cuáles son los posibles contenidos de una sentencia estimatoria según la LJCA?",
+        "opciones": [
+          "Anulación total o parcial, reconocimiento de la situación jurídica individualizada si se solicitó, y declaración del derecho a indemnización si fue objeto de la pretensión",
+          "Únicamente la anulación total del acto impugnado",
+          "Archivo de las actuaciones y condena en costas al demandado",
+          "Reconocimiento de la situación jurídica individualizada y suspensión cautelar del acto"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la sentencia estimatoria no se limita a anular el acto: la LJCA prevé tres contenidos posibles, que pueden darse conjunta o separadamente: anulación total o parcial de lo impugnado, reconocimiento de la situación jurídica individualizada si se pidió, e indemnización de daños y perjuicios si era el objeto de la pretensión.",
+        "parte": 2,
+        "id": "tema-26-q66"
+      },
+      {
+        "enunciado": "¿Qué efecto produce una sentencia de inadmisibilidad del recurso contencioso-administrativo?",
+        "opciones": [
+          "Solo produce efecto entre las partes",
+          "Produce efectos generales frente a terceros",
+          "Produce cosa juzgada material sobre el fondo",
+          "Impide definitivamente cualquier nueva reclamación sobre el mismo acto"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: al no entrar en el fondo, la inadmisibilidad no genera cosa juzgada material ni efectos generales frente a terceros. La LJCA precisa que la sentencia de inadmisibilidad solo produce efecto entre las partes del proceso.",
+        "parte": 2,
+        "id": "tema-26-q67"
+      },
+      {
+        "enunciado": "Un Juzgado de lo Contencioso-administrativo considera que solo una parte de la resolución recurrida infringe el ordenamiento jurídico. ¿Qué tipo de sentencia estimatoria dictará?",
+        "opciones": [
+          "Una sentencia que anule parcialmente lo impugnado",
+          "Una sentencia de inadmisibilidad por objeto no susceptible de impugnación",
+          "Un auto de archivo por reconocimiento parcial",
+          "Una sentencia desestimatoria con reconocimiento de costas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, cuando solo parte del acto es contraria a Derecho no procede inadmitir ni desestimar: la LJCA permite expresamente que la sentencia estimatoria anule total o parcialmente lo impugnado, ajustándose el fallo a la infracción detectada.",
+        "parte": 2,
+        "id": "tema-26-q68"
+      },
+      {
+        "enunciado": "La presentación del escrito inicial fuera de plazo, como causa de inadmisibilidad del art. 69 LJCA, se conoce técnicamente como...",
+        "opciones": [
+          "extemporaneidad",
+          "litispendencia",
+          "cosa juzgada",
+          "desviación de poder"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: litispendencia y cosa juzgada son otra causa distinta de inadmisibilidad, relativa a procesos duplicados o ya resueltos, y la desviación de poder es un motivo de estimación, no de inadmisibilidad. La presentación fuera de plazo se denomina extemporaneidad.",
+        "parte": 2,
+        "id": "tema-26-q69"
+      },
+      {
+        "enunciado": "¿Cuál de estas circunstancias constituye causa de inadmisibilidad conforme al art. 69 LJCA?",
+        "opciones": [
+          "Que el recurso se interponga por persona incapaz, no debidamente representada o no legitimada",
+          "Que el recurrente no haya solicitado indemnización de daños y perjuicios",
+          "Que la Administración demandada no conteste a la demanda en plazo",
+          "Que exista desviación de poder en el acto impugnado"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no solicitar indemnización o la incomparecencia de la Administración no son causas de inadmisibilidad, y la desviación de poder es motivo de estimación del recurso. El art. 69 LJCA sí recoge como causa la interposición por persona incapaz, no representada o no legitimada.",
+        "parte": 2,
+        "id": "tema-26-q70"
+      },
+      {
+        "enunciado": "Entre las causas de inadmisibilidad del art. 69 LJCA se encuentra que el recurso tenga por objeto...",
+        "opciones": [
+          "disposiciones, actos o actuaciones no susceptibles de impugnación",
+          "actos que hayan sido dictados con desviación de poder",
+          "actos que no se ajusten al ordenamiento jurídico",
+          "actos respecto de los que la Administración haya reconocido las pretensiones del recurrente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la desviación de poder y el no ajustarse al ordenamiento jurídico son razones de fondo (estimación/desestimación), y el reconocimiento administrativo de las pretensiones lleva a un auto de archivo, no a inadmisibilidad. El art. 69 LJCA inadmite cuando el objeto del recurso no es susceptible de impugnación.",
+        "parte": 2,
+        "id": "tema-26-q71"
+      },
+      {
+        "enunciado": "Si el Juzgado o Tribunal tarda más de 10 días en dictar sentencia desde que el pleito quedó concluso, ¿qué exige la LJCA?",
+        "opciones": [
+          "Que se razone debidamente el retraso",
+          "Que se declare la caducidad del recurso",
+          "Que se repita todo el procedimiento",
+          "Que se condene automáticamente en costas al órgano judicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, superar el plazo de 10 días no provoca caducidad ni repetición del procedimiento: la caducidad se vincula a la falta de presentación de la demanda en plazo, no al retraso judicial en sentenciar. La LJCA exige simplemente que, si el plazo es superior, se razone debidamente.",
+        "parte": 2,
+        "id": "tema-26-q72"
+      },
+      {
+        "enunciado": "¿Qué diferencia esencial existe entre una sentencia desestimatoria y una sentencia de inadmisibilidad?",
+        "opciones": [
+          "La desestimatoria resuelve el fondo del asunto; la de inadmisibilidad no entra a examinarlo",
+          "La desestimatoria solo produce efecto entre las partes; la de inadmisibilidad produce efectos generales",
+          "La desestimatoria no se pronuncia sobre costas; la de inadmisibilidad sí",
+          "La desestimatoria es apelable; la de inadmisibilidad nunca lo es"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ambos tipos de sentencia se pronuncian sobre costas y ambas pueden ser apelables según las reglas generales. Lo que realmente las distingue es que la inadmisibilidad, y no la desestimación, solo produce efecto entre las partes, precisamente porque no entra en el fondo del asunto.",
+        "parte": 2,
+        "id": "tema-26-q73"
+      },
+      {
+        "enunciado": "¿En qué caso declarará la sentencia estimatoria el derecho a una indemnización de daños y perjuicios?",
+        "opciones": [
+          "Cuando ese fuera el objeto de la pretensión",
+          "Siempre que se anule total o parcialmente el acto",
+          "Únicamente si la Administración se allanó",
+          "En todo caso en que exista desviación de poder"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la anulación del acto o la existencia de desviación de poder no generan automáticamente una indemnización. La LJCA condiciona este pronunciamiento a que la indemnización de daños y perjuicios hubiera sido precisamente el objeto de la pretensión ejercitada.",
+        "parte": 2,
+        "id": "tema-26-q74"
+      },
+      {
+        "enunciado": "El desistimiento del demandante en el proceso contencioso-administrativo se formaliza mediante...",
+        "opciones": [
+          "un auto que archiva el pleito",
+          "una sentencia estimatoria",
+          "un decreto de firmeza",
+          "una transacción judicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el desistimiento no se resuelve por sentencia, eso es propio del allanamiento, ni por decreto de firmeza, propio de la falta de preparación de la casación. El desistimiento del recurrente se archiva mediante auto.",
+        "parte": 2,
+        "id": "tema-26-q75"
+      },
+      {
+        "enunciado": "Tras desistir del proceso contencioso-administrativo, el demandante...",
+        "opciones": [
+          "puede esgrimir el mismo derecho en apoyo de una nueva pretensión en otro proceso",
+          "pierde definitivamente el derecho material que fundamentaba su pretensión",
+          "queda inhabilitado para recurrir en el futuro ante esa misma jurisdicción",
+          "debe obtener autorización judicial para poder volver a litigar sobre esa cuestión"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el desistimiento no extingue el derecho material, solo pone fin a ese proceso concreto. La LJCA permite que el demandante esgrima después el mismo derecho en apoyo de una nueva pretensión en otro proceso.",
+        "parte": 2,
+        "id": "tema-26-q76"
+      },
+      {
+        "enunciado": "Si en un proceso contencioso-administrativo con varios demandantes solo uno de ellos desiste, ¿qué ocurre?",
+        "opciones": [
+          "El pleito se archiva solo respecto de quien desiste, continuando para los demás",
+          "El pleito se archiva por completo para todos los demandantes",
+          "El desistimiento de uno obliga automáticamente a los demás a desistir también",
+          "El proceso se transforma en un procedimiento de allanamiento"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: a diferencia de lo que ocurre con el allanamiento total, el desistimiento no arrastra a los demás litigantes. Cuando hay varios demandantes y solo uno desiste, el archivo afecta únicamente a quien desiste, y el proceso sigue para el resto.",
+        "parte": 2,
+        "id": "tema-26-q77"
+      },
+      {
+        "enunciado": "Para que exista allanamiento del demandado en el proceso contencioso-administrativo es necesario que...",
+        "opciones": [
+          "haya una aceptación expresa de la no oposición a las pretensiones del demandante, aunque no se use literalmente la palabra \"allanamiento\"",
+          "se use literalmente el término \"allanamiento\" en el escrito correspondiente",
+          "la aceptación pueda presumirse del silencio del demandado",
+          "el allanamiento sea siempre parcial para que el proceso pueda continuar"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no hace falta pronunciar la palabra \"allanamiento\", pero tampoco puede presumirse del silencio. La LJCA exige una aceptación expresa de la no oposición a las pretensiones, y además el allanamiento debe ser total, no parcial, para poner fin anticipado al proceso.",
+        "parte": 2,
+        "id": "tema-26-q78"
+      },
+      {
+        "enunciado": "Ante el allanamiento del demandado, ¿qué resolución dicta el órgano jurisdiccional, como regla general?",
+        "opciones": [
+          "Sentencia, salvo que exista infracción manifiesta del ordenamiento jurídico",
+          "Auto de archivo, en todo caso",
+          "Decreto de firmeza del letrado de la Administración de Justicia",
+          "Providencia dando por concluso el pleito sin más trámite"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el auto de archivo es la forma propia del desistimiento y del reconocimiento en vía administrativa, no del allanamiento. Ante el allanamiento se dicta sentencia, salvo que el órgano jurisdiccional aprecie una infracción manifiesta del ordenamiento jurídico.",
+        "parte": 2,
+        "id": "tema-26-q79"
+      },
+      {
+        "enunciado": "Si en un proceso hay varios demandados y solo alguno de ellos se allana, ¿qué sucede con el proceso?",
+        "opciones": [
+          "Continúa respecto de los demandados que no se hayan allanado",
+          "Termina por completo para todos los demandados",
+          "Se transforma automáticamente en transacción judicial",
+          "Se suspende hasta que todos los demandados decidan allanarse o no"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el allanamiento de un codemandado no cierra el proceso para los demás. Cada demandado puede allanarse o no de forma independiente, y el proceso continúa respecto de quienes no se hayan allanado.",
+        "parte": 2,
+        "id": "tema-26-q80"
+      },
+      {
+        "enunciado": "¿Qué resolución se dicta cuando la Administración reconoce en vía administrativa las pretensiones del recurrente durante la tramitación del proceso?",
+        "opciones": [
+          "Un auto ordenando el archivo de las actuaciones",
+          "Una sentencia estimatoria con pronunciamiento sobre costas",
+          "Un decreto declarando la firmeza de la resolución administrativa",
+          "Una providencia suspendiendo el proceso de forma indefinida"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque el resultado práctico se parezca al de una sentencia estimatoria, la LJCA no exige sentencia en este supuesto. Cuando la Administración reconoce en vía administrativa las pretensiones del recurrente, se dicta un auto ordenando el archivo de las actuaciones.",
+        "parte": 2,
+        "id": "tema-26-q81"
+      },
+      {
+        "enunciado": "Respecto de la transacción judicial en el proceso contencioso-administrativo, la LJCA establece que...",
+        "opciones": [
+          "el órgano jurisdiccional puede someter a las partes la posibilidad de alcanzar un acuerdo que ponga fin a la controversia, en procesos de primera o única instancia",
+          "solo puede plantearse en los recursos de casación",
+          "únicamente puede proponerla la Administración demandada",
+          "pone fin al proceso exclusivamente mediante sentencia estimatoria"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la transacción no es una figura propia de la casación, ni está reservada a que la proponga la Administración. En los procesos de primera o única instancia, es el propio órgano jurisdiccional quien puede ofrecer a las partes la posibilidad de un acuerdo que termine la controversia.",
+        "parte": 2,
+        "id": "tema-26-q82"
+      },
+      {
+        "enunciado": "Una vez firme la sentencia, ¿en qué plazo debe comunicarla el Secretario Judicial al órgano que dictó el acto recurrido?",
+        "opciones": [
+          "10 días",
+          "15 días",
+          "20 días",
+          "5 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay que confundirlo con el plazo de 5 días del emplazamiento inicial ni con el de 15 o 20 días de otros trámites del proceso. La LJCA fija en 10 días el plazo para que el Secretario Judicial comunique la sentencia firme al órgano que dictó el acto.",
+        "parte": 2,
+        "id": "tema-26-q83"
+      },
+      {
+        "enunciado": "Recibida la comunicación de la sentencia firme, ¿qué debe hacer el órgano administrativo que dictó el acto, y en qué plazo debe acusar recibo?",
+        "opciones": [
+          "Acusar recibo en el plazo de 10 días y llevar la sentencia a puro y debido efecto",
+          "Acusar recibo en el plazo de 20 días y suspender la ejecución hasta nueva orden judicial",
+          "Acusar recibo en el plazo de 5 días y recurrir automáticamente en casación",
+          "No está obligado a acusar recibo, solo a ejecutar la sentencia"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el órgano administrativo no queda liberado de responder ni puede suspender por su cuenta la ejecución. Debe acusar recibo en el mismo plazo de 10 días y practicar lo que exija el cumplimiento de las declaraciones del fallo, llevando la sentencia a puro y debido efecto.",
+        "parte": 2,
+        "id": "tema-26-q84"
+      },
+      {
+        "enunciado": "Además de la sentencia, ¿cuáles son los otros modos de terminación del procedimiento contencioso-administrativo regulados en los arts. 74 a 77 LJCA?",
+        "opciones": [
+          "Desistimiento, allanamiento, satisfacción extraprocesal (reconocimiento en vía administrativa) y transacción judicial",
+          "Desistimiento, allanamiento, caducidad de la instancia y apelación",
+          "Allanamiento, transacción judicial, recurso de casación y revisión",
+          "Desistimiento, prescripción de la acción, transacción y ejecución provisional"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la caducidad de la instancia, la apelación, la casación y la ejecución provisional no son modos de terminación anticipada regulados en estos artículos, sino instituciones distintas del proceso. Los arts. 74 a 77 LJCA regulan como otros modos de terminación el desistimiento, el allanamiento, la satisfacción extraprocesal y la transacción judicial.",
+        "parte": 2,
+        "id": "tema-26-q85"
+      },
+      {
+        "enunciado": "¿Cuál es la finalidad con la que la Ley 29/1998 introdujo el procedimiento abreviado?",
+        "opciones": [
+          "Acelerar la tramitación de recursos considerados \"menores\" y de los que requieren actuación urgente",
+          "Sustituir por completo al procedimiento ordinario en todos los asuntos",
+          "Reservarlo exclusivamente para los recursos de casación",
+          "Eliminar la posibilidad de recurrir en apelación"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, el procedimiento abreviado no sustituye al ordinario con carácter general ni afecta a los recursos de casación o apelación. Se creó como novedad de la LJCA 1998 precisamente para acelerar la tramitación de ciertos recursos \"menores\" y de los que requieren actuación urgente.",
+        "parte": 2,
+        "id": "tema-26-q86"
+      },
+      {
+        "enunciado": "¿En qué consiste la especialidad del procedimiento abreviado frente al ordinario?",
+        "opciones": [
+          "En la supresión de ciertos trámites y la introducción de la oralidad",
+          "En la eliminación total de la fase de prueba",
+          "En la ampliación de todos los plazos procesales",
+          "En la exigencia de que intervenga siempre un procurador"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el procedimiento abreviado no elimina la prueba, que puede practicarse en la propia vista, ni amplía los plazos, que más bien se acortan y concentran. Su especialidad consiste en la supresión de ciertos trámites y la introducción de la oralidad.",
+        "parte": 2,
+        "id": "tema-26-q87"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes materias NO está incluida entre las que se tramitan por procedimiento abreviado conforme al art. 78 LJCA?",
+        "opciones": [
+          "Litigios entre Administraciones públicas, cualquiera que sea su cuantía",
+          "Cuestiones de personal al servicio de las Administraciones públicas",
+          "Extranjería",
+          "Disciplina deportiva en materia de dopaje"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, los litigios entre Administraciones públicas no aparecen entre las materias del art. 78 LJCA; de hecho, esas sentencias son precisamente uno de los supuestos siempre apelables en el recurso de apelación. El art. 78 recoge personal, extranjería, asilo, dopaje y asuntos de cuantía no superior a 30.000 euros.",
+        "parte": 2,
+        "id": "tema-26-q88"
+      },
+      {
+        "enunciado": "¿Hasta qué cuantía se tramitan por procedimiento abreviado los asuntos que no encajan en las materias específicas del art. 78 LJCA?",
+        "opciones": [
+          "30.000 euros",
+          "18.000 euros",
+          "60.000 euros",
+          "50.000 euros"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: 30.000 euros es también el umbral que marca la apelación, por lo que es fácil confundir esta cifra con otras cuantías de referencia del proceso civil. El art. 78 LJCA fija en 30.000 euros el límite de cuantía para acudir al procedimiento abreviado.",
+        "parte": 2,
+        "id": "tema-26-q89"
+      },
+      {
+        "enunciado": "¿Cómo se inicia el procedimiento abreviado, a diferencia del procedimiento ordinario?",
+        "opciones": [
+          "Por demanda, mientras que el ordinario se inicia por escrito de interposición",
+          "Por escrito de interposición, igual que el ordinario",
+          "Por auto del órgano jurisdiccional, de oficio",
+          "Por denuncia ante el Ministerio Fiscal"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, aquí está uno de los rasgos distintivos más preguntados: el procedimiento ordinario arranca con un escrito de interposición y, más adelante, con la demanda propiamente dicha. El abreviado, en cambio, se inicia directamente por demanda.",
+        "parte": 2,
+        "id": "tema-26-q90"
+      },
+      {
+        "enunciado": "En el procedimiento abreviado, ¿con cuánta antelación mínima al día señalado para la vista debe remitir la Administración demandada el expediente administrativo?",
+        "opciones": [
+          "Quince días",
+          "Diez días",
+          "Veinte días",
+          "Treinta días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay que confundirlo con el plazo de diez días de la sentencia ni con el de treinta días de la preparación de la casación. En el procedimiento abreviado, el Secretario Judicial requiere a la Administración que remita el expediente con al menos quince días de antelación al término señalado para la vista.",
+        "parte": 2,
+        "id": "tema-26-q91"
+      },
+      {
+        "enunciado": "En la vista oral del procedimiento abreviado, si ninguna de las partes comparece, o solo comparece el demandado, ¿qué resuelve el Juez o Tribunal?",
+        "opciones": [
+          "Tiene al actor por desistido del recurso y le condena en costas",
+          "Suspende la vista y la señala para una nueva fecha",
+          "Dicta sentencia estimatoria a favor del demandante por incomparecencia del demandado",
+          "Archiva el expediente sin pronunciamiento sobre costas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la incomparecencia no suspende automáticamente la vista ni beneficia al actor. Si no comparece ninguna parte o solo lo hace el demandado, el Juez tiene al actor por desistido del recurso y le condena en costas.",
+        "parte": 2,
+        "id": "tema-26-q92"
+      },
+      {
+        "enunciado": "En la vista oral del procedimiento abreviado, si comparece solo el actor y no el demandado, ¿qué ocurre?",
+        "opciones": [
+          "Se acuerda que prosiga la vista en ausencia del demandado",
+          "Se tiene al actor por desistido del recurso",
+          "Se suspende indefinidamente la vista hasta que el demandado comparezca",
+          "Se declara la caducidad automática del procedimiento"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el desistimiento del actor y la condena en costas se dan cuando el ausente es él (o nadie comparece), no cuando el único ausente es el demandado. Si solo comparece el actor, la vista prosigue en ausencia del demandado.",
+        "parte": 2,
+        "id": "tema-26-q93"
+      },
+      {
+        "enunciado": "¿Qué debe levantarse tras cada actuación en la vista oral del procedimiento abreviado, y qué fases comprende dicha vista?",
+        "opciones": [
+          "Se levanta acta tras cada actuación, y la vista comprende alegaciones, prueba en su caso y conclusiones",
+          "Se levanta acta solo al final de la vista, que comprende únicamente alegaciones y sentencia",
+          "No es necesario levantar acta, bastando con la grabación audiovisual",
+          "Se levanta acta tras cada actuación, y la vista comprende únicamente la fase de prueba"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la fase de prueba no agota por sí sola el contenido de la vista, ni las alegaciones bastan de forma aislada. En la vista oral se levanta acta tras cada actuación y se desarrollan las fases de alegaciones, prueba en su caso, y conclusiones.",
+        "parte": 2,
+        "id": "tema-26-q94"
+      },
+      {
+        "enunciado": "¿En qué plazo debe dictarse sentencia en el procedimiento abreviado desde las conclusiones (o desde las alegaciones si no hubo prueba ni conclusiones)?",
+        "opciones": [
+          "10 días",
+          "5 días",
+          "15 días",
+          "20 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el plazo de sentencia en el abreviado coincide con el del procedimiento ordinario (10 días), por lo que conviene no rebajarlo a 5 días pensando en la celeridad del trámite. El juez dicta sentencia en 10 días desde las conclusiones, o desde las alegaciones si no hubo prueba ni conclusiones.",
+        "parte": 2,
+        "id": "tema-26-q95"
+      },
+      {
+        "enunciado": "¿Se pueden formular alegaciones previas en el procedimiento abreviado, como sí ocurre en el ordinario?",
+        "opciones": [
+          "No; los motivos de inadmisibilidad deben ponerse de manifiesto al comienzo del acto de la vista",
+          "Sí, dentro de los primeros 5 días del plazo para contestar la demanda",
+          "Sí, pero solo si lo autoriza expresamente el Secretario Judicial",
+          "No, porque en el abreviado no cabe alegar la inadmisibilidad del recurso en ningún momento"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no es que la inadmisibilidad no pueda alegarse en el abreviado, sino que cambia el momento procesal. En el ordinario se formulan alegaciones previas en los primeros 5 días del plazo de contestación, mientras que en el abreviado esos motivos se ponen de manifiesto al comienzo del acto de la vista.",
+        "parte": 2,
+        "id": "tema-26-q96"
+      },
+      {
+        "enunciado": "Una vez recibido el expediente administrativo en el procedimiento abreviado, ¿a quién se remite y para qué?",
+        "opciones": [
+          "Al actor y a los interesados personados, para que puedan hacer alegaciones en el acto de la vista",
+          "Únicamente al demandado, para que formule contestación escrita",
+          "Al Ministerio Fiscal, para que informe antes de la vista",
+          "A la Sala de Gobierno, para que fije la cuantía definitiva del asunto"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: en el abreviado no hay contestación escrita separada ni informe previo del Ministerio Fiscal como trámite ordinario de este proceso. Recibido el expediente, se remite al actor y a los interesados personados para que hagan sus alegaciones directamente en el acto de la vista.",
+        "parte": 2,
+        "id": "tema-26-q97"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones compara correctamente el procedimiento ordinario y el abreviado?",
+        "opciones": [
+          "El ordinario se inicia por escrito de interposición y tiene alegaciones previas; el abreviado se inicia por demanda y traslada la discusión sobre inadmisibilidad al inicio de la vista",
+          "Ambos se inician por demanda y comparten idéntico régimen de alegaciones previas",
+          "El ordinario se inicia por demanda y el abreviado por escrito de interposición",
+          "El abreviado tiene fase de alegaciones previas, pero el ordinario no la tiene"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, es un error habitual intercambiar los modos de inicio de ambos procedimientos. El ordinario arranca con un escrito de interposición y conoce la figura de las alegaciones previas; el abreviado arranca directamente con la demanda y traslada la discusión sobre inadmisibilidad al comienzo de la vista.",
+        "parte": 2,
+        "id": "tema-26-q98"
+      },
+      {
+        "enunciado": "¿Las sentencias de qué órganos son, como regla general, susceptibles de recurso de apelación conforme al art. 81 LJCA?",
+        "opciones": [
+          "Las de los Juzgados de lo Contencioso-administrativo y de los Juzgados Centrales",
+          "Las de las Salas de lo Contencioso-administrativo de los Tribunales Superiores de Justicia",
+          "Las de la Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+          "Las de la Sala Tercera del Tribunal Supremo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: las sentencias de los órganos colegiados superiores, como TSJ, Audiencia Nacional o Tribunal Supremo, no se apelan, sino que en su caso dan lugar a casación. El recurso de apelación del art. 81 LJCA se dirige contra las sentencias de los Juzgados de lo Contencioso-administrativo y de los Juzgados Centrales.",
+        "parte": 2,
+        "id": "tema-26-q99"
+      },
+      {
+        "enunciado": "¿Cuáles son las excepciones generales a la apelabilidad de las sentencias conforme al art. 81 LJCA?",
+        "opciones": [
+          "Las de cuantía no superior a 30.000 euros y las relativas a materia electoral del art. 8.4 LJCA",
+          "Las de cuantía no superior a 18.000 euros y las relativas a personal",
+          "Las dictadas en materia de extranjería y las de cuantía no superior a 30.000 euros",
+          "Las dictadas en procedimientos de protección de derechos fundamentales"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, extranjería y la protección de derechos fundamentales no son las excepciones generales del art. 81: la protección de derechos fundamentales es, de hecho, uno de los supuestos siempre apelables. Las excepciones son los asuntos de cuantía no superior a 30.000 euros y los de materia electoral del art. 8.4 LJCA.",
+        "parte": 2,
+        "id": "tema-26-q100"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes sentencias NO figura entre las que siempre son apelables aunque incurran en las excepciones del art. 81 LJCA?",
+        "opciones": [
+          "Las dictadas en materia de personal al servicio de las Administraciones públicas",
+          "Las que declaran la inadmisibilidad del recurso en asuntos de cuantía no superior a 30.000 euros",
+          "Las dictadas en el procedimiento para la protección de los derechos fundamentales de la persona",
+          "Las que resuelven impugnaciones indirectas de disposiciones generales"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el personal es, precisamente, una de las materias propias del procedimiento abreviado, pero no figura en la lista de sentencias siempre apelables. Esa lista incluye la inadmisibilidad en asuntos de hasta 30.000 euros, la protección de derechos fundamentales, los litigios entre Administraciones públicas y las impugnaciones indirectas de disposiciones generales.",
+        "parte": 2,
+        "id": "tema-26-q101"
+      },
+      {
+        "enunciado": "Aunque una sentencia resuelva un asunto de cuantía inferior a 30.000 euros, siempre cabrá apelación si se trata de...",
+        "opciones": [
+          "un litigio entre Administraciones públicas",
+          "un recurso sobre extranjería",
+          "un asunto de disciplina deportiva en materia de dopaje",
+          "una cuestión de personal al servicio de las Administraciones públicas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, extranjería, dopaje y personal son materias del procedimiento abreviado, pero no están entre los supuestos siempre apelables del art. 81 LJCA. Esa excepción protege, entre otros, los litigios entre Administraciones públicas, independientemente de la cuantía.",
+        "parte": 2,
+        "id": "tema-26-q102"
+      },
+      {
+        "enunciado": "Sobre la naturaleza del recurso de apelación en el proceso contencioso-administrativo, la jurisprudencia señala que...",
+        "opciones": [
+          "no constituye una segunda instancia en la que se discutan de nuevo todas las cuestiones de hecho y de derecho, sino un instrumento de depuración que exige alegar motivos concretos",
+          "es una segunda instancia plena equivalente a repetir el juicio completo",
+          "solo puede fundarse en infracciones procesales, nunca sustantivas",
+          "no requiere que el apelante alegue ningún motivo concreto de infracción"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque cualquier infracción sustantiva o procesal puede fundar la apelación, eso no la convierte en una repetición íntegra del juicio. La jurisprudencia (TS 17-12-80 y 12-11-92) aclara que no es una segunda instancia plena, sino un instrumento de depuración que exige la petición y alegación de los motivos concretos de la pretensión impugnatoria.",
+        "parte": 2,
+        "id": "tema-26-q103"
+      },
+      {
+        "enunciado": "¿En qué plazo debe interponerse el recurso de apelación desde la notificación de la sentencia?",
+        "opciones": [
+          "15 días",
+          "10 días",
+          "20 días",
+          "30 días"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no lo confundas con el plazo de la sentencia, de 10 días, ni con el de preparación de la casación, de 30 días. El recurso de apelación se interpone ante el Juzgado que dictó la sentencia dentro de los quince días siguientes a su notificación.",
+        "parte": 2,
+        "id": "tema-26-q104"
+      },
+      {
+        "enunciado": "¿Ante qué órgano se interpone el recurso de apelación contra una sentencia de un Juzgado de lo Contencioso-administrativo?",
+        "opciones": [
+          "Ante el propio Juzgado que hubiere dictado la sentencia que se apela",
+          "Directamente ante la Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia",
+          "Ante la Sala Tercera del Tribunal Supremo",
+          "Ante el Ministerio Fiscal, que lo elevará al órgano competente"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque quien finalmente resuelve la apelación sea un órgano superior, el escrito de interposición se presenta ante el Juzgado que dictó la sentencia apelada, no directamente ante el órgano que va a conocer del recurso.",
+        "parte": 2,
+        "id": "tema-26-q105"
+      },
+      {
+        "enunciado": "¿Qué ocurre si el recurso de apelación no se interpone dentro del plazo de quince días?",
+        "opciones": [
+          "La resolución deviene firme e irrecurrible",
+          "El plazo se amplía automáticamente otros quince días",
+          "Se concede un plazo de gracia de 5 días adicionales",
+          "El asunto pasa automáticamente a recurso de casación"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no existe una prórroga automática ni una conversión en casación: transcurrido el plazo de quince días sin interponer la apelación, la LJCA es clara en que la resolución deviene firme e irrecurrible.",
+        "parte": 2,
+        "id": "tema-26-q106"
+      },
+      {
+        "enunciado": "¿Impide la interposición de un recurso de apelación la ejecución provisional de la sentencia recurrida?",
+        "opciones": [
+          "No; la ejecución provisional puede solicitarse por las partes favorecidas por la sentencia",
+          "Sí, la apelación suspende automáticamente toda ejecución hasta su resolución",
+          "Solo se permite la ejecución provisional si lo pide la Administración demandada",
+          "La ejecución provisional solo cabe tras resolverse la apelación"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: a diferencia de lo que podría pensarse, apelar no paraliza la ejecución. La interposición del recurso de apelación no impide la ejecución provisional de la sentencia recurrida a solicitud de las partes favorecidas por ella.",
+        "parte": 2,
+        "id": "tema-26-q107"
+      },
+      {
+        "enunciado": "Cuando de la ejecución provisional de una sentencia apelada puedan derivarse perjuicios, se puede exigir la prestación de caución o garantía, salvo que...",
+        "opciones": [
+          "quien inste la ejecución provisional sea una Administración pública, que queda exenta de esa obligación",
+          "quien inste la ejecución provisional sea un particular, que queda exento de esa obligación",
+          "se trate de una sentencia dictada en materia electoral",
+          "se trate de una sentencia de inadmisibilidad"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la exención de caución no es para los particulares, sino justamente al revés. Cuando la ejecución provisional la insta una Administración pública, la LJCA la exime de prestar caución o garantía, aunque de esa ejecución pudieran derivarse perjuicios.",
+        "parte": 2,
+        "id": "tema-26-q108"
+      },
+      {
+        "enunciado": "¿Qué plazo corresponde a la interposición del recurso de apelación, frente al plazo de preparación del recurso de casación?",
+        "opciones": [
+          "15 días para la apelación, frente a 30 días para la preparación de la casación",
+          "30 días para la apelación, frente a 15 días para la preparación de la casación",
+          "20 días para ambos recursos",
+          "10 días para la apelación y 20 días para la casación"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: es habitual intercambiar estos dos plazos. La apelación se interpone en 15 días desde la notificación de la sentencia, mientras que la preparación del recurso de casación cuenta con un plazo más amplio, de 30 días.",
+        "parte": 2,
+        "id": "tema-26-q109"
+      },
+      {
+        "enunciado": "¿En qué condición son susceptibles de recurso de casación las sentencias dictadas en única instancia por los Juzgados de lo Contencioso-administrativo?",
+        "opciones": [
+          "Solo si contienen doctrina que se reputa gravemente dañosa para los intereses generales y son susceptibles de extensión de efectos",
+          "En todo caso, sin ninguna condición adicional",
+          "Solo si la cuantía del asunto supera los 30.000 euros",
+          "Solo si se dictan en materia de personal al servicio de las Administraciones públicas"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, no basta con que la sentencia sea de un Juzgado en única instancia: el art. 86 LJCA exige además que contenga doctrina que se repute gravemente dañosa para los intereses generales y que sea susceptible de extensión de efectos.",
+        "parte": 2,
+        "id": "tema-26-q110"
+      },
+      {
+        "enunciado": "Las sentencias dictadas en única instancia o en apelación por la Audiencia Nacional o por los Tribunales Superiores de Justicia solo son recurribles en casación ante el Tribunal Supremo cuando...",
+        "opciones": [
+          "el recurso se funde en infracción de normas de Derecho estatal o de la Unión Europea relevante y determinante del fallo, invocadas oportunamente en el proceso o consideradas por la sala sentenciadora",
+          "la cuantía del asunto sea inferior a 30.000 euros",
+          "se trate de un litigio entre Administraciones públicas",
+          "el demandante sea una persona física que actúe sin asistencia de abogado"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la cuantía reducida y los litigios entre Administraciones son relevantes para la apelación, no para este requisito concreto de la casación. Para estas sentencias, la casación solo cabe si se funda en infracción de normas de Derecho estatal o de la Unión Europea, relevante y determinante del fallo, e invocada oportunamente o considerada por la sala sentenciadora.",
+        "parte": 2,
+        "id": "tema-26-q111"
+      },
+      {
+        "enunciado": "¿Qué sentencias quedan excluidas del recurso de casación conforme al art. 86 LJCA?",
+        "opciones": [
+          "Las dictadas en el procedimiento para la protección del derecho fundamental de reunión y las dictadas en procesos contencioso-electorales",
+          "Las dictadas en materia de personal y extranjería",
+          "Las que resuelven litigios entre Administraciones públicas",
+          "Las que declaran la inadmisibilidad del recurso"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, personal, extranjería y los litigios entre Administraciones no son las excepciones de la casación; de hecho, estas últimas sí son siempre apelables. El art. 86 LJCA excluye de la casación las sentencias sobre el derecho fundamental de reunión y las dictadas en procesos contencioso-electorales.",
+        "parte": 2,
+        "id": "tema-26-q112"
+      },
+      {
+        "enunciado": "Desde el 23 de julio de 2016, ¿a qué tipo de cuestiones se limita el recurso de casación contencioso-administrativo?",
+        "opciones": [
+          "A las cuestiones de derecho, con exclusión de las cuestiones de hecho",
+          "Exclusivamente a las cuestiones de hecho",
+          "A cuestiones de hecho y de derecho por igual, sin ninguna limitación",
+          "A cuestiones procesales, excluyendo las sustantivas"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la limitación introducida por la LO 7/2015, con efecto desde el 23-7-2016, no excluye lo sustantivo, sino lo fáctico. Desde esa fecha, el recurso de casación se limita a las cuestiones de derecho, quedando excluidas las cuestiones de hecho.",
+        "parte": 2,
+        "id": "tema-26-q113"
+      },
+      {
+        "enunciado": "¿Qué matización introduce el art. 93.3 LJCA a la limitación de la casación a cuestiones de derecho?",
+        "opciones": [
+          "El Tribunal Supremo puede integrar los hechos probados en instancia con otros omitidos, suficientemente justificados y necesarios para apreciar la infracción alegada",
+          "El Tribunal Supremo puede revisar libremente toda la valoración de la prueba practicada en instancia",
+          "El Tribunal Supremo nunca puede tener en cuenta hechos distintos a los declarados probados",
+          "La limitación a cuestiones de derecho no se aplica a los Juzgados de lo Contencioso-administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, esto no equivale a una revisión libre de toda la prueba, lo que seguiría siendo una cuestión de hecho vedada a la casación. El art. 93.3 LJCA permite, de forma matizada, que el Tribunal Supremo integre los hechos probados en instancia con otros que hubieran sido omitidos, siempre que estén suficientemente justificados y sean necesarios para apreciar la infracción alegada.",
+        "parte": 2,
+        "id": "tema-26-q114"
+      },
+      {
+        "enunciado": "¿Qué requisito adicional debe apreciar la Sala para admitir a trámite el recurso de casación, más allá de invocar una concreta infracción del ordenamiento jurídico?",
+        "opciones": [
+          "Que el asunto presente interés casacional objetivo para la formación de jurisprudencia",
+          "Que la cuantía del asunto supere los 30.000 euros",
+          "Que el recurrente haya obtenido sentencia favorable en primera instancia",
+          "Que el recurso se refiera a una infracción procesal y no sustantiva"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: ni la cuantía ni el tipo de infracción, procesal o sustantiva, siendo ambas admisibles, son el filtro decisivo de admisión. El requisito clave es que la sala llamada a conocer del recurso estime que el asunto presenta interés casacional objetivo para la formación de jurisprudencia.",
+        "parte": 2,
+        "id": "tema-26-q115"
+      },
+      {
+        "enunciado": "¿Impide la preparación del recurso de casación la ejecución provisional de la sentencia recurrida?",
+        "opciones": [
+          "No, salvo que de ello puedan generarse situaciones irreversibles o perjuicios de difícil reparación",
+          "Sí, en todo caso queda suspendida la ejecución hasta que se resuelva la casación",
+          "No, en ningún caso, ni siquiera si se generan situaciones irreversibles",
+          "Solo queda suspendida si lo solicita el Ministerio Fiscal"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la regla general, de no suspensión, tiene una excepción concreta que no debe olvidarse. La preparación del recurso de casación no impide la ejecución provisional, salvo que puedan generarse situaciones irreversibles o causarse perjuicios de difícil reparación.",
+        "parte": 2,
+        "id": "tema-26-q116"
+      },
+      {
+        "enunciado": "¿En qué plazo y ante qué órgano se prepara el recurso de casación?",
+        "opciones": [
+          "En el plazo de treinta días desde la notificación de la resolución, ante la Sala de instancia",
+          "En el plazo de quince días, ante la Sala de instancia",
+          "En el plazo de treinta días, directamente ante la Sala Tercera del Tribunal Supremo",
+          "En el plazo de veinte días, ante el Juzgado que dictó la sentencia"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay que confundir este plazo con los 15 días de la apelación, ni pensar que se presenta directamente ante el Tribunal Supremo. El recurso de casación se prepara en el plazo de treinta días desde la notificación de la resolución recurrida, ante la Sala de instancia, es decir, la que dictó la sentencia.",
+        "parte": 2,
+        "id": "tema-26-q117"
+      },
+      {
+        "enunciado": "¿Quiénes están legitimados para preparar el recurso de casación?",
+        "opciones": [
+          "Quienes hayan sido parte en el proceso, o debieran haberlo sido",
+          "Únicamente la Administración demandada",
+          "Cualquier ciudadano, en ejercicio de la acción popular",
+          "Solo el Ministerio Fiscal"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la legitimación para casación no se restringe a la Administración ni se abre a cualquier ciudadano mediante acción popular. Están legitimados quienes hayan sido parte en el proceso, o quienes debieran haberlo sido.",
+        "parte": 2,
+        "id": "tema-26-q118"
+      },
+      {
+        "enunciado": "Si no se presenta en plazo el escrito de preparación del recurso de casación, ¿qué consecuencia se produce?",
+        "opciones": [
+          "La sentencia queda firme, declarándolo así el letrado de la Administración de Justicia mediante decreto",
+          "El plazo se amplía automáticamente otros treinta días",
+          "El asunto se transforma de oficio en recurso de apelación",
+          "Se abre un incidente de nulidad de actuaciones ante el Tribunal Supremo"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: no hay prórroga automática ni conversión en otro recurso. Transcurrido el plazo sin preparar la casación, la sentencia queda firme, y así lo declara mediante decreto el letrado de la Administración de Justicia.",
+        "parte": 2,
+        "id": "tema-26-q119"
+      },
+      {
+        "enunciado": "¿Qué recurso cabe contra el decreto por el que el letrado de la Administración de Justicia declara la firmeza de la sentencia por no haberse preparado la casación en plazo?",
+        "opciones": [
+          "Solo el recurso directo de revisión (art. 102 bis LJCA)",
+          "El recurso de apelación ordinario",
+          "Un nuevo recurso de casación ante el Tribunal Supremo",
+          "Ningún recurso, pues es una resolución inatacable"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, aunque parezca una resolución menor del letrado, no queda sin control ni se revisa mediante apelación o nueva casación. Contra ese decreto solo cabe el recurso directo de revisión, regulado en el art. 102 bis LJCA.",
+        "parte": 2,
+        "id": "tema-26-q120"
+      },
+      {
+        "enunciado": "Un ciudadano sufre un daño en el que concurren una Administración pública y un particular que dispone de un seguro de responsabilidad civil. ¿Ante qué jurisdicción debe reclamar la responsabilidad patrimonial de la Administración?",
+        "opciones": [
+          "Siempre ante la jurisdicción contencioso-administrativa, sin que pueda demandarse a la Administración ante los órdenes civil o social por este motivo, aunque concurra con particulares o exista seguro de responsabilidad",
+          "Ante la jurisdicción civil, puesto que al existir un seguro de responsabilidad civil la reclamación debe dirigirse contra la aseguradora conforme a las reglas generales del seguro",
+          "Ante la jurisdicción social, si el daño se produjo en el marco de una relación de empleo con la Administración",
+          "Puede elegir entre la jurisdicción civil y la contencioso-administrativa, según convenga a sus intereses procesales"
+        ],
+        "correcta": 0,
+        "explicacion": "La trampa es pensar que la existencia de un seguro o la concurrencia de un particular en la producción del daño desplaza el asunto a la jurisdicción civil. El artículo 2 LJCA es taxativo: la responsabilidad patrimonial de las Administraciones públicas corresponde siempre a la contencioso-administrativa, cualquiera que sea la naturaleza de la actividad o relación de que derive, no pudiendo demandarse ante los órdenes civil o social aun cuando concurran particulares o exista seguro de responsabilidad. Las opciones civil y social son precisamente las que el precepto excluye de forma expresa.",
+        "nivel": "avanzado",
+        "id": "tema-26-q121"
+      },
+      {
+        "enunciado": "Surge un conflicto de atribuciones entre dos órganos pertenecientes a la misma Administración pública. Conforme a los límites de la jurisdicción contencioso-administrativa, ¿quién debe resolverlo?",
+        "opciones": [
+          "El superior jerárquico común a ambos órganos, ya que este tipo de conflicto queda excluido de la jurisdicción contencioso-administrativa",
+          "El Tribunal de Conflictos de Jurisdicción, creado por la Ley Orgánica 2/1987",
+          "La Sala de lo Contencioso-administrativo del Tribunal Supremo, al tratarse de una cuestión de jurisdicción",
+          "El Tribunal Constitucional, por afectar a la organización interna de la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto distingue dos figuras que se confunden fácilmente: los conflictos de jurisdicción entre Juzgados/Tribunales y la Administración, que resuelve el Tribunal de Conflictos de Jurisdicción (LO 2/1987), y los conflictos de atribuciones entre órganos de una misma Administración, que resuelve el superior jerárquico. Ambos están excluidos del conocimiento de la jurisdicción contencioso-administrativa (art. 3 LJCA), pero cada uno tiene un órgano resolutor distinto. El Tribunal Supremo y el Tribunal Constitucional no intervienen en este tipo de conflicto interno.",
+        "nivel": "avanzado",
+        "id": "tema-26-q122"
+      },
+      {
+        "enunciado": "Un contribuyente interpone un recurso directo contra una Norma Foral fiscal aprobada por las Juntas Generales de Vizcaya. ¿Qué órgano es competente para conocer de este recurso?",
+        "opciones": [
+          "El Tribunal Constitucional, en exclusiva, conforme a la disposición adicional quinta de su Ley Orgánica",
+          "La Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia del País Vasco",
+          "La Sala Tercera de lo Contencioso-administrativo del Tribunal Supremo",
+          "El Juzgado Central de lo Contencioso-administrativo, al tratarse de una materia de alcance estatal"
+        ],
+        "correcta": 0,
+        "explicacion": "Entre las cuestiones excluidas en todo caso de la jurisdicción contencioso-administrativa (art. 3 LJCA) se encuentran los recursos directos o indirectos contra las Normas Forales fiscales de las Juntas Generales de Álava, Guipúzcoa y Vizcaya, que corresponden en exclusiva al Tribunal Constitucional según la disposición adicional quinta de su Ley Orgánica. Ni el TSJ del País Vasco, ni la Sala Tercera del TS, ni ningún Juzgado Central tienen competencia sobre esta materia, por tratarse de una exclusión expresa y no de un reparto interno de competencias contencioso-administrativas.",
+        "nivel": "avanzado",
+        "id": "tema-26-q123"
+      },
+      {
+        "enunciado": "En el curso de un proceso contencioso-administrativo surge una cuestión prejudicial de naturaleza penal, directamente relacionada con el recurso y no resuelta por el orden jurisdiccional competente. ¿Puede el órgano contencioso-administrativo resolverla?",
+        "opciones": [
+          "No, porque el artículo 4 LJCA excluye expresamente las cuestiones prejudiciales de carácter constitucional y penal; a sensu contrario, solo cabe resolver las de carácter civil o social",
+          "Sí, siempre que la decisión se limite a producir efectos solo dentro del proceso en que se dicte",
+          "Sí, porque el orden contencioso-administrativo tiene competencia universal sobre cualquier cuestión incidental relacionada con el recurso",
+          "No, salvo que las partes lo acuerden expresamente mediante transacción judicial"
+        ],
+        "correcta": 0,
+        "explicacion": "El matiz que se pide combinar es doble: el artículo 4 LJCA atribuye al orden contencioso-administrativo el conocimiento de cuestiones prejudiciales e incidentales no administrativas directamente relacionadas con el recurso, pero exceptúa expresamente las de carácter constitucional y penal (y lo dispuesto en tratados internacionales); de ahí que, a sensu contrario, únicamente puedan resolverse las de naturaleza civil o social. La regla de que la decisión no produce efectos fuera del proceso se aplica a las cuestiones que sí puede resolver (civiles y sociales), no habilita a resolver las penales, que quedan excluidas de raíz.",
+        "nivel": "avanzado",
+        "id": "tema-26-q124"
+      },
+      {
+        "enunciado": "¿Qué órgano del orden jurisdiccional contencioso-administrativo es de carácter colegiado y de ámbito estatal, pero no constituye el órgano superior en materia de derecho administrativo?",
+        "opciones": [
+          "La Sala de lo Contencioso-administrativo de la Audiencia Nacional",
+          "El Juzgado Central de lo Contencioso-administrativo",
+          "La Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia",
+          "El Juzgado de lo Contencioso-administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 6 LJCA exige fijarse en dos rasgos a la vez: carácter (unipersonal o colegiado) y ámbito (provincial, autonómico o estatal). El Juzgado Central es estatal pero unipersonal; las Salas de los Tribunales Superiores de Justicia son colegiadas pero de ámbito autonómico; el Juzgado de lo Contencioso-administrativo es unipersonal y provincial. La Sala de lo Contencioso-administrativo de la Audiencia Nacional es, en cambio, colegiada y de ámbito estatal, sin ser el órgano superior en materia de derecho administrativo, condición que reserva la ley a la Sala Tercera del Tribunal Supremo.",
+        "nivel": "avanzado",
+        "id": "tema-26-q125"
+      },
+      {
+        "enunciado": "Se interpone un recurso contencioso-administrativo relativo a un contrato administrativo cuya cuantía asciende a 22.000 euros, materia no incluida entre las enumeradas en el artículo 78 LJCA (personal, extranjería, asilo o dopaje). ¿Por qué procedimiento se tramitará?",
+        "opciones": [
+          "Por el procedimiento abreviado, puesto que basta con que la cuantía no supere los 30.000 euros, sin que sea necesario que la materia coincida con las expresamente enumeradas",
+          "Por el procedimiento ordinario, porque solo las materias de personal, extranjería, asilo y dopaje pueden tramitarse por el abreviado, con independencia de la cuantía",
+          "Por un procedimiento especial, al tratarse de un contrato administrativo sujeto siempre a control jurisdiccional reforzado",
+          "Por el procedimiento ordinario, ya que todos los contratos administrativos quedan excluidos por ley del procedimiento abreviado"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 78 LJCA enumera cinco supuestos de procedimiento abreviado, y el quinto es autónomo respecto de los cuatro anteriores: 'así como todos aquellos cuya cuantía no supere los 30.000 euros'. No es necesario que la materia coincida con personal, extranjería, asilo o dopaje; basta con que la cuantía esté por debajo del umbral, como ocurre con este contrato administrativo de 22.000 euros. Las opciones que vinculan el abreviado exclusivamente a esas cuatro materias, o que excluyen a los contratos administrativos por naturaleza, ignoran ese criterio cuantitativo independiente.",
+        "nivel": "avanzado",
+        "id": "tema-26-q126"
+      },
+      {
+        "enunciado": "La Administración del Estado pretende impugnar un acto dictado por un Organismo público vinculado a una Comunidad Autónoma, por entender que ostenta un derecho o interés legítimo afectado. ¿Está legitimada para ello conforme al artículo 19 LJCA?",
+        "opciones": [
+          "Sí, la Administración del Estado está legitimada cuando ostente un derecho o interés legítimo para impugnar actos de la Administración autonómica y de los Organismos públicos vinculados a ella",
+          "No, porque solo las Comunidades Autónomas pueden impugnar actos de otras Administraciones cuando afecten al ámbito de su autonomía",
+          "Sí, pero únicamente mediante el ejercicio de la acción popular, reservada por ley a cualquier ciudadano",
+          "No, porque conforme al artículo 19 LJCA la Administración del Estado solo puede actuar como parte demandada, nunca como demandante"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 19.c) LJCA legitima expresamente a la Administración del Estado, cuando ostente un derecho o interés legítimo, para impugnar actos y disposiciones de la Administración de las Comunidades Autónomas y de los Organismos públicos vinculados a estas, de las Entidades locales y de otras entidades públicas no sometidas a su fiscalización. La opción que reserva esa legitimación activa solo a las Comunidades Autónomas confunde la letra c) con la letra d), que regula justamente el supuesto inverso (la Comunidad Autónoma impugnando actos del Estado cuando afecten a su autonomía).",
+        "nivel": "avanzado",
+        "id": "tema-26-q127"
+      },
+      {
+        "enunciado": "Un recurrente funda su pretensión en la ilegalidad de una disposición general dictada por una Administración distinta de aquella cuyo acto de aplicación recurre. ¿Quién tendrá la consideración de parte demandada en este caso?",
+        "opciones": [
+          "Tanto la Administración autora del acto recurrido como la Administración autora de la disposición general, aunque esta última no haya dictado el acto impugnado",
+          "Únicamente la Administración autora del acto recurrido, puesto que es contra ese acto, y no contra la disposición general, contra lo que se dirige formalmente el recurso",
+          "Únicamente la Administración autora de la disposición general, quedando excluida la autora del acto de aplicación",
+          "Ninguna de las dos, al tratarse de una impugnación indirecta que debe dirigirse exclusivamente contra el reglamento ante la jurisdicción correspondiente"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 21 LJCA añade una regla específica para este supuesto: si el demandante funda sus pretensiones en la ilegalidad de una disposición general, se considera también parte demandada a la Administración autora de la misma, aunque la actuación recurrida no proceda de ella. Por tanto, en el caso descrito concurren dos partes demandadas simultáneamente: la autora del acto y la autora de la disposición general, sin que ninguna de las dos quede excluida ni se trate de una exigencia de dirigir el recurso solo contra el reglamento.",
+        "nivel": "avanzado",
+        "id": "tema-26-q128"
+      },
+      {
+        "enunciado": "Un particular interpone un recurso contencioso-administrativo que se tramitará y resolverá por un Juzgado de lo Contencioso-administrativo, órgano unipersonal. ¿Es necesaria la intervención de procurador, además de abogado?",
+        "opciones": [
+          "No, el procurador solo es obligatorio en las actuaciones ante órganos colegiados; ante un órgano unipersonal la representación por procurador es potestativa, aunque la asistencia de abogado es en todo caso obligatoria",
+          "Sí, procurador y abogado son siempre obligatorios en cualquier instancia del proceso contencioso-administrativo",
+          "No es necesaria ni la asistencia de abogado ni la representación por procurador ante órganos unipersonales",
+          "Sí, porque solo ante órganos unipersonales se exige representación por procurador, a diferencia de los órganos colegiados"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto distingue con precisión: la asistencia de abogado es siempre obligatoria para las partes, mientras que la representación por procurador solo es obligatoria ante órganos colegiados, siendo potestativa en los demás casos. Como el Juzgado de lo Contencioso-administrativo es unipersonal, el procurador no es obligatorio, aunque la parte puede conferirle su representación si lo desea. La opción que invierte la regla (procurador obligatorio solo ante órganos unipersonales) contradice directamente el texto.",
+        "nivel": "avanzado",
+        "id": "tema-26-q129"
+      },
+      {
+        "enunciado": "Una disposición general se publica el día 10 de enero. Un acto administrativo que agota la vía administrativa, dictado de forma expresa, se notifica el día 10 de marzo del mismo año. ¿Desde qué momento empieza a correr, en cada caso, el plazo de dos meses para recurrir?",
+        "opciones": [
+          "Desde el día siguiente a la publicación de la disposición (11 de enero) y desde el día siguiente a la notificación del acto expreso (11 de marzo), respectivamente",
+          "Desde el mismo día de la publicación y de la notificación, sin esperar al día siguiente, al tratarse de un plazo señalado por meses",
+          "Desde el día siguiente a la publicación, pero el plazo del acto expreso no comienza hasta que transcurran seis meses desde su notificación",
+          "Desde el día siguiente a la publicación de la disposición, pero el acto expreso dispone de un plazo de seis meses por asimilarse a un acto presunto"
+        ],
+        "correcta": 0,
+        "explicacion": "El plazo de dos meses para recurrir se computa, tanto para disposiciones como para actos expresos que agotan la vía administrativa, a partir del día siguiente al de su publicación o notificación, de fecha a fecha y sin excluir días inhábiles ni el día inicial. El plazo de seis meses solo se aplica cuando el acto es presunto (silencio administrativo), no cuando es expreso como en el segundo supuesto del enunciado, por lo que las opciones que alargan a seis meses el plazo del acto expreso confunden ambos regímenes.",
+        "nivel": "avanzado",
+        "id": "tema-26-q130"
+      },
+      {
+        "enunciado": "Un administrado formula un requerimiento a la Administración para que cese una actuación constitutiva de vía de hecho. La Administración no contesta en diez días. ¿De qué plazo adicional dispone el administrado para interponer el recurso?",
+        "opciones": [
+          "De otros diez días más, a contar desde el vencimiento del plazo de diez días que tenía la Administración para contestar al requerimiento",
+          "Del plazo general de dos meses, como si se tratara de un acto expreso que agota la vía administrativa",
+          "De veinte días adicionales, equivalentes al plazo que tendría si no hubiera formulado requerimiento alguno",
+          "No dispone de plazo adicional, debiendo haber recurrido dentro de los veinte días desde que se inició la vía de hecho"
+        ],
+        "correcta": 0,
+        "explicacion": "Frente a una vía de hecho, el recurrente puede recurrir en veinte días desde su inicio o en diez días desde el requerimiento para que cese; si, formulado el requerimiento, la Administración no contesta en diez días, la LJCA concede al administrado otros diez días más para recurrir. Confundir este plazo con el general de dos meses, o pensar que agotado el requerimiento sin respuesta no queda margen adicional, ignora la regla específica prevista para la vía de hecho.",
+        "nivel": "avanzado",
+        "id": "tema-26-q131"
+      },
+      {
+        "enunciado": "Un administrado requiere a la Administración la ejecución de un acto firme que esta ha incumplido. Transcurrido un mes desde el requerimiento sin que la Administración haya dado cumplimiento a lo solicitado, ¿qué ocurre?",
+        "opciones": [
+          "Comienza a correr el plazo general de dos meses para interponer el recurso por inactividad, ya que en los supuestos de ejecución de actos firmes el plazo para considerar producida la inactividad es de un mes, no de tres",
+          "El administrado debe esperar tres meses adicionales, plazo general aplicable a todos los supuestos de inactividad, incluida la ejecución de actos firmes",
+          "El plazo para recurrir se computa directamente desde la fecha del acto firme incumplido, sin necesidad de requerimiento previo",
+          "No cabe recurso contencioso-administrativo frente a la inactividad en la ejecución de actos firmes, al tratarse de una cuestión de ejecución y no de impugnación"
+        ],
+        "correcta": 0,
+        "explicacion": "La LJCA distingue, dentro de la inactividad de la Administración, dos plazos previos distintos antes de que empiece a correr el plazo general de dos meses para recurrir: tres meses en el supuesto general, pero solo un mes cuando se trata de la ejecución de actos firmes. Como en el caso planteado ha transcurrido un mes sin cumplimiento, ya ha nacido el derecho a recurrir dentro de los dos meses siguientes; aplicar el plazo general de tres meses sería un error al confundir ambos supuestos.",
+        "nivel": "avanzado",
+        "id": "tema-26-q132"
+      },
+      {
+        "enunciado": "El órgano jurisdiccional acuerda remitir el expediente administrativo. ¿En qué plazos deben producirse, respectivamente, la notificación a los interesados y su personación como demandados, conforme a los artículos 49 y 50 LJCA?",
+        "opciones": [
+          "La notificación se realiza dentro de los 5 días siguientes a la adopción de la resolución, emplazando a los interesados para que se personen como demandados en el plazo de 9 días",
+          "La notificación se realiza dentro de los 9 días siguientes a la adopción de la resolución, emplazando a los interesados para que se personen en el plazo de 5 días",
+          "Tanto la notificación como la personación deben producirse en el mismo plazo de 10 días, por aplicación del plazo general previsto para las alegaciones previas",
+          "La notificación se realiza en el plazo de 20 días, equivalente al concedido para formular la demanda, y la personación en el plazo de 9 días"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 49.1 LJCA fija dos plazos distintos que suelen confundirse por su cercanía numérica: 5 días para notificar la resolución de remisión del expediente a los interesados, y 9 días, dentro de ese emplazamiento, para que estos se personen como demandados. Invertir ambos plazos, o asimilarlos al de 20 días de la demanda o al de 10 días de las alegaciones previas, no corresponde a lo que establece el precepto.",
+        "nivel": "avanzado",
+        "id": "tema-26-q133"
+      },
+      {
+        "enunciado": "Un recurrente no presenta su escrito de demanda dentro del plazo de 20 días concedido tras la entrega del expediente administrativo. ¿Qué consecuencia prevé la LJCA?",
+        "opciones": [
+          "El Juzgado o Sala, de oficio, declarará por auto la caducidad del recurso",
+          "El recurso se archiva automáticamente mediante sentencia de inadmisibilidad, sin posibilidad de iniciar un nuevo recurso sobre el mismo objeto",
+          "El plazo se amplía automáticamente otros 20 días, al no preverse sanción procesal alguna por este retraso",
+          "Se entiende producido el allanamiento tácito del recurrente respecto de la posición de la Administración demandada"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 52.1 y 2 LJCA es claro: si la demanda no se presenta dentro del plazo de 20 días, el Juzgado o Sala, de oficio, declarará por auto la caducidad del recurso. No se trata de una sentencia de fondo ni de inadmisibilidad, ni de un allanamiento (figura que exige aceptación expresa de la parte demandada, no inactividad del demandante), ni cabe una prórroga automática del plazo.",
+        "nivel": "avanzado",
+        "id": "tema-26-q134"
+      },
+      {
+        "enunciado": "En un procedimiento abreviado, la parte demandada pretende formular alegaciones previas sobre la inadmisibilidad del recurso dentro de los primeros 5 días del plazo para contestar la demanda, tal y como permite el artículo 58 LJCA para el procedimiento ordinario. ¿Es esto correcto?",
+        "opciones": [
+          "No, en el procedimiento abreviado no caben alegaciones previas; los motivos de inadmisibilidad deben exponerse al comienzo del acto de la vista",
+          "Sí, el régimen de alegaciones previas del artículo 58 LJCA es común a ambos procedimientos, ordinario y abreviado",
+          "No, porque en el procedimiento abreviado las alegaciones previas deben formularse en la contestación a la demanda, nunca antes",
+          "Sí, siempre que el motivo invocado sea la incompetencia del órgano jurisdiccional, único supuesto admitido en el abreviado"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala expresamente que no cabe formular alegaciones previas en el procedimiento abreviado, donde los motivos de inadmisibilidad deben ponerse de manifiesto al comienzo del acto de la vista, a diferencia del ordinario, donde sí caben dentro de los primeros 5 días del plazo de contestación (salvo la incompetencia del órgano jurisdiccional, que también puede alegarse en la contestación). Las opciones que extienden ese régimen al abreviado, en todo o en parte, contradicen esta especialidad explícita del procedimiento abreviado.",
+        "nivel": "avanzado",
+        "id": "tema-26-q135"
+      },
+      {
+        "enunciado": "Una de las partes de un procedimiento ordinario propone en su escrito de demanda la práctica de una prueba testifical. Por causas no imputables a dicha parte, la prueba se practica fuera del plazo ordinariamente previsto. ¿Qué establece la LJCA al respecto de los plazos de prueba y de esta circunstancia?",
+        "opciones": [
+          "El plazo general es de 15 días para proponer la prueba y 30 para practicarla, pero podrán aportarse al proceso pruebas practicadas fuera de ese plazo cuando la causa del retraso no sea imputable a la parte que las propuso",
+          "El plazo general es de 30 días para proponer la prueba y 15 para practicarla, y en ningún caso se admiten pruebas practicadas fuera de plazo",
+          "El plazo de prueba es único, de 20 días tanto para proponerla como para practicarla, sin excepción alguna por causas no imputables a la parte",
+          "El plazo para proponer y practicar la prueba es de 15 días en ambos casos, admitiéndose prórroga automática de otros 15 días en todo caso"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 60 LJCA fija dos plazos diferenciados, fácilmente invertibles: 15 días para proponer la prueba y 30 días para practicarla. Además, el artículo 60.4 LJCA permite aportar al proceso pruebas practicadas fuera de ese plazo cuando la causa del retraso no sea imputable a la parte que las propuso, como ocurre en el supuesto planteado. Invertir los plazos o negar toda excepción contradice el texto expreso de la norma.",
+        "nivel": "avanzado",
+        "id": "tema-26-q136"
+      },
+      {
+        "enunciado": "En un proceso contencioso-administrativo con dos codemandados, uno de ellos acepta expresamente, antes de sentencia, no oponerse a las pretensiones del demandante respecto de la totalidad de lo pedido, sin que tal aceptación conste de forma presumida. El otro codemandado continúa oponiéndose. ¿Cómo se denomina esta forma de terminación y qué efectos produce?",
+        "opciones": [
+          "Es un allanamiento; al existir varios demandados, cada uno puede allanarse independientemente, de modo que el proceso continúa respecto del codemandado que no se ha allanado, y se dictará sentencia salvo que exista infracción manifiesta del ordenamiento jurídico",
+          "Es un desistimiento; el proceso se archiva íntegramente mediante auto, con independencia de que exista un codemandado que no haya mostrado su conformidad",
+          "Es una transacción judicial, al requerir la aceptación expresa de ambas partes demandadas sobre el objeto del proceso",
+          "Es un reconocimiento en vía administrativa, que exige el archivo del proceso mediante auto, sin posibilidad de dictar sentencia sobre el fondo"
+        ],
+        "correcta": 0,
+        "explicacion": "La clave está en distinguir allanamiento de desistimiento: el desistimiento es una renuncia del demandante al proceso que ha iniciado (y se resuelve por auto), mientras que el allanamiento consiste en la aceptación expresa y total del demandado de no oponerse a las pretensiones del demandante, debiendo ser total y permitiendo, cuando hay varios demandados, que cada uno se allane de forma independiente; en tal caso el proceso continúa respecto de quienes no se hayan allanado, y se dicta sentencia salvo infracción manifiesta del ordenamiento jurídico. La transacción exige acuerdo entre las partes sobre la controversia, y el reconocimiento en vía administrativa es un supuesto distinto en que es la propia Administración la que reconoce las pretensiones fuera del proceso.",
+        "nivel": "avanzado",
+        "id": "tema-26-q137"
+      },
+      {
+        "enunciado": "Un órgano jurisdiccional que conoce de un recurso contencioso-administrativo en primera o única instancia somete a las partes la posibilidad de alcanzar un acuerdo que ponga fin a la controversia. ¿Cómo denomina la LJCA a esta forma de terminación del procedimiento?",
+        "opciones": [
+          "Transacción judicial",
+          "Satisfacción extraprocesal",
+          "Allanamiento",
+          "Reconocimiento en vía administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "La LJCA regula, junto a la sentencia, otros modos de terminación del procedimiento: desistimiento, allanamiento, satisfacción extraprocesal y transacción judicial. Es precisamente en los procedimientos en primera o única instancia donde el órgano jurisdiccional puede someter a las partes la posibilidad de alcanzar un acuerdo que ponga fin a la controversia, lo que se denomina transacción judicial, distinta del allanamiento (aceptación unilateral del demandado) y de la satisfacción extraprocesal o el reconocimiento en vía administrativa, que no requieren ese sometimiento a acuerdo por el órgano jurisdiccional.",
+        "nivel": "avanzado",
+        "id": "tema-26-q138"
+      },
+      {
+        "enunciado": "Antes de que recaiga sentencia, la Administración demandada reconoce en vía administrativa las pretensiones formuladas por el recurrente. ¿Qué resolución pone fin al proceso en este caso, y en qué se diferencia del allanamiento?",
+        "opciones": [
+          "Se dicta auto ordenando el archivo de las actuaciones, a diferencia del allanamiento, en el que, salvo infracción manifiesta del ordenamiento jurídico, se dicta sentencia",
+          "Se dicta sentencia estimatoria, igual que en el allanamiento, puesto que ambas figuras exigen un pronunciamiento judicial sobre el fondo del asunto",
+          "Se dicta auto de caducidad del recurso, al no haberse presentado la demanda dentro de plazo",
+          "Se dicta sentencia desestimatoria, por entenderse que el recurso ha quedado sin objeto por causas imputables al recurrente"
+        ],
+        "correcta": 0,
+        "explicacion": "El reconocimiento en vía administrativa se diferencia del allanamiento precisamente en la forma de terminación: cuando la Administración reconoce en vía administrativa las pretensiones del recurrente, se dicta auto ordenando el archivo de las actuaciones, sin necesidad de sentencia sobre el fondo; en cambio, en el allanamiento (aceptación expresa dentro del propio proceso) se dicta sentencia, salvo que exista infracción manifiesta del ordenamiento jurídico. Confundir ambas figuras, o atribuir el reconocimiento en vía administrativa a una caducidad por falta de demanda, no responde al texto.",
+        "nivel": "avanzado",
+        "id": "tema-26-q139"
+      },
+      {
+        "enunciado": "Una sentencia contencioso-administrativa adquiere firmeza. ¿En qué plazo debe el Secretario Judicial comunicarlo al órgano que realizó la actividad objeto del recurso, y de qué plazo dispone este último para acusar recibo?",
+        "opciones": [
+          "El Secretario Judicial dispone de 10 días para comunicarlo, y el órgano receptor dispone de idéntico plazo de 10 días para acusar recibo",
+          "El Secretario Judicial dispone de 5 días para comunicarlo, y el órgano receptor dispone de 10 días para acusar recibo",
+          "Ambos plazos son de 20 días, equiparándose al plazo general previsto para la demanda y la contestación",
+          "El Secretario Judicial dispone de 10 días para comunicarlo, pero no se exige acuse de recibo al órgano receptor"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto establece que, una vez firme la sentencia, el Secretario Judicial lo comunicará en el plazo de 10 días al órgano que hubiera realizado la actividad objeto del recurso, a fin de que este, acusado recibo en idéntico plazo (es decir, también 10 días), la lleve a puro y debido efecto. La simetría de ambos plazos de 10 días es precisamente el dato que distingue esta regla de combinaciones erróneas como 5 y 10, o de asimilarlo al plazo de 20 días propio de la demanda y la contestación.",
+        "nivel": "avanzado",
+        "id": "tema-26-q140"
+      },
+      {
+        "enunciado": "A diferencia del procedimiento ordinario, que se inicia mediante un escrito de interposición, ¿cómo se inicia el procedimiento abreviado, y qué plazo mínimo debe mediar entre la remisión del expediente por la Administración demandada y la fecha de la vista?",
+        "opciones": [
+          "Se inicia por demanda, adjuntando los documentos pertinentes, y la Administración demandada debe remitir el expediente administrativo con al menos quince días de antelación al término señalado para la vista",
+          "Se inicia también por escrito de interposición, igual que el ordinario, y el expediente debe remitirse con al menos treinta días de antelación a la vista",
+          "Se inicia por demanda, pero el expediente administrativo puede remitirse en cualquier momento anterior a la sentencia, sin plazo mínimo respecto de la vista",
+          "Se inicia por demanda, debiendo la Administración remitir el expediente con al menos cinco días de antelación a la vista"
+        ],
+        "correcta": 0,
+        "explicacion": "El procedimiento abreviado se inicia por demanda, a diferencia del ordinario, que se inicia por escrito de interposición; esta es una de las singularidades expresamente señaladas en el texto. Además, requerida la Administración demandada, debe remitir el expediente administrativo con al menos quince días de antelación al término señalado para la vista, plazo que no debe confundirse con otros (cinco o treinta días) ni entenderse como inexistente.",
+        "nivel": "avanzado",
+        "id": "tema-26-q141"
+      },
+      {
+        "enunciado": "Señalado el día y la hora para la vista oral de un procedimiento abreviado, comparece únicamente la parte demandada, sin que lo haga el actor. ¿Qué consecuencia prevé la LJCA?",
+        "opciones": [
+          "El Juez o Tribunal tendrá al actor por desistido del recurso y le condenará en costas, igual que si no hubiera comparecido ninguna de las partes",
+          "Se acordará que la vista prosiga en ausencia del actor, dictándose sentencia sobre el fondo con base en las alegaciones de la Administración demandada",
+          "Se suspenderá la vista y se señalará nueva fecha, al no poder continuarse el procedimiento sin la presencia del demandante",
+          "Se tendrá a la Administración demandada por allanada, al no existir oposición activa del actor en el acto de la vista"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto distingue tres escenarios ante la vista oral del procedimiento abreviado: si no comparece ninguna de las partes, o si solo comparece el demandado, el Juez o Tribunal tendrá al actor por desistido del recurso y le condenará en costas; en cambio, si solo comparece el actor, se acuerda que la vista prosiga en ausencia del demandado. Por tanto, cuando comparece únicamente el demandado (como en el enunciado), el efecto es el mismo que si no compareciera nadie: desistimiento del actor con condena en costas, y no la continuación de la vista ni su suspensión.",
+        "nivel": "avanzado",
+        "id": "tema-26-q142"
+      },
+      {
+        "enunciado": "Un Juzgado de lo Contencioso-administrativo dicta sentencia en un asunto cuya cuantía no excede de 30.000 euros, declarando la inadmisibilidad del recurso. ¿Es esta sentencia susceptible de recurso de apelación, pese a tratarse de un asunto de cuantía inferior al umbral del artículo 81 LJCA?",
+        "opciones": [
+          "Sí, porque aunque las sentencias dictadas en asuntos de cuantía no superior a 30.000 euros están excluidas de apelación con carácter general, las que declaran la inadmisibilidad del recurso en esos mismos asuntos son siempre apelables",
+          "No, porque el límite cuantitativo del artículo 81 LJCA no admite excepción alguna, con independencia del contenido del fallo",
+          "Sí, pero únicamente si la cuantía del asunto es exactamente de 30.000 euros, límite en el que opera la excepción",
+          "No, salvo que la sentencia hubiera resuelto un litigio entre Administraciones públicas, único supuesto de excepción previsto"
+        ],
+        "correcta": 0,
+        "explicacion": "El artículo 81 LJCA excluye de apelación, como regla general, las sentencias en asuntos de cuantía no superior a 30.000 euros y las de materia electoral del artículo 8.4 LJCA. Pero el propio texto añade excepciones a esas excepciones: siempre cabe apelación frente a las sentencias que declaran la inadmisibilidad del recurso en asuntos de cuantía no superior a 30.000 euros, frente a las dictadas en protección de derechos fundamentales, frente a las que resuelven litigios entre Administraciones públicas y frente a las que resuelven impugnaciones indirectas de disposiciones generales. El litigio entre Administraciones es solo una de esas cuatro excepciones a la excepción, no la única, y la inadmisibilidad en asuntos de cuantía reducida es, precisamente, el supuesto del enunciado.",
+        "nivel": "avanzado",
+        "id": "tema-26-q143"
+      },
+      {
+        "enunciado": "Una Administración pública obtiene una sentencia favorable y, frente a la interposición de un recurso de apelación por la parte contraria, insta la ejecución provisional de dicha sentencia. ¿Debe la Administración prestar caución o garantía para ello, y ante qué órgano debe interponerse el recurso de apelación?",
+        "opciones": [
+          "La Administración pública queda exenta de prestar caución o garantía cuando insta la ejecución provisional, y el recurso de apelación se interpone ante el Juzgado que hubiera dictado la sentencia apelada, dentro de los quince días siguientes a su notificación",
+          "La Administración debe prestar caución igual que cualquier otra parte, y el recurso de apelación se interpone directamente ante la Sala de lo Contencioso-administrativo del Tribunal Superior de Justicia correspondiente",
+          "La Administración queda exenta de prestar caución, pero el recurso de apelación debe interponerse en el plazo de treinta días, igual que el recurso de casación",
+          "La Administración debe prestar caución, salvo que el recurso de apelación se hubiera interpuesto fuera de plazo, en cuyo caso la sentencia deviene directamente firme"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto precisa dos reglas que conviene no mezclar con las del recurso de casación: la interposición de la apelación no impide la ejecución provisional de la sentencia, pudiendo exigirse caución o garantía para evitar perjuicios, salvo que quien inste la ejecución provisional sea una Administración pública, que queda exenta de esa obligación; además, el recurso de apelación se interpone ante el Juzgado que dictó la sentencia (no directamente ante el órgano superior) dentro de los quince días siguientes a su notificación, plazo distinto del de treinta días propio de la preparación del recurso de casación.",
+        "nivel": "avanzado",
+        "id": "tema-26-q144"
+      },
+      {
+        "enunciado": "Una sentencia dictada en única instancia por un Juzgado de lo Contencioso-administrativo contiene una doctrina que se reputa gravemente dañosa para los intereses generales y es susceptible de extensión de efectos. Si el escrito de preparación del recurso de casación no se presenta en el plazo de treinta días, ¿qué ocurre y qué recurso cabe frente a ello?",
+        "opciones": [
+          "La sentencia queda firme, declarándolo así el letrado de la Administración de Justicia mediante decreto, contra el cual solo cabe el recurso directo de revisión",
+          "La sentencia queda firme automáticamente, sin que sea necesaria resolución alguna, y no cabe recurso de ningún tipo contra dicha firmeza",
+          "Se abre un nuevo plazo de treinta días adicionales para presentar el escrito de preparación, prorrogable por causa justificada",
+          "La sentencia queda firme mediante auto dictado por la propia Sala de instancia, recurrible en súplica ante el Tribunal Supremo"
+        ],
+        "correcta": 0,
+        "explicacion": "El recurso de casación se prepara ante la Sala de instancia en el plazo de treinta días desde la notificación de la resolución recurrida. Si el escrito de preparación no se presenta en ese plazo, la sentencia queda firme, pero esa firmeza no opera de forma automática ni se declara por auto de la Sala: la declara el letrado de la Administración de Justicia mediante decreto, y contra esa decisión solo cabe el recurso directo de revisión (art. 102 bis LJCA), no un recurso de súplica ni una prórroga del plazo de preparación.",
+        "nivel": "avanzado",
+        "id": "tema-26-q145"
+      }
+    ]
+  },
+  {
     "id": "tema-27",
     "bloque": "Bloque II. Derecho Administrativo",
     "titulo": "Tema 27. La responsabilidad de la administración y de su personal.",
