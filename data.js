@@ -37201,6 +37201,3790 @@ const TEMAS = [
     ]
   },
   {
+    "id": "tema-22",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 22. Los recursos administrativos.",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué artículo de la Constitución española recoge el sometimiento pleno de la Administración a la Ley y al Derecho, citado en la introducción del tema?",
+        "opciones": [
+          "Art. 103 CE",
+          "Art. 106 CE",
+          "Art. 9.3 CE",
+          "Art. 24 CE"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 103 CE consagra que la Administración Pública actúa con sometimiento pleno a la Ley y al Derecho, fundamento citado en la introducción como base del control de la actuación administrativa.",
+        "parte": 1,
+        "id": "tema-22-q1"
+      },
+      {
+        "enunciado": "La Ley 39/2015 regula la revisión de los actos en vía administrativa en:",
+        "opciones": [
+          "El Título V",
+          "El Título IV",
+          "El Título III",
+          "El Título VI"
+        ],
+        "correcta": 0,
+        "explicacion": "El Título V de la Ley 39/2015 se dedica a la revisión de los actos en vía administrativa, dividido en Capítulo I (revisión de oficio) y Capítulo II (recursos administrativos).",
+        "parte": 1,
+        "id": "tema-22-q2"
+      },
+      {
+        "enunciado": "El Título V de la Ley 39/2015 se divide en dos capítulos. ¿Cuáles son?",
+        "opciones": [
+          "Capítulo I revisión de oficio y Capítulo II recursos administrativos",
+          "Capítulo I recursos administrativos y Capítulo II revisión de oficio",
+          "Capítulo I recurso de alzada y Capítulo II recurso de reposición",
+          "Capítulo I procedimiento y Capítulo II recursos"
+        ],
+        "correcta": 0,
+        "explicacion": "Según el texto, el Capítulo I regula la revisión de oficio y el Capítulo II los recursos administrativos (alzada, reposición y revisión).",
+        "parte": 1,
+        "id": "tema-22-q3"
+      },
+      {
+        "enunciado": "Respecto a la novedad introducida por la Ley 39/2015 en materia de pluralidad de recursos sobre un mismo acto, ¿qué puede acordar el órgano administrativo si además se ha interpuesto un recurso judicial contra la resolución o el acto presunto desestimatorio?",
+        "opciones": [
+          "La suspensión del plazo para resolver hasta que recaiga pronunciamiento judicial",
+          "La resolución automática a favor del recurrente",
+          "La inadmisión de todos los recursos pendientes",
+          "La acumulación obligatoria ante el Tribunal Supremo"
+        ],
+        "correcta": 0,
+        "explicacion": "Como novedad respecto a la Ley 30/1992, cuando existe una pluralidad de recursos sobre un mismo acto y se ha interpuesto recurso judicial, el órgano administrativo puede acordar la suspensión del plazo para resolver hasta la decisión judicial.",
+        "parte": 1,
+        "id": "tema-22-q4"
+      },
+      {
+        "enunciado": "¿Cuáles son los dos rasgos principales de la revisión interna que la Administración realiza de sus propios actos?",
+        "opciones": [
+          "Es provisional y tiene carácter previo",
+          "Es definitiva y tiene carácter potestativo",
+          "Es vinculante y tiene carácter urgente",
+          "Es firme y tiene carácter excepcional"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que la revisión interna presenta dos rasgos: la provisionalidad (puede ser revisada por los tribunales) y el carácter previo (requisito necesario antes de acudir a los tribunales).",
+        "parte": 1,
+        "id": "tema-22-q5"
+      },
+      {
+        "enunciado": "Trampa: la provisionalidad de la revisión interna de los actos administrativos significa que:",
+        "opciones": [
+          "La decisión administrativa puede ser confirmada o revocada posteriormente por los órganos judiciales",
+          "La Administración solo puede revisar sus actos de forma temporal, nunca definitivamente",
+          "Los actos administrativos nunca adquieren firmeza",
+          "Solo se aplica a los actos dictados por delegación"
+        ],
+        "correcta": 0,
+        "explicacion": "Ojo, la provisionalidad no se refiere a un límite temporal de la revisión en sí, sino a que la decisión de la Administración queda sujeta al control judicial posterior, que puede confirmarla o revocarla.",
+        "parte": 1,
+        "id": "tema-22-q6"
+      },
+      {
+        "enunciado": "¿Cuáles son los dos tipos fundamentales de sistemas de control interno de los actos administrativos que recoge el tema?",
+        "opciones": [
+          "La revisión de oficio y los recursos administrativos",
+          "El recurso de alzada y el recurso de reposición",
+          "La revisión de oficio y el recurso contencioso-administrativo",
+          "Los recursos administrativos y los recursos jurisdiccionales"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto distingue la revisión de oficio (control que ejerce la Administración motu proprio sobre sus propios actos) y los recursos administrativos (impugnaciones de los sujetos afectados).",
+        "parte": 1,
+        "id": "tema-22-q7"
+      },
+      {
+        "enunciado": "Al revés, la revisión de oficio se caracteriza porque:",
+        "opciones": [
+          "Es ejercida por la propia Administración motu proprio, sin necesidad de impugnación de un particular",
+          "Solo puede iniciarse a instancia de los particulares afectados",
+          "Es un trámite previo obligatorio para acudir a los tribunales",
+          "Solo cabe contra actos firmes dictados por delegación"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa típica: confundir revisión de oficio con recurso administrativo. La revisión de oficio es la técnica de control que la Administración ejerce por iniciativa propia (motu proprio), mientras que los recursos administrativos son impugnaciones de los afectados.",
+        "parte": 1,
+        "id": "tema-22-q8"
+      },
+      {
+        "enunciado": "¿Qué ha ocurrido con las reclamaciones previas en vía civil y laboral tras la Ley 39/2015?",
+        "opciones": [
+          "Han quedado suprimidas por su escasa utilidad práctica",
+          "Se han ampliado a nuevos supuestos",
+          "Han pasado a tramitarse como recurso de alzada",
+          "Se mantienen igual que en la Ley 30/1992"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica expresamente que la Ley ya no contempla las reclamaciones previas en vía civil y laboral, quedando suprimidas por su escasa utilidad práctica.",
+        "parte": 1,
+        "id": "tema-22-q9"
+      },
+      {
+        "enunciado": "La \"duplicidad de recursos\" a la que se refiere el tema consiste en:",
+        "opciones": [
+          "La posibilidad de recurrir ante la propia Administración (recurso administrativo) o ante la jurisdicción contencioso-administrativa (recurso jurisdiccional)",
+          "La posibilidad de interponer a la vez recurso de alzada y recurso de reposición",
+          "La necesidad de presentar el mismo recurso por duplicado ante dos órganos",
+          "La coexistencia del recurso de revisión y el recurso extraordinario"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto define la duplicidad de recursos como la existencia de dos vías frente a un acto administrativo: el recurso administrativo ante la propia Administración y el recurso jurisdiccional ante los Tribunales contencioso-administrativos.",
+        "parte": 1,
+        "id": "tema-22-q10"
+      },
+      {
+        "enunciado": "¿Cabe interponer recurso administrativo contra las disposiciones administrativas de carácter general (reglamentos)?",
+        "opciones": [
+          "No, el art. 106.2 lo excluye expresamente",
+          "Sí, mediante el recurso de alzada",
+          "Sí, pero solo mediante el recurso de reposición",
+          "Sí, únicamente si lo dicta un órgano sin superior jerárquico"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 106.2 establece que contra las disposiciones de carácter general (reglamentos) no cabe interponer recurso administrativo, a diferencia de los actos administrativos singulares.",
+        "parte": 1,
+        "id": "tema-22-q11"
+      },
+      {
+        "enunciado": "¿A qué tipo de actos alcanza la garantía que suponen los recursos administrativos, según el tema?",
+        "opciones": [
+          "A todo tipo de actos que no pongan fin a la vía administrativa",
+          "Únicamente a los actos que ponen fin a la vía administrativa",
+          "A todos los actos y disposiciones generales",
+          "Solo a los actos dictados por delegación"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto precisa que la garantía de los recursos administrativos alcanza a todo tipo de actos que no pongan fin a la vía administrativa, aunque dicha garantía tiene un alcance limitado.",
+        "parte": 1,
+        "id": "tema-22-q12"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el carácter limitado de la garantía de los recursos administrativos es FALSA?",
+        "opciones": [
+          "La Administración actúa como un órgano jurisdiccional totalmente neutral e independiente al resolver",
+          "La Administración resuelve el recurso actuando como juez y parte",
+          "Existe una gran distancia entre la posición de la Administración al resolver y la de un órgano jurisdiccional",
+          "La garantía no debe entenderse en términos absolutos"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la Administración no es neutral e independiente, sino que actúa como \"juez y parte\", lo que limita la garantía del recurso administrativo frente al control de un órgano jurisdiccional verdaderamente imparcial.",
+        "parte": 1,
+        "id": "tema-22-q13"
+      },
+      {
+        "enunciado": "El hecho de que los recursos administrativos constituyan un requisito o presupuesto procesal implica que:",
+        "opciones": [
+          "Es necesario agotar la vía administrativa antes de interponer el recurso contencioso-administrativo",
+          "El interesado puede elegir libremente entre acudir a la Administración o directamente a los Tribunales en todo caso",
+          "El recurso administrativo sustituye completamente al recurso jurisdiccional",
+          "Solo se exige en los procedimientos de responsabilidad patrimonial"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que agotar la vía administrativa es un requisito obligatorio (presupuesto procesal) para poder acceder después a la tutela judicial mediante el recurso contencioso-administrativo.",
+        "parte": 1,
+        "id": "tema-22-q14"
+      },
+      {
+        "enunciado": "El carácter obligatorio de agotar la vía administrativa antes de acudir a los Tribunales se describe en el texto como:",
+        "opciones": [
+          "Un privilegio para la Administración y una carga para los particulares",
+          "Un privilegio para los particulares y una carga para la Administración",
+          "Una garantía absoluta de acierto para el particular",
+          "Un trámite opcional sin efectos procesales"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto afirma literalmente que este requisito \"supone un privilegio para la Administración y una carga para los particulares\", que deben agotar la vía administrativa antes de acceder a los Tribunales.",
+        "parte": 1,
+        "id": "tema-22-q15"
+      },
+      {
+        "enunciado": "Escenario: un ciudadano recibe un acto administrativo que considera contrario a Derecho y quiere impugnarlo. Según el tema, ¿qué dos vías de recurso tiene a su disposición en términos generales?",
+        "opciones": [
+          "El recurso administrativo ante la propia Administración y el recurso jurisdiccional ante la jurisdicción contencioso-administrativa",
+          "Únicamente el recurso de amparo ante el Tribunal Constitucional",
+          "El recurso de casación directo ante el Tribunal Supremo",
+          "La denuncia penal y la reclamación civil"
+        ],
+        "correcta": 0,
+        "explicacion": "Conforme al texto, existe una duplicidad de recursos: el administrativo (ante la Administración que dictó el acto) y el jurisdiccional (ante los Tribunales contencioso-administrativos).",
+        "parte": 1,
+        "id": "tema-22-q16"
+      },
+      {
+        "enunciado": "¿Qué tipología de recursos administrativos mantiene la Ley 39/2015 respecto a la regulación anterior de la Ley 30/1992?",
+        "opciones": [
+          "Alzada, potestativo de reposición y extraordinario de revisión",
+          "Alzada, reposición obligatoria y casación",
+          "Reposición, revisión y amparo",
+          "Alzada, suplicación y revisión"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica que la Ley 39/2015 mantiene la misma tipología de recursos administrativos que existía hasta la fecha: alzada, potestativo de reposición y extraordinario de revisión.",
+        "parte": 1,
+        "id": "tema-22-q17"
+      },
+      {
+        "enunciado": "¿Cuál de estas afirmaciones sobre el procedimiento administrativo y los recursos administrativos NO es correcta según la introducción del tema?",
+        "opciones": [
+          "El procedimiento administrativo es un instrumento reactivo frente a la actuación administrativa",
+          "El sistema de recursos administrativos es un instrumento de carácter reactivo",
+          "El control por jueces y tribunales es un instrumento de carácter reactivo",
+          "El procedimiento administrativo es la expresión del sometimiento pleno a la Ley y al Derecho"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el procedimiento administrativo se califica en el texto como instrumento de carácter preventivo, no reactivo; los instrumentos reactivos son el sistema de recursos y el control judicial.",
+        "parte": 1,
+        "id": "tema-22-q18"
+      },
+      {
+        "enunciado": "¿En qué consiste el recurso de alzada?",
+        "opciones": [
+          "En apelar al órgano superior jerárquico de aquel que dictó el acto administrativo recurrido",
+          "En solicitar al mismo órgano que dictó el acto que reconsidere su decisión",
+          "En acudir directamente a la jurisdicción contencioso-administrativa",
+          "En solicitar la revisión de un acto firme por motivos tasados"
+        ],
+        "correcta": 0,
+        "explicacion": "El recurso de alzada consiste en apelar ante el órgano superior jerárquico de quien dictó el acto, siendo el modo normal de agotar la vía administrativa.",
+        "parte": 1,
+        "id": "tema-22-q19"
+      },
+      {
+        "enunciado": "El recurso de alzada se define en el tema como:",
+        "opciones": [
+          "El modo normal de agotar la vía administrativa",
+          "Un recurso extraordinario de carácter excepcional",
+          "Un recurso que solo cabe por motivos tasados legalmente",
+          "Un trámite potestativo alternativo al contencioso-administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto califica expresamente el recurso de alzada (el \"alzarse\" ante el superior jerárquico) como el modo normal de agotar la vía administrativa, a diferencia del extraordinario de revisión.",
+        "parte": 1,
+        "id": "tema-22-q20"
+      },
+      {
+        "enunciado": "Según el art. 121.1, cuando el acto que se desea recurrir en alzada ha sido dictado por un Tribunal u órgano de selección de personal, ¿cuál se considera el órgano superior jerárquico?",
+        "opciones": [
+          "El órgano al que estén adscritos o, en su defecto, el que haya nombrado a su presidente",
+          "El órgano colegiado de mayor rango de la Administración General del Estado",
+          "El Consejo de Estado en todo caso",
+          "El Ministro del departamento correspondiente, sin excepciones"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.1 fija una regla especial: para tribunales y órganos de selección de personal, se considera superior jerárquico al órgano al que estén adscritos o, en su defecto, al que nombró a su presidente.",
+        "parte": 1,
+        "id": "tema-22-q21"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes situaciones se rige por una regla específica distinta de la regla general para determinar el órgano competente en el recurso de alzada?",
+        "opciones": [
+          "Los actos dictados por delegación",
+          "Los actos dictados por un Ministro en materia de personal",
+          "Los actos de los Organismos públicos vinculados a la AGE",
+          "Los actos que ponen fin a procedimientos de responsabilidad patrimonial"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto recoge dos reglas específicas: la de tribunales/órganos de selección de personal y la de los actos dictados por delegación, que se consideran dictados por el órgano delegante.",
+        "parte": 1,
+        "id": "tema-22-q22"
+      },
+      {
+        "enunciado": "Cuando un acto ha sido adoptado por delegación, ¿ante qué órgano debe interponerse el recurso de alzada?",
+        "opciones": [
+          "Ante el órgano superior jerárquico del órgano delegante",
+          "Ante el órgano superior jerárquico del órgano delegado que efectivamente dictó el acto",
+          "Ante el propio órgano delegado, sin posibilidad de alzada",
+          "Ante el Consejo de Ministros en todo caso"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: aunque materialmente el acto lo dictó el órgano delegado, la ley considera que se dictó por el órgano delegante, por lo que el recurso de alzada se interpone ante el superior jerárquico de este último.",
+        "parte": 1,
+        "id": "tema-22-q23"
+      },
+      {
+        "enunciado": "Trampa: en los actos dictados por delegación, a efectos del recurso de alzada:",
+        "opciones": [
+          "Se considera que el acto fue dictado por el órgano delegante",
+          "Se considera que el acto fue dictado por el órgano delegado",
+          "Queda excluido el recurso de alzada por tratarse de delegación",
+          "Solo cabe el recurso extraordinario de revisión"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que podría pensarse, aunque quien firma materialmente el acto es el órgano delegado, la ley atribuye la autoría jurídica al órgano delegante a efectos de determinar el superior jerárquico competente para resolver la alzada.",
+        "parte": 1,
+        "id": "tema-22-q24"
+      },
+      {
+        "enunciado": "¿Qué posibilidad contempla el art. 121.2 para simplificar la determinación del órgano competente en el recurso de alzada?",
+        "opciones": [
+          "Presentar el recurso ante el órgano que dictó el acto impugnado para que este lo remita a su superior",
+          "Presentar el recurso directamente ante el Consejo de Estado",
+          "Presentar el recurso ante cualquier órgano administrativo del mismo nivel",
+          "Prescindir de la determinación del órgano superior jerárquico mediante silencio administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.2 permite presentar el recurso de alzada ante el órgano que dictó el acto impugnado, que tendrá la obligación de remitirlo al órgano superior jerárquico competente.",
+        "parte": 1,
+        "id": "tema-22-q25"
+      },
+      {
+        "enunciado": "Si el recurso de alzada se presenta ante el órgano que dictó el acto impugnado en lugar de ante el superior jerárquico, ¿en qué plazo debe remitirlo este al órgano competente?",
+        "opciones": [
+          "Diez días",
+          "Un mes",
+          "Tres meses",
+          "Quince días"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.2 establece que, en ese caso, el órgano que dictó el acto debe remitirlo al órgano competente en el plazo de diez días, acompañado de informe y copia completa del expediente.",
+        "parte": 1,
+        "id": "tema-22-q26"
+      },
+      {
+        "enunciado": "Al remitir el recurso de alzada al órgano competente, ¿qué debe acompañar el titular del órgano que dictó el acto recurrido?",
+        "opciones": [
+          "Un informe y una copia completa y ordenada del expediente",
+          "Únicamente una copia del acto recurrido",
+          "Un dictamen del Consejo de Estado",
+          "Una propuesta de resolución vinculante"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.2 exige que la remisión se acompañe de un informe y de una copia completa y ordenada del expediente, siendo esto responsabilidad del titular del órgano que dictó el acto.",
+        "parte": 1,
+        "id": "tema-22-q27"
+      },
+      {
+        "enunciado": "Para que un acto administrativo pueda ser objeto de recurso de alzada, se exige que:",
+        "opciones": [
+          "No ponga fin a la vía administrativa y sea un acto definitivo o de trámite cualificado",
+          "Ponga fin a la vía administrativa y sea firme",
+          "Sea una disposición de carácter general",
+          "Haya sido dictado necesariamente por delegación"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto exige que el acto recurrible en alzada no ponga fin a la vía administrativa, y que se trate de un acto definitivo o de trámite cualificado, no de un simple acto de trámite ordinario.",
+        "parte": 1,
+        "id": "tema-22-q28"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes actos pone fin a la vía administrativa según el art. 114?",
+        "opciones": [
+          "Las resoluciones de los recursos de alzada",
+          "Los actos de trámite no cualificados",
+          "Los actos dictados por un órgano inferior con superior jerárquico",
+          "Las resoluciones de un recurso de alzada pendiente de resolver"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 114.a) incluye expresamente las resoluciones de los recursos de alzada entre los actos que agotan la vía administrativa, por lo que contra ellas no cabe ya otro recurso de alzada.",
+        "parte": 1,
+        "id": "tema-22-q29"
+      },
+      {
+        "enunciado": "Según el art. 114, en relación con el art. 112.2, ¿qué resoluciones de procedimiento ponen fin a la vía administrativa?",
+        "opciones": [
+          "Las resoluciones de los procedimientos de conciliación, mediación y arbitraje",
+          "Las resoluciones del recurso extraordinario de revisión",
+          "Las resoluciones del recurso potestativo de reposición",
+          "Las resoluciones de los expedientes sancionadores en primera instancia"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 114.b) remite al art. 112.2 e incluye las resoluciones de los procedimientos de conciliación, mediación y arbitraje como actos que ponen fin a la vía administrativa.",
+        "parte": 1,
+        "id": "tema-22-q30"
+      },
+      {
+        "enunciado": "¿Qué ocurre con las resoluciones de los órganos administrativos que carecen de superior jerárquico, a efectos del agotamiento de la vía administrativa?",
+        "opciones": [
+          "Ponen fin a la vía administrativa, salvo que una Ley establezca lo contrario",
+          "Nunca ponen fin a la vía administrativa",
+          "Solo ponen fin a la vía administrativa si lo dice un reglamento",
+          "Ponen fin a la vía administrativa únicamente en el ámbito estatal"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 114.c) establece que las resoluciones de órganos sin superior jerárquico ponen fin a la vía administrativa, salvo que una Ley disponga lo contrario; es lógico, pues si no hay superior jerárquico no cabría alzada.",
+        "parte": 1,
+        "id": "tema-22-q31"
+      },
+      {
+        "enunciado": "¿Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento ponen fin a la vía administrativa?",
+        "opciones": [
+          "Sí, conforme al art. 114.d)",
+          "No, deben recurrirse siempre en alzada",
+          "Solo si así lo acuerdan expresamente las partes en cada caso",
+          "No, salvo que sean posteriores a una resolución de responsabilidad patrimonial"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 114.d) incluye expresamente estos acuerdos, pactos, convenios o contratos finalizadores del procedimiento entre los actos que agotan la vía administrativa.",
+        "parte": 1,
+        "id": "tema-22-q32"
+      },
+      {
+        "enunciado": "La resolución administrativa de los procedimientos de responsabilidad patrimonial, ¿pone fin a la vía administrativa?",
+        "opciones": [
+          "Sí, cualquiera que sea el tipo de relación, pública o privada, de que derive",
+          "Solo si la relación es de naturaleza pública",
+          "Solo si la relación es de naturaleza privada",
+          "No, siempre cabe recurso de alzada contra ella"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 114.e) establece que la resolución de los procedimientos de responsabilidad patrimonial pone fin a la vía administrativa cualquiera que sea el tipo de relación, pública o privada, de la que derive.",
+        "parte": 1,
+        "id": "tema-22-q33"
+      },
+      {
+        "enunciado": "¿Qué resolución pone fin a la vía administrativa en relación con el art. 90.4 sobre procedimientos sancionadores?",
+        "opciones": [
+          "La resolución de los procedimientos complementarios para fijar la cuantía de daños y perjuicios",
+          "La resolución inicial que impone la sanción pecuniaria",
+          "La resolución del recurso de reposición contra la sanción",
+          "La propuesta de resolución del instructor del expediente sancionador"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 114.f), en relación con el art. 90.4, se refiere a la resolución de los procedimientos complementarios en materia sancionadora destinados a fijar la cuantía de daños y perjuicios, que pone fin a la vía administrativa.",
+        "parte": 1,
+        "id": "tema-22-q34"
+      },
+      {
+        "enunciado": "Además de los supuestos tasados en el art. 114, ¿qué cláusula general recoge dicho artículo para que una resolución ponga fin a la vía administrativa?",
+        "opciones": [
+          "Las demás resoluciones de órganos administrativos cuando una disposición legal o reglamentaria así lo establezca",
+          "Cualquier resolución dictada en el plazo de tres meses",
+          "Las resoluciones dictadas por delegación en todo caso",
+          "Las resoluciones que hayan sido objeto de informe del Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 114.g) cierra la lista con una cláusula abierta: las demás resoluciones de órganos administrativos ponen fin a la vía administrativa cuando una disposición legal o reglamentaria así lo establezca.",
+        "parte": 1,
+        "id": "tema-22-q35"
+      },
+      {
+        "enunciado": "En el ámbito estatal, ¿qué actos ponen fin a la vía administrativa además de los recogidos con carácter general en el art. 114?",
+        "opciones": [
+          "Los actos de los miembros y órganos del Gobierno, entre otros supuestos específicos",
+          "Únicamente los actos del Consejo de Ministros en pleno",
+          "Los actos de cualquier funcionario con nivel de jefe de servicio",
+          "Los actos dictados por los Tribunales de selección de personal en cualquier caso"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto añade que, en el ámbito estatal, ponen fin a la vía administrativa, entre otros, los actos administrativos de los miembros y órganos del Gobierno.",
+        "parte": 1,
+        "id": "tema-22-q36"
+      },
+      {
+        "enunciado": "En el ámbito estatal, ¿qué actos de los Ministros y Secretarios de Estado ponen fin a la vía administrativa?",
+        "opciones": [
+          "Los dictados en el ejercicio de las competencias atribuidas a los órganos de los que son titulares",
+          "Únicamente los dictados en materia de personal",
+          "Únicamente los dictados por delegación del Consejo de Ministros",
+          "Ninguno, siempre cabe recurso de alzada ante el Consejo de Ministros"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala que los actos emanados de Ministros y Secretarios de Estado, en el ejercicio de las competencias atribuidas a los órganos de los que son titulares, ponen fin a la vía administrativa.",
+        "parte": 1,
+        "id": "tema-22-q37"
+      },
+      {
+        "enunciado": "En el ámbito estatal, los actos de los órganos directivos con nivel de Director General o superior ponen fin a la vía administrativa cuando:",
+        "opciones": [
+          "Se refieren a las competencias que tengan atribuidas en materia de personal",
+          "Se refieren a cualquier materia, sin excepción",
+          "Se refieren exclusivamente a materia presupuestaria",
+          "Han sido dictados por delegación de un Secretario de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto precisa que estos actos ponen fin a la vía administrativa en relación con las competencias atribuidas en materia de personal, no en cualquier materia.",
+        "parte": 1,
+        "id": "tema-22-q38"
+      },
+      {
+        "enunciado": "En los Organismos públicos y entidades de derecho público vinculados o dependientes de la AGE, ¿qué actos ponen fin a la vía administrativa en el ámbito estatal?",
+        "opciones": [
+          "Los emanados de los máximos órganos de dirección unipersonales o colegiados, según sus estatutos, salvo que la ley diga otra cosa",
+          "Los emanados de cualquier departamento interno del organismo",
+          "Únicamente los dictados por el presidente del organismo en pleno",
+          "Los dictados por el Consejo de Estado respecto a dichos organismos"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto establece que en estos organismos ponen fin a la vía administrativa los actos de sus máximos órganos de dirección (unipersonales o colegiados), conforme establezcan sus estatutos, salvo que la ley disponga otra cosa.",
+        "parte": 1,
+        "id": "tema-22-q39"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO figura entre los actos que, con carácter general, ponen fin a la vía administrativa conforme al art. 114?",
+        "opciones": [
+          "Los actos de mero trámite no cualificados",
+          "Las resoluciones de los recursos de alzada",
+          "La resolución de los procedimientos de responsabilidad patrimonial",
+          "Los acuerdos o convenios finalizadores del procedimiento"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: los actos de trámite no cualificados ni siquiera son recurribles en alzada por no ser definitivos; no forman parte de la lista del art. 114, que se refiere a resoluciones que cierran definitivamente la vía administrativa.",
+        "parte": 1,
+        "id": "tema-22-q40"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo de interposición del recurso de alzada cuando el acto que se pretende recurrir es un acto expreso?",
+        "opciones": [
+          "Un mes",
+          "Diez días",
+          "Tres meses",
+          "Quince días"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 122 fija en un mes el plazo de interposición del recurso de alzada cuando el acto recurrido es expreso.",
+        "parte": 1,
+        "id": "tema-22-q41"
+      },
+      {
+        "enunciado": "Si el acto que se pretende recurrir en alzada no es expreso (silencio administrativo), ¿cuándo puede interponerse el recurso?",
+        "opciones": [
+          "En cualquier momento a partir del día siguiente a que se produzcan los efectos del silencio administrativo",
+          "Únicamente dentro del mes siguiente a la presentación de la solicitud",
+          "Nunca, pues el silencio impide recurrir en alzada",
+          "En el plazo de tres meses desde la solicitud, sin excepción"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 122 dispone que, ante actos no expresos, el recurso de alzada puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio administrativo conforme a su normativa específica.",
+        "parte": 1,
+        "id": "tema-22-q42"
+      },
+      {
+        "enunciado": "¿Qué sucede si transcurre el plazo de interposición del recurso de alzada sin que este se haya presentado?",
+        "opciones": [
+          "El acto se convierte en firme a todos los efectos",
+          "El acto queda automáticamente anulado",
+          "El interesado puede interponerlo igualmente dentro de los tres meses siguientes",
+          "Se abre un nuevo plazo de reposición"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica que, transcurridos los plazos sin haberse interpuesto el recurso de alzada, el acto será firme a todos los efectos, perdiéndose la posibilidad de recurrir.",
+        "parte": 1,
+        "id": "tema-22-q43"
+      },
+      {
+        "enunciado": "Si en el mes de vencimiento del plazo no existe día equivalente a aquel en que comenzó el cómputo, ¿cuándo se entiende que expira el plazo?",
+        "opciones": [
+          "El último día de ese mes",
+          "El primer día del mes siguiente",
+          "Se prorroga automáticamente un mes más",
+          "El día 30 del mes en curso en todo caso"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto establece que, si no existiera día equivalente en el mes de vencimiento, el plazo se entiende que expira el último día de dicho mes.",
+        "parte": 1,
+        "id": "tema-22-q44"
+      },
+      {
+        "enunciado": "Cuando el último día del plazo para interponer el recurso de alzada sea inhábil, ¿qué ocurre conforme al art. 30.5?",
+        "opciones": [
+          "El plazo se entiende prorrogado al primer día hábil siguiente",
+          "El plazo se acorta al día hábil anterior",
+          "El recurso queda automáticamente inadmitido",
+          "El plazo se duplica como compensación"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 30.5 dispone que, cuando el último día del plazo sea inhábil, este se entiende prorrogado al primer día hábil siguiente.",
+        "parte": 1,
+        "id": "tema-22-q45"
+      },
+      {
+        "enunciado": "A efectos de determinar si un día es hábil o inhábil para el cómputo del plazo del recurso de alzada, el art. 30.6 atiende a:",
+        "opciones": [
+          "El municipio o Comunidad Autónoma del domicilio del interesado o de la sede del órgano competente",
+          "Únicamente el calendario laboral estatal",
+          "Exclusivamente el calendario de la sede del órgano que dictó el acto",
+          "El calendario del Boletín Oficial del Estado sin excepciones"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 30.6 considera inhábil, en todo caso, el día que lo sea en el municipio o Comunidad Autónoma del domicilio del interesado o de la sede del órgano administrativo competente.",
+        "parte": 1,
+        "id": "tema-22-q46"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo que tiene la Administración para resolver un recurso de alzada y notificar la resolución a los interesados?",
+        "opciones": [
+          "Tres meses",
+          "Un mes",
+          "Seis meses",
+          "Diez días"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto fija en tres meses el plazo máximo para resolver y notificar la resolución del recurso de alzada.",
+        "parte": 1,
+        "id": "tema-22-q47"
+      },
+      {
+        "enunciado": "¿Qué efecto produce, con carácter general, el transcurso del plazo de tres meses sin que recaiga resolución expresa en el recurso de alzada?",
+        "opciones": [
+          "Se entiende desestimado por silencio negativo",
+          "Se entiende estimado por silencio positivo",
+          "El recurso se archiva sin efectos",
+          "Se abre automáticamente la vía del recurso extraordinario de revisión"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 122.2 establece como regla general que, transcurrido el plazo de tres meses sin resolución expresa, el recurso de alzada se entiende desestimado (silencio negativo).",
+        "parte": 1,
+        "id": "tema-22-q48"
+      },
+      {
+        "enunciado": "Tras la desestimación por silencio negativo del recurso de alzada, ¿qué puede hacer el interesado?",
+        "opciones": [
+          "Acudir ya a la jurisdicción contencioso-administrativa, pues no cabe otro recurso administrativo",
+          "Interponer un nuevo recurso de alzada ante el mismo órgano",
+          "Interponer recurso de reposición contra la desestimación",
+          "Esperar obligatoriamente a que se dicte resolución expresa antes de poder recurrir"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 122.2 señala que contra la resolución del recurso de alzada no cabe ya ningún otro recurso administrativo, por lo que el interesado puede acudir directamente a la jurisdicción contencioso-administrativa.",
+        "parte": 1,
+        "id": "tema-22-q49"
+      },
+      {
+        "enunciado": "¿En qué supuesto cede la regla general del silencio negativo en el recurso de alzada?",
+        "opciones": [
+          "Cuando el recurso se interpone contra la desestimación presunta de una solicitud",
+          "Cuando el recurso lo interpone un tercero interesado",
+          "Cuando el acto recurrido ha sido dictado por delegación",
+          "Cuando el recurso se presenta ante el órgano que dictó el acto en lugar de ante el superior jerárquico"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto indica que la regla general del silencio negativo solo cede cuando el recurso de alzada se ha interpuesto contra la desestimación presunta de una solicitud, dando lugar a una situación de doble silencio.",
+        "parte": 1,
+        "id": "tema-22-q50"
+      },
+      {
+        "enunciado": "En el supuesto de doble silencio administrativo en el recurso de alzada, ¿cómo se interpreta el segundo silencio?",
+        "opciones": [
+          "De forma positiva, entendiéndose estimado el recurso de alzada",
+          "De forma negativa, igual que el primer silencio",
+          "Como inadmisión del recurso",
+          "Como caducidad del procedimiento"
+        ],
+        "correcta": 0,
+        "explicacion": "El texto precisa que, en el supuesto de doble silencio, el segundo silencio se interpreta de forma positiva, entendiéndose que el recurso de alzada ha sido estimado.",
+        "parte": 1,
+        "id": "tema-22-q51"
+      },
+      {
+        "enunciado": "Escenario: un ciudadano presenta una solicitud que es desestimada por silencio administrativo. Interpone recurso de alzada contra esa desestimación presunta y la Administración tampoco resuelve en el plazo de tres meses. ¿Qué efecto produce este segundo silencio?",
+        "opciones": [
+          "Se entiende estimado el recurso de alzada (silencio positivo)",
+          "Se entiende desestimado el recurso de alzada (silencio negativo), igual que siempre",
+          "El procedimiento caduca automáticamente",
+          "Debe reiniciarse el procedimiento desde la solicitud inicial"
+        ],
+        "correcta": 0,
+        "explicacion": "Se trata del supuesto de doble silencio administrativo: cuando el recurso de alzada se dirige contra una desestimación presunta, el segundo silencio (el del propio recurso) se interpreta de forma positiva, entendiéndose estimado.",
+        "parte": 1,
+        "id": "tema-22-q52"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el plazo de resolución del recurso de alzada es FALSA?",
+        "opciones": [
+          "El silencio siempre se interpreta de forma positiva, estimando el recurso",
+          "El plazo máximo de resolución y notificación es de tres meses",
+          "La regla general ante el silencio es la desestimación del recurso",
+          "Existe una excepción de doble silencio positivo cuando se recurre una desestimación presunta"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: la regla general no es el silencio positivo, sino el negativo; el silencio positivo solo opera excepcionalmente en el supuesto de doble silencio frente a una desestimación presunta de una solicitud.",
+        "parte": 1,
+        "id": "tema-22-q53"
+      },
+      {
+        "enunciado": "Comparación: a diferencia de la regla general de plazo de interposición del recurso de alzada frente a actos expresos (un mes), el plazo máximo de resolución del recurso es de:",
+        "opciones": [
+          "Tres meses",
+          "Un mes",
+          "Dos meses",
+          "Seis meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Mientras el plazo de interposición frente a actos expresos es de un mes (art. 122), el plazo máximo de resolución y notificación del recurso de alzada es de tres meses.",
+        "parte": 1,
+        "id": "tema-22-q54"
+      },
+      {
+        "enunciado": "Según la tabla resumen del tema, el órgano competente para resolver el recurso de alzada es:",
+        "opciones": [
+          "El superior jerárquico del órgano que dictó el acto recurrido",
+          "El mismo órgano que dictó el acto recurrido",
+          "El Consejo de Estado en todo caso",
+          "Un órgano colegiado creado específicamente para cada recurso"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla resumen del tema identifica como órgano competente del recurso de alzada al superior jerárquico del órgano que dictó el acto recurrido, a diferencia de la reposición, donde resuelve el mismo órgano.",
+        "parte": 1,
+        "id": "tema-22-q55"
+      },
+      {
+        "enunciado": "Según la tabla resumen, ¿qué actos son impugnables mediante recurso de alzada?",
+        "opciones": [
+          "Los que no ponen fin a la vía administrativa",
+          "Los que ponen fin a la vía administrativa",
+          "Únicamente los actos firmes en vía administrativa",
+          "Las disposiciones de carácter general"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla resumen distingue que el recurso de alzada se dirige contra actos que no ponen fin a la vía administrativa, mientras que la reposición se dirige contra los que sí ponen fin a dicha vía.",
+        "parte": 1,
+        "id": "tema-22-q56"
+      },
+      {
+        "enunciado": "Escenario: un funcionario impugna la decisión de un Tribunal de selección de personal en un proceso selectivo. ¿Ante qué órgano debe interponer el recurso de alzada, según la regla especial del art. 121.1?",
+        "opciones": [
+          "Ante el órgano al que esté adscrito el Tribunal o, en su defecto, el que nombró a su presidente",
+          "Ante el propio Tribunal de selección, que no admite recurso alguno",
+          "Ante el Ministro de Hacienda y Función Pública en todo caso",
+          "Ante el Consejo de Estado, por tratarse de materia de personal"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.1 fija como regla especial que, para los Tribunales y órganos de selección de personal, el órgano superior jerárquico es aquel al que estén adscritos o, en su defecto, el que nombró a su presidente.",
+        "parte": 1,
+        "id": "tema-22-q57"
+      },
+      {
+        "enunciado": "Escenario: un Director General, actuando por delegación del Secretario de Estado, dicta un acto administrativo. Un interesado quiere recurrirlo en alzada. ¿Ante qué órgano debe interponerse el recurso?",
+        "opciones": [
+          "Ante el superior jerárquico del Secretario de Estado, por considerarse el acto dictado por este",
+          "Ante el superior jerárquico del Director General que materialmente dictó el acto",
+          "Ante el propio Director General, sin posibilidad de alzada",
+          "Ante el Consejo de Ministros directamente, por tratarse de delegación"
+        ],
+        "correcta": 0,
+        "explicacion": "Como el acto se considera dictado por el órgano delegante (el Secretario de Estado), el recurso de alzada debe interponerse ante el superior jerárquico de este, y no ante el superior del Director General que firmó materialmente el acto.",
+        "parte": 1,
+        "id": "tema-22-q58"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la tramitación del recurso de alzada es correcta?",
+        "opciones": [
+          "Si se presenta ante el órgano que dictó el acto, este debe remitirlo al competente en diez días junto con informe y copia del expediente",
+          "El órgano que dictó el acto puede resolver directamente el recurso de alzada si lo considera oportuno",
+          "El plazo de remisión al órgano competente es de un mes",
+          "No es necesario acompañar el expediente administrativo en la remisión"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.2 exige que, si el recurso se presentó ante el órgano que dictó el acto, este lo remita al órgano competente en el plazo de diez días, con informe y copia completa y ordenada del expediente.",
+        "parte": 1,
+        "id": "tema-22-q59"
+      },
+      {
+        "enunciado": "Comparación final: frente a los actos dictados por un órgano administrativo que carece de superior jerárquico, ¿cabe interponer recurso de alzada?",
+        "opciones": [
+          "No, pues dichos actos ya ponen fin a la vía administrativa, salvo que una ley diga lo contrario",
+          "Sí, siempre se resuelve por el Consejo de Estado",
+          "Sí, pero se resuelve por el mismo órgano que dictó el acto, como en la reposición",
+          "Sí, se transforma automáticamente en recurso extraordinario de revisión"
+        ],
+        "correcta": 0,
+        "explicacion": "Conforme al art. 114.c), las resoluciones de órganos sin superior jerárquico ponen fin a la vía administrativa (salvo previsión legal en contrario), por lo que no cabe recurso de alzada contra ellas, ya que no existiría órgano ante el que apelar.",
+        "parte": 1,
+        "id": "tema-22-q60"
+      },
+      {
+        "enunciado": "¿Contra qué tipo de actos se interpone el recurso potestativo de reposición?",
+        "opciones": [
+          "Contra los actos que ponen fin a la vía administrativa",
+          "Contra los actos de trámite no cualificados",
+          "Contra los actos que no ponen fin a la vía administrativa",
+          "Contra las disposiciones administrativas de carácter general"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 123 LPACAP establece que el recurso de reposición se interpone contra los actos que ponen fin a la vía administrativa. Ojo, no lo confundas con el recurso de alzada, que precisamente se dirige contra actos que no ponen fin a la vía administrativa.",
+        "parte": 2,
+        "id": "tema-22-q61"
+      },
+      {
+        "enunciado": "El carácter potestativo del recurso de reposición significa que...",
+        "opciones": [
+          "Es obligatorio agotarlo antes de acudir a la jurisdicción contencioso-administrativa",
+          "El interesado decide voluntariamente si lo interpone o accede directamente a la vía contencioso-administrativa",
+          "Solo puede interponerlo la Administración, nunca el particular",
+          "Únicamente cabe cuando lo autoriza expresamente una Ley especial"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: a diferencia de la vía administrativa general, que sí es obligatoria antes del contencioso, el recurso de reposición es potestativo. El interesado elige libremente entre interponerlo o ir directamente a los Tribunales.",
+        "parte": 2,
+        "id": "tema-22-q62"
+      },
+      {
+        "enunciado": "¿Ante qué órgano se interpone el recurso de reposición?",
+        "opciones": [
+          "Ante el órgano superior jerárquico del que dictó el acto",
+          "Ante el mismo órgano que dictó el acto, que también lo resuelve",
+          "Ante el Consejo de Estado",
+          "Ante la jurisdicción contencioso-administrativa"
+        ],
+        "correcta": 1,
+        "explicacion": "El recurso de reposición se interpone y resuelve por el mismo órgano autor del acto, a quien se pide que reconsidere su decisión. Al revés que en la alzada, aquí no interviene el superior jerárquico.",
+        "parte": 2,
+        "id": "tema-22-q63"
+      },
+      {
+        "enunciado": "Si el acto recurrido en reposición es expreso, ¿cuál es el plazo de interposición?",
+        "opciones": [
+          "Quince días",
+          "Dos meses",
+          "Un mes",
+          "Tres meses"
+        ],
+        "correcta": 2,
+        "explicacion": "Igual que en la alzada, el plazo para interponer el recurso de reposición frente a un acto expreso es de un mes. Trampa habitual: no confundir con el plazo de tres meses del recurso extraordinario de revisión.",
+        "parte": 2,
+        "id": "tema-22-q64"
+      },
+      {
+        "enunciado": "Si el acto que se recurre en reposición no fuera expreso, ¿cuándo puede interponerse el recurso?",
+        "opciones": [
+          "Nunca, pues el silencio impide recurrir",
+          "En cualquier momento a partir del día siguiente a que se produzcan los efectos del acto presunto",
+          "Dentro de los tres meses siguientes al silencio",
+          "Dentro de los cuatro años siguientes al silencio"
+        ],
+        "correcta": 1,
+        "explicacion": "Al igual que en la alzada, cuando el acto no es expreso por silencio administrativo, el recurso de reposición puede interponerse en cualquier momento desde el día siguiente a que se produzcan los efectos del acto presunto, sin plazo máximo cerrado.",
+        "parte": 2,
+        "id": "tema-22-q65"
+      },
+      {
+        "enunciado": "Si un interesado decide interponer el recurso de reposición, ¿qué debe hacer antes de acudir a la jurisdicción contencioso-administrativa?",
+        "opciones": [
+          "Puede acudir al contencioso de forma simultánea, sin esperar",
+          "Debe esperar a que se resuelva el recurso de reposición",
+          "Debe interponer también un recurso de alzada previo",
+          "Debe esperar el dictamen del Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Una vez elegida la vía de la reposición, el interesado queda vinculado a esperar su resolución, expresa o por silencio, antes de poder acceder a la jurisdicción contencioso-administrativa.",
+        "parte": 2,
+        "id": "tema-22-q66"
+      },
+      {
+        "enunciado": "¿Puede interponerse un segundo recurso de reposición contra la resolución del primero?",
+        "opciones": [
+          "Sí, siempre que no hayan transcurrido tres meses",
+          "No, contra la resolución del recurso de reposición no cabe interponer de nuevo el mismo recurso",
+          "Sí, pero solo si lo resuelve un órgano distinto",
+          "Sí, hasta un máximo de dos veces"
+        ],
+        "correcta": 1,
+        "explicacion": "La Ley 39/2015 impide repetir el recurso de reposición contra su propia resolución, para evitar un bucle de reconsideraciones ante el mismo órgano. Al interesado solo le queda ya el camino del recurso contencioso-administrativo.",
+        "parte": 2,
+        "id": "tema-22-q67"
+      },
+      {
+        "enunciado": "Si transcurre el plazo de un mes para recurrir en reposición un acto expreso sin haberlo hecho, ¿qué puede hacer el interesado?",
+        "opciones": [
+          "Interponer recurso de alzada",
+          "Nada, el acto queda firme sin posibilidad alguna",
+          "Interponer recurso contencioso-administrativo, sin perjuicio, en su caso, del recurso extraordinario de revisión",
+          "Interponer el recurso de reposición fuera de plazo igualmente"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto señala expresamente que, transcurrido el plazo sin recurrir en reposición, solo cabe el recurso contencioso-administrativo, sin perjuicio de la procedencia, en su caso, del recurso extraordinario de revisión si concurre alguno de sus motivos tasados.",
+        "parte": 2,
+        "id": "tema-22-q68"
+      },
+      {
+        "enunciado": "¿Cuál es la finalidad principal del recurso de reposición?",
+        "opciones": [
+          "Que un órgano superior revise la legalidad del acto",
+          "Solicitar al propio órgano autor del acto que reconsidere su primera decisión",
+          "Suspender automáticamente la eficacia del acto recurrido",
+          "Obtener un dictamen preceptivo del Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El recurso de reposición busca que sea el propio autor del acto quien reconsidere lo decidido, a diferencia de la alzada, donde interviene el superior jerárquico.",
+        "parte": 2,
+        "id": "tema-22-q69"
+      },
+      {
+        "enunciado": "Según la tabla resumen de recursos administrativos, ¿cuál es el plazo máximo de resolución del recurso de reposición?",
+        "opciones": [
+          "Tres meses",
+          "Cuatro años",
+          "Un mes",
+          "Quince días"
+        ],
+        "correcta": 2,
+        "explicacion": "A diferencia de la alzada y la revisión, cuyo plazo de resolución es de tres meses, el recurso de reposición debe resolverse en el plazo de un mes. Trampa: muchos alumnos igualan por error los tres plazos de resolución.",
+        "parte": 2,
+        "id": "tema-22-q70"
+      },
+      {
+        "enunciado": "¿Qué diferencia esencial existe entre el recurso de alzada y el de reposición en cuanto al órgano competente?",
+        "opciones": [
+          "En ambos resuelve siempre el superior jerárquico",
+          "En la alzada resuelve el superior jerárquico; en la reposición, el mismo órgano que dictó el acto",
+          "En la reposición resuelve siempre el Consejo de Estado",
+          "En ambos resuelve el mismo órgano que dictó el acto"
+        ],
+        "correcta": 1,
+        "explicacion": "Esta es una de las claves del tema: la alzada se dirige al superior jerárquico, mientras que la reposición se presenta y resuelve ante el mismo órgano que dictó el acto recurrido.",
+        "parte": 2,
+        "id": "tema-22-q71"
+      },
+      {
+        "enunciado": "Un ciudadano recibe un acto administrativo que pone fin a la vía administrativa y, en lugar de recurrir, decide acudir directamente a los Tribunales. ¿Es esto posible?",
+        "opciones": [
+          "No, es obligatorio agotar primero el recurso de reposición",
+          "Sí, porque el recurso de reposición tiene carácter potestativo",
+          "No, solo es posible si antes interpone un recurso de alzada",
+          "Sí, pero solo si el acto no es expreso"
+        ],
+        "correcta": 1,
+        "explicacion": "Precisamente por su carácter potestativo, el interesado puede optar libremente por acudir directamente a la jurisdicción contencioso-administrativa sin pasar por el recurso de reposición.",
+        "parte": 2,
+        "id": "tema-22-q72"
+      },
+      {
+        "enunciado": "El recurso extraordinario de revisión se caracteriza por ser...",
+        "opciones": [
+          "El modo normal de agotar la vía administrativa",
+          "Un remedio excepcional frente a actos firmes en vía administrativa cuando concurren motivos tasados",
+          "Un recurso que puede interponerse en cualquier momento sin plazo",
+          "Un recurso potestativo frente a actos que no ponen fin a la vía administrativa"
+        ],
+        "correcta": 1,
+        "explicacion": "A diferencia de la alzada, que es el modo normal de agotar la vía administrativa, la revisión es un remedio excepcional reservado a actos ya firmes, y solo procede por los motivos tasados del art. 125.",
+        "parte": 2,
+        "id": "tema-22-q73"
+      },
+      {
+        "enunciado": "¿Ante qué órgano se interpone el recurso extraordinario de revisión?",
+        "opciones": [
+          "Ante el superior jerárquico del órgano que dictó el acto",
+          "Ante el órgano administrativo que dictó el acto, que también es el competente para resolverlo",
+          "Ante el Consejo de Estado, único competente",
+          "Ante la jurisdicción contencioso-administrativa directamente"
+        ],
+        "correcta": 1,
+        "explicacion": "Igual que la reposición, y a diferencia de la alzada, el recurso de revisión se interpone y resuelve ante el mismo órgano que dictó el acto impugnado.",
+        "parte": 2,
+        "id": "tema-22-q74"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes es el primer motivo tasado del art. 125 para interponer el recurso de revisión?",
+        "opciones": [
+          "Que aparezcan documentos esenciales posteriores a la resolución",
+          "Que se haya incurrido en error de hecho que resulte de los propios documentos incorporados al expediente",
+          "Que la resolución se dictara por prevaricación declarada por sentencia",
+          "Que existan testimonios declarados falsos por sentencia judicial firme"
+        ],
+        "correcta": 1,
+        "explicacion": "El motivo 1 es el error de hecho que resulte de los propios documentos del expediente. Es el único motivo con plazo de interposición de cuatro años, frente a los tres meses de los demás.",
+        "parte": 2,
+        "id": "tema-22-q75"
+      },
+      {
+        "enunciado": "¿En qué consiste el segundo motivo tasado de revisión?",
+        "opciones": [
+          "Que aparezcan documentos de valor esencial para la resolución, que aunque sean posteriores, pongan en evidencia el error de la misma",
+          "Que exista un simple error de hecho en el expediente",
+          "Que la resolución agrave la situación del recurrente",
+          "Que el acto no ponga fin a la vía administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "El motivo 2 permite recurrir cuando surgen documentos esenciales sobrevenidos que evidencian el error de la resolución, aunque sean posteriores a su adopción.",
+        "parte": 2,
+        "id": "tema-22-q76"
+      },
+      {
+        "enunciado": "El tercer motivo tasado del art. 125 exige que...",
+        "opciones": [
+          "Haya una sentencia firme que declare falsos documentos o testimonios que influyeron esencialmente en la resolución",
+          "Se trate de un simple error aritmético",
+          "El acto haya sido dictado por un órgano incompetente",
+          "Exista un informe negativo del Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "Este motivo exige que una sentencia judicial firme, anterior o posterior a la resolución recurrida, declare falsos los documentos o testimonios que influyeron esencialmente en ella.",
+        "parte": 2,
+        "id": "tema-22-q77"
+      },
+      {
+        "enunciado": "Respecto a la sentencia que declara falsos los documentos o testimonios del motivo 3 del art. 125, ¿importa si es anterior o posterior a la resolución recurrida?",
+        "opciones": [
+          "Sí, solo vale si es posterior",
+          "Sí, solo vale si es anterior",
+          "No, la Ley admite que sea anterior o posterior a la resolución que se recurre",
+          "La Ley no contempla este motivo en absoluto"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto es explícito: la sentencia firme que declare falsos los documentos o testimonios puede ser anterior o posterior a la resolución que se recurre; lo relevante es que haya influido esencialmente en ella.",
+        "parte": 2,
+        "id": "tema-22-q78"
+      },
+      {
+        "enunciado": "El cuarto motivo tasado del recurso de revisión se refiere a que la resolución se hubiese dictado como consecuencia de...",
+        "opciones": [
+          "Un simple error de hecho en el expediente",
+          "Prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible declarada por sentencia judicial firme",
+          "La aparición de documentos esenciales sobrevenidos",
+          "La falta de un informe preceptivo del Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El motivo 4 exige que la resolución recurrida sea consecuencia de un delito, como prevaricación, cohecho, violencia, maquinación fraudulenta u otra conducta punible, declarado por sentencia judicial firme.",
+        "parte": 2,
+        "id": "tema-22-q79"
+      },
+      {
+        "enunciado": "¿Cuántos motivos tasados contempla el art. 125 LPACAP para interponer el recurso extraordinario de revisión?",
+        "opciones": [
+          "Dos",
+          "Tres",
+          "Cuatro",
+          "Seis"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 125 tasa exactamente cuatro motivos: error de hecho, documentos esenciales sobrevenidos, falsedad de documentos o testimonios declarada por sentencia, y delito declarado por sentencia.",
+        "parte": 2,
+        "id": "tema-22-q80"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo de interposición del recurso de revisión cuando se invoca el motivo 1, error de hecho?",
+        "opciones": [
+          "Tres meses desde la notificación",
+          "Un mes desde que el acto sea firme",
+          "Cuatro años desde la fecha de notificación de la resolución impugnada",
+          "Seis meses desde el conocimiento del error"
+        ],
+        "correcta": 2,
+        "explicacion": "Es la gran excepción del tema: para el motivo 1 el plazo es de cuatro años desde la notificación de la resolución impugnada, mucho más amplio que el de los demás motivos.",
+        "parte": 2,
+        "id": "tema-22-q81"
+      },
+      {
+        "enunciado": "Para los motivos 2, 3 y 4 del art. 125, ¿cuál es el plazo de interposición del recurso de revisión?",
+        "opciones": [
+          "Cuatro años desde la notificación",
+          "Tres meses a contar desde el conocimiento de los documentos o desde que la sentencia adquirió firmeza",
+          "Un mes desde que el acto sea firme",
+          "No existe plazo, puede interponerse en cualquier momento"
+        ],
+        "correcta": 1,
+        "explicacion": "Para los motivos 2, 3 y 4 el plazo es de tres meses, contados desde el conocimiento de los documentos esenciales o desde que la sentencia judicial alcanzó firmeza, según el caso.",
+        "parte": 2,
+        "id": "tema-22-q82"
+      },
+      {
+        "enunciado": "Un ciudadano quiere recurrir en revisión invocando que han aparecido documentos esenciales sobrevenidos, motivo 2. ¿De cuánto dispone para interponerlo?",
+        "opciones": [
+          "Cuatro años desde la notificación de la resolución impugnada",
+          "Tres meses desde el conocimiento de esos documentos",
+          "Un mes desde que el acto sea expreso",
+          "Quince días desde que se abra el trámite de audiencia"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: el plazo de cuatro años solo se aplica al motivo 1, error de hecho. Para el resto de motivos, incluido el de documentos esenciales sobrevenidos, el plazo es de tres meses desde su conocimiento.",
+        "parte": 2,
+        "id": "tema-22-q83"
+      },
+      {
+        "enunciado": "¿Qué órgano debe ser consultado preceptivamente, mediante informe no vinculante, en la tramitación de un recurso de revisión?",
+        "opciones": [
+          "El Consejo General del Poder Judicial",
+          "La Comisión Permanente del Consejo de Estado",
+          "La Abogacía del Estado",
+          "El Tribunal Constitucional"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 22.9 de la Ley Orgánica 3/1980 del Consejo de Estado exige la consulta preceptiva, aunque no vinculante, a la Comisión Permanente del Consejo de Estado cuando se tramite un recurso de revisión.",
+        "parte": 2,
+        "id": "tema-22-q84"
+      },
+      {
+        "enunciado": "El informe de la Comisión Permanente del Consejo de Estado en el recurso de revisión es...",
+        "opciones": [
+          "Preceptivo y vinculante",
+          "Preceptivo pero no vinculante",
+          "Facultativo y vinculante",
+          "Facultativo y no vinculante"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, es un matiz clave: el informe es preceptivo, es decir, obligatorio solicitarlo salvo los supuestos de inadmisión, pero no vinculante, por lo que el órgano resolutorio puede apartarse de su contenido.",
+        "parte": 2,
+        "id": "tema-22-q85"
+      },
+      {
+        "enunciado": "¿En qué supuestos permite el art. 126.1 inadmitir motivadamente el recurso de revisión sin recabar el dictamen del Consejo de Estado?",
+        "opciones": [
+          "Cuando el recurrente no tenga representación legal",
+          "Cuando el recurso no se funde en alguno de los motivos tasados del art. 125.1, o cuando se hayan desestimado en cuanto al fondo otros recursos sustancialmente iguales",
+          "Cuando el acto recurrido no sea firme en vía administrativa",
+          "Cuando haya transcurrido el plazo de tres meses de resolución"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 126.1 contempla exactamente dos supuestos de inadmisión sin dictamen: que el recurso no se funde en los motivos tasados, o que ya se hayan desestimado en el fondo otros recursos sustancialmente iguales.",
+        "parte": 2,
+        "id": "tema-22-q86"
+      },
+      {
+        "enunciado": "Un interesado interpone un recurso de revisión alegando simplemente que no está de acuerdo con la resolución, sin invocar ninguno de los motivos del art. 125.1. ¿Qué puede hacer el órgano competente?",
+        "opciones": [
+          "Debe recabar igualmente dictamen del Consejo de Estado antes de resolver",
+          "Puede acordar motivadamente su inadmisión sin necesidad de dictamen del Consejo de Estado",
+          "Debe convertirlo automáticamente en recurso de alzada",
+          "Debe estimarlo por silencio positivo"
+        ],
+        "correcta": 1,
+        "explicacion": "Al no fundarse en ninguno de los motivos tasados del art. 125.1, el órgano competente puede inadmitirlo motivadamente sin necesidad de recabar el dictamen de la Comisión Permanente del Consejo de Estado, conforme al art. 126.1.",
+        "parte": 2,
+        "id": "tema-22-q87"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo para resolver y notificar el recurso de revisión?",
+        "opciones": [
+          "Un mes",
+          "Tres meses",
+          "Cuatro años",
+          "Seis meses"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 126 fija en tres meses el plazo máximo de resolución y notificación del recurso de revisión; transcurrido sin resolución expresa, se entiende desestimado.",
+        "parte": 2,
+        "id": "tema-22-q88"
+      },
+      {
+        "enunciado": "Si transcurren tres meses sin que se resuelva expresamente el recurso de revisión, ¿cómo se interpreta?",
+        "opciones": [
+          "Como silencio positivo, se entiende estimado",
+          "Como silencio negativo, el recurso puede entenderse desestimado",
+          "El recurso se declara caducado automáticamente sin más efectos",
+          "Se traslada automáticamente a la jurisdicción contencioso-administrativa sin necesidad de recurso"
+        ],
+        "correcta": 1,
+        "explicacion": "Al igual que en la alzada, el silencio en el recurso de revisión es negativo: transcurridos los tres meses sin resolución, el recurso puede entenderse desestimado.",
+        "parte": 2,
+        "id": "tema-22-q89"
+      },
+      {
+        "enunciado": "Cuando la resolución del recurso de revisión es expresa, ¿sobre qué debe pronunciarse?",
+        "opciones": [
+          "Únicamente sobre la procedencia formal del recurso",
+          "Sobre la procedencia del recurso y también sobre el fondo de la cuestión resuelta por el acto recurrido",
+          "Únicamente sobre el fondo, sin entrar en la procedencia",
+          "Exclusivamente sobre la imposición de costas"
+        ],
+        "correcta": 1,
+        "explicacion": "La resolución expresa del recurso de revisión debe contener un doble pronunciamiento: sobre la procedencia del propio recurso y sobre el fondo de la cuestión que resolvió el acto recurrido.",
+        "parte": 2,
+        "id": "tema-22-q90"
+      },
+      {
+        "enunciado": "La resolución, expresa o presunta, del recurso de revisión...",
+        "opciones": [
+          "Es irrecurrible en todo caso",
+          "Solo puede impugnarse mediante un nuevo recurso de revisión",
+          "Puede impugnarse ante la jurisdicción contencioso-administrativa",
+          "Solo puede impugnarse mediante recurso de alzada"
+        ],
+        "correcta": 2,
+        "explicacion": "Tanto si la resolución del recurso de revisión es expresa como si es presunta por silencio, cabe impugnarla ante la jurisdicción contencioso-administrativa, pues ya se ha agotado la vía administrativa.",
+        "parte": 2,
+        "id": "tema-22-q91"
+      },
+      {
+        "enunciado": "¿Qué característica distingue al recurso de revisión frente a los de alzada y reposición en cuanto al tipo de acto impugnable?",
+        "opciones": [
+          "Solo cabe contra actos de trámite no cualificados",
+          "Cabe contra actos ya firmes en vía administrativa, mientras que alzada y reposición se dirigen contra actos no firmes",
+          "Solo cabe contra reglamentos",
+          "Cabe contra cualquier acto, firme o no, sin distinción"
+        ],
+        "correcta": 1,
+        "explicacion": "La revisión es la única vía que permite atacar actos que ya han ganado firmeza en vía administrativa, precisamente por su carácter de remedio excepcional y tasado, a diferencia de la alzada y la reposición.",
+        "parte": 2,
+        "id": "tema-22-q92"
+      },
+      {
+        "enunciado": "Conforme a los elementos subjetivos del procedimiento de recursos, ¿quién resuelve, con carácter general, un recurso administrativo?",
+        "opciones": [
+          "Siempre un órgano colegiado especializado",
+          "La propia Administración que dictó el acto, pues los recursos se plantean ante ella misma",
+          "Siempre la jurisdicción contencioso-administrativa",
+          "El Consejo de Estado en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "La naturaleza de los recursos administrativos hace que se planteen ante la propia Administración y sea ella misma quien los resuelva, actuando en cierto modo como juez y parte.",
+        "parte": 2,
+        "id": "tema-22-q93"
+      },
+      {
+        "enunciado": "¿Puede delegarse la competencia para resolver un recurso administrativo en el órgano que dictó el acto recurrido?",
+        "opciones": [
+          "Sí, siempre es posible delegarla",
+          "No, con carácter general no puede delegarse en el órgano que dictó el acto objeto del recurso",
+          "Sí, pero solo en el recurso de revisión",
+          "Sí, siempre que lo autorice el interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "La Ley establece que la competencia para resolver un recurso no puede delegarse en el órgano que dictó el acto recurrido, para evitar que ese mismo órgano acabe decidiendo sobre su propia actuación.",
+        "parte": 2,
+        "id": "tema-22-q94"
+      },
+      {
+        "enunciado": "La prohibición de delegar la competencia resolutoria en el órgano que dictó el acto recurrido se refiere especialmente a...",
+        "opciones": [
+          "Al recurso de reposición, donde nunca se aplica",
+          "Al recurso de alzada, pues de lo contrario se desnaturalizaría al poder resolver el propio órgano inferior autor del acto",
+          "Al recurso de revisión exclusivamente",
+          "A todos los recursos por igual, sin ninguna particularidad"
+        ],
+        "correcta": 1,
+        "explicacion": "Esta prohibición cobra sentido sobre todo en la alzada: si el superior jerárquico pudiera delegar en el órgano inferior que dictó el acto, el recurso perdería su razón de ser, a diferencia de la reposición, donde el propio autor del acto ya resuelve de forma ordinaria.",
+        "parte": 2,
+        "id": "tema-22-q95"
+      },
+      {
+        "enunciado": "¿Por qué la prohibición de delegación no afecta, en la práctica, al recurso de reposición de la misma manera que a la alzada?",
+        "opciones": [
+          "Porque en la reposición directamente resuelve el mismo órgano que dictó el acto, sin que exista superior jerárquico que pueda delegar",
+          "Porque la reposición nunca se resuelve por ningún órgano",
+          "Porque la reposición está exenta de toda regla de competencia",
+          "Porque en la reposición siempre resuelve el Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "En la reposición el esquema ya es que el propio autor del acto resuelve, por lo que no se plantea el riesgo de que el superior jerárquico delegue en el inferior, como sí ocurre en la alzada.",
+        "parte": 2,
+        "id": "tema-22-q96"
+      },
+      {
+        "enunciado": "Para poder interponer un recurso administrativo, el recurrente debe...",
+        "opciones": [
+          "Ser necesariamente funcionario público",
+          "Ostentar la condición de interesado conforme a las reglas generales de legitimación del art. 4",
+          "Haber participado previamente en un procedimiento de revisión de oficio",
+          "Contar con la autorización expresa del órgano que dictó el acto"
+        ],
+        "correcta": 1,
+        "explicacion": "El recurrente debe cumplir las reglas generales de legitimación, es decir, ostentar la condición de interesado conforme al art. 4 de la Ley 39/2015, al igual que en cualquier procedimiento administrativo.",
+        "parte": 2,
+        "id": "tema-22-q97"
+      },
+      {
+        "enunciado": "¿Cuál es el objeto de los recursos administrativos?",
+        "opciones": [
+          "Obtener una indemnización automática",
+          "La pretensión dirigida a revocar o reformar el acto administrativo impugnado",
+          "Sustituir el procedimiento de revisión de oficio",
+          "Anular disposiciones administrativas de carácter general"
+        ],
+        "correcta": 1,
+        "explicacion": "El objeto de cualquier recurso administrativo es la pretensión de revocar o reformar el acto impugnado. Recuerda que los reglamentos quedan excluidos, pues no caben recursos administrativos contra disposiciones generales.",
+        "parte": 2,
+        "id": "tema-22-q98"
+      },
+      {
+        "enunciado": "¿Pueden los reglamentos ser objeto de recurso administrativo?",
+        "opciones": [
+          "Sí, mediante el recurso de alzada",
+          "No, los reglamentos no son susceptibles de recurso administrativo",
+          "Sí, pero solo mediante el recurso de revisión",
+          "Sí, en cualquiera de las tres modalidades de recurso"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.2 y los elementos objetivos del tema son claros: contra las disposiciones administrativas de carácter general, es decir, los reglamentos, no cabe recurso administrativo, sino en su caso la vía contencioso-administrativa.",
+        "parte": 2,
+        "id": "tema-22-q99"
+      },
+      {
+        "enunciado": "Como regla general, los actos de trámite no pueden recurrirse de forma autónoma, salvo los actos de trámite cualificados. ¿Cuántos supuestos de acto de trámite cualificado recoge el art. 112.1?",
+        "opciones": [
+          "Dos",
+          "Tres",
+          "Cuatro",
+          "Cinco"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 112.1 recoge tres supuestos de trámite cualificado: decidir directa o indirectamente el fondo del asunto, determinar la imposibilidad de continuar el procedimiento, o producir indefensión o perjuicio irreparable a derechos o intereses legítimos.",
+        "parte": 2,
+        "id": "tema-22-q100"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una de las circunstancias que convierten un acto de trámite en trámite cualificado según el art. 112.1?",
+        "opciones": [
+          "Decidir directa o indirectamente el fondo del asunto",
+          "Determinar la imposibilidad de continuar el procedimiento",
+          "Producir indefensión o perjuicio irreparable a derechos o intereses legítimos",
+          "Haber sido dictado por delegación de un órgano superior"
+        ],
+        "correcta": 3,
+        "explicacion": "El hecho de que un acto se dicte por delegación no lo convierte en trámite cualificado. Los tres supuestos reales son decidir el fondo, imposibilitar continuar el procedimiento, o causar indefensión o perjuicio irreparable.",
+        "parte": 2,
+        "id": "tema-22-q101"
+      },
+      {
+        "enunciado": "El principio de libertad de formas en la interposición del recurso administrativo implica que...",
+        "opciones": [
+          "Se exige un formulario oficial normalizado obligatorio",
+          "Basta un simple escrito con el contenido mínimo exigido por el art. 115, sin exigirse forma especial",
+          "El recurso debe presentarse siempre ante notario",
+          "Es obligatoria la intervención de abogado y procurador"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 115 no exige más que un simple escrito con unos contenidos mínimos, como la identificación, el acto recurrido, la firma y el órgano al que se dirige; no se requiere ninguna forma especial ni formulario oficial.",
+        "parte": 2,
+        "id": "tema-22-q102"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes elementos NO forma parte del contenido mínimo del escrito de interposición de un recurso según el art. 115?",
+        "opciones": [
+          "Nombre y apellidos del recurrente y su identificación personal",
+          "El acto que se recurre y la razón de su impugnación",
+          "Lugar, fecha y firma del recurrente",
+          "El informe previo favorable de un letrado de la Administración"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 115 exige identificación del recurrente, el acto recurrido y su razón, lugar, fecha y firma, y el órgano al que se dirige; en ningún caso exige un informe previo de un letrado.",
+        "parte": 2,
+        "id": "tema-22-q103"
+      },
+      {
+        "enunciado": "Si el recurrente califica erróneamente el tipo de recurso que interpone, por ejemplo llama alzada a lo que en realidad es reposición, ¿qué consecuencia tiene?",
+        "opciones": [
+          "El recurso se inadmite automáticamente por defecto de forma",
+          "El error no será obstáculo para su tramitación, siempre que se deduzca su verdadero carácter",
+          "Se traslada automáticamente a la jurisdicción contencioso-administrativa",
+          "El recurrente pierde la legitimación para recurrir"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 115.2 dispone expresamente que el error en la calificación del recurso no será obstáculo para su tramitación, siempre que se pueda deducir su verdadero carácter, reflejo del principio de libertad de formas.",
+        "parte": 2,
+        "id": "tema-22-q104"
+      },
+      {
+        "enunciado": "Si el escrito de interposición del recurso presenta defectos formales, ¿qué plazo concede el art. 68 para subsanarlos?",
+        "opciones": [
+          "Cinco días",
+          "Diez días",
+          "Un mes",
+          "Quince días"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 68 concede un plazo de diez días para que el interesado subsane la falta o acompañe los documentos preceptivos, en línea con el régimen general de subsanación de solicitudes.",
+        "parte": 2,
+        "id": "tema-22-q105"
+      },
+      {
+        "enunciado": "El carácter preclusivo de los plazos de impugnación significa que...",
+        "opciones": [
+          "Los plazos pueden ampliarse siempre que lo solicite el interesado",
+          "Si transcurre el plazo sin interponer el recurso correspondiente, el acto se convierte en firme y consentido",
+          "Los plazos de recurso nunca pueden ser inferiores a seis meses",
+          "El cómputo de los plazos se suspende automáticamente los fines de semana"
+        ],
+        "correcta": 1,
+        "explicacion": "Existe un extraordinario rigor legal y jurisprudencial en los plazos de impugnación: si transcurre el plazo correspondiente sin recurrir, el acto deviene firme y consentido, perdiéndose la posibilidad de impugnarlo en el futuro.",
+        "parte": 2,
+        "id": "tema-22-q106"
+      },
+      {
+        "enunciado": "¿Cuál es la regla general sobre los efectos de la interposición de un recurso administrativo respecto a la eficacia del acto impugnado?",
+        "opciones": [
+          "La interposición suspende automáticamente la eficacia del acto en todo caso",
+          "La interposición no suspende por sí misma la eficacia del acto, salvo que una disposición lo establezca expresamente con carácter excepcional",
+          "La interposición anula el acto de forma automática",
+          "La interposición obliga siempre a paralizar la ejecución del acto hasta la resolución"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 117.1 establece la regla del efecto no suspensivo: el recurso no suspende la eficacia del acto salvo previsión expresa y excepcional en sentido contrario; sí, en cambio, interrumpe el proceso de adquisición de firmeza del acto.",
+        "parte": 2,
+        "id": "tema-22-q107"
+      },
+      {
+        "enunciado": "¿Cuándo es exigible repetir el trámite de audiencia en el procedimiento del recurso?",
+        "opciones": [
+          "Siempre, en todos los recursos sin excepción",
+          "Cuando hayan de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario",
+          "Nunca, pues ya se agotó en el procedimiento que dio lugar al acto recurrido",
+          "Solo cuando lo solicite expresamente el órgano superior jerárquico"
+        ],
+        "correcta": 1,
+        "explicacion": "La Ley no exige repetir un trámite de audiencia ya realizado en los mismos términos, salvo que deban tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario; tampoco cabe pedir prueba no practicada por causa imputable al interesado.",
+        "parte": 2,
+        "id": "tema-22-q108"
+      },
+      {
+        "enunciado": "Cuando resulta exigible el trámite de audiencia en vía de recurso, ¿de qué plazo disponen los interesados para alegar?",
+        "opciones": [
+          "No inferior a diez días ni superior a quince",
+          "Exactamente de un mes",
+          "No inferior a cinco días ni superior a diez",
+          "De tres meses, como máximo"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 118.1 fija un plazo no inferior a diez días ni superior a quince para que los interesados formulen alegaciones y presenten documentos y justificantes en el trámite de audiencia.",
+        "parte": 2,
+        "id": "tema-22-q109"
+      },
+      {
+        "enunciado": "¿Es exigible el trámite de audiencia cuando existen terceros interesados en el procedimiento de recurso?",
+        "opciones": [
+          "No, los terceros interesados no tienen derecho de audiencia en vía de recurso",
+          "Sí, se les dará traslado del recurso para que aleguen en el mismo plazo citado",
+          "Solo si lo solicita expresamente el recurrente",
+          "Solo en el recurso de revisión"
+        ],
+        "correcta": 1,
+        "explicacion": "El trámite de audiencia es también exigencia cuando existen terceros interesados, a quienes se dará traslado del recurso para que, en el plazo de diez a quince días, aleguen lo que estimen procedente.",
+        "parte": 2,
+        "id": "tema-22-q110"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una forma de terminación del procedimiento en vía de recurso prevista en el art. 84?",
+        "opciones": [
+          "La resolución",
+          "El desistimiento",
+          "La declaración de caducidad",
+          "La prescripción de la acción penal"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 84 prevé como formas de terminación la resolución, el desistimiento, la renuncia al derecho si no está prohibida, la caducidad y la imposibilidad material de continuar por causas sobrevenidas; la prescripción penal no guarda relación con esta vía administrativa.",
+        "parte": 2,
+        "id": "tema-22-q111"
+      },
+      {
+        "enunciado": "¿En qué condición puede terminar el procedimiento de recurso por renuncia al derecho en que se funda la solicitud?",
+        "opciones": [
+          "Siempre es posible, sin ninguna condición",
+          "Siempre que tal renuncia no esté prohibida por el ordenamiento jurídico",
+          "Nunca es posible, el procedimiento solo termina por resolución expresa",
+          "Solo si lo autoriza el Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "La renuncia al derecho en que se funda la solicitud es una forma válida de terminación, siempre que esa renuncia no esté prohibida por el ordenamiento jurídico, como ocurre con derechos irrenunciables.",
+        "parte": 2,
+        "id": "tema-22-q112"
+      },
+      {
+        "enunciado": "Según el art. 119.1, la resolución expresa del recurso administrativo puede consistir en...",
+        "opciones": [
+          "Únicamente en su estimación total",
+          "En la estimación total o parcial, en su desestimación, o en su inadmisión",
+          "Únicamente en su desestimación o archivo",
+          "Exclusivamente en la retroacción de actuaciones"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 119.1 contempla tres posibles contenidos de la resolución: estimación total o parcial, desestimación, o inadmisión del recurso.",
+        "parte": 2,
+        "id": "tema-22-q113"
+      },
+      {
+        "enunciado": "¿Qué posibilidad contempla el art. 119.2 cuando el órgano no estima procedente pronunciarse sobre el fondo?",
+        "opciones": [
+          "Declarar la nulidad de las actuaciones y ordenar la retroacción del procedimiento al momento en que se cometió el vicio",
+          "Imponer automáticamente una sanción al recurrente",
+          "Suspender indefinidamente la resolución sin plazo",
+          "Remitir el expediente al Consejo de Estado para que resuelva en su lugar"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 119.2 permite que la resolución, sin entrar en el fondo, se limite a declarar la nulidad de las actuaciones y ordenar la retroacción del procedimiento al momento en que se produjo el vicio.",
+        "parte": 2,
+        "id": "tema-22-q114"
+      },
+      {
+        "enunciado": "La prohibición de la reformatio in peius en vía de recurso implica que...",
+        "opciones": [
+          "El órgano que resuelve no puede, en ningún caso, agravar la situación inicial del recurrente",
+          "El órgano que resuelve siempre debe mejorar la situación del recurrente",
+          "El recurrente puede ampliar libremente su petición en cualquier momento",
+          "El órgano no puede pronunciarse sobre cuestiones no alegadas por los interesados"
+        ],
+        "correcta": 0,
+        "explicacion": "Aunque el órgano resolutorio debe decidir cuantas cuestiones de forma y fondo plantee el procedimiento, hayan sido o no alegadas, esta amplia facultad tiene como límite la prohibición de reformatio in peius: la resolución nunca puede agravar la situación inicial del recurrente, conforme al art. 119.3.",
+        "parte": 2,
+        "id": "tema-22-q115"
+      },
+      {
+        "enunciado": "Según la tabla resumen, ¿qué tipo de actos son impugnables en alzada frente a los impugnables en reposición?",
+        "opciones": [
+          "En alzada, actos que no ponen fin a la vía administrativa; en reposición, actos que ponen fin a la vía administrativa",
+          "En ambos casos, actos que ponen fin a la vía administrativa",
+          "En alzada, actos firmes; en reposición, actos de trámite",
+          "En ambos casos, actos que no ponen fin a la vía administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "Es la distinción clave de la tabla resumen: la alzada se dirige contra actos que no ponen fin a la vía administrativa, mientras que la reposición, y también la revisión aunque esta además exige firmeza, se dirige contra actos que sí ponen fin a dicha vía.",
+        "parte": 2,
+        "id": "tema-22-q116"
+      },
+      {
+        "enunciado": "En cuanto a las causas que permiten interponer el recurso, ¿qué diferencia existe entre la alzada y la reposición frente a la revisión?",
+        "opciones": [
+          "En alzada y reposición cabe cualquier causa de nulidad o anulabilidad; en revisión solo las causas tasadas del art. 125.1",
+          "En los tres recursos las causas son idénticas y tasadas",
+          "En alzada y reposición las causas están tasadas; en revisión cabe cualquier motivo",
+          "Ninguno de los tres recursos exige causa alguna"
+        ],
+        "correcta": 0,
+        "explicacion": "Mientras que la alzada y la reposición admiten cualquier motivo de nulidad o anulabilidad, la revisión solo puede fundarse en los motivos tasados y numerados del art. 125.1 LPACAP, lo que subraya su carácter excepcional.",
+        "parte": 2,
+        "id": "tema-22-q117"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre los plazos de interposición es correcta según la tabla resumen?",
+        "opciones": [
+          "Alzada y reposición: un mes frente a actos expresos; revisión: cuatro años o tres meses según la causa",
+          "Los tres recursos comparten un plazo único de tres meses",
+          "Alzada: tres meses; reposición: un mes; revisión: un mes",
+          "Revisión: un mes en todo caso"
+        ],
+        "correcta": 0,
+        "explicacion": "Alzada y reposición comparten el plazo de un mes frente a actos expresos, mientras que la revisión varía según el motivo invocado: cuatro años para el motivo 1, o tres meses para los demás.",
+        "parte": 2,
+        "id": "tema-22-q118"
+      },
+      {
+        "enunciado": "Según la tabla resumen, ¿qué recurso tiene un plazo de resolución distinto a los otros dos?",
+        "opciones": [
+          "La alzada, con tres meses",
+          "La reposición, con un mes, frente a los tres meses de alzada y revisión",
+          "La revisión, con un mes",
+          "Los tres recursos comparten el mismo plazo de resolución"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa habitual: alzada y revisión comparten el plazo de resolución de tres meses, mientras que la reposición, al resolverse por el propio órgano autor del acto, cuenta con un plazo más breve de un mes.",
+        "parte": 2,
+        "id": "tema-22-q119"
+      },
+      {
+        "enunciado": "¿Qué recursos comparten que el órgano competente para resolver es el mismo que dictó el acto recurrido?",
+        "opciones": [
+          "Alzada y revisión",
+          "Reposición y revisión",
+          "Alzada y reposición",
+          "Los tres recursos, sin excepción"
+        ],
+        "correcta": 1,
+        "explicacion": "Según la tabla resumen, tanto en la reposición como en la revisión resuelve el mismo órgano que dictó el acto recurrido; en cambio, en la alzada resuelve el superior jerárquico de dicho órgano.",
+        "parte": 2,
+        "id": "tema-22-q120"
+      },
+      {
+        "enunciado": "En relación con la prohibición de delegar la competencia para resolver un recurso administrativo en el órgano que dictó el acto objeto de aquél, señale la afirmación correcta:",
+        "opciones": [
+          "Esta prohibición rige para todos los recursos administrativos sin excepción, incluido el de reposición.",
+          "Esta prohibición solo tiene sentido en los recursos ordinarios o de alzada, pues de lo contrario se desnaturalizaría su finalidad; no se aplica al recurso de reposición, donde el órgano que dictó el acto es precisamente el competente para resolver.",
+          "La prohibición solo afecta al recurso extraordinario de revisión.",
+          "La LPAC permite la delegación siempre que se motive expresamente la urgencia del caso."
+        ],
+        "correcta": 1,
+        "explicacion": "La regla de que la competencia para resolver no puede delegarse en el órgano que dictó el acto recurrido tiene sentido en la alzada, donde el recurso se dirige precisamente al superior jerárquico: permitir la delegación en el inferior autor del acto vaciaría de contenido el recurso. En el recurso de reposición, en cambio, el órgano competente para resolver es el mismo que dictó el acto, por lo que la prohibición carece de objeto. Las opciones A, C y D contradicen esta matización expresamente recogida en el tema.",
+        "nivel": "avanzado",
+        "id": "tema-22-q121"
+      },
+      {
+        "enunciado": "La regla general es que la falta de resolución expresa de un recurso de alzada en plazo equivale a desestimación (silencio negativo). ¿En qué supuesto excepcional este silencio pasa a tener sentido positivo?",
+        "opciones": [
+          "Cuando el recurso de alzada se interpone contra la desestimación presunta de una solicitud, produciéndose un doble silencio administrativo en el que el segundo se interpreta de forma positiva.",
+          "Cuando el recurrente es, a su vez, otra Administración Pública.",
+          "Cuando el acto originario fue dictado en ejercicio de una competencia delegada.",
+          "Cuando han transcurrido más de seis meses sin resolución expresa."
+        ],
+        "correcta": 0,
+        "explicacion": "Se trata del supuesto del 'doble silencio': primero la solicitud inicial es desestimada por silencio negativo, y si el interesado recurre en alzada esa desestimación presunta y la Administración vuelve a no resolver en plazo, este segundo silencio se interpreta como estimatorio del recurso de alzada. Es la única excepción expresamente señalada a la regla general del silencio negativo en alzada (art. 122.2); las demás opciones no alteran el carácter negativo del silencio.",
+        "nivel": "avanzado",
+        "id": "tema-22-q122"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes actos NO figura, con carácter general, entre los que ponen fin a la vía administrativa conforme al art. 114 LPAC?",
+        "opciones": [
+          "Las resoluciones de los recursos de alzada.",
+          "La resolución administrativa de los procedimientos de responsabilidad patrimonial.",
+          "Las resoluciones de los órganos administrativos que carezcan de superior jerárquico, salvo que una ley establezca lo contrario.",
+          "Cualquier acto de trámite dictado en el seno de un procedimiento sancionador, con independencia de su contenido."
+        ],
+        "correcta": 3,
+        "explicacion": "Un acto de trámite, por regla general, no agota la vía administrativa ni es recurrible de forma autónoma, salvo que sea un acto de trámite cualificado conforme al art. 112.1; la opción D generaliza incorrectamente a cualquier acto de trámite. Las opciones A, B y C sí están expresamente recogidas en el art. 114 como actos que ponen fin a la vía administrativa.",
+        "nivel": "avanzado",
+        "id": "tema-22-q123"
+      },
+      {
+        "enunciado": "En el ámbito de la Administración General del Estado, ¿qué actos dictados por órganos directivos con nivel de Director General o superior ponen fin a la vía administrativa según las reglas específicas del Estado?",
+        "opciones": [
+          "Todos los actos que dicten, cualquiera que sea la materia sobre la que versen.",
+          "Únicamente los relativos a las competencias que tengan atribuidas en materia de personal.",
+          "Solo aquellos que impongan sanciones económicas de cuantía superior a 60.000 euros.",
+          "Ninguno, puesto que siempre cabe recurso de alzada ante el Ministro correspondiente."
+        ],
+        "correcta": 1,
+        "explicacion": "La regla específica estatal limita el efecto de agotamiento de la vía administrativa, para los órganos directivos de nivel de Director General o superior, a las competencias atribuidas en materia de personal; en el resto de materias sus actos sí son recurribles en alzada. Las demás opciones generalizan o niegan indebidamente esta regla concreta.",
+        "nivel": "avanzado",
+        "id": "tema-22-q124"
+      },
+      {
+        "enunciado": "Cuando el acto que se pretende recurrir en alzada ha sido dictado por un Tribunal o por un órgano de selección de personal, ¿ante qué órgano se entiende, conforme al art. 121.1, que debe interponerse el recurso?",
+        "opciones": [
+          "Ante el órgano al que estén adscritos dichos Tribunales u órganos o, en su defecto, ante el que hubiera nombrado al presidente del Tribunal u órgano.",
+          "Ante el Ministerio de Hacienda, por ser el órgano que convoca con carácter general los procesos selectivos.",
+          "Ante el Consejo de Estado, en su función consultiva.",
+          "Siempre ante el órgano jurisdiccional contencioso-administrativo, al tratarse de actos con especiales garantías."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 121.1 LPAC resuelve el problema de identificar al 'superior jerárquico' de órganos colegiados sin estructura jerárquica propia, como los Tribunales de selección, remitiendo al órgano de adscripción o, en su defecto, al que nombró al presidente. Las demás opciones inventan criterios no previstos en la norma.",
+        "nivel": "avanzado",
+        "id": "tema-22-q125"
+      },
+      {
+        "enunciado": "Un órgano administrativo dicta un acto en ejercicio de una competencia delegada. Si el destinatario desea recurrirlo en alzada, ¿ante qué órgano debe considerarse dictado el acto a efectos de identificar al superior jerárquico competente para resolver?",
+        "opciones": [
+          "Se considera dictado por el órgano delegado, de modo que el recurso se dirige al superior jerárquico de este.",
+          "Se considera dictado por el órgano delegante, por lo que el recurso de alzada ha de interponerse ante el superior jerárquico de este último.",
+          "No cabe recurso de alzada contra actos dictados en ejercicio de una competencia delegada, solo recurso de reposición.",
+          "Debe interponerse simultáneamente ante el superior jerárquico del delegado y del delegante."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAC establece una ficción jurídica: el acto dictado por delegación se considera dictado por el órgano delegante, lo que determina que el recurso de alzada deba dirigirse al superior jerárquico de este, y no al del órgano que materialmente dictó el acto (el delegado). Las demás opciones desconocen esta regla específica del art. 121.1.",
+        "nivel": "avanzado",
+        "id": "tema-22-q126"
+      },
+      {
+        "enunciado": "Si el interesado presenta el recurso de alzada ante el órgano que dictó el acto impugnado, en lugar de ante el superior jerárquico, ¿qué obligación recae sobre aquel órgano conforme al art. 121.2?",
+        "opciones": [
+          "Ninguna; debe limitarse a archivar el recurso e informar al interesado de su error de presentación.",
+          "Remitirlo al órgano competente en el plazo de diez días, acompañado de un informe y de una copia completa y ordenada del expediente.",
+          "Resolverlo directamente, pues la presentación ante él convalida automáticamente su competencia resolutoria.",
+          "Remitirlo en el plazo de un mes, sin que sea necesario acompañar informe alguno."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 121.2 permite presentar el recurso de alzada ante el órgano autor del acto, pero este no adquiere competencia resolutoria: debe remitirlo al superior en diez días junto con un informe y copia ordenada del expediente, siendo esta remisión responsabilidad de su titular. Las demás opciones alteran el plazo, omiten el informe o atribuyen indebidamente competencia resolutoria al órgano que dictó el acto.",
+        "nivel": "avanzado",
+        "id": "tema-22-q127"
+      },
+      {
+        "enunciado": "Contra la resolución, expresa o presunta, de un recurso de alzada, ¿cabe interponer el recurso potestativo de reposición?",
+        "opciones": [
+          "Sí, siempre que se interponga dentro del plazo de un mes desde la notificación.",
+          "No; conforme al art. 122.2, contra la resolución de un recurso de alzada no cabe interponer ningún otro recurso administrativo, sin perjuicio de la procedencia, en su caso, del recurso extraordinario de revisión.",
+          "Sí, pero únicamente cuando la alzada hubiera sido resuelta por silencio negativo y no de forma expresa.",
+          "No, salvo que una norma autonómica lo autorice expresamente para su ámbito territorial."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 122.2 cierra expresamente la vía administrativa tras la resolución de la alzada: el interesado debe acudir ya a la jurisdicción contencioso-administrativa, quedando únicamente abierta, de concurrir sus motivos tasados, la posibilidad del recurso extraordinario de revisión. Las demás opciones introducen excepciones inexistentes en la norma.",
+        "nivel": "avanzado",
+        "id": "tema-22-q128"
+      },
+      {
+        "enunciado": "Un interesado interpone recurso potestativo de reposición contra un acto que agota la vía administrativa y este es desestimado. ¿Qué puede hacer a continuación?",
+        "opciones": [
+          "Interponer un segundo recurso de reposición alegando nuevos motivos no planteados en el primero.",
+          "Acudir directamente a la jurisdicción contencioso-administrativa, pues contra la resolución del recurso de reposición no cabe interponer de nuevo el mismo recurso.",
+          "Interponer recurso de alzada ante el superior jerárquico del órgano que resolvió la reposición.",
+          "Esperar un año desde la resolución para poder volver a recurrir en reposición."
+        ],
+        "correcta": 1,
+        "explicacion": "Al tratarse de un acto que ya agotaba la vía administrativa, el recurso de reposición es facultativo y, una vez resuelto, no cabe reiterarlo ni acudir a la alzada (que exige un acto que no agote la vía administrativa); la única vía que queda es la jurisdiccional contencioso-administrativa. Las opciones A, C y D son incompatibles con el carácter cerrado de la vía administrativa tras resolver la reposición.",
+        "nivel": "avanzado",
+        "id": "tema-22-q129"
+      },
+      {
+        "enunciado": "Además de mediante resolución expresa, ¿de qué otras formas puede terminar el procedimiento en vía de recurso, por aplicación de las reglas generales del art. 84 LPAC?",
+        "opciones": [
+          "Únicamente puede terminar mediante resolución expresa; ninguna otra forma de terminación resulta aplicable en vía de recurso.",
+          "Mediante el desistimiento, la renuncia al derecho en que se funde la solicitud (siempre que tal renuncia no esté prohibida por el ordenamiento jurídico), la declaración de caducidad, y la imposibilidad material de continuar el procedimiento por causas sobrevenidas.",
+          "Únicamente mediante el transcurso del plazo máximo para resolver, que pone fin automáticamente y en todo caso al procedimiento de recurso.",
+          "Mediante un acuerdo transaccional entre el recurrente y un tercero interesado, exclusivamente."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAC no contiene normas especiales sobre terminación del procedimiento en vía de recurso, por lo que se aplican las formas generales del art. 84: resolución, desistimiento, renuncia al derecho (si no está prohibida), caducidad e imposibilidad material de continuar por causas sobrevenidas. Las demás opciones restringen indebidamente estas formas o confunden el transcurso del plazo con una terminación automática, cuando en realidad genera silencio desestimatorio y no extingue el procedimiento.",
+        "nivel": "avanzado",
+        "id": "tema-22-q130"
+      },
+      {
+        "enunciado": "Respecto de los motivos tasados del recurso extraordinario de revisión, señale la afirmación correcta sobre la diferencia entre el motivo 1º y el motivo 2º del art. 125.1:",
+        "opciones": [
+          "El motivo 1º exige error de hecho que resulte de los propios documentos ya incorporados al expediente; el motivo 2º exige la aparición de documentos de valor esencial para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución.",
+          "Ambos motivos exigen necesariamente que exista una sentencia judicial firme previa que declare el error.",
+          "El motivo 1º se refiere a documentos posteriores a la resolución y el motivo 2º a documentos ya incorporados al expediente (están invertidos respecto de lo habitual).",
+          "El motivo 1º y el motivo 2º regulan en realidad idéntico supuesto de hecho, duplicado por error en la redacción legal."
+        ],
+        "correcta": 0,
+        "explicacion": "El motivo 1º opera sobre documentos que ya estaban en el expediente y de los que resulta el error de hecho; el motivo 2º, en cambio, exige la aparición de documentos nuevos (pueden ser incluso posteriores a la resolución) de valor esencial que evidencien el error. Ninguno de los dos motivos exige sentencia judicial firme, requisito que sí es propio de los motivos 3º y 4º.",
+        "nivel": "avanzado",
+        "id": "tema-22-q131"
+      },
+      {
+        "enunciado": "Respecto al cómputo del plazo de interposición del recurso extraordinario de revisión fundado en el motivo 3º (documentos o testimonios declarados falsos por sentencia judicial firme), ¿desde cuándo se computa el plazo de tres meses conforme al art. 125.2?",
+        "opciones": [
+          "Desde la fecha de notificación de la resolución administrativa impugnada, igual que en el motivo 1º.",
+          "Desde que la sentencia judicial que declaró la falsedad de los documentos o testimonios adquirió firmeza (o, en los demás motivos distintos del 1º, desde el conocimiento de los documentos).",
+          "Desde que se interpuso la denuncia o querella penal, con independencia de que llegara a recaer sentencia.",
+          "Desde la fecha en que se dictó el acto administrativo originario objeto de recurso."
+        ],
+        "correcta": 1,
+        "explicacion": "Mientras el motivo 1º tiene un plazo especial de cuatro años desde la notificación de la resolución impugnada, en los demás motivos (2º, 3º y 4º) el plazo es de tres meses, computado desde el conocimiento de los documentos o desde que la sentencia judicial adquirió firmeza. Las demás opciones aplican indebidamente el cómputo propio del motivo 1º o introducen hitos no previstos en la norma.",
+        "nivel": "avanzado",
+        "id": "tema-22-q132"
+      },
+      {
+        "enunciado": "Conforme al art. 126.1 LPAC, ¿en qué supuestos puede el órgano competente para resolver el recurso extraordinario de revisión acordar motivadamente su inadmisión sin necesidad de recabar el dictamen de la Comisión Permanente del Consejo de Estado?",
+        "opciones": [
+          "Cuando el recurrente no cuente con representación letrada, y cuando el acto impugnado proceda de un Ministerio.",
+          "Cuando el recurso no se haya fundado en alguno de los motivos tasados en el art. 125.1, o cuando se hayan desestimado en cuanto al fondo otros recursos sustancialmente iguales.",
+          "Cuando el recurso se haya interpuesto fuera de plazo, en cualquier caso, sin ninguna otra condición adicional.",
+          "Cuando la cuantía económica del asunto sea inferior a 30.000 euros."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 126.1 prevé dos causas concretas de inadmisión sin dictamen: que el recurso no se funde en alguno de los motivos tasados del art. 125.1, o que ya se hayan desestimado en el fondo otros recursos sustancialmente iguales. La extemporaneidad por sí sola no se menciona entre estas causas específicas, y las opciones A y D introducen criterios ajenos a la norma.",
+        "nivel": "avanzado",
+        "id": "tema-22-q133"
+      },
+      {
+        "enunciado": "¿Qué naturaleza tiene el dictamen de la Comisión Permanente del Consejo de Estado en la tramitación del recurso extraordinario de revisión, conforme al art. 22.9 de la Ley Orgánica 3/1980?",
+        "opciones": [
+          "Es preceptivo y vinculante en todo caso para el órgano que resuelve el recurso.",
+          "Es preceptivo pero no vinculante, sin perjuicio de que el órgano competente pueda prescindir de él en los supuestos de inadmisión previstos en el art. 126.1 LPAC.",
+          "Es meramente facultativo, pudiendo el órgano competente solicitarlo o no según su criterio discrecional.",
+          "Es vinculante únicamente cuando el recurso se funda en el motivo 4º (prevaricación, cohecho, violencia o maquinación fraudulenta)."
+        ],
+        "correcta": 1,
+        "explicacion": "La consulta al Consejo de Estado es preceptiva (obligatoria solicitarla) pero no vinculante (su contenido no obliga al órgano resolutorio), y además la propia LPAC permite excepcionalmente prescindir de ella cuando concurre alguna de las causas de inadmisión del art. 126.1. Las demás opciones confunden el carácter preceptivo con el vinculante o inventan excepciones no previstas.",
+        "nivel": "avanzado",
+        "id": "tema-22-q134"
+      },
+      {
+        "enunciado": "En la tramitación de los recursos administrativos, ¿en qué supuesto NO resulta necesario abrir un nuevo trámite de audiencia a los interesados?",
+        "opciones": [
+          "Cuando existan terceros interesados en el procedimiento del recurso.",
+          "Cuando el trámite de audiencia ya tuvo lugar en los mismos términos durante el procedimiento de elaboración de la decisión recurrida y no han de tenerse en cuenta nuevos hechos o documentos no recogidos en el expediente originario.",
+          "Cuando el recurso se haya interpuesto una vez transcurrido el plazo general de un mes.",
+          "Cuando el recurso interpuesto sea de alzada, pero sí cuando sea de reposición."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAC exime de repetir el trámite de audiencia cuando ya se practicó en los mismos términos en el procedimiento originario y no concurren hechos o documentos nuevos; en cambio, si existen terceros interesados, la audiencia es siempre exigible respecto de ellos. Las opciones C y D inventan criterios (plazo de interposición, tipo de recurso) que no determinan la exigibilidad de este trámite.",
+        "nivel": "avanzado",
+        "id": "tema-22-q135"
+      },
+      {
+        "enunciado": "¿En qué caso no podrá solicitarse la práctica de pruebas durante la tramitación del recurso administrativo, conforme a la regulación del trámite de audiencia?",
+        "opciones": [
+          "Nunca puede denegarse la práctica de pruebas en vía de recurso, sea cual sea la circunstancia.",
+          "Cuando la falta de realización de esa prueba en el procedimiento en que se dictó la resolución recurrida fuera imputable al propio interesado.",
+          "Cuando el recurso interpuesto sea el extraordinario de revisión, en todo caso.",
+          "Cuando el acto recurrido proceda de un procedimiento sancionador, sea cual sea el motivo de la falta de prueba."
+        ],
+        "correcta": 1,
+        "explicacion": "La norma excluye la práctica de pruebas en vía de recurso cuando su omisión en el procedimiento originario sea achacable al propio interesado (por ejemplo, por no haberla propuesto en su momento), evitando así un uso estratégico del recurso para subsanar su propia inactividad. Las demás opciones generalizan indebidamente la exclusión a supuestos no vinculados a esa imputabilidad.",
+        "nivel": "avanzado",
+        "id": "tema-22-q136"
+      },
+      {
+        "enunciado": "Cuando resulte necesario abrir trámite de audiencia en vía de recurso por existir nuevos hechos o documentos no recogidos en el expediente originario, ¿de qué plazo disponen los interesados para formular alegaciones conforme al art. 118.1?",
+        "opciones": [
+          "No inferior a diez días ni superior a quince.",
+          "Exactamente quince días, improrrogables en todo caso.",
+          "No inferior a cinco días ni superior a diez.",
+          "Un mes, el mismo plazo que rige para la interposición del recurso."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 118.1 fija un plazo flexible, entre un mínimo de diez días y un máximo de quince, para que los interesados formulen alegaciones y presenten documentos en este trámite de audiencia específico de la vía de recurso. Los demás márgenes de plazo propuestos no corresponden a la horquilla legal.",
+        "nivel": "avanzado",
+        "id": "tema-22-q137"
+      },
+      {
+        "enunciado": "La interposición de un recurso administrativo, como regla general, no suspende la ejecución del acto impugnado. ¿En qué supuesto se produce la suspensión conforme al art. 117.1?",
+        "opciones": [
+          "Siempre que el recurrente lo solicite expresamente en el propio escrito de interposición del recurso.",
+          "Únicamente en los supuestos concretos en que una disposición lo establezca expresamente con carácter excepcional.",
+          "De forma automática cuando el recurso sea de alzada, pero nunca cuando sea de reposición.",
+          "En todo caso, cuando el acto impugnado tenga naturaleza sancionadora."
+        ],
+        "correcta": 1,
+        "explicacion": "La regla general del efecto no suspensivo solo cede cuando una norma concreta lo prevé expresamente con carácter excepcional; la mera petición del interesado, por sí sola, no basta para suspender, ni existe una regla diferenciada automática según el tipo de recurso o la materia sancionadora. Las opciones A, C y D desconocen el carácter excepcional y normativamente tasado de la suspensión.",
+        "nivel": "avanzado",
+        "id": "tema-22-q138"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es uno de los supuestos en que, conforme al art. 112.1 LPAC, un acto de trámite se considera 'cualificado' y, por tanto, recurrible de forma autónoma?",
+        "opciones": [
+          "Decide directa o indirectamente el fondo del asunto.",
+          "Determina la imposibilidad de continuar el procedimiento.",
+          "Produce indefensión o perjuicio irreparable a derechos o intereses legítimos.",
+          "Ha sido dictado por un órgano colegiado en lugar de por un órgano unipersonal."
+        ],
+        "correcta": 3,
+        "explicacion": "La naturaleza colegiada o unipersonal del órgano que dicta el acto es irrelevante a efectos de calificarlo como trámite cualificado; los tres criterios legales son exclusivamente los recogidos en las opciones A, B y C. Esta distinción entre actos de trámite ordinarios (no recurribles autónomamente) y cualificados (sí recurribles) es uno de los matices más finos del régimen de los recursos administrativos.",
+        "nivel": "avanzado",
+        "id": "tema-22-q139"
+      },
+      {
+        "enunciado": "El órgano que resuelve un recurso administrativo está obligado a decidir cuantas cuestiones, de forma y de fondo, plantee el procedimiento, hayan sido o no alegadas por los interesados. Esta amplia facultad decisoria se ve limitada por:",
+        "opciones": [
+          "La prohibición de la reformatio in peius, que impide que la resolución del recurso agrave en ningún caso la situación inicial del recurrente.",
+          "La imposibilidad de pronunciarse sobre cuestiones que no hayan sido expresamente alegadas por el recurrente.",
+          "La necesidad de obtener autorización previa del superior jerárquico antes de dictar la resolución.",
+          "La prohibición absoluta de declarar la inadmisión del recurso, cualquiera que sea la causa."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 119.3 consagra la prohibición de la reformatio in peius como único límite expreso a la amplia facultad resolutoria (que, por el contrario, sí permite pronunciarse sobre cuestiones no alegadas, lo que descarta la opción B). Las opciones C y D no tienen respaldo en la regulación de los recursos administrativos.",
+        "nivel": "avanzado",
+        "id": "tema-22-q140"
+      },
+      {
+        "enunciado": "Además de estimar total o parcialmente, desestimar o declarar la inadmisión del recurso, ¿qué otra posibilidad contempla el art. 119.2 LPAC para la resolución de un recurso administrativo?",
+        "opciones": [
+          "Suspender indefinidamente el procedimiento hasta que el interesado aporte nueva prueba documental.",
+          "No estimar procedente pronunciarse sobre el fondo y limitarse a declarar la nulidad de las actuaciones, ordenando la retroacción del procedimiento al momento en que se cometió el vicio.",
+          "Remitir directamente el expediente a la jurisdicción contencioso-administrativa sin resolver.",
+          "Acumular necesariamente el recurso a cualquier otro procedimiento sancionador que estuviera en curso."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 119.2 prevé una vía singular distinta de la estimación, desestimación o inadmisión: la resolución puede renunciar a entrar en el fondo del asunto y declarar la nulidad de actuaciones, ordenando la retroacción al momento del vicio procedimental. Las demás opciones no están previstas en la norma como formas de resolver el recurso.",
+        "nivel": "avanzado",
+        "id": "tema-22-q141"
+      },
+      {
+        "enunciado": "¿Qué novedad introduce la Ley 39/2015 respecto de la tramitación de una pluralidad de recursos administrativos que traigan causa de un mismo acto administrativo?",
+        "opciones": [
+          "Obliga a resolverlos siempre de forma acumulada en un plazo máximo improrrogable de un mes.",
+          "Permite al órgano administrativo acordar la suspensión del plazo para resolver cuando se hubiera interpuesto recurso judicial contra la resolución administrativa o contra el acto presunto desestimatorio, hasta que recaiga pronunciamiento judicial.",
+          "Suprime la posibilidad de recurrir administrativamente cuando existan más de tres recurrentes distintos.",
+          "Traslada de forma automática la competencia resolutoria al órgano superior jerárquico en todo caso."
+        ],
+        "correcta": 1,
+        "explicacion": "La novedad destacada de la Ley 39/2015 es permitir, ante una pluralidad de recursos sobre un mismo acto y la existencia de un recurso judicial pendiente, que el órgano administrativo suspenda el plazo para resolver hasta que haya pronunciamiento judicial, evitando resoluciones contradictorias. Las demás opciones no corresponden a ninguna previsión real de la norma.",
+        "nivel": "avanzado",
+        "id": "tema-22-q142"
+      },
+      {
+        "enunciado": "Si transcurre el plazo de interposición del recurso que corresponda sin que el interesado lo haya presentado, ¿qué consecuencia se produce conforme al carácter preclusivo de los plazos de impugnación?",
+        "opciones": [
+          "El acto se convierte en firme y consentido, perdiéndose definitivamente la posibilidad de recurrirlo por esa vía.",
+          "El plazo se prorroga automáticamente por un mes adicional a contar desde su vencimiento.",
+          "El interesado puede solicitar la reapertura del plazo alegando simple desconocimiento de la normativa aplicable.",
+          "El acto deviene nulo de pleno derecho por caducidad sobrevenida del procedimiento administrativo."
+        ],
+        "correcta": 0,
+        "explicacion": "El texto señala un 'extraordinario rigor legal y jurisprudencial' en materia de plazos de impugnación: superado el plazo sin recurrir, el acto adquiere firmeza y se considera consentido, sin posibilidad de reabrir la vía de recurso. Las opciones B, C y D inventan mecanismos de prórroga o reapertura inexistentes.",
+        "nivel": "avanzado",
+        "id": "tema-22-q143"
+      },
+      {
+        "enunciado": "Un interesado denomina 'recurso de reposición' a su escrito de impugnación, cuando por las características del acto y el órgano que lo dictó correspondía en realidad un recurso de alzada. ¿Qué consecuencia tiene este error conforme al art. 115.2?",
+        "opciones": [
+          "El recurso debe inadmitirse necesariamente, pues la calificación errónea equivale a una falta de legitimación.",
+          "El error en la calificación del recurso no será obstáculo para su tramitación, siempre que de él se deduzca su verdadero carácter.",
+          "El órgano debe requerir al interesado la subsanación de la denominación del recurso en el plazo de un mes, bajo pena de caducidad del procedimiento.",
+          "El recurso se transforma automáticamente, por ministerio de la ley, en un recurso extraordinario de revisión."
+        ],
+        "correcta": 1,
+        "explicacion": "El principio de libertad de formas, manifestado en el art. 115.2, resta trascendencia al error en la calificación del recurso: lo relevante es que de su contenido se deduzca su verdadero carácter, y así debe tramitarse conforme a ese carácter real, sin necesidad de subsanación de la denominación ni de inadmisión. Las opciones A, C y D atribuyen consecuencias que la norma expresamente descarta.",
+        "nivel": "avanzado",
+        "id": "tema-22-q144"
+      },
+      {
+        "enunciado": "Conforme al art. 106.2 LPAC, ¿cabe interponer recurso administrativo contra una disposición administrativa de carácter general (reglamento)?",
+        "opciones": [
+          "Sí, siempre mediante recurso de alzada ante el órgano que la hubiera aprobado.",
+          "No cabe recurso administrativo contra los reglamentos, sin perjuicio de que puedan recurrirse los actos dictados en aplicación de los mismos, fundándose en que el propio reglamento sea contrario a Derecho.",
+          "Sí, pero únicamente mediante el recurso extraordinario de revisión y dentro del plazo de cuatro años.",
+          "No cabe recurso alguno, ni administrativo ni contencioso-administrativo, contra las disposiciones de carácter general."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.2 excluye expresamente a los reglamentos del objeto de los recursos administrativos, que se reserva a los actos; no obstante, la ilegalidad de un reglamento puede hacerse valer impugnando los actos de aplicación dictados a su amparo (la llamada impugnación indirecta). La opción D es incorrecta porque sí cabe la vía contencioso-administrativa (impugnación directa o indirecta); las opciones A y C inventan vías administrativas inexistentes para los reglamentos.",
+        "nivel": "avanzado",
+        "id": "tema-22-q145"
+      }
+    ]
+  },
+  {
+    "id": "tema-23",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 23. La revisión de oficio de los actos administrativos.",
+    "preguntas": [
+      {
+        "enunciado": "¿En qué consiste la prerrogativa de la revisión de oficio de los actos administrativos?",
+        "opciones": [
+          "En la posibilidad de que la Administración declare unilateral y ejecutoriamente la extinción de sus actos sin necesidad de acudir al juez",
+          "En la obligación de la Administración de acudir siempre a la vía judicial para extinguir sus propios actos",
+          "En la facultad exclusiva de los particulares para solicitar ante los tribunales la anulación de actos administrativos",
+          "En el deber de la Administración de indemnizar siempre antes de extinguir un acto administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "La revisión de oficio es la prerrogativa de destruir unilateralmente una situación jurídica sin necesidad de acudir al juez. Trampa: la opción B invierte el concepto, pues es justamente lo contrario de lo que distingue a esta figura frente al Derecho privado.",
+        "parte": 1,
+        "id": "tema-23-q1"
+      },
+      {
+        "enunciado": "¿Cuál es la particularidad de la extinción de los actos administrativos frente al Derecho privado?",
+        "opciones": [
+          "Que solo pueden extinguirse mediante sentencia judicial firme",
+          "Que la Administración puede declarar unilateral y ejecutoriamente su extinción cuando concurren determinadas causas",
+          "Que la extinción requiere siempre el consentimiento del interesado",
+          "Que únicamente puede producirse por el transcurso del plazo de prescripción"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema señala que, a diferencia del Derecho privado, las Administraciones Públicas pueden declarar unilateral y ejecutoriamente la extinción de sus actos cuando concurren determinadas causas. Esa autotutela es precisamente la base de la revisión de oficio.",
+        "parte": 1,
+        "id": "tema-23-q2"
+      },
+      {
+        "enunciado": "De las siguientes afirmaciones sobre la revisión de oficio, ¿cuál NO es correcta?",
+        "opciones": [
+          "Es una prerrogativa de la Administración",
+          "Permite destruir una situación jurídica sin acudir al juez",
+          "Es una figura que existe de forma idéntica en el Derecho privado",
+          "Se aplica cuando concurren determinadas causas legalmente previstas"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, la revisión de oficio es, precisamente, una particularidad que NO se da en el Derecho privado. Las opciones A, B y D describen correctamente el concepto.",
+        "parte": 1,
+        "id": "tema-23-q3"
+      },
+      {
+        "enunciado": "¿Qué nombre recibe en la doctrina y legislación española la posibilidad de que la Administración declare unilateralmente la extinción de sus actos?",
+        "opciones": [
+          "Recurso de lesividad",
+          "Revocación de actos de gravamen",
+          "Revisión de oficio de los actos administrativos",
+          "Rectificación de errores materiales"
+        ],
+        "correcta": 2,
+        "explicacion": "El texto es expreso: esta posibilidad se conoce en la doctrina y legislación como revisión de oficio de los actos administrativos. Las demás son figuras distintas, relacionadas pero reguladas en otros preceptos (109 y 107 de la Ley 39/2015).",
+        "parte": 1,
+        "id": "tema-23-q4"
+      },
+      {
+        "enunciado": "Un ciudadano señala que, a diferencia de lo que ocurre en el Derecho privado, la Administración puede extinguir un acto administrativo sin acudir a un juez. ¿Qué institución describe correctamente esta afirmación?",
+        "opciones": [
+          "La revisión de oficio",
+          "El silencio administrativo",
+          "La prescripción de acciones",
+          "La caducidad del procedimiento"
+        ],
+        "correcta": 0,
+        "explicacion": "Esa descripción corresponde exactamente a la revisión de oficio: una prerrogativa para destruir una situación jurídica sin necesidad de acudir al juez. Las demás opciones son instituciones procedimentales distintas que no definen esta prerrogativa.",
+        "parte": 1,
+        "id": "tema-23-q5"
+      },
+      {
+        "enunciado": "Respecto a la extinción de los actos administrativos en general, señale la afirmación correcta:",
+        "opciones": [
+          "Se produce por causas distintas y específicas que no guardan relación con los actos jurídicos en general",
+          "Se produce, en principio, por las mismas causas que determinan la extinción de los actos jurídicos en general, si bien existe una particularidad propia del Derecho Administrativo",
+          "Nunca puede producirse de forma unilateral por la Administración",
+          "Está regulada exclusivamente en la Ley General Tributaria"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema comienza señalando que, en principio, los actos administrativos se extinguen por las mismas causas que los actos jurídicos en general, pero existe una particularidad: la posibilidad de extinción unilateral y ejecutoria propia de la Administración.",
+        "parte": 1,
+        "id": "tema-23-q6"
+      },
+      {
+        "enunciado": "La revisión de oficio implica que la Administración actúa, en cierto modo, como...",
+        "opciones": [
+          "Juez y parte, pudiendo declarar la nulidad de sus propios actos sin intervención judicial previa",
+          "Mero denunciante ante los tribunales contencioso-administrativos",
+          "Árbitro neutral entre dos particulares",
+          "Órgano exclusivamente consultivo sin capacidad decisoria"
+        ],
+        "correcta": 0,
+        "explicacion": "Al tratarse de una prerrogativa unilateral y ejecutoria, la Administración puede declarar por sí misma la nulidad de sus propios actos, sin necesidad de que un juez intervenga previamente. Es, en ese sentido, una suerte de autotutela declarativa.",
+        "parte": 1,
+        "id": "tema-23-q7"
+      },
+      {
+        "enunciado": "¿Qué papel juega el \"acudir al juez\" en relación con la revisión de oficio?",
+        "opciones": [
+          "Es un requisito previo indispensable para iniciar la revisión de oficio",
+          "Es precisamente lo que la revisión de oficio permite evitar a la Administración",
+          "Es obligatorio en todos los casos de revisión de oficio de disposiciones",
+          "Sustituye siempre al dictamen del Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que sugiere la opción A, la revisión de oficio es definida como una prerrogativa para destruir una situación jurídica SIN necesidad de acudir al juez. Esa es su nota característica frente al Derecho privado.",
+        "parte": 1,
+        "id": "tema-23-q8"
+      },
+      {
+        "enunciado": "Según el art. 111 de la Ley 39/2015, ¿quién es competente para la revisión de oficio de los actos y disposiciones dictados por los Ministros?",
+        "opciones": [
+          "El propio Ministro que los dictó",
+          "El Consejo de Ministros",
+          "El Secretario de Estado del ramo",
+          "El Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 111.a) atribuye al Consejo de Ministros la competencia respecto de sus propios actos y disposiciones y de los dictados por los Ministros. Trampa: no es el propio Ministro quien se revisa a sí mismo.",
+        "parte": 1,
+        "id": "tema-23-q9"
+      },
+      {
+        "enunciado": "¿Qué órgano es competente para revisar de oficio los actos y disposiciones de los Secretarios de Estado?",
+        "opciones": [
+          "El Consejo de Ministros",
+          "El Ministro correspondiente",
+          "El propio Secretario de Estado",
+          "El órgano directivo dependiente del Secretario de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 111.b) atribuye a los Ministros la competencia respecto de los actos y disposiciones de los Secretarios de Estado de su Departamento. Ojo, no es el Consejo de Ministros, que solo revisa actos de los propios Ministros.",
+        "parte": 1,
+        "id": "tema-23-q10"
+      },
+      {
+        "enunciado": "Los Secretarios de Estado son competentes para la revisión de oficio de...",
+        "opciones": [
+          "Los actos y disposiciones dictados por los órganos directivos de ellos dependientes",
+          "Los actos del Consejo de Ministros",
+          "Los actos de otros Secretarios de Estado del mismo Departamento",
+          "Los actos de los Ministros"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 111.b) atribuye a los Secretarios de Estado la competencia sobre los actos y disposiciones de los órganos directivos que dependen de ellos. Es una competencia descendente, no sobre sus superiores ni sus iguales.",
+        "parte": 1,
+        "id": "tema-23-q11"
+      },
+      {
+        "enunciado": "Un órgano directivo de un Departamento ministerial no depende de ninguna Secretaría de Estado. ¿Quién sería competente para la revisión de oficio de sus actos?",
+        "opciones": [
+          "El Secretario de Estado de mayor rango del Departamento",
+          "El Ministro del Departamento",
+          "El Consejo de Ministros, en todo caso",
+          "El propio órgano directivo, por autotutela"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 111.b) atribuye expresamente a los Ministros la competencia sobre los actos de los órganos directivos de su Departamento que NO dependan de una Secretaría de Estado, además de los de los propios Secretarios de Estado.",
+        "parte": 1,
+        "id": "tema-23-q12"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una de las competencias atribuidas por el art. 111 de la Ley 39/2015?",
+        "opciones": [
+          "El Consejo de Ministros respecto de sus propios actos y disposiciones",
+          "Los Ministros respecto de los actos de los Secretarios de Estado",
+          "Los Secretarios de Estado respecto de los actos de los órganos directivos de ellos dependientes",
+          "Los Tribunales de lo Contencioso-Administrativo respecto de los actos de cualquier órgano de la AGE"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 111 regula competencias administrativas internas para la revisión de oficio; los Tribunales no aparecen en este listado, pues la revisión de oficio se ejerce precisamente sin necesidad de acudir al juez.",
+        "parte": 1,
+        "id": "tema-23-q13"
+      },
+      {
+        "enunciado": "En los Organismos públicos y entidades de derecho público vinculados o dependientes de la AGE, ¿quiénes son competentes para la revisión de oficio según el art. 111?",
+        "opciones": [
+          "Únicamente el Ministro de adscripción",
+          "Los órganos a los que estén adscritos los organismos y los máximos órganos rectores de los mismos",
+          "Exclusivamente el Consejo de Ministros",
+          "El Consejo de Estado en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 111.c) prevé una doble vía: los órganos de adscripción del organismo y, alternativamente, los máximos órganos rectores del propio organismo. No se limita solo al Ministro ni al Consejo de Ministros.",
+        "parte": 1,
+        "id": "tema-23-q14"
+      },
+      {
+        "enunciado": "¿A qué normativa remite el art. 111 de la Ley 39/2015 en materia de revisión de oficio de actos administrativos tributarios?",
+        "opciones": [
+          "A la Ley General Tributaria y sus disposiciones de desarrollo y aplicación",
+          "Al Código Civil",
+          "A la propia Ley 39/2015, sin excepción alguna",
+          "A la Ley General Presupuestaria"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 111 señala expresamente que la revisión de oficio en materia tributaria se ajustará a lo dispuesto en la Ley General Tributaria y en las disposiciones dictadas en su desarrollo y aplicación, apartándose del régimen general de la Ley 39/2015.",
+        "parte": 1,
+        "id": "tema-23-q15"
+      },
+      {
+        "enunciado": "El Consejo de Ministros dicta un acto administrativo. ¿Quién sería competente para revisarlo de oficio?",
+        "opciones": [
+          "El propio Consejo de Ministros, respecto de sus propios actos",
+          "El Ministro de Presidencia exclusivamente",
+          "Cualquier Secretario de Estado",
+          "El máximo órgano rector del organismo público correspondiente"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 111.a) establece que el Consejo de Ministros es competente respecto de sus propios actos y disposiciones, además de los dictados por los Ministros.",
+        "parte": 1,
+        "id": "tema-23-q16"
+      },
+      {
+        "enunciado": "¿Qué diferencia existe entre la competencia del Ministro y la del Secretario de Estado en materia de revisión de oficio?",
+        "opciones": [
+          "No existe diferencia, ambos tienen idéntica competencia",
+          "El Ministro revisa los actos de los Secretarios de Estado y de los órganos directivos no dependientes de Secretaría de Estado; el Secretario de Estado revisa los actos de los órganos directivos que dependen de él",
+          "El Secretario de Estado revisa los actos del Ministro",
+          "El Ministro solo puede revisar disposiciones, nunca actos"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 111.b) distingue con claridad ambos niveles jerárquicos: el Ministro revisa hacia arriba de los órganos directivos no encuadrados en Secretaría de Estado y hacia los Secretarios de Estado; estos, a su vez, revisan a los órganos directivos de ellos dependientes.",
+        "parte": 1,
+        "id": "tema-23-q17"
+      },
+      {
+        "enunciado": "¿Es correcto afirmar que el Consejo de Ministros es competente para revisar de oficio los actos de los Secretarios de Estado?",
+        "opciones": [
+          "Sí, el Consejo de Ministros es competente en todos los casos frente a cualquier órgano de la AGE",
+          "No, esa competencia corresponde al Ministro del Departamento respectivo",
+          "Sí, pero solo si el Secretario de Estado lo solicita expresamente",
+          "No, esa competencia corresponde al Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: el Consejo de Ministros solo revisa sus propios actos y los de los Ministros; la revisión de los actos de los Secretarios de Estado corresponde al Ministro del ramo, conforme al art. 111.b).",
+        "parte": 1,
+        "id": "tema-23-q18"
+      },
+      {
+        "enunciado": "Dentro de un Organismo público vinculado a la AGE, ¿qué doble vía de competencia prevé el art. 111 para la revisión de oficio?",
+        "opciones": [
+          "Solo el máximo órgano rector del organismo",
+          "El órgano al que esté adscrito el organismo, y el máximo órgano rector del propio organismo",
+          "Solo el órgano de adscripción, nunca el máximo órgano rector",
+          "El Consejo de Ministros y el Consejo de Estado conjuntamente"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 111.c) prevé expresamente ambas posibilidades: los órganos a los que estén adscritos los organismos, y los máximos órganos rectores de los mismos, sin que una excluya a la otra.",
+        "parte": 1,
+        "id": "tema-23-q19"
+      },
+      {
+        "enunciado": "La remisión a la Ley General Tributaria para la revisión de oficio en materia tributaria implica que...",
+        "opciones": [
+          "La Ley 39/2015 no es nunca aplicable a la Administración tributaria",
+          "En materia tributaria, la revisión de oficio se ajustará a lo dispuesto en la Ley General Tributaria y a sus normas de desarrollo",
+          "Los actos tributarios nunca pueden ser objeto de revisión de oficio",
+          "El Consejo de Estado pierde toda competencia consultiva en materia tributaria"
+        ],
+        "correcta": 1,
+        "explicacion": "Se trata de una especialidad sectorial: la revisión de oficio tributaria se rige por su propia normativa (la LGT), sin que ello signifique que no exista revisión de oficio en ese ámbito ni que la Ley 39/2015 sea totalmente inaplicable a la Administración tributaria en otras materias.",
+        "parte": 1,
+        "id": "tema-23-q20"
+      },
+      {
+        "enunciado": "Según el art. 106.1 de la Ley 39/2015, ¿cómo puede iniciarse la declaración de nulidad de los actos administrativos?",
+        "opciones": [
+          "Únicamente por iniciativa propia de la Administración",
+          "Únicamente a solicitud del interesado",
+          "Por iniciativa propia de la Administración o a solicitud de interesado",
+          "Solo mediante recurso de alzada previo"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 106.1 permite ambas vías de iniciación para los actos: de oficio por la propia Administración, o a solicitud de interesado. Esto es lo que, más adelante, el tema relaciona con el carácter de \"verdadera acción de nulidad\".",
+        "parte": 1,
+        "id": "tema-23-q21"
+      },
+      {
+        "enunciado": "¿Qué requisito previo exige el art. 106.1 para que las Administraciones Públicas puedan declarar de oficio la nulidad de un acto?",
+        "opciones": [
+          "Dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+          "Autorización previa del Defensor del Pueblo",
+          "Sentencia judicial firme que declare la nulidad",
+          "Informe favorable del Ministerio Fiscal"
+        ],
+        "correcta": 0,
+        "explicacion": "El precepto exige, con carácter previo, dictamen favorable del Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si existiera. Ninguna de las demás instituciones interviene en este trámite.",
+        "parte": 1,
+        "id": "tema-23-q22"
+      },
+      {
+        "enunciado": "¿En qué momento pueden las Administraciones Públicas declarar de oficio la nulidad de los actos administrativos según el art. 106.1?",
+        "opciones": [
+          "Solo dentro del año siguiente a su dictado",
+          "Solo dentro de los cuatro años siguientes a su dictado",
+          "En cualquier momento",
+          "Solo durante el plazo de interposición de recursos"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 106.1 señala expresamente \"en cualquier momento\". Trampa: los cuatro años son el plazo de la declaración de lesividad del art. 107, que no es objeto de este bloque.",
+        "parte": 1,
+        "id": "tema-23-q23"
+      },
+      {
+        "enunciado": "¿A qué actos se refiere el art. 106.1 de la Ley 39/2015?",
+        "opciones": [
+          "A los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, en los supuestos del art. 47.1",
+          "A cualquier acto administrativo, recurrido o no, sin exigir causa de nulidad",
+          "Exclusivamente a las disposiciones administrativas de carácter general",
+          "A los actos de gravamen desfavorables para el interesado"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 106.1 se ciñe a los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, siempre dentro de los supuestos de nulidad de pleno derecho del art. 47.1. Las disposiciones se regulan, en cambio, en el apartado 2.",
+        "parte": 1,
+        "id": "tema-23-q24"
+      },
+      {
+        "enunciado": "Según el art. 106.2, la declaración de nulidad de las disposiciones administrativas...",
+        "opciones": [
+          "Puede acordarse a solicitud de cualquier interesado sin más trámite",
+          "Solo puede acordarse de oficio por la Administración, previo dictamen favorable del Consejo de Estado u órgano equivalente, en los supuestos del art. 47.2",
+          "No requiere dictamen del Consejo de Estado en ningún caso",
+          "Está excluida de la revisión de oficio regulada en el art. 106"
+        ],
+        "correcta": 1,
+        "explicacion": "A diferencia del apartado 1 (actos), el apartado 2 solo contempla la actuación de oficio de la Administración para las disposiciones, exigiendo igualmente dictamen favorable, en los supuestos del art. 47.2.",
+        "parte": 1,
+        "id": "tema-23-q25"
+      },
+      {
+        "enunciado": "¿Qué diferencia existe entre el apartado 1 y el apartado 2 del art. 106 respecto a la forma de iniciación?",
+        "opciones": [
+          "El apartado 1 permite la iniciativa propia o a solicitud de interesado para actos; el apartado 2, referido a disposiciones, solo contempla la actuación de oficio",
+          "Ambos apartados exigen siempre solicitud de interesado",
+          "Ambos apartados excluyen la iniciativa de oficio",
+          "No existe ninguna diferencia entre ambos apartados"
+        ],
+        "correcta": 0,
+        "explicacion": "Es una distinción clave del art. 106: para los actos (apartado 1) cabe iniciativa propia o de interesado; para las disposiciones (apartado 2) la Ley solo habla de actuación \"de oficio\".",
+        "parte": 1,
+        "id": "tema-23-q26"
+      },
+      {
+        "enunciado": "¿En qué supuestos puede el órgano competente acordar la inadmisión a trámite de las solicitudes de revisión de oficio sin necesidad de dictamen del Consejo de Estado?",
+        "opciones": [
+          "Cuando el interesado no haya abonado las tasas correspondientes",
+          "Cuando las solicitudes no se basen en alguna de las causas de nulidad del art. 47.1, carezcan manifiestamente de fundamento, o se hubieran desestimado en el fondo otras solicitudes sustancialmente iguales",
+          "Cuando el acto haya sido dictado hace más de seis meses",
+          "Cuando el interesado no tenga representación legal"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.3 enumera taxativamente estos tres supuestos de inadmisión motivada, que permiten resolver sin necesidad de recabar dictamen, agilizando solicitudes manifiestamente infundadas o reiterativas.",
+        "parte": 1,
+        "id": "tema-23-q27"
+      },
+      {
+        "enunciado": "La inadmisión a trámite de una solicitud de revisión de oficio debe acordarse...",
+        "opciones": [
+          "De forma tácita, sin motivación",
+          "Motivadamente",
+          "Solo previo dictamen desfavorable del Consejo de Estado",
+          "Mediante sentencia judicial"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.3 exige que el órgano competente acuerde la inadmisión \"motivadamente\". Precisamente la ventaja de este cauce es que no requiere dictamen del Consejo de Estado, ni favorable ni desfavorable.",
+        "parte": 1,
+        "id": "tema-23-q28"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es causa de inadmisión a trámite prevista en el art. 106.3?",
+        "opciones": [
+          "Que la solicitud no se base en alguna de las causas del art. 47.1",
+          "Que la solicitud carezca manifiestamente de fundamento",
+          "Que se hubieran desestimado en el fondo otras solicitudes sustancialmente iguales",
+          "Que el interesado haya presentado la solicitud fuera del plazo de seis meses desde el acto"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa de plazos: el art. 106.3 no condiciona la inadmisión a ningún plazo desde el dictado del acto, ya que la revisión de oficio puede instarse \"en cualquier momento\". Las otras tres son las causas reales de inadmisión.",
+        "parte": 1,
+        "id": "tema-23-q29"
+      },
+      {
+        "enunciado": "Según el art. 106.4, al declarar la nulidad de una disposición o acto, las Administraciones Públicas...",
+        "opciones": [
+          "Están obligadas siempre a reconocer una indemnización a los interesados",
+          "Podrán establecer, en la misma resolución, las indemnizaciones que proceda reconocer a los interesados, si se dan las circunstancias de los artículos 32.2 y 34.1 de la Ley 40/2015",
+          "Nunca pueden reconocer indemnizaciones en la resolución de nulidad",
+          "Deben remitir al interesado a un procedimiento judicial separado para solicitar indemnización"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.4 configura la indemnización como una posibilidad (\"podrán establecer\"), condicionada a que concurran las circunstancias de responsabilidad patrimonial de los arts. 32.2 y 34.1 de la Ley 40/2015, no como una obligación automática.",
+        "parte": 1,
+        "id": "tema-23-q30"
+      },
+      {
+        "enunciado": "Si se declara la nulidad de una disposición administrativa, ¿qué ocurre con los actos firmes dictados en aplicación de la misma?",
+        "opciones": [
+          "Quedan automáticamente anulados junto con la disposición",
+          "Subsisten, sin perjuicio de la declaración de nulidad de la disposición",
+          "Deben ser revisados de oficio obligatoriamente en el plazo de un mes",
+          "Se convierten en actos de gravamen"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.4 es claro: tratándose de una disposición, subsisten los actos firmes dictados en aplicación de la misma. Es una garantía de seguridad jurídica frente al efecto expansivo que tendría anular todos los actos derivados.",
+        "parte": 1,
+        "id": "tema-23-q31"
+      },
+      {
+        "enunciado": "Un ciudadano sufre un perjuicio como consecuencia de un acto que posteriormente es declarado nulo de pleno derecho por la Administración. ¿Puede obtener indemnización?",
+        "opciones": [
+          "No, la nulidad de un acto excluye cualquier indemnización",
+          "Sí, siempre, de forma automática y sin ningún requisito adicional",
+          "Sí, si se dan las circunstancias de responsabilidad patrimonial previstas en los arts. 32.2 y 34.1 de la Ley 40/2015, pudiendo fijarse en la misma resolución de nulidad",
+          "Solo si lo solicita en vía judicial, nunca en la resolución administrativa"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 106.4 permite fijar la indemnización en la propia resolución de nulidad, pero siempre condicionada a que concurran los requisitos de responsabilidad patrimonial de la Administración de los arts. 32.2 y 34.1 de la Ley 40/2015.",
+        "parte": 1,
+        "id": "tema-23-q32"
+      },
+      {
+        "enunciado": "Según el art. 106.5, si el procedimiento de revisión de oficio se inició de oficio, ¿qué ocurre si transcurren seis meses sin dictarse resolución?",
+        "opciones": [
+          "Se entiende resuelto favorablemente al interesado",
+          "Se produce la caducidad del procedimiento",
+          "Se prorroga automáticamente por otros seis meses",
+          "Se produce el silencio administrativo positivo"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.5 dispone que, iniciado de oficio el procedimiento, el transcurso de seis meses sin resolución expresa produce la caducidad del mismo, no un silencio positivo ni una prórroga automática.",
+        "parte": 1,
+        "id": "tema-23-q33"
+      },
+      {
+        "enunciado": "Si el procedimiento de revisión de oficio se inició a solicitud de interesado, ¿qué efecto produce el transcurso del plazo sin resolución expresa?",
+        "opciones": [
+          "La caducidad automática del procedimiento",
+          "Se podrá entender desestimada la solicitud por silencio administrativo",
+          "Se entiende concedida la solicitud por silencio administrativo positivo",
+          "Se abre un nuevo plazo de seis meses adicional"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que ocurre cuando se inicia de oficio (caducidad), si lo inicia el interesado el transcurso del plazo permite entender la solicitud desestimada por silencio administrativo, es decir, un silencio negativo.",
+        "parte": 1,
+        "id": "tema-23-q34"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo actual de resolución previsto en el art. 106.5 de la Ley 39/2015 para los procedimientos de revisión de oficio?",
+        "opciones": [
+          "Tres meses",
+          "Seis meses",
+          "Un año",
+          "Cuatro años"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.5 fija en seis meses el plazo para dictar resolución desde el inicio del procedimiento. Trampa: los tres meses correspondían a la antigua Ley 30/1992, y los cuatro años son el plazo de la declaración de lesividad.",
+        "parte": 1,
+        "id": "tema-23-q35"
+      },
+      {
+        "enunciado": "En la anterior regulación de la Ley 30/1992, ¿cuál era el plazo de caducidad del procedimiento de revisión de oficio iniciado de oficio?",
+        "opciones": [
+          "Tres meses",
+          "Seis meses",
+          "Un año",
+          "Dos años"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema recoge expresamente que en la anterior regulación de la Ley 30/1992 el plazo de caducidad era de tres meses, frente a los seis meses actuales de la Ley 39/2015.",
+        "parte": 1,
+        "id": "tema-23-q36"
+      },
+      {
+        "enunciado": "¿Qué cambio normativo se produjo respecto al plazo de caducidad de la revisión de oficio entre la Ley 30/1992 y la Ley 39/2015?",
+        "opciones": [
+          "El plazo se redujo de seis a tres meses",
+          "El plazo se amplió de tres a seis meses",
+          "El plazo desapareció, no existiendo ya caducidad",
+          "El plazo se amplió de seis meses a un año"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que dice la opción A, el cambio fue una ampliación: de los tres meses de la Ley 30/1992 a los seis meses actuales de la Ley 39/2015. La caducidad sigue existiendo, solo cambió su duración.",
+        "parte": 1,
+        "id": "tema-23-q37"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre los plazos del art. 106.5 es FALSA?",
+        "opciones": [
+          "El plazo de resolución es de seis meses",
+          "Si se inició de oficio, el transcurso del plazo sin resolución produce caducidad",
+          "Si se inició a solicitud de interesado, el transcurso del plazo produce silencio positivo, entendiéndose aceptada la solicitud",
+          "El plazo vigente es distinto del que establecía la Ley 30/1992"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa clásica de silencio positivo/negativo: la Ley 39/2015 prevé que, a instancia de parte, el silencio es desestimatorio (negativo), no positivo. Las demás afirmaciones son correctas.",
+        "parte": 1,
+        "id": "tema-23-q38"
+      },
+      {
+        "enunciado": "¿Quién debe emitir el dictamen previo y favorable exigido por el art. 106.1 y 106.2?",
+        "opciones": [
+          "El Tribunal Supremo",
+          "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma, si lo hubiere",
+          "El Defensor del Pueblo",
+          "El Ministerio Fiscal"
+        ],
+        "correcta": 1,
+        "explicacion": "Tanto para actos (106.1) como para disposiciones (106.2), la Ley exige dictamen favorable del Consejo de Estado o, en su caso, del órgano consultivo equivalente de la Comunidad Autónoma.",
+        "parte": 1,
+        "id": "tema-23-q39"
+      },
+      {
+        "enunciado": "¿El dictamen del Consejo de Estado exigido en el art. 106 debe ser favorable para poder declarar la nulidad?",
+        "opciones": [
+          "No, basta con que se emita el dictamen, sea favorable o desfavorable",
+          "Sí, el dictamen debe ser favorable para que la Administración pueda declarar la nulidad",
+          "No, el dictamen es meramente informativo y no condiciona la decisión",
+          "Solo debe ser favorable cuando se trate de disposiciones, no de actos"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106 exige literalmente \"previo dictamen favorable\", tanto para actos como para disposiciones. No basta cualquier dictamen: tiene que ser favorable y, como señala el análisis del artículo, además vinculante.",
+        "parte": 1,
+        "id": "tema-23-q40"
+      },
+      {
+        "enunciado": "La Administración pretende declarar de oficio la nulidad de un acto que puso fin a la vía administrativa, basándose en una de las causas del art. 47.1. ¿Qué trámite previo es imprescindible, salvo que proceda la inadmisión?",
+        "opciones": [
+          "Recabar dictamen favorable del Consejo de Estado u órgano consultivo equivalente",
+          "Obtener el consentimiento expreso del interesado perjudicado",
+          "Solicitar autorización del Consejo de Ministros en todo caso",
+          "Iniciar previamente un recurso de alzada"
+        ],
+        "correcta": 0,
+        "explicacion": "Conforme al art. 106.1, salvo que proceda la inadmisión a trámite del art. 106.3, es imprescindible recabar el dictamen favorable del Consejo de Estado u órgano consultivo equivalente antes de declarar la nulidad.",
+        "parte": 1,
+        "id": "tema-23-q41"
+      },
+      {
+        "enunciado": "¿A qué actos resulta aplicable el art. 106.1, en relación con el momento en que fueron dictados?",
+        "opciones": [
+          "Solo a los actos dictados dentro del año anterior",
+          "A los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo",
+          "Solo a los actos recurridos en plazo y pendientes de resolución",
+          "Solo a los actos dictados por el Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.1 limita su aplicación a los actos que hayan puesto fin a la vía administrativa o que no hayan sido recurridos en plazo, lógico, puesto que si aún cabe recurso ordinario, no procede acudir directamente a la revisión de oficio.",
+        "parte": 1,
+        "id": "tema-23-q42"
+      },
+      {
+        "enunciado": "Del análisis del art. 106, ¿qué elementos abarca la revisión de oficio?",
+        "opciones": [
+          "Únicamente los actos administrativos nulos, nunca las disposiciones generales",
+          "Tanto los actos administrativos nulos como las disposiciones generales",
+          "Únicamente las disposiciones generales, nunca los actos",
+          "Únicamente los actos anulables"
+        ],
+        "correcta": 1,
+        "explicacion": "Uno de los puntos clave del análisis del artículo es que la revisión de oficio abarca no solo los actos nulos, sino también las disposiciones generales (art. 106.2), a diferencia de la declaración de lesividad, que solo afecta a actos anulables.",
+        "parte": 1,
+        "id": "tema-23-q43"
+      },
+      {
+        "enunciado": "¿Por qué se dice que la revisión de oficio regulada en el art. 106 constituye una verdadera \"acción de nulidad\"?",
+        "opciones": [
+          "Porque solo puede iniciarla la propia Administración, nunca el particular",
+          "Porque permite a los administrados instar la revisión de oficio, exigiéndose la condición de interesado y no bastando el mero interés en la defensa de la legalidad",
+          "Porque se tramita siempre ante los Tribunales de Justicia",
+          "Porque sustituye al recurso de alzada en todos los casos"
+        ],
+        "correcta": 1,
+        "explicacion": "El análisis del artículo subraya que se trata de una verdadera acción de nulidad porque legitima a los administrados a instarla, exigiendo la cualidad de interesado y no un mero interés genérico en la legalidad.",
+        "parte": 1,
+        "id": "tema-23-q44"
+      },
+      {
+        "enunciado": "Para instar la revisión de oficio como particular, ¿qué se exige al solicitante?",
+        "opciones": [
+          "Ser un interesado en toda regla, no bastando el mero interés en la defensa de la legalidad",
+          "Ostentar la condición de funcionario público",
+          "Haber sido parte en un procedimiento judicial previo",
+          "Nada, cualquier ciudadano puede instarla sin necesidad de acreditar interés alguno"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema precisa que no basta el mero interés en la defensa de la legalidad, sino que es necesario tener la condición de interesado en toda regla para poder instar la revisión de oficio.",
+        "parte": 1,
+        "id": "tema-23-q45"
+      },
+      {
+        "enunciado": "¿Cómo se denomina el escrito mediante el cual el interesado insta la revisión de oficio?",
+        "opciones": [
+          "Recurso de reposición",
+          "Acción de nulidad o reclamación de nulidad de pleno derecho",
+          "Recurso de lesividad",
+          "Recurso extraordinario de revisión"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema denomina expresamente a este escrito \"acción de nulidad\" o \"reclamación de nulidad de pleno derecho\", distinto de los recursos administrativos ordinarios o del recurso de lesividad.",
+        "parte": 1,
+        "id": "tema-23-q46"
+      },
+      {
+        "enunciado": "El escrito de acción de nulidad presentado por el interesado debe cumplir...",
+        "opciones": [
+          "Los requisitos generales del art. 66 de la Ley 39/2015",
+          "Los requisitos específicos de los recursos administrativos del art. 115",
+          "Ningún requisito formal especial",
+          "Los requisitos de la demanda contencioso-administrativa"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema precisa que este escrito deberá cumplir los requisitos generales del art. 66 de la Ley 39/2015, que regula el contenido mínimo de las solicitudes de iniciación de los procedimientos.",
+        "parte": 1,
+        "id": "tema-23-q47"
+      },
+      {
+        "enunciado": "¿Qué naturaleza tiene el dictamen del Consejo de Estado exigido para acordar la revisión de oficio?",
+        "opciones": [
+          "Es un dictamen facultativo y meramente orientativo",
+          "Es un dictamen preceptivo pero no vinculante, pudiendo el órgano activo decidir en contra",
+          "Es un dictamen preceptivo y además vinculante para el órgano activo",
+          "Es un dictamen que solo se exige cuando lo solicita el interesado"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo, no basta con que sea preceptivo: el tema subraya que el dictamen es preceptivo Y vinculante, de modo que la competencia decisoria del órgano activo queda mediatizada por el órgano consultivo. Trampa habitual confundirlo con un dictamen meramente consultivo.",
+        "parte": 1,
+        "id": "tema-23-q48"
+      },
+      {
+        "enunciado": "La competencia decisoria del órgano que tramita la revisión de oficio queda \"mediatizada\" por el órgano consultivo porque...",
+        "opciones": [
+          "El Consejo de Estado puede sustituir íntegramente al órgano decisor en la resolución",
+          "El dictamen del Consejo de Estado es preceptivo y vinculante, de modo que si no aprecia causa de nulidad, no podrá acordarse la revisión",
+          "El Consejo de Estado puede revocar la resolución una vez adoptada",
+          "El órgano decisor siempre puede apartarse motivadamente del dictamen del Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Al ser vinculante, el órgano activo no puede declarar la nulidad si el Consejo de Estado no aprecia causa determinante de nulidad de pleno derecho; de ahí que su competencia decisoria quede condicionada por el dictamen.",
+        "parte": 1,
+        "id": "tema-23-q49"
+      },
+      {
+        "enunciado": "¿Qué efectos produce la declaración de nulidad de una disposición administrativa, según el análisis del artículo?",
+        "opciones": [
+          "Efectos ex tunc, es decir, retroactivos a su origen",
+          "Efectos ex nunc, es decir, desde el momento de la declaración, subsistiendo los actos firmes dictados en su aplicación",
+          "Efectos exclusivamente para el futuro inmediato, anulando también los actos firmes dictados en su aplicación",
+          "No produce ningún efecto hasta que se publique en el BOE"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema distingue expresamente: la nulidad de una disposición produce efectos ex nunc, y además subsisten los actos firmes dictados en su aplicación, a diferencia de la nulidad de un acto.",
+        "parte": 1,
+        "id": "tema-23-q50"
+      },
+      {
+        "enunciado": "¿Qué efectos produce la declaración de nulidad de un acto administrativo, a diferencia de la de una disposición?",
+        "opciones": [
+          "Efectos ex nunc, igual que en las disposiciones",
+          "Efectos ex tunc, es decir, retroactivos",
+          "No produce efectos hasta que adquiera firmeza la resolución",
+          "Efectos exclusivamente para terceros, no para el interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés que en las disposiciones (ex nunc), la nulidad de un acto administrativo produce efectos ex tunc, es decir, retroactivos a su origen, como corresponde a la nulidad de pleno derecho.",
+        "parte": 1,
+        "id": "tema-23-q51"
+      },
+      {
+        "enunciado": "Marque la relación correcta entre el tipo de nulidad y sus efectos temporales:",
+        "opciones": [
+          "Disposición → ex tunc; Acto → ex nunc",
+          "Disposición → ex nunc; Acto → ex tunc",
+          "Ambos producen siempre efectos ex tunc",
+          "Ambos producen siempre efectos ex nunc"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa de emparejamiento cruzado: la combinación correcta es disposición-ex nunc y acto-ex tunc, exactamente al contrario de lo que propone la opción A.",
+        "parte": 1,
+        "id": "tema-23-q52"
+      },
+      {
+        "enunciado": "¿En qué consiste la facultad de suspensión regulada en el art. 108, mencionada en el análisis del art. 106?",
+        "opciones": [
+          "El órgano que conoce del procedimiento puede suspender el acto cuando su supervivencia suponga perjuicios de imposible o difícil reparación",
+          "El órgano que conoce del procedimiento está obligado a suspender siempre el acto objeto de revisión",
+          "La suspensión solo puede solicitarla el propio interesado ante el juez contencioso-administrativo",
+          "La suspensión equivale automáticamente a la declaración de nulidad del acto"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema recoge que el órgano que conoce del procedimiento puede determinar la suspensión del acto (art. 108) cuando su supervivencia suponga perjuicios de imposible o difícil reparación; es una facultad, no una obligación, ni implica por sí sola la nulidad.",
+        "parte": 1,
+        "id": "tema-23-q53"
+      },
+      {
+        "enunciado": "De los siguientes puntos del análisis del art. 106, ¿cuál es FALSO?",
+        "opciones": [
+          "La revisión de oficio abarca actos y disposiciones",
+          "El dictamen del Consejo de Estado es preceptivo y vinculante",
+          "Existen supuestos de inadmisión sin necesidad de dictamen previo",
+          "La Administración nunca puede suspender el acto objeto de revisión, debiendo acudir siempre al juez para ello"
+        ],
+        "correcta": 3,
+        "explicacion": "Al revés de lo que afirma la opción D, el art. 108 permite precisamente que el propio órgano que conoce del procedimiento acuerde la suspensión del acto, sin necesidad de acudir al juez. Las otras tres afirmaciones son correctas.",
+        "parte": 1,
+        "id": "tema-23-q54"
+      },
+      {
+        "enunciado": "¿Qué dos principios jurídicos básicos entran en tensión en el ámbito de la revisión de oficio, según el tema?",
+        "opciones": [
+          "Legalidad y oportunidad",
+          "Legalidad y seguridad jurídica",
+          "Eficacia y economía procesal",
+          "Jerarquía normativa y competencia"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema describe la revisión de oficio como un terreno delicado en el que se enfrentan los dos principios jurídicos básicos de legalidad y seguridad jurídica, exigiendo gran ponderación y cautela.",
+        "parte": 1,
+        "id": "tema-23-q55"
+      },
+      {
+        "enunciado": "¿Qué significa la máxima \"summum ius, summa iniuria\" aplicada a la revisión de oficio?",
+        "opciones": [
+          "Que cuanto más derecho se aplica, más justicia se obtiene siempre",
+          "Que el exceso de interpretación o aplicación formal de la letra del derecho o de la ley puede convertirse en un exceso de injusticia",
+          "Que el derecho debe aplicarse siempre literalmente, sin ponderación alguna",
+          "Que la seguridad jurídica debe prevalecer siempre sobre la legalidad"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: la máxima advierte justo lo contrario de la opción A y C. El tema la explica como el riesgo de que el exceso de rigor formal en la aplicación de la letra del derecho se convierta en un exceso de injusticia.",
+        "parte": 1,
+        "id": "tema-23-q56"
+      },
+      {
+        "enunciado": "Según el art. 110 de la Ley 39/2015, ¿pueden ejercerse siempre las facultades de revisión de oficio, sin límite alguno?",
+        "opciones": [
+          "Sí, la Administración puede revisar sus actos nulos en cualquier momento y circunstancia sin ninguna limitación",
+          "No, las facultades de revisión no podrán ejercerse cuando, por prescripción de acciones, el tiempo transcurrido u otras circunstancias, resultase contrario a la equidad, la buena fe, el derecho de los particulares o las Leyes",
+          "No, nunca pueden ejercerse, pues la revisión de oficio ha sido suprimida por la Ley 39/2015",
+          "Sí, siempre que medie el consentimiento del interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 110 recoge textualmente este límite a las facultades de revisión, ponderando la legalidad frente a la seguridad jurídica. No se trata de una supresión de la figura, sino de un freno a su ejercicio en determinadas circunstancias.",
+        "parte": 1,
+        "id": "tema-23-q57"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes circunstancias NO aparece mencionada en el art. 110 como límite al ejercicio de las facultades de revisión?",
+        "opciones": [
+          "Que resulte contrario a la equidad",
+          "Que resulte contrario a la buena fe",
+          "Que resulte contrario al derecho de los particulares o a las Leyes",
+          "Que el acto haya sido objeto de recurso de alzada previo"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 110 menciona la equidad, la buena fe, el derecho de los particulares y las Leyes, siempre en relación con la prescripción de acciones, el tiempo transcurrido u otras circunstancias; no menciona el haber recurrido en alzada.",
+        "parte": 1,
+        "id": "tema-23-q58"
+      },
+      {
+        "enunciado": "El límite previsto en el art. 110 responde fundamentalmente a la necesidad de...",
+        "opciones": [
+          "Favorecer siempre los intereses económicos de la Administración",
+          "Ponderar el enfrentamiento entre legalidad y seguridad jurídica, evitando tanto situaciones ilegítimas de ventaja como un exceso de rigor formal injusto",
+          "Garantizar que el Consejo de Estado tenga siempre la última palabra",
+          "Eliminar por completo la posibilidad de revisión de oficio"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema explica que el art. 110 busca fijar un punto de equilibrio entre legalidad y seguridad jurídica, evitando consagrar situaciones ilegítimas de ventaja, pero también evitando el exceso de injusticia que denuncia la máxima summum ius, summa iniuria.",
+        "parte": 1,
+        "id": "tema-23-q59"
+      },
+      {
+        "enunciado": "¿Existe un plazo fijo y único establecido por el art. 110 para que operen sus límites a la revisión de oficio?",
+        "opciones": [
+          "Sí, siempre cuatro años desde que se dictó el acto",
+          "Sí, siempre seis meses desde el inicio del procedimiento",
+          "No, el plazo dependerá en muchas ocasiones de las circunstancias de cada caso concreto, atendiendo al tiempo transcurrido y otras circunstancias",
+          "Sí, siempre tres meses, conforme a la Ley 30/1992"
+        ],
+        "correcta": 2,
+        "explicacion": "El tema concluye expresamente que el plazo para la operatividad del límite del art. 110 \"dependerá en muchas ocasiones de cada caso concreto\", sin fijar un plazo cerrado como sí hacen, en otros contextos, los seis meses del art. 106.5 o los cuatro años de la lesividad.",
+        "parte": 1,
+        "id": "tema-23-q60"
+      },
+      {
+        "enunciado": "¿Qué tipo de actos pueden ser revocados por la Administración según el art. 109 de la Ley 39/2015?",
+        "opciones": [
+          "Los actos no declarativos de derechos, que suponen un gravamen o son desfavorables para su destinatario",
+          "Los actos declarativos de derechos, favorables para su destinatario",
+          "Únicamente los actos nulos de pleno derecho",
+          "Únicamente los actos anulables declarados lesivos"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 109.1 reserva la revocación a los actos no declarativos de derechos, es decir, los de gravamen o desfavorables. Los actos favorables, en cambio, solo pueden eliminarse mediante revisión de oficio (nulidad) o declaración de lesividad (anulabilidad). Esta distinción es clave para no confundir instituciones.",
+        "parte": 2,
+        "id": "tema-23-q61"
+      },
+      {
+        "enunciado": "¿Con qué libertad temporal puede la Administración revocar los actos de gravamen?",
+        "opciones": [
+          "Libremente y en cualquier momento",
+          "Solo dentro de los 4 años siguientes a su dictado",
+          "Solo dentro de los 6 meses siguientes a su dictado",
+          "Solo durante el plazo de recurso de alzada"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 109.1 permite revocar los actos de gravamen libremente y en cualquier momento, sin el límite temporal de 4 años propio de la lesividad. Esa libertad se justifica porque se trata de actos desfavorables, cuya eliminación no perjudica al destinatario. No obstante, la revocación sigue sujeta a las dos condiciones legales del propio artículo.",
+        "parte": 2,
+        "id": "tema-23-q62"
+      },
+      {
+        "enunciado": "¿Cuáles son las dos condiciones que la Ley 39/2015 exige para que pueda llevarse a cabo la revocación de un acto de gravamen?",
+        "opciones": [
+          "Que no suponga una dispensa o exención no permitida por las leyes y que no sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
+          "Que exista dictamen favorable del Consejo de Estado y que se respete el plazo de 4 años",
+          "Que el interesado lo solicite expresamente y que se tramite en 6 meses",
+          "Que el acto sea nulo de pleno derecho y que lo acuerde el Pleno de la Corporación"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 109 condiciona la revocación a dos límites: no encubrir una dispensa o exención ilegal, y no vulnerar la igualdad, el interés público o el ordenamiento jurídico. Ninguna de estas condiciones exige dictamen consultivo, a diferencia de la revisión de oficio por nulidad. Son requisitos materiales, no procedimentales.",
+        "parte": 2,
+        "id": "tema-23-q63"
+      },
+      {
+        "enunciado": "Señale cuál de las siguientes NO es una condición exigida por el art. 109 para la revocación de actos de gravamen.",
+        "opciones": [
+          "Que exista dictamen previo del Consejo de Estado",
+          "Que no suponga una dispensa o exención no permitida por las leyes",
+          "Que no sea contraria al principio de igualdad",
+          "Que no sea contraria al interés público o al ordenamiento jurídico"
+        ],
+        "correcta": 0,
+        "explicacion": "El dictamen del Consejo de Estado es exigible para la revisión de oficio por nulidad (art. 106), pero no aparece entre las condiciones del art. 109 para la revocación. Esta es una trampa clásica entre ambas instituciones. Las verdaderas condiciones son la no dispensa ilegal y el respeto a la igualdad, el interés público y el ordenamiento.",
+        "parte": 2,
+        "id": "tema-23-q64"
+      },
+      {
+        "enunciado": "¿Tiene el particular un derecho a exigir la revocación de un acto de gravamen que le afecta?",
+        "opciones": [
+          "No, se inicia mediante procedimiento ordinario incoado de oficio, pues de existir tal derecho se convertiría en un recurso administrativo sin límite de plazo",
+          "Sí, puede exigirla en cualquier momento mediante simple solicitud",
+          "Sí, pero solo dentro de los 2 meses siguientes al acto",
+          "Sí, siempre que medie dictamen favorable del Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema advierte expresamente que admitir un derecho del particular a exigir la revocación la transformaría en un recurso administrativo atípico y sin plazo. Por ello el procedimiento se incoa siempre de oficio por la Administración. El interesado, no obstante, conserva el derecho de audiencia dentro del procedimiento.",
+        "parte": 2,
+        "id": "tema-23-q65"
+      },
+      {
+        "enunciado": "¿Qué trámite es obligatorio en el procedimiento de revocación de actos de gravamen?",
+        "opciones": [
+          "La audiencia al interesado",
+          "El dictamen del Consejo de Estado",
+          "La declaración previa de lesividad",
+          "La aprobación del Pleno de la Corporación"
+        ],
+        "correcta": 0,
+        "explicacion": "Aunque la revocación se incoa de oficio y no responde a un derecho del particular, el procedimiento debe garantizar en todo caso la audiencia al interesado. Este trámite es la única exigencia procedimental expresa que recoge el tema. El dictamen consultivo y la lesividad corresponden a otras figuras distintas.",
+        "parte": 2,
+        "id": "tema-23-q66"
+      },
+      {
+        "enunciado": "Al no establecer la ley un plazo máximo específico de tramitación para la revocación de actos de gravamen, ¿qué plazo resulta aplicable?",
+        "opciones": [
+          "3 meses, por aplicación del art. 21.3 de la Ley 39/2015",
+          "6 meses, igual que la revisión de oficio",
+          "4 años, igual que la lesividad",
+          "No existe plazo alguno, puede tramitarse indefinidamente"
+        ],
+        "correcta": 0,
+        "explicacion": "Ante la ausencia de un plazo específico en el art. 109, se aplica el plazo general del art. 21.3 de la Ley 39/2015, fijado en 3 meses. Este dato suele confundirse con los 6 meses de caducidad de la revisión de oficio y la lesividad. Conviene memorizar: revocación 3 meses, revisión de oficio y lesividad 6 meses.",
+        "parte": 2,
+        "id": "tema-23-q67"
+      },
+      {
+        "enunciado": "¿Por qué motivos puede la Administración revocar, extinguir o sustituir un acto de gravamen?",
+        "opciones": [
+          "Por motivos de oportunidad o de legalidad, dictando otro acto posterior de signo contrario",
+          "Únicamente por motivos de legalidad, nunca de oportunidad",
+          "Únicamente por motivos de oportunidad, nunca de legalidad",
+          "Solo cuando medie sentencia judicial firme"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala que la revocación obedece tanto a razones de oportunidad como de legalidad, materializándose en un acto posterior de signo contrario al revocado. No se exige, por tanto, intervención judicial previa. Esta amplitud de causas es coherente con el carácter desfavorable del acto que se elimina.",
+        "parte": 2,
+        "id": "tema-23-q68"
+      },
+      {
+        "enunciado": "Un ciudadano sancionado solicita formalmente a la Administración que revoque la sanción que le fue impuesta, invocando un derecho a obtenerla. ¿Es correcto este planteamiento?",
+        "opciones": [
+          "No, porque no existe un derecho del particular a exigir la revocación, que se inicia de oficio",
+          "Sí, es un derecho subjetivo reconocido expresamente en el art. 109",
+          "Sí, siempre que lo haga dentro de los 4 años siguientes",
+          "Sí, pero solo si el acto es nulo de pleno derecho"
+        ],
+        "correcta": 0,
+        "explicacion": "El particular puede instar a la Administración a que actúe, pero no tiene un derecho exigible a que se revoque el acto, pues la revocación se incoa de oficio. Admitir lo contrario crearía un recurso administrativo paralelo sin plazo. Esta es precisamente la razón que da el tema para excluir dicho derecho.",
+        "parte": 2,
+        "id": "tema-23-q69"
+      },
+      {
+        "enunciado": "¿Qué diferencia existe entre la revocación de actos de gravamen y la revisión de oficio por nulidad en cuanto a la forma de iniciación del procedimiento?",
+        "opciones": [
+          "La revocación solo puede iniciarse de oficio, mientras que la revisión de oficio por nulidad puede iniciarse de oficio o a instancia de parte",
+          "Ambas pueden iniciarse exclusivamente a instancia de parte",
+          "La revocación exige siempre instancia de parte y la revisión de oficio nunca",
+          "No existe diferencia alguna entre ambas"
+        ],
+        "correcta": 0,
+        "explicacion": "La revocación se incoa siempre de oficio, al no existir un derecho del particular a exigirla. La revisión de oficio por nulidad del art. 106, en cambio, admite tanto la iniciativa propia de la Administración como la solicitud del interesado, dando lugar a una verdadera acción de nulidad. Es una diferencia estructural entre ambas figuras.",
+        "parte": 2,
+        "id": "tema-23-q70"
+      },
+      {
+        "enunciado": "¿Qué naturaleza tienen los actos susceptibles de revocación conforme al art. 109.1?",
+        "opciones": [
+          "Actos no declarativos de derechos",
+          "Actos declarativos de derechos favorables",
+          "Disposiciones administrativas de carácter general",
+          "Actos firmes dictados en aplicación de una disposición anulada"
+        ],
+        "correcta": 0,
+        "explicacion": "El precepto se refiere expresamente a actos no declarativos de derechos, esto es, actos de gravamen o desfavorables. Las disposiciones generales y los actos declarativos de derechos quedan fuera de esta figura y se rigen por otras vías (revisión de oficio o lesividad). Es importante no mezclar el objeto de cada institución.",
+        "parte": 2,
+        "id": "tema-23-q71"
+      },
+      {
+        "enunciado": "En relación con la revocación de actos de gravamen, señale la afirmación correcta.",
+        "opciones": [
+          "Puede llevarse a cabo libremente y en cualquier momento, sin el plazo de caducidad de 4 años propio de otras instituciones",
+          "Está sujeta a un plazo de caducidad de 4 años desde que se dictó el acto",
+          "Requiere dictamen favorable del Consejo de Estado u órgano consultivo equivalente",
+          "Solo puede acordarla el Pleno de la Corporación en el caso de entidades locales"
+        ],
+        "correcta": 0,
+        "explicacion": "La revocación no está sometida al plazo de 4 años de la lesividad ni al dictamen consultivo de la revisión de oficio por nulidad; su único límite temporal indirecto es el plazo de tramitación de 3 meses del art. 21.3. El órgano competente para acordar la revocación es, con carácter general, el propio órgano que dictó el acto o su superior jerárquico, sin exigencia especial de Pleno.",
+        "parte": 2,
+        "id": "tema-23-q72"
+      },
+      {
+        "enunciado": "Si la Administración revocase un acto desfavorable concediendo con ello una exención tributaria no permitida por la ley, ¿sería válida dicha revocación?",
+        "opciones": [
+          "No, porque una de las condiciones del art. 109 es que la revocación no suponga una dispensa o exención no permitida por las leyes",
+          "Sí, siempre que se tramite dentro de los 3 meses del art. 21.3",
+          "Sí, porque la revocación de actos de gravamen es siempre libre y sin condiciones",
+          "No, porque tal revocación exigiría dictamen previo del Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 109 prohíbe expresamente que la revocación encubra una dispensa o exención no amparada legalmente. Esta condición material limita la aparente libertad absoluta de la revocación. El plazo de 3 meses regula la tramitación, no la validez sustantiva de la decisión.",
+        "parte": 2,
+        "id": "tema-23-q73"
+      },
+      {
+        "enunciado": "¿Cómo se materializa jurídicamente la revocación de un acto de gravamen?",
+        "opciones": [
+          "Mediante un acto posterior de signo contrario al revocado",
+          "Mediante una declaración de lesividad",
+          "Mediante una rectificación de errores materiales",
+          "Mediante una acción de nulidad presentada por el interesado"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema describe la revocación como el dictado de un acto posterior de signo contrario al acto de gravamen que se extingue o sustituye. No se trata, por tanto, de una mera corrección de errores ni de una declaración de lesividad, figuras reservadas a otros supuestos. Es una categoría propia dentro de la dinámica de los actos administrativos.",
+        "parte": 2,
+        "id": "tema-23-q74"
+      },
+      {
+        "enunciado": "¿En qué momento puede la Administración rectificar los errores materiales, de hecho o aritméticos de sus actos conforme al art. 109.2?",
+        "opciones": [
+          "En cualquier momento, de oficio o a instancia de los interesados",
+          "Solo dentro de los 3 meses siguientes a dictarse el acto",
+          "Solo dentro de los 4 años siguientes al acto",
+          "Solo de oficio, nunca a instancia de parte"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 109.2 permite la rectificación en cualquier momento, sin sujeción a plazo, y admite tanto la iniciativa de oficio como la de los interesados. Esta amplitud contrasta con los plazos tasados de la revocación (3 meses) y la lesividad (4 años). Se trata de una potestad casi permanente al servicio de la exactitud formal del acto.",
+        "parte": 2,
+        "id": "tema-23-q75"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes es una característica del error material según el tema?",
+        "opciones": [
+          "Debe ser una simple equivocación evidente de nombres, fechas, operaciones aritméticas o transcripciones de documentos",
+          "Debe implicar necesariamente una calificación jurídica distinta del acto",
+          "Solo puede valorarse recurriendo a documentación ajena al expediente",
+          "Su corrección produce siempre la anulación del acto"
+        ],
+        "correcta": 0,
+        "explicacion": "El error material se define como una equivocación evidente en nombres, fechas, cálculos o transcripciones, por oposición al error jurídico o de concepto. Las otras opciones describen justamente lo contrario de sus rasgos: no exige calificación jurídica, se valora solo con el expediente y no debe anular el acto.",
+        "parte": 2,
+        "id": "tema-23-q76"
+      },
+      {
+        "enunciado": "Para distinguir el error material del error jurídico o de concepto, ¿qué tipo de interpretación exige el tema?",
+        "opciones": [
+          "Una interpretación estricta",
+          "Una interpretación extensiva y analógica",
+          "La intervención previa del Consejo de Estado",
+          "La declaración previa de lesividad"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema subraya que es preciso ofrecer una interpretación estricta del concepto de error material para evitar que, por esta vía simplificada, se corrijan en realidad errores de fondo o de calificación jurídica. Una interpretación extensiva desvirtuaría la figura y la convertiría en un cauce encubierto de revisión sustantiva.",
+        "parte": 2,
+        "id": "tema-23-q77"
+      },
+      {
+        "enunciado": "¿Debe el error material ser discutible o requerir pruebas complejas para su apreciación?",
+        "opciones": [
+          "No, ha de ser indiscutible, claro y manifiesto o notorio, sin necesidad de mayores argumentos, pruebas o demostraciones",
+          "Sí, requiere siempre un dictamen técnico pericial",
+          "Sí, debe acreditarse mediante prueba documental ajena al expediente",
+          "Sí, exige un juicio de valor previo del órgano competente"
+        ],
+        "correcta": 0,
+        "explicacion": "Una de las notas esenciales del error material es precisamente su carácter indiscutible, claro y notorio, apreciable sin mayor esfuerzo probatorio. Si hiciera falta un dictamen pericial o una valoración compleja, ya no estaríamos ante un error material sino ante una cuestión de fondo ajena a esta figura.",
+        "parte": 2,
+        "id": "tema-23-q78"
+      },
+      {
+        "enunciado": "¿Con qué datos ha de valorarse la existencia de un error material?",
+        "opciones": [
+          "Exclusivamente con los datos del expediente en que se advierte, sin necesidad de acudir a otra documentación",
+          "Con datos externos al expediente aportados por el interesado",
+          "Con el dictamen preceptivo del Consejo de Estado",
+          "Con la declaración de lesividad previa"
+        ],
+        "correcta": 0,
+        "explicacion": "La valoración del error material debe bastarse con los datos que ya constan en el expediente, sin precisar documentación externa adicional. Esta limitación refuerza la idea de que se trata de una corrección formal y evidente, no de una revisión sustantiva que exigiría nuevas pruebas o dictámenes.",
+        "parte": 2,
+        "id": "tema-23-q79"
+      },
+      {
+        "enunciado": "¿Puede la rectificación de un error material conllevar un juicio de valor o una calificación jurídica distinta?",
+        "opciones": [
+          "No, su valoración o apreciación no debe conllevar un juicio de valor ni exigir una calificación jurídica",
+          "Sí, siempre exige una calificación jurídica distinta de la original",
+          "Sí, pero únicamente cuando lo inste el interesado",
+          "Sí, cuando el error afecte a más de un acto administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "Si la corrección exigiera un juicio de valor o una nueva calificación jurídica, dejaría de ser un simple error material y pasaría a ser una cuestión de fondo, ajena a esta vía. Esta nota distingue con claridad la rectificación de errores de la revisión de oficio o de la revocación.",
+        "parte": 2,
+        "id": "tema-23-q80"
+      },
+      {
+        "enunciado": "¿Qué efecto NO puede producir legítimamente la rectificación de un error material?",
+        "opciones": [
+          "La anulación, revocación o una alteración fundamental en el sentido del acto administrativo",
+          "La corrección de una fecha mal transcrita en la resolución",
+          "La corrección de una operación aritmética mal realizada",
+          "La corrección del nombre de un interesado mal consignado"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema establece como límite expreso que la rectificación no puede producir la anulación, revocación o alteración fundamental del sentido del acto. Las otras opciones son, precisamente, ejemplos típicos de errores materiales admisibles: fechas, operaciones aritméticas y nombres mal transcritos.",
+        "parte": 2,
+        "id": "tema-23-q81"
+      },
+      {
+        "enunciado": "Respecto a los aspectos formales de la rectificación de errores materiales, señale la afirmación correcta.",
+        "opciones": [
+          "No se requiere observar ningún procedimiento específico, salvo el trámite inexcusable de audiencia al interesado",
+          "Debe tramitarse mediante el procedimiento ordinario con dictamen del Consejo de Estado",
+          "Exige necesariamente la declaración previa de lesividad",
+          "Solo puede acordarla el Pleno de la Corporación"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema indica que no se exige un procedimiento específico para rectificar errores materiales, siendo el único trámite inexcusable la audiencia al interesado. No se requiere dictamen consultivo, declaración de lesividad ni intervención de órganos colegiados específicos como el Pleno.",
+        "parte": 2,
+        "id": "tema-23-q82"
+      },
+      {
+        "enunciado": "¿Existe un plazo máximo para efectuar la rectificación de errores materiales, de hecho o aritméticos?",
+        "opciones": [
+          "No, puede efectuarse en cualquier momento, sin plazo para su realización",
+          "Sí, 3 meses conforme al art. 21.3",
+          "Sí, 6 meses desde el inicio del procedimiento",
+          "Sí, 4 años desde que se dictó el acto"
+        ],
+        "correcta": 0,
+        "explicacion": "A diferencia de la revocación (3 meses de tramitación) y de la lesividad (4 años para iniciarla y 6 meses de caducidad), la rectificación de errores materiales carece de plazo, pudiendo efectuarse en cualquier momento. Esta ausencia de plazo es una de sus notas distintivas más preguntadas.",
+        "parte": 2,
+        "id": "tema-23-q83"
+      },
+      {
+        "enunciado": "¿Quién puede instar la rectificación de errores materiales en un acto administrativo?",
+        "opciones": [
+          "Tanto la propia Administración de oficio como cualquier interesado a su instancia",
+          "Únicamente la Administración de oficio",
+          "Únicamente el interesado, nunca de oficio",
+          "Únicamente el Consejo de Estado mediante dictamen"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 109.2 permite expresamente que la rectificación se lleve a cabo de oficio o a instancia de cualquier interesado, sin limitación a una sola vía. Esta doble iniciativa facilita la corrección rápida de errores evidentes, a diferencia de la revocación, que solo se inicia de oficio.",
+        "parte": 2,
+        "id": "tema-23-q84"
+      },
+      {
+        "enunciado": "Un funcionario advierte que en una resolución notificada se ha transcrito erróneamente el número del DNI del interesado. ¿Qué mecanismo procede?",
+        "opciones": [
+          "La rectificación de errores materiales del art. 109.2, sin necesidad de procedimiento específico más allá de la audiencia al interesado",
+          "La revocación del acto por tratarse de un acto de gravamen",
+          "La declaración de lesividad, al tratarse de un acto anulable",
+          "La revisión de oficio por nulidad de pleno derecho"
+        ],
+        "correcta": 0,
+        "explicacion": "Un dato mal transcrito como el DNI es el ejemplo paradigmático de error material: evidente, indiscutible y valorable solo con el expediente. Procede su rectificación conforme al art. 109.2, con audiencia al interesado, sin necesidad de recurrir a revocación, lesividad o revisión de oficio.",
+        "parte": 2,
+        "id": "tema-23-q85"
+      },
+      {
+        "enunciado": "¿Qué trámite inexcusable debe cumplir la Administración al rectificar un error material, aunque no exista procedimiento específico regulado?",
+        "opciones": [
+          "Otorgar audiencia al interesado",
+          "Recabar dictamen del Consejo de Estado",
+          "Declarar previamente la lesividad del acto",
+          "Someterlo a aprobación del Pleno de la Corporación"
+        ],
+        "correcta": 0,
+        "explicacion": "Aunque no exista un procedimiento tasado para la rectificación de errores materiales, el tema remarca que la audiencia al interesado es el único trámite que la Administración debe cumplir de forma inexcusable. Esto garantiza mínimamente la contradicción antes de la corrección.",
+        "parte": 2,
+        "id": "tema-23-q86"
+      },
+      {
+        "enunciado": "Si la corrección de un supuesto 'error material' terminase alterando fundamentalmente el sentido de la resolución, ¿sería correcto calificarlo como tal?",
+        "opciones": [
+          "No, porque el error material no puede producir una alteración fundamental en el sentido del acto, lo que indicaría que en realidad se trata de un error de fondo",
+          "Sí, siempre que se tramite dentro de los 3 meses del art. 21.3",
+          "Sí, porque la rectificación de errores no tiene límites materiales",
+          "No, salvo que medie dictamen favorable del Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema fija como límite material que la rectificación no puede alterar fundamentalmente el sentido del acto. Si la corrección produjera ese efecto, estaríamos ante un error de fondo o de concepto, que exigiría acudir a otras vías como la revisión de oficio o la revocación, no a la simple rectificación.",
+        "parte": 2,
+        "id": "tema-23-q87"
+      },
+      {
+        "enunciado": "Compare la revocación de actos de gravamen con la rectificación de errores materiales en cuanto a su objeto.",
+        "opciones": [
+          "La revocación extingue o sustituye el acto desfavorable por motivos de oportunidad o legalidad, mientras que la rectificación solo corrige una equivocación evidente sin alterar el fondo del acto",
+          "Ambas instituciones persiguen exactamente el mismo fin y pueden usarse indistintamente",
+          "La rectificación siempre exige dictamen del Consejo de Estado y la revocación nunca",
+          "La revocación solo corrige errores aritméticos y la rectificación extingue actos de gravamen"
+        ],
+        "correcta": 0,
+        "explicacion": "Pese a regularse ambas en el art. 109, tienen objetos distintos: la revocación sustituye o extingue un acto de gravamen por razones de fondo (oportunidad o legalidad), mientras que la rectificación se limita a corregir equivocaciones evidentes sin tocar el fondo del acto. Confundirlas es uno de los errores más frecuentes en el estudio del tema.",
+        "parte": 2,
+        "id": "tema-23-q88"
+      },
+      {
+        "enunciado": "¿Qué tipo de actos pueden ser declarados lesivos conforme al art. 107 de la Ley 39/2015?",
+        "opciones": [
+          "Los actos favorables para los interesados que sean anulables conforme al art. 48 de la Ley",
+          "Los actos desfavorables o de gravamen para los interesados",
+          "Únicamente los actos nulos de pleno derecho",
+          "Las disposiciones administrativas de carácter general"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.1 reserva la declaración de lesividad a los actos favorables para los interesados que incurran en causa de anulabilidad (art. 48). Los actos desfavorables se gestionan mediante revocación, y los actos nulos de pleno derecho mediante revisión de oficio del art. 106.",
+        "parte": 2,
+        "id": "tema-23-q89"
+      },
+      {
+        "enunciado": "¿Con qué finalidad declara la Administración lesivo un acto favorable y anulable?",
+        "opciones": [
+          "Para proceder a su ulterior impugnación ante el orden jurisdiccional contencioso-administrativo",
+          "Para revocarlo directamente sin intervención judicial",
+          "Para rectificar un error material contenido en él",
+          "Para que el Consejo de Estado lo anule mediante dictamen vinculante"
+        ],
+        "correcta": 0,
+        "explicacion": "La declaración de lesividad es un presupuesto procesal: habilita a la propia Administración a impugnar ante los Tribunales contencioso-administrativos un acto favorable que considera anulable. La Administración no puede anularlo por sí misma, a diferencia de lo que ocurre con la revisión de oficio por nulidad.",
+        "parte": 2,
+        "id": "tema-23-q90"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo para declarar la lesividad de un acto desde que este se dictó?",
+        "opciones": [
+          "4 años",
+          "6 meses",
+          "2 meses",
+          "3 meses"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.2 fija en 4 años el plazo máximo desde que se dictó el acto para poder declararlo lesivo. Los 6 meses corresponden al plazo de caducidad del propio procedimiento de lesividad, y los 2 meses al plazo posterior para impugnar ante los Tribunales.",
+        "parte": 2,
+        "id": "tema-23-q91"
+      },
+      {
+        "enunciado": "¿Qué trámite exige necesariamente la declaración de lesividad, conforme al art. 107.2?",
+        "opciones": [
+          "La previa audiencia de cuantos aparezcan como interesados, en los términos del art. 82",
+          "El dictamen favorable y vinculante del Consejo de Estado",
+          "La aprobación previa del Consejo de Ministros en todo caso",
+          "La publicación previa en el Boletín Oficial del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.2 exige la previa audiencia de cuantos aparezcan como interesados en el acto, conforme al art. 82 de la Ley 39/2015. A diferencia de la revisión de oficio por nulidad, la lesividad no requiere dictamen del Consejo de Estado ni aprobación del Consejo de Ministros.",
+        "parte": 2,
+        "id": "tema-23-q92"
+      },
+      {
+        "enunciado": "¿Qué ocurre si transcurren 6 meses desde la iniciación del procedimiento de lesividad sin que se haya declarado la lesividad?",
+        "opciones": [
+          "Se produce la caducidad del procedimiento",
+          "Se entiende declarada la lesividad por silencio administrativo",
+          "El acto queda automáticamente revocado",
+          "Se abre un nuevo plazo de 4 años"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.3 establece que el transcurso de 6 meses desde la iniciación del procedimiento sin declararse la lesividad produce su caducidad. No cabe entender la lesividad declarada por silencio, ya que el silencio en este caso juega en sentido negativo, al igual que en la revisión de oficio iniciada de oficio.",
+        "parte": 2,
+        "id": "tema-23-q93"
+      },
+      {
+        "enunciado": "Si el acto proviene de la Administración General del Estado o de una Comunidad Autónoma, ¿qué órgano adopta la declaración de lesividad?",
+        "opciones": [
+          "El órgano de cada Administración competente en la materia",
+          "Necesariamente el Consejo de Ministros",
+          "El Consejo de Estado u órgano consultivo equivalente",
+          "Siempre el Pleno de la Corporación"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.4 atribuye la competencia, en estos casos, al órgano de cada Administración que sea competente en la materia sobre la que recae el acto, sin exigir en todo caso la intervención del Consejo de Ministros ni de un órgano consultivo. El Pleno de la Corporación solo entra en juego en el ámbito local.",
+        "parte": 2,
+        "id": "tema-23-q94"
+      },
+      {
+        "enunciado": "Si el acto proviene de una entidad integrante de la Administración Local, ¿qué órgano adopta, con carácter general, la declaración de lesividad?",
+        "opciones": [
+          "El Pleno de la Corporación o, en su defecto, el órgano colegiado superior de la entidad",
+          "El Alcalde en todo caso",
+          "El órgano de cada Administración competente en la materia, igual que en el Estado o las CCAA",
+          "El Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.5 atribuye esta competencia al Pleno de la Corporación o, en su defecto, al órgano colegiado superior de la entidad local. Es una regla específica para la Administración Local que no coincide con la regla general del art. 107.4 aplicable al Estado y las Comunidades Autónomas.",
+        "parte": 2,
+        "id": "tema-23-q95"
+      },
+      {
+        "enunciado": "Una vez declarada la lesividad de un acto, ¿de cuánto tiempo dispone la Administración para impugnarlo ante los Tribunales?",
+        "opciones": [
+          "2 meses siguientes a la declaración de lesividad",
+          "6 meses siguientes a la declaración de lesividad",
+          "4 años siguientes al acto originario",
+          "3 meses, por aplicación del art. 21.3"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema señala expresamente que la impugnación ante los Tribunales debe realizarse dentro de los 2 meses siguientes a la declaración de lesividad. Este plazo es distinto del de 4 años (para declarar la lesividad) y del de 6 meses (caducidad del procedimiento de lesividad), por lo que es habitual que se confundan en el examen.",
+        "parte": 2,
+        "id": "tema-23-q96"
+      },
+      {
+        "enunciado": "¿Puede la Administración anular por sí misma, mediante potestad revisora propia, un acto favorable y anulable una vez declarada su lesividad?",
+        "opciones": [
+          "No, se elimina la potestad revisora de la Administración sobre los actos anulables, que han de impugnarse ante los Tribunales de Justicia",
+          "Sí, la declaración de lesividad produce por sí misma la anulación del acto",
+          "Sí, siempre que medie dictamen favorable del Consejo de Estado",
+          "Sí, pero solo si el acto proviene de la Administración Local"
+        ],
+        "correcta": 0,
+        "explicacion": "El sistema actual elimina la potestad revisora de la Administración respecto de los actos anulables: la declaración de lesividad no anula el acto, solo abre la puerta a su impugnación judicial. Es el juez, y no la Administración, quien finalmente decide sobre la anulación.",
+        "parte": 2,
+        "id": "tema-23-q97"
+      },
+      {
+        "enunciado": "¿Qué consecuencia general se produce respecto a la revisión de oficio de los actos que infringen gravemente normas de rango legal o reglamentario (actos anulables)?",
+        "opciones": [
+          "Desaparece la posibilidad de revisarlos de oficio por la propia Administración, remitiéndose su eliminación del tráfico jurídico a la jurisdicción contencioso-administrativa",
+          "Se amplía la posibilidad de revisarlos de oficio en cualquier momento",
+          "Se les aplica directamente el régimen del art. 106 de nulidad de pleno derecho",
+          "Pasan a resolverse exclusivamente por rectificación de errores materiales"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema destaca que desaparece la revisión de oficio directa de los actos anulables, unificándose el sistema mediante la remisión de su eliminación a la jurisdicción contencioso-administrativa, previa declaración de lesividad. Esto refuerza las garantías judiciales frente a la actuación unilateral de la Administración.",
+        "parte": 2,
+        "id": "tema-23-q98"
+      },
+      {
+        "enunciado": "¿Puede un ciudadano instar directamente ante la Administración la vía de la potestad revisora respecto de un acto anulable que favorezca a otro interesado?",
+        "opciones": [
+          "No, se elimina la utilización por los ciudadanos de instar la vía de la potestad revisora de la Administración en estos supuestos",
+          "Sí, mediante una acción de nulidad igual que en los actos nulos de pleno derecho",
+          "Sí, dentro del plazo de 4 años",
+          "Sí, pero solo ante el Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "A diferencia de la revisión de oficio por nulidad, donde cabe una verdadera acción de nulidad instada por el interesado, en el ámbito de la lesividad se elimina esa posibilidad para los ciudadanos: la declaración de lesividad solo puede iniciarse de oficio por la propia Administración.",
+        "parte": 2,
+        "id": "tema-23-q99"
+      },
+      {
+        "enunciado": "¿Por qué se afirma que con el sistema de la lesividad se busca 'aumentar las garantías de los particulares'?",
+        "opciones": [
+          "Porque se unifica el sistema de los actos anulables remitiendo su eliminación a una decisión judicial, previa declaración de lesividad por la Administración",
+          "Porque se elimina cualquier control sobre los actos anulables",
+          "Porque se amplía el plazo de revisión de oficio a 10 años",
+          "Porque se suprime la necesidad de audiencia al interesado"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema explica que remitir la eliminación de los actos anulables a una decisión judicial, en lugar de a la pura potestad revisora de la Administración, busca precisamente aumentar las garantías de los particulares. La audiencia al interesado se mantiene como trámite esencial, no se suprime.",
+        "parte": 2,
+        "id": "tema-23-q100"
+      },
+      {
+        "enunciado": "Un acto administrativo favorable para un particular, dictado hace 5 años, resulta ser anulable. ¿Puede la Administración declararlo lesivo?",
+        "opciones": [
+          "No, porque han transcurrido más de 4 años desde que se dictó el acto, plazo máximo para declarar la lesividad",
+          "Sí, el plazo de 4 años es solo orientativo",
+          "Sí, porque el plazo para declarar la lesividad es de 6 meses y aún no han transcurrido",
+          "Sí, porque no existe plazo para declarar la lesividad"
+        ],
+        "correcta": 0,
+        "explicacion": "Transcurridos los 4 años que fija el art. 107.2 desde que se dictó el acto, la Administración ya no puede declararlo lesivo, por lo que el acto favorable, aunque fuera anulable, queda definitivamente consolidado. Este plazo es de caducidad para la propia declaración, no un plazo meramente orientativo.",
+        "parte": 2,
+        "id": "tema-23-q101"
+      },
+      {
+        "enunciado": "¿Qué tipo de invalidez afecta a los actos que pueden declararse lesivos conforme al art. 107?",
+        "opciones": [
+          "La anulabilidad, conforme al art. 48 de la Ley 39/2015",
+          "La nulidad de pleno derecho, conforme al art. 47.1",
+          "La nulidad de las disposiciones administrativas, conforme al art. 47.2",
+          "Cualquier tipo de invalidez, sin distinción"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.1 remite expresamente al art. 48 de la Ley 39/2015, que regula la anulabilidad, como causa de invalidez de los actos susceptibles de declaración de lesividad. Los actos nulos de pleno derecho (art. 47) se revisan, en cambio, por la vía del art. 106.",
+        "parte": 2,
+        "id": "tema-23-q102"
+      },
+      {
+        "enunciado": "¿Puede declararse lesivo un acto desfavorable o de gravamen para su destinatario?",
+        "opciones": [
+          "No, la declaración de lesividad solo opera respecto de actos favorables para los interesados que sean anulables",
+          "Sí, es precisamente su supuesto natural de aplicación",
+          "Sí, siempre que haya transcurrido el plazo de 3 meses",
+          "Sí, pero solo si proviene de la Administración Local"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107 circunscribe la lesividad a los actos favorables para los interesados. Los actos desfavorables o de gravamen tienen su propio cauce de eliminación: la revocación del art. 109, que es libre y no requiere declaración de lesividad ni intervención judicial.",
+        "parte": 2,
+        "id": "tema-23-q103"
+      },
+      {
+        "enunciado": "¿Ante qué orden jurisdiccional debe impugnarse el acto una vez declarada su lesividad?",
+        "opciones": [
+          "Ante el orden jurisdiccional contencioso-administrativo",
+          "Ante el orden jurisdiccional civil",
+          "Ante el Consejo de Estado, en vía administrativa",
+          "Ante el Tribunal Constitucional"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.1 señala que la finalidad de la declaración de lesividad es permitir la ulterior impugnación del acto ante el orden jurisdiccional contencioso-administrativo, único competente para conocer de la validez de los actos de las Administraciones Públicas en esta materia.",
+        "parte": 2,
+        "id": "tema-23-q104"
+      },
+      {
+        "enunciado": "¿Es necesario un dictamen del Consejo de Estado u órgano consultivo equivalente para declarar la lesividad de un acto?",
+        "opciones": [
+          "No, la declaración de lesividad no exige dictamen de dicho órgano consultivo, a diferencia de la revisión de oficio por nulidad",
+          "Sí, es un dictamen preceptivo y vinculante, igual que en la revisión de oficio por nulidad",
+          "Sí, pero solo cuando el acto provenga de la Administración Local",
+          "Sí, aunque con carácter no vinculante"
+        ],
+        "correcta": 0,
+        "explicacion": "A diferencia de la revisión de oficio por nulidad del art. 106, que exige dictamen favorable del Consejo de Estado u órgano consultivo equivalente, el art. 107 no impone tal exigencia para la declaración de lesividad. La propia tabla comparativa del tema recoge esta diferencia bajo la etiqueta 'No dictamen'.",
+        "parte": 2,
+        "id": "tema-23-q105"
+      },
+      {
+        "enunciado": "¿Puede iniciarse el procedimiento de declaración de lesividad a instancia de un interesado?",
+        "opciones": [
+          "No, la declaración de lesividad solo puede iniciarse de oficio por la Administración",
+          "Sí, igual que la revisión de oficio por nulidad, que admite ambas formas de iniciación",
+          "Sí, cualquier ciudadano puede instarla dentro del plazo de 4 años",
+          "Sí, pero solo los interesados que resultaron perjudicados por el acto favorable"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla comparativa del tema identifica como forma de iniciación de la lesividad 'sólo de oficio', frente a la revisión de oficio por nulidad, que admite iniciación de oficio o a instancia de parte. Ningún particular puede, por tanto, instar la declaración de lesividad.",
+        "parte": 2,
+        "id": "tema-23-q106"
+      },
+      {
+        "enunciado": "En el procedimiento de declaración de lesividad, ¿a quién debe darse audiencia?",
+        "opciones": [
+          "A cuantos aparezcan como interesados en el acto, en los términos del art. 82 de la Ley 39/2015",
+          "Únicamente al Consejo de Estado",
+          "Únicamente al Ministerio Fiscal",
+          "A ningún interesado, pues se trata de un procedimiento exclusivamente interno"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 107.2 exige la previa audiencia de cuantos aparezcan como interesados en el acto, remitiéndose al régimen general del art. 82 de la Ley 39/2015. Este trámite es, junto con los plazos de 4 años y 6 meses, uno de los elementos más preguntados del procedimiento de lesividad.",
+        "parte": 2,
+        "id": "tema-23-q107"
+      },
+      {
+        "enunciado": "Señale la afirmación incorrecta sobre la declaración de lesividad.",
+        "opciones": [
+          "Produce por sí misma la anulación del acto, sin necesidad de intervención judicial",
+          "No puede adoptarse una vez transcurridos 4 años desde que se dictó el acto",
+          "El procedimiento caduca si transcurren 6 meses desde su iniciación sin declararse la lesividad",
+          "Debe impugnarse ante los Tribunales dentro de los 2 meses siguientes a su declaración"
+        ],
+        "correcta": 0,
+        "explicacion": "La declaración de lesividad no anula el acto por sí misma; únicamente abre la vía para que la Administración lo impugne ante los Tribunales, que son los únicos competentes para declarar su anulación. Las demás afirmaciones (4 años, 6 meses y 2 meses) sí son correctas conforme al art. 107.",
+        "parte": 2,
+        "id": "tema-23-q108"
+      },
+      {
+        "enunciado": "¿Qué relación guarda la declaración de lesividad con la ulterior impugnación ante la jurisdicción contencioso-administrativa?",
+        "opciones": [
+          "La declaración de lesividad es el presupuesto necesario para que la Administración pueda luego impugnar el acto ante dicha jurisdicción",
+          "Son trámites independientes que pueden sustituirse entre sí",
+          "La impugnación judicial la interpone el propio interesado afectado, no la Administración",
+          "La impugnación judicial sustituye a la audiencia previa del interesado"
+        ],
+        "correcta": 0,
+        "explicacion": "La declaración de lesividad no es un fin en sí misma, sino el presupuesto procesal imprescindible para que la Administración pueda luego acudir a los Tribunales a impugnar el acto que considera anulable. Sin esa previa declaración, la Administración carecería de legitimación para esa impugnación.",
+        "parte": 2,
+        "id": "tema-23-q109"
+      },
+      {
+        "enunciado": "¿Qué sucede, en definitiva, con la posibilidad de revisión de oficio de los actos anulables tras la regulación vigente de la Ley 39/2015?",
+        "opciones": [
+          "Desaparece dicha posibilidad respecto de la propia Administración, unificándose el sistema mediante la remisión a la jurisdicción contencioso-administrativa previa declaración de lesividad",
+          "Se mantiene intacta, igual que para los actos nulos de pleno derecho",
+          "Se amplía, permitiendo también su revisión de oficio por silencio administrativo",
+          "Se sustituye por la rectificación de errores materiales del art. 109.2"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema concluye que desaparece la posibilidad de que la Administración revise de oficio, por sí misma, los actos anulables; el sistema queda unificado remitiendo su eliminación del tráfico jurídico a los Tribunales, previa declaración de lesividad. Esto diferencia radicalmente el tratamiento de la nulidad frente a la anulabilidad.",
+        "parte": 2,
+        "id": "tema-23-q110"
+      },
+      {
+        "enunciado": "Según la tabla comparativa del tema, ¿qué causa de invalidez corresponde, respectivamente, a la revisión de oficio y a la declaración de lesividad?",
+        "opciones": [
+          "La revisión de oficio se basa en la nulidad y la declaración de lesividad en la anulabilidad",
+          "Ambas se basan en la nulidad de pleno derecho",
+          "La revisión de oficio se basa en la anulabilidad y la lesividad en la nulidad",
+          "Ambas se basan exclusivamente en la anulabilidad"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla resumen asigna a la revisión de oficio la causa de nulidad (art. 47) y a la declaración de lesividad la causa de anulabilidad (art. 48). Esta correspondencia es el eje central de todo el sistema comparado entre ambas instituciones.",
+        "parte": 2,
+        "id": "tema-23-q111"
+      },
+      {
+        "enunciado": "En cuanto al tipo de actos afectados, ¿qué diferencia marca la tabla entre la revisión de oficio y la declaración de lesividad?",
+        "opciones": [
+          "La revisión de oficio abarca actos y disposiciones, mientras que la lesividad solo afecta a actos",
+          "La revisión de oficio solo afecta a actos y la lesividad a actos y disposiciones",
+          "Ambas abarcan únicamente disposiciones de carácter general",
+          "Ambas abarcan únicamente actos administrativos, sin diferencia alguna"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla resumen distingue que la revisión de oficio comprende tanto actos como disposiciones generales, mientras que la declaración de lesividad se circunscribe exclusivamente a actos administrativos, sin extenderse a disposiciones. Es otra de las diferencias estructurales entre ambas figuras.",
+        "parte": 2,
+        "id": "tema-23-q112"
+      },
+      {
+        "enunciado": "¿Cómo puede iniciarse el procedimiento de revisión de oficio y cómo el de declaración de lesividad, según la tabla comparativa?",
+        "opciones": [
+          "La revisión de oficio puede iniciarse de oficio o a instancia de parte, mientras que la lesividad solo puede iniciarse de oficio",
+          "Ambas solo pueden iniciarse de oficio",
+          "Ambas pueden iniciarse de oficio o a instancia de parte indistintamente",
+          "La revisión de oficio solo a instancia de parte y la lesividad solo de oficio"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla distingue claramente la forma de iniciación: la revisión de oficio admite ambas vías (de oficio o a instancia de parte, dando lugar a la acción de nulidad), mientras que la lesividad solo puede iniciarse de oficio por la propia Administración.",
+        "parte": 2,
+        "id": "tema-23-q113"
+      },
+      {
+        "enunciado": "Respecto al plazo de inicio del procedimiento, ¿qué establece la tabla comparativa para cada figura?",
+        "opciones": [
+          "La revisión de oficio no tiene plazo de inicio ('en cualquier momento'), mientras que la lesividad debe iniciarse dentro de los 4 años desde que se dictó el acto",
+          "Ambas deben iniciarse dentro de los 4 años desde el acto",
+          "La revisión de oficio tiene un plazo de 4 años y la lesividad no tiene plazo",
+          "Ambas deben iniciarse dentro de los 6 meses desde el acto"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla resumen recoge que la revisión de oficio carece de plazo de inicio, pudiendo acordarse 'en cualquier momento', mientras que la declaración de lesividad está sujeta al plazo máximo de 4 años desde que se dictó el acto. Es uno de los contrastes más preguntados del tema.",
+        "parte": 2,
+        "id": "tema-23-q114"
+      },
+      {
+        "enunciado": "En cuanto a la necesidad de dictamen del órgano consultivo (Consejo de Estado u equivalente), ¿qué diferencia marca la tabla entre ambas figuras?",
+        "opciones": [
+          "La revisión de oficio exige dictamen favorable para declarar la nulidad (aunque no para inadmitir), mientras que la declaración de lesividad no exige dictamen",
+          "Ambas exigen dictamen preceptivo y vinculante en todo caso",
+          "La lesividad exige dictamen y la revisión de oficio no exige ninguno",
+          "Ninguna de las dos figuras exige dictamen en ningún supuesto"
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla distingue que la revisión de oficio exige dictamen favorable del órgano consultivo para poder declarar la nulidad (no así para la inadmisión a trámite), mientras que la lesividad no exige dictamen de ningún tipo. Es una diferencia procedimental relevante entre ambas instituciones.",
+        "parte": 2,
+        "id": "tema-23-q115"
+      },
+      {
+        "enunciado": "¿Coincide el plazo de resolución (caducidad del procedimiento) entre la revisión de oficio y la declaración de lesividad según la tabla?",
+        "opciones": [
+          "Sí, en ambos casos el plazo de resolución es de 6 meses",
+          "No, la revisión de oficio es de 3 meses y la lesividad de 6 meses",
+          "No, la revisión de oficio es de 6 meses y la lesividad de 4 años",
+          "No, la revisión de oficio es de 2 meses y la lesividad de 6 meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Pese a sus diferencias en causas, tipos de actos y forma de iniciación, ambas figuras coinciden en que el plazo de resolución (y caducidad del procedimiento) es de 6 meses. No debe confundirse este plazo con los 3 meses de la revocación ni con los 4 años o 2 meses propios de la lesividad.",
+        "parte": 2,
+        "id": "tema-23-q116"
+      },
+      {
+        "enunciado": "¿Cuáles son los efectos de la resolución en la revisión de oficio, según la tabla comparativa?",
+        "opciones": [
+          "Deja sin efecto por sí misma el acto nulo o la disposición, con efectos ex tunc",
+          "Declara lesivo el acto, debiendo acudirse después al juez para que lo anule",
+          "Rectifica el error material sin alterar el fondo del acto",
+          "Revoca el acto de gravamen sustituyéndolo por otro de signo contrario"
+        ],
+        "correcta": 0,
+        "explicacion": "La resolución de la revisión de oficio por nulidad deja sin efecto por sí misma el acto nulo o la disposición, con efectos retroactivos (ex tunc) salvo los actos firmes dictados en su aplicación. En la lesividad, en cambio, la resolución no anula nada, solo habilita la vía judicial.",
+        "parte": 2,
+        "id": "tema-23-q117"
+      },
+      {
+        "enunciado": "¿Cuáles son los efectos de la resolución en la declaración de lesividad, según la tabla comparativa?",
+        "opciones": [
+          "Declara lesivo el acto y obliga a acudir al juez para que lo anule, sin que la propia Administración lo anule por sí misma",
+          "Deja sin efecto por sí misma el acto, con efectos ex tunc",
+          "Deja sin efecto por sí misma el acto, con efectos ex nunc",
+          "Produce automáticamente la nulidad de pleno derecho del acto"
+        ],
+        "correcta": 0,
+        "explicacion": "A diferencia de la revisión de oficio, cuya resolución extingue directamente el acto, la resolución de la lesividad solo declara el acto lesivo, siendo necesario acudir después al juez contencioso-administrativo para que decida sobre su anulación. Este contraste resume la diferencia esencial entre ambas figuras.",
+        "parte": 2,
+        "id": "tema-23-q118"
+      },
+      {
+        "enunciado": "Un acto nulo de pleno derecho y un acto meramente anulable, ambos favorables al interesado, deben eliminarse del tráfico jurídico. Según el sistema descrito en el tema, ¿qué cauces corresponden respectivamente?",
+        "opciones": [
+          "El acto nulo se revisa mediante revisión de oficio (que puede dejarlo sin efecto por sí misma); el acto anulable requiere declaración de lesividad y ulterior impugnación judicial",
+          "Ambos se revisan mediante el mismo procedimiento de revisión de oficio",
+          "Ambos requieren declaración de lesividad previa",
+          "El acto nulo requiere lesividad y el anulable revisión de oficio directa"
+        ],
+        "correcta": 0,
+        "explicacion": "El sistema diferencia claramente ambos supuestos: la nulidad de pleno derecho se corrige mediante revisión de oficio, con capacidad de la Administración para dejar sin efecto el acto por sí misma; la anulabilidad exige en cambio declaración de lesividad y la correspondiente impugnación ante los Tribunales, sin potestad revisora directa de la Administración.",
+        "parte": 2,
+        "id": "tema-23-q119"
+      },
+      {
+        "enunciado": "¿Qué tipo de actos puede revisar de oficio la propia Administración sin necesidad de acudir a los Tribunales, conforme al sistema resultante de los arts. 106 y 107 de la Ley 39/2015?",
+        "opciones": [
+          "Solo los actos y disposiciones nulos de pleno derecho, mediante la revisión de oficio del art. 106; los actos anulables requieren declaración de lesividad y pronunciamiento judicial",
+          "Tanto los actos nulos como los anulables, en ambos casos mediante revisión de oficio directa",
+          "Solo los actos anulables, mediante la declaración de lesividad, que es un procedimiento de revisión de oficio directa",
+          "Ninguno, toda revisión exige en todo caso intervención judicial previa"
+        ],
+        "correcta": 0,
+        "explicacion": "El sistema combinado de los arts. 106 y 107 reserva a la Administración la potestad de dejar sin efecto por sí misma únicamente los actos y disposiciones nulos de pleno derecho. Para los actos anulables, en cambio, la Administración solo puede declarar la lesividad, correspondiendo la decisión final sobre la anulación a la jurisdicción contencioso-administrativa.",
+        "parte": 2,
+        "id": "tema-23-q120"
+      },
+      {
+        "enunciado": "Según el artículo 110 de la Ley 39/2015, ¿qué límite se impone al ejercicio de las facultades de revisión de oficio?",
+        "opciones": [
+          "Solo pueden ejercitarse dentro del plazo de cuatro años desde que se dictó el acto.",
+          "No podrán ejercerse cuando, por prescripción de acciones, el tiempo transcurrido u otras circunstancias, su ejercicio resultase contrario a la equidad, a la buena fe, al derecho de los particulares o a las Leyes.",
+          "Requieren en todo caso el consentimiento expreso del interesado afectado.",
+          "Quedan excluidas cuando el acto haya puesto fin a la vía administrativa."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 110 recoge literalmente este límite, inspirado en la máxima summum ius, summa iniuria, como contrapeso al principio de legalidad frente a la seguridad jurídica. La opción A confunde este límite con el plazo de cuatro años propio de la lesividad, que no rige para la revisión de oficio por nulidad (que no tiene plazo). Las opciones C y D no están previstas en la norma.",
+        "nivel": "avanzado",
+        "id": "tema-23-q121"
+      },
+      {
+        "enunciado": "En cuanto a los efectos de la declaración de nulidad de pleno derecho, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "La nulidad de un acto produce efectos ex nunc, y la de una disposición produce efectos ex tunc.",
+          "La nulidad de una disposición produce efectos ex nunc, mientras que la nulidad de un acto produce efectos ex tunc.",
+          "Tanto los actos como las disposiciones producen siempre efectos ex tunc al declararse su nulidad.",
+          "Tanto los actos como las disposiciones producen siempre efectos ex nunc, salvo que el Consejo de Estado disponga lo contrario."
+        ],
+        "correcta": 1,
+        "explicacion": "La declaración de nulidad de una disposición general opera ex nunc (hacia el futuro), lo que explica que subsistan los actos firmes dictados en su aplicación; en cambio, la nulidad de un acto administrativo opera ex tunc (retroactivamente), como si nunca hubiera existido. Las opciones A, C y D invierten o generalizan erróneamente esta regla.",
+        "nivel": "avanzado",
+        "id": "tema-23-q122"
+      },
+      {
+        "enunciado": "Conforme al artículo 106.3 de la Ley 39/2015, ¿en qué supuestos puede el órgano competente acordar motivadamente la inadmisión a trámite de una solicitud de revisión de oficio SIN necesidad de recabar dictamen del Consejo de Estado?",
+        "opciones": [
+          "Únicamente cuando la solicitud se presente fuera de un plazo que, sin embargo, la propia Ley no fija para este procedimiento.",
+          "Cuando la solicitud no se base en alguna de las causas de nulidad del art. 47.1, carezca manifiestamente de fundamento, o se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.",
+          "Cuando el interesado no haya agotado previamente la vía del recurso de alzada.",
+          "Cuando el acto cuestionado no haya puesto fin a la vía administrativa."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.3 enumera taxativamente estos tres supuestos de inadmisión sin dictamen. La opción A es una trampa, pues precisamente la revisión de oficio por nulidad no tiene plazo de ejercicio. Las opciones C y D no aparecen entre las causas legales de inadmisión.",
+        "nivel": "avanzado",
+        "id": "tema-23-q123"
+      },
+      {
+        "enunciado": "El dictamen del Consejo de Estado (u órgano consultivo equivalente) exigido por el art. 106.1 para declarar la nulidad de un acto tiene la siguiente naturaleza:",
+        "opciones": [
+          "Es preceptivo pero no vinculante, por lo que el órgano decisorio puede apartarse de él motivadamente.",
+          "Es meramente facultativo, recabándose solo si el órgano competente lo estima conveniente.",
+          "Es preceptivo y vinculante, de modo que la competencia decisoria del órgano que revisa queda mediatizada por el órgano consultivo, que debe apreciar la existencia de causa de nulidad para que proceda la revisión.",
+          "Solo se exige cuando la solicitud proviene de un interesado, no cuando el procedimiento se inicia de oficio."
+        ],
+        "correcta": 2,
+        "explicacion": "El texto señala expresamente que el dictamen es preceptivo y además vinculante, mediatizando la competencia decisoria del órgano activo: sin dictamen favorable no puede declararse la nulidad. La opción A confunde preceptivo con no vinculante; D es falsa porque el dictamen se exige tanto si se inicia de oficio como a instancia de parte.",
+        "nivel": "avanzado",
+        "id": "tema-23-q124"
+      },
+      {
+        "enunciado": "Respecto a la legitimación para instar la revisión de oficio por causa de nulidad de pleno derecho, el tema señala que:",
+        "opciones": [
+          "Cualquier ciudadano puede instarla por el mero interés en la defensa de la legalidad.",
+          "Se trata de una verdadera acción de nulidad que exige la condición de interesado en toda regla, sin que baste el mero interés en la defensa de la legalidad.",
+          "Solo puede iniciarse de oficio por la propia Administración, sin posibilidad de instancia de parte.",
+          "Requiere necesariamente la intervención de letrado, al equipararse a una acción judicial."
+        ],
+        "correcta": 1,
+        "explicacion": "El texto subraya que, a diferencia de otras figuras, aquí el administrado no actúa como mero defensor abstracto de la legalidad, sino que debe ostentar la condición de interesado y presentar un escrito (acción o reclamación de nulidad) que cumpla los requisitos del art. 66 de la Ley 39/2015. La opción C es falsa, pues precisamente se admite instancia de parte.",
+        "nivel": "avanzado",
+        "id": "tema-23-q125"
+      },
+      {
+        "enunciado": "La revocación de los actos de gravamen o desfavorables (art. 109 LPACAP) está sujeta a determinadas condiciones. ¿Cuál de las siguientes NO es una de ellas?",
+        "opciones": [
+          "Que no suponga una dispensa o exención no permitida por las leyes.",
+          "Que no sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico.",
+          "Que se tramite dentro de un plazo máximo de cuatro años desde que se dictó el acto.",
+          "Que se inicie mediante un procedimiento incoado de oficio, sin que el particular tenga derecho a exigirla."
+        ],
+        "correcta": 2,
+        "explicacion": "La Ley no fija un plazo de cuatro años para la revocación de actos de gravamen (ese plazo corresponde a la declaración de lesividad); la revocación puede acordarse libremente y en cualquier momento, siempre que se respeten las dos condiciones legales (letras a y b) y se tramite por procedimiento de oficio con audiencia al interesado, aplicándose el plazo general de tres meses del art. 21.3 para su tramitación, no para su inicio.",
+        "nivel": "avanzado",
+        "id": "tema-23-q126"
+      },
+      {
+        "enunciado": "¿Por qué razón el particular afectado por un acto de gravamen no puede exigir jurídicamente su revocación a la Administración?",
+        "opciones": [
+          "Porque solo los actos declarativos de derechos son susceptibles de ser revocados.",
+          "Porque admitir ese derecho convertiría la revocación en una especie de recurso administrativo sin límite de plazo.",
+          "Porque la competencia para revocar corresponde en exclusiva al Consejo de Estado.",
+          "Porque el art. 109 reserva la revocación a los órganos jurisdiccionales contencioso-administrativos."
+        ],
+        "correcta": 1,
+        "explicacion": "El texto explica expresamente que, de admitirse un derecho del particular a exigir la revocación, esta se transformaría en un recurso administrativo encubierto sin sujeción a plazos de impugnación, por lo que el procedimiento se incoa siempre de oficio. Las demás opciones son inexactas respecto al régimen del art. 109.",
+        "nivel": "avanzado",
+        "id": "tema-23-q127"
+      },
+      {
+        "enunciado": "Dado que el art. 109 LPACAP no fija un plazo máximo de tramitación específico para el procedimiento de revocación de actos de gravamen, ¿qué plazo resulta de aplicación supletoria?",
+        "opciones": [
+          "El plazo de seis meses previsto en el art. 106.5 para la caducidad de los procedimientos de revisión de oficio.",
+          "El plazo de cuatro años previsto en el art. 107.2 para la declaración de lesividad.",
+          "El plazo general de tres meses establecido en el art. 21.3 de la Ley 39/2015.",
+          "No existe plazo supletorio aplicable, por lo que puede tramitarse sin límite temporal alguno."
+        ],
+        "correcta": 2,
+        "explicacion": "El texto indica expresamente que, al no fijarse plazo máximo propio, se aplica el plazo general de tramitación de procedimientos del art. 21.3 LPACAP, que es de tres meses. Los plazos de seis meses y cuatro años corresponden a otras figuras (revisión de oficio por nulidad y lesividad, respectivamente), no a la revocación.",
+        "nivel": "avanzado",
+        "id": "tema-23-q128"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes características NO se exige al error material, de hecho o aritmético para que pueda rectificarse al amparo del art. 109.2 LPACAP?",
+        "opciones": [
+          "Ha de ser indiscutible, claro y manifiesto, sin necesidad de mayores argumentos, pruebas o demostraciones.",
+          "Su apreciación puede conllevar una calificación jurídica, siempre que esta sea sencilla y no controvertida.",
+          "Para su valoración basta con los datos del propio expediente, sin necesidad de acudir a otra documentación.",
+          "No puede producir la anulación, revocación o una alteración fundamental en el sentido del acto administrativo."
+        ],
+        "correcta": 1,
+        "explicacion": "Una de las notas definitorias del error material es precisamente que su valoración no debe exigir ningún juicio de valor ni calificación jurídica, por sencilla que sea; si la requiriese, estaríamos ante un error de concepto o jurídico, no rectificable por esta vía simplificada. Las demás opciones recogen correctamente las notas del error material.",
+        "nivel": "avanzado",
+        "id": "tema-23-q129"
+      },
+      {
+        "enunciado": "¿Cuál es la razón por la que la rectificación de errores materiales puede realizarse en cualquier momento, sin plazo, a diferencia de la revocación de actos de gravamen, que sí queda sujeta a un plazo de tramitación?",
+        "opciones": [
+          "Porque la rectificación de errores exige dictamen previo del Consejo de Estado, órgano que no está sujeto a plazos.",
+          "Porque, al no alterar el fondo ni el sentido del acto, la rectificación no afecta a la seguridad jurídica del mismo modo que otras figuras revisoras, de ahí que el art. 109.2 permita corregirla en cualquier momento.",
+          "Porque la Ley 39/2015 remite expresamente, para los errores materiales, al plazo de cuatro años propio de la lesividad.",
+          "Porque la rectificación de errores solo puede iniciarse de oficio, nunca a instancia de parte, lo que la exime de plazo."
+        ],
+        "correcta": 1,
+        "explicacion": "Al tratarse de una simple corrección que no puede alterar el sentido ni el fondo del acto, la rectificación no entra en conflicto con la seguridad jurídica en los términos en que sí lo hacen la revisión de nulidad o la revocación, lo que justifica que carezca de plazo. La rectificación de errores no exige dictamen alguno y puede instarse también por el interesado, por lo que A y D son falsas.",
+        "nivel": "avanzado",
+        "id": "tema-23-q130"
+      },
+      {
+        "enunciado": "Señale la afirmación correcta sobre el trámite aplicable a la rectificación de errores materiales, de hecho o aritméticos:",
+        "opciones": [
+          "Requiere dictamen preceptivo del Consejo de Estado, igual que la revisión de oficio por nulidad.",
+          "Exige la tramitación de un procedimiento ordinario completo, con fase probatoria y de alegaciones.",
+          "No se requiere observar ningún procedimiento específico, pero debe otorgarse en todo caso audiencia al interesado.",
+          "Solo puede llevarse a cabo a instancia de parte, nunca de oficio por la propia Administración."
+        ],
+        "correcta": 2,
+        "explicacion": "El texto precisa que no se exige procedimiento específico alguno, siendo el único trámite inexcusable el de audiencia al interesado; puede iniciarse tanto de oficio como a instancia de parte, y no requiere dictamen de ningún órgano consultivo.",
+        "nivel": "avanzado",
+        "id": "tema-23-q131"
+      },
+      {
+        "enunciado": "En relación con la declaración de lesividad del art. 107 LPACAP, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "Permite a la Administración anular directamente, por sí misma, el acto favorable declarado lesivo.",
+          "Habilita a la Administración para impugnar ante el orden jurisdiccional contencioso-administrativo un acto favorable y anulable, sin que ella misma pueda anularlo en vía administrativa.",
+          "Se aplica tanto a actos administrativos como a disposiciones generales que resulten lesivas para el interés público.",
+          "No está sujeta a plazo alguno desde que se dictó el acto, pudiendo declararse en cualquier momento."
+        ],
+        "correcta": 1,
+        "explicacion": "La declaración de lesividad no anula el acto: elimina la potestad de autotutela revisora de la Administración sobre los actos anulables, remitiendo su expulsión del ordenamiento al juez contencioso-administrativo. Solo se aplica a actos, no a disposiciones generales, y está sujeta a un plazo de cuatro años desde que se dictó el acto.",
+        "nivel": "avanzado",
+        "id": "tema-23-q132"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo, contado desde que se dictó el acto administrativo, dentro del cual puede adoptarse la declaración de lesividad?",
+        "opciones": [
+          "Seis meses.",
+          "Dos meses.",
+          "Cuatro años.",
+          "No existe plazo, al tratarse de una potestad imprescriptible de la Administración."
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 107.2 establece que la declaración de lesividad no podrá adoptarse una vez transcurridos cuatro años desde que se dictó el acto. Los seis meses corresponden al plazo de caducidad del procedimiento una vez iniciado, y los dos meses al plazo para recurrir tras la declaración.",
+        "nivel": "avanzado",
+        "id": "tema-23-q133"
+      },
+      {
+        "enunciado": "Una vez adoptada la declaración de lesividad de un acto favorable y anulable, ¿de qué plazo dispone la Administración para interponer el correspondiente recurso contencioso-administrativo?",
+        "opciones": [
+          "Un mes.",
+          "Dos meses.",
+          "Seis meses.",
+          "Cuatro años."
+        ],
+        "correcta": 1,
+        "explicacion": "El texto indica que la impugnación ante los Tribunales debe realizarse dentro de los dos meses siguientes a la declaración de lesividad por parte de la Administración. No debe confundirse con el plazo de cuatro años para declarar la lesividad ni con el de seis meses de caducidad del procedimiento de declaración.",
+        "nivel": "avanzado",
+        "id": "tema-23-q134"
+      },
+      {
+        "enunciado": "Si transcurren seis meses desde la iniciación del procedimiento de declaración de lesividad sin que esta se haya declarado, ¿qué consecuencia jurídica se produce?",
+        "opciones": [
+          "Se entiende declarada la lesividad por silencio administrativo positivo.",
+          "El procedimiento caduca, conforme al art. 107.3 LPACAP.",
+          "El plazo se amplía automáticamente por otros seis meses.",
+          "El acto queda definitivamente convalidado y ya no podrá ser impugnado por ninguna vía."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 107.3 dispone expresamente que, transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se produce la caducidad del mismo. No cabe estimación por silencio positivo, pues la declaración de lesividad no puede obtenerse por este medio.",
+        "nivel": "avanzado",
+        "id": "tema-23-q135"
+      },
+      {
+        "enunciado": "¿Qué órgano resulta competente para adoptar la declaración de lesividad cuando el acto proviene de una entidad integrante de la Administración Local?",
+        "opciones": [
+          "El Alcalde o Presidente de la entidad, en todo caso y sin excepción.",
+          "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma.",
+          "El Pleno de la Corporación o, en defecto de este, el órgano colegiado superior de la entidad.",
+          "El mismo órgano que dictó el acto originario, sin intervención de ningún otro órgano."
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 107.5 atribuye la competencia al Pleno de la Corporación o, en su defecto, al órgano colegiado superior de la entidad, a diferencia de los actos de la AGE o las CCAA, cuya competencia corresponde al órgano competente en la materia (art. 107.4).",
+        "nivel": "avanzado",
+        "id": "tema-23-q136"
+      },
+      {
+        "enunciado": "Comparando la revisión de oficio por nulidad y la declaración de lesividad en cuanto a su forma de iniciación, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "Ambas pueden iniciarse de oficio o a instancia de parte.",
+          "La revisión de oficio por nulidad puede iniciarse de oficio o a instancia de parte, mientras que la declaración de lesividad solo puede iniciarse de oficio.",
+          "La revisión de oficio por nulidad solo puede iniciarse a instancia de parte, mientras que la lesividad solo de oficio.",
+          "Ambas solo pueden iniciarse de oficio por la propia Administración."
+        ],
+        "correcta": 1,
+        "explicacion": "Conforme a la tabla resumen del tema, la revisión de oficio admite iniciación de oficio o a instancia de parte, mientras que la lesividad, al eliminarse la posibilidad de que el ciudadano inste la potestad revisora para actos anulables, solo puede iniciarse de oficio por la Administración.",
+        "nivel": "avanzado",
+        "id": "tema-23-q137"
+      },
+      {
+        "enunciado": "¿Qué diferencia existe entre la revisión de oficio por nulidad y la declaración de lesividad en cuanto a la exigencia de dictamen de órgano consultivo?",
+        "opciones": [
+          "Ambas requieren dictamen favorable del Consejo de Estado u órgano consultivo equivalente.",
+          "La revisión de oficio por nulidad exige, con carácter general, dictamen favorable para poder declarar la nulidad, mientras que la declaración de lesividad no requiere dictamen alguno.",
+          "La lesividad exige dictamen favorable del Consejo de Estado, mientras que la revisión de oficio por nulidad nunca lo requiere.",
+          "Ninguna de las dos figuras requiere dictamen de órgano consultivo."
+        ],
+        "correcta": 1,
+        "explicacion": "La tabla resumen del tema recoge expresamente que la revisión de oficio exige dictamen favorable del Consejo de Estado para declarar la nulidad (salvo en los supuestos de inadmisión, en los que no se requiere), mientras que la declaración de lesividad no precisa dictamen de ningún órgano consultivo.",
+        "nivel": "avanzado",
+        "id": "tema-23-q138"
+      },
+      {
+        "enunciado": "Cuando la Administración revisa de oficio y declara nula una disposición administrativa general, ¿qué ocurre con los actos firmes dictados en aplicación de dicha disposición?",
+        "opciones": [
+          "Quedan automáticamente anulados por conexión directa con la disposición declarada nula.",
+          "Subsisten, sin perjuicio de las indemnizaciones que, en su caso, procedan a favor de los interesados.",
+          "Deben someterse obligatoriamente a un nuevo procedimiento de revisión de oficio independiente.",
+          "Se transforman automáticamente en actos de gravamen susceptibles de revocación libre."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.4 in fine precisa que, tratándose de una disposición, subsisten los actos firmes dictados en su aplicación, lo que es coherente con el efecto ex nunc de la nulidad de disposiciones, sin perjuicio de que puedan reconocerse las indemnizaciones oportunas.",
+        "nivel": "avanzado",
+        "id": "tema-23-q139"
+      },
+      {
+        "enunciado": "El art. 106.4 LPACAP permite reconocer indemnizaciones a los interesados al declarar la nulidad de un acto o disposición. ¿A qué remite este reconocimiento?",
+        "opciones": [
+          "A las circunstancias previstas en los artículos 32.2 y 34.1 de la Ley 40/2015, relativos al principio de responsabilidad patrimonial de la Administración.",
+          "A la existencia previa de un procedimiento de responsabilidad patrimonial ya resuelto y firme.",
+          "A que el interesado haya recurrido previamente en vía contencioso-administrativa.",
+          "A un límite máximo fijado reglamentariamente por cada Comunidad Autónoma."
+        ],
+        "correcta": 0,
+        "explicacion": "El propio art. 106.4 remite a las circunstancias de los arts. 32.2 y 34.1 de la Ley 40/2015 de Régimen Jurídico del Sector Público, permitiendo que la indemnización se reconozca en la misma resolución que declara la nulidad, sin necesidad de un procedimiento de responsabilidad patrimonial separado ni de recurso previo.",
+        "nivel": "avanzado",
+        "id": "tema-23-q140"
+      },
+      {
+        "enunciado": "¿En qué consiste la facultad de suspensión prevista en el art. 108 LPACAP dentro del procedimiento de revisión de oficio?",
+        "opciones": [
+          "El órgano que conoce del procedimiento puede acordar motivadamente la suspensión de la ejecución del acto cuando su pervivencia pudiera causar perjuicios de imposible o difícil reparación.",
+          "La suspensión de la ejecución del acto es automática desde el inicio de cualquier procedimiento de revisión de oficio.",
+          "Solo procede la suspensión cuando lo solicite expresamente el Consejo de Estado en su dictamen.",
+          "La suspensión únicamente cabe en los procedimientos de declaración de lesividad, no en la revisión de oficio por nulidad."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 108 LPACAP faculta al órgano competente para acordar la suspensión cuando la supervivencia del acto suponga perjuicios de imposible o difícil reparación; no es automática ni depende de que lo pida el Consejo de Estado, y es propia del procedimiento de revisión de oficio, no de la lesividad.",
+        "nivel": "avanzado",
+        "id": "tema-23-q141"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el objeto de la revisión de oficio por nulidad y de la declaración de lesividad es correcta?",
+        "opciones": [
+          "La revisión de oficio por nulidad puede recaer sobre actos y sobre disposiciones generales, mientras que la lesividad solo puede declararse respecto de actos.",
+          "Ambas figuras pueden recaer tanto sobre actos como sobre disposiciones generales.",
+          "La lesividad puede declararse respecto de disposiciones generales, pero la revisión de oficio por nulidad solo respecto de actos.",
+          "Ninguna de las dos figuras puede aplicarse a disposiciones generales."
+        ],
+        "correcta": 0,
+        "explicacion": "La tabla resumen del tema distingue expresamente que la revisión de oficio abarca actos y disposiciones, mientras que la lesividad, conforme al art. 107.1, solo se refiere a los actos favorables para los interesados, nunca a disposiciones generales.",
+        "nivel": "avanzado",
+        "id": "tema-23-q142"
+      },
+      {
+        "enunciado": "Si un procedimiento de revisión de oficio por causa de nulidad se inicia a solicitud de un interesado y transcurren seis meses sin que se dicte resolución expresa, ¿qué efecto se produce?",
+        "opciones": [
+          "Caducidad del procedimiento, igual que si se hubiera iniciado de oficio por la propia Administración.",
+          "Podrá entenderse desestimada la solicitud por silencio administrativo.",
+          "Se entenderá estimada la solicitud por silencio administrativo positivo.",
+          "El plazo se prorroga automáticamente por otros seis meses sin necesidad de resolución."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 106.5 distingue ambos supuestos: si el procedimiento se inició de oficio, el transcurso de seis meses sin resolución produce su caducidad; si se inició a instancia de interesado, podrá entenderse desestimada la solicitud por silencio administrativo, pero no hay caducidad ni silencio positivo.",
+        "nivel": "avanzado",
+        "id": "tema-23-q143"
+      },
+      {
+        "enunciado": "Conforme al art. 111 de la Ley 39/2015, ¿a quién corresponde la competencia para la revisión de oficio de los actos y disposiciones dictados por los Secretarios de Estado?",
+        "opciones": [
+          "Al Consejo de Ministros.",
+          "A los Ministros respectivos, de cuyo Departamento dependan los Secretarios de Estado.",
+          "A los propios Secretarios de Estado, por autorrevisión.",
+          "A los máximos órganos rectores de los organismos públicos vinculados."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 111 atribuye a los Ministros la competencia respecto de los actos y disposiciones de los Secretarios de Estado de su Departamento, reservando al Consejo de Ministros solo sus propios actos y los de los Ministros, y a los propios Secretarios de Estado la revisión de los órganos directivos a ellos dependientes.",
+        "nivel": "avanzado",
+        "id": "tema-23-q144"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes diferencias entre la revocación de actos de gravamen y la rectificación de errores materiales es correcta?",
+        "opciones": [
+          "La revocación exige dictamen favorable del Consejo de Estado; la rectificación de errores no exige dictamen alguno.",
+          "La revocación puede alterar el sentido del acto, al sustituirlo por otro de signo contrario, mientras que la rectificación de errores no puede alterar el fondo ni el sentido del acto.",
+          "La rectificación de errores solo puede iniciarse de oficio, mientras que la revocación solo puede instarla el particular.",
+          "Ambas figuras están sujetas al mismo plazo máximo de tramitación de tres meses, por disposición expresa del art. 109."
+        ],
+        "correcta": 1,
+        "explicacion": "La revocación extingue o sustituye el acto de gravamen por otro de signo contrario, pudiendo alterar completamente su sentido, mientras que la rectificación de errores es una simple corrección formal que en ningún caso puede suponer una alteración fundamental del sentido del acto. Ni la revocación ni la rectificación exigen dictamen del Consejo de Estado, y la rectificación admite tanto iniciación de oficio como a instancia de parte.",
+        "nivel": "avanzado",
+        "id": "tema-23-q145"
+      }
+    ]
+  },
+  {
     "id": "tema-24",
     "bloque": "Bloque II. Derecho Administrativo",
     "titulo": "Tema 24. La reclamación económico-administrativa.",
@@ -46659,7 +50443,5683 @@ const TEMAS = [
         "id": "tema-28-q145"
       }
     ]
-  }
+  },
+  {
+    "id": "tema-29",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 29. Protección y defensa del patrimonio público.",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué artículo de la LPAP recoge la obligación general de las Administraciones Públicas de proteger y defender su patrimonio?",
+        "opciones": [
+          "Art. 28",
+          "Art. 30",
+          "Art. 32",
+          "Art. 41"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 28 LPAP establece la obligación general de proteger y defender el patrimonio público. Ojo, no lo confundas con el art. 30 (inembargabilidad), el art. 32 (inventario) o el art. 41 (facultades de defensa), que regulan aspectos distintos aunque relacionados.",
+        "parte": 1,
+        "id": "tema-29-q1"
+      },
+      {
+        "enunciado": "Según el art. 28 LPAP, además de proteger adecuadamente los bienes y derechos que integran su patrimonio, ¿qué deben hacer las Administraciones Públicas?",
+        "opciones": [
+          "Procurar su inscripción registral y ejercer las potestades administrativas y acciones judiciales procedentes",
+          "Elaborar un inventario anual y publicarlo íntegramente en el BOE",
+          "Transigir sobre ellos y someterlos a arbitraje siempre que sea posible",
+          "Enajenarlos en subasta pública en el plazo máximo de un año"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 28 LPAP exige procurar la inscripción registral y ejercer las potestades y acciones procedentes. Trampa: ni la publicación anual en el BOE ni el arbitraje ni la enajenación forzosa forman parte de este deber general.",
+        "parte": 1,
+        "id": "tema-29-q2"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO forma parte de las obligaciones impuestas por el art. 28 LPAP?",
+        "opciones": [
+          "Proteger adecuadamente los bienes y derechos que integran el patrimonio",
+          "Procurar la inscripción registral de los bienes y derechos",
+          "Ejercer las potestades administrativas y acciones judiciales procedentes",
+          "Someter obligatoriamente a arbitraje cualquier controversia sobre el patrimonio"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: el arbitraje no es una obligación derivada del art. 28, sino una posibilidad excepcional y restringida por el art. 31. Las otras tres opciones sí son contenido literal del art. 28 LPAP.",
+        "parte": 1,
+        "id": "tema-29-q3"
+      },
+      {
+        "enunciado": "Un órgano gestor detecta que un bien de su patrimonio no está inscrito en el Registro de la Propiedad. Según el art. 28 LPAP, ¿qué actitud debe adoptar?",
+        "opciones": [
+          "Procurar su inscripción registral, como parte de su obligación de protección del patrimonio",
+          "Nada, la inscripción es irrelevante para la Administración",
+          "Esperar a que un tercero reclame judicialmente el bien",
+          "Solicitar previamente autorización del Consejo de Estado en pleno"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 28 LPAP impone procurar la inscripción registral como parte del deber de protección del patrimonio. El Consejo de Estado en pleno solo interviene para transacciones o arbitrajes (art. 31), no para inscripciones ordinarias.",
+        "parte": 1,
+        "id": "tema-29-q4"
+      },
+      {
+        "enunciado": "¿A quién corresponde, con carácter general según el art. 28 LPAP, la obligación de proteger y defender el patrimonio público?",
+        "opciones": [
+          "A las Administraciones Públicas",
+          "Exclusivamente al Ministerio de Hacienda",
+          "Exclusivamente a la Abogacía del Estado",
+          "Exclusivamente al Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La obligación recae con carácter general sobre las Administraciones Públicas, no sobre un órgano concreto. Al revés de lo que sugieren las otras opciones, Hacienda, la Abogacía del Estado y el Consejo de Estado cumplen funciones específicas dentro de ese sistema, no el deber general.",
+        "parte": 1,
+        "id": "tema-29-q5"
+      },
+      {
+        "enunciado": "¿Qué establece el art. 29 LPAP respecto a los titulares de los órganos competentes que tienen a su cargo bienes o derechos del Patrimonio del Estado?",
+        "opciones": [
+          "Están obligados a velar por su custodia y defensa",
+          "Pueden delegar libremente dicha obligación sin ningún control",
+          "Solo responden si ha mediado dolo en la pérdida del bien",
+          "Quedan exentos de esta obligación si el bien es demanial"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 29 LPAP impone a los titulares de los órganos competentes el deber de velar por la custodia y defensa de los bienes a su cargo. Trampa: no se exige dolo ni se exceptúan los bienes demaniales, que están igualmente cubiertos.",
+        "parte": 1,
+        "id": "tema-29-q6"
+      },
+      {
+        "enunciado": "Además de los titulares de los órganos competentes, ¿qué otros sujetos tienen, según el art. 29 LPAP, obligación de velar por la custodia y defensa de los bienes de dominio público?",
+        "opciones": [
+          "Los titulares de concesiones y otros derechos sobre bienes de dominio público",
+          "Únicamente los funcionarios de la Dirección General del Patrimonio del Estado",
+          "Los Registradores de la Propiedad competentes",
+          "Los particulares que denuncien la existencia de bienes mostrencos"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 29 LPAP extiende la obligación de custodia y defensa a los titulares de concesiones y otros derechos sobre dominio público. Ojo, no se trata de un deber de registradores ni de denunciantes particulares, figuras ajenas a este precepto.",
+        "parte": 1,
+        "id": "tema-29-q7"
+      },
+      {
+        "enunciado": "Un concesionario de un bien de dominio público descuida su custodia alegando que esa obligación corresponde solo a la Administración titular. ¿Es correcta esa afirmación según el art. 29 LPAP?",
+        "opciones": [
+          "No, el art. 29 LPAP impone igual obligación de custodia y defensa a los titulares de concesiones y otros derechos",
+          "Sí, la custodia es responsabilidad exclusiva de la Administración titular del bien",
+          "Sí, salvo que el bien sea de naturaleza patrimonial",
+          "No, pero únicamente si el concesionario es una sociedad estatal"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que alega el concesionario, el art. 29 LPAP le impone la misma obligación de custodia y defensa que a los titulares de los órganos competentes. No se distingue según la naturaleza del bien ni el tipo de concesionario.",
+        "parte": 1,
+        "id": "tema-29-q8"
+      },
+      {
+        "enunciado": "¿En qué artículo de la LPAP se regula la obligación de custodia y defensa que recae sobre los titulares de órganos y sobre los concesionarios?",
+        "opciones": [
+          "Art. 29",
+          "Art. 28",
+          "Art. 36",
+          "Art. 41"
+        ],
+        "correcta": 0,
+        "explicacion": "Es el art. 29 LPAP el que fija este deber específico de custodia y defensa. El art. 28 es la obligación general previa, el art. 36 trata del registro y el art. 41 de las facultades de defensa.",
+        "parte": 1,
+        "id": "tema-29-q9"
+      },
+      {
+        "enunciado": "Según el art. 30.1 LPAP, los bienes y derechos de dominio público son:",
+        "opciones": [
+          "Inalienables, imprescriptibles e inembargables",
+          "Alienables con la sola autorización del Consejo de Ministros",
+          "Prescriptibles una vez transcurridos treinta años",
+          "Embargables siempre que lo acuerde un Tribunal civil"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 30.1 LPAP atribuye a los bienes demaniales el triple carácter de inalienables, imprescriptibles e inembargables. Trampa: ningún Tribunal, ni civil ni de otro orden, puede embargarlos, y tampoco cabe su enajenación por simple autorización ministerial.",
+        "parte": 1,
+        "id": "tema-29-q10"
+      },
+      {
+        "enunciado": "Un Tribunal dicta providencia de embargo sobre un tramo de dominio público marítimo-terrestre para satisfacer una deuda. ¿Es ajustada esta actuación a la LPAP?",
+        "opciones": [
+          "No, los bienes demaniales son inembargables conforme al art. 30.1 LPAP",
+          "Sí, siempre que el embargo lo acuerde un juez competente",
+          "Sí, si el deudor carece de otros bienes con los que satisfacer la deuda",
+          "No, salvo que medie un real decreto acordado en Consejo de Ministros"
+        ],
+        "correcta": 0,
+        "explicacion": "Los bienes demaniales son inembargables sin excepción alguna, a diferencia de ciertos bienes patrimoniales del art. 30.3. Ojo, aquí no cabe ninguna vía de excepción, ni siquiera mediante real decreto, porque la inembargabilidad del art. 30.1 es absoluta.",
+        "parte": 1,
+        "id": "tema-29-q11"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes características NO predica el art. 30.1 LPAP de los bienes de dominio público?",
+        "opciones": [
+          "Inalienables",
+          "Imprescriptibles",
+          "Inembargables",
+          "Enajenables libremente por cualquier órgano gestor"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: la enajenabilidad libre es justamente lo contrario de lo que dice el art. 30.1, que califica a los bienes demaniales de inalienables. Las otras tres cualidades sí son las que la ley reconoce expresamente.",
+        "parte": 1,
+        "id": "tema-29-q12"
+      },
+      {
+        "enunciado": "A diferencia de los bienes patrimoniales del art. 30.3, los bienes demaniales del art. 30.1 son inembargables:",
+        "opciones": [
+          "Siempre y sin necesidad de que concurra ninguna circunstancia adicional",
+          "Solo cuando están materialmente afectados a un servicio público",
+          "Solo cuando sus rendimientos están legalmente afectados a fines determinados",
+          "Solo si se trata de valores representativos del capital de sociedades estatales"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa clásica: las circunstancias de afectación a servicio público, rendimientos afectados a fines determinados o valores de sociedades estatales son los supuestos tasados del art. 30.3 para bienes patrimoniales, no para los demaniales. Estos últimos son inembargables de forma absoluta e incondicionada.",
+        "parte": 1,
+        "id": "tema-29-q13"
+      },
+      {
+        "enunciado": "¿Qué tres cualidades configura el art. 30.1 LPAP como predicables conjuntamente de los bienes de dominio público?",
+        "opciones": [
+          "Inalienabilidad, imprescriptibilidad e inembargabilidad",
+          "Inalienabilidad, divisibilidad e inembargabilidad",
+          "Imprescriptibilidad, enajenabilidad y divisibilidad",
+          "Inembargabilidad, prescriptibilidad y alienabilidad"
+        ],
+        "correcta": 0,
+        "explicacion": "Las tres notas clásicas del dominio público, recogidas literalmente en el art. 30.1 LPAP, son inalienabilidad, imprescriptibilidad e inembargabilidad. Las demás combinaciones mezclan términos contrarios a los que realmente usa la ley.",
+        "parte": 1,
+        "id": "tema-29-q14"
+      },
+      {
+        "enunciado": "El art. 30.1 LPAP impide dictar providencia de embargo o despachar mandamiento de ejecución sobre bienes demaniales a:",
+        "opciones": [
+          "Ningún Tribunal ni autoridad administrativa",
+          "Solo a los Tribunales del orden civil, no a los contencioso-administrativos",
+          "Solo a las autoridades administrativas, no a los Tribunales",
+          "Solo al Tribunal de Cuentas"
+        ],
+        "correcta": 0,
+        "explicacion": "El precepto es absoluto: ni Tribunal ni autoridad administrativa alguna, de cualquier orden, puede embargar bienes demaniales. Trampa: limitar la prohibición a un solo orden jurisdiccional o solo a la vía administrativa reduce indebidamente el alcance de la norma.",
+        "parte": 1,
+        "id": "tema-29-q15"
+      },
+      {
+        "enunciado": "El art. 30.3 LPAP extiende la inembargabilidad a ciertos bienes patrimoniales. ¿Cuál de los siguientes NO es uno de esos supuestos tasados?",
+        "opciones": [
+          "Bienes materialmente afectados a un servicio público o a una función pública",
+          "Bienes cuyos rendimientos o el producto de su enajenación estén legalmente afectados a fines determinados",
+          "Valores o títulos representativos del capital de sociedades estatales que ejecuten políticas públicas o presten servicios de interés económico general",
+          "Cualquier bien patrimonial, sin excepción, con independencia de su afectación"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: el art. 30.3 no declara inembargables todos los bienes patrimoniales, sino solo los que encajan en los tres supuestos tasados que enumera. Las tres primeras opciones reproducen literalmente esos supuestos.",
+        "parte": 1,
+        "id": "tema-29-q16"
+      },
+      {
+        "enunciado": "Un edificio es formalmente un bien patrimonial, pero está materialmente afectado al funcionamiento de un servicio público. ¿Puede embargarse?",
+        "opciones": [
+          "No, el art. 30.3 LPAP lo declara inembargable por su afectación material al servicio público",
+          "Sí, porque formalmente es un bien patrimonial y estos son siempre embargables",
+          "Sí, salvo que lo impida expresamente el Consejo de Estado",
+          "No, porque todos los bienes patrimoniales son inembargables sin excepción"
+        ],
+        "correcta": 0,
+        "explicacion": "La clave está en la afectación material, no en la calificación formal del bien: al estar afectado a un servicio público, opera la inembargabilidad del art. 30.3. Ojo, la opción de 'inembargable siempre' también es errónea, porque esta protección solo alcanza a los supuestos tasados, no a todo bien patrimonial.",
+        "parte": 1,
+        "id": "tema-29-q17"
+      },
+      {
+        "enunciado": "¿Son inembargables TODOS los bienes patrimoniales de las Administraciones Públicas?",
+        "opciones": [
+          "No, solo lo son en los supuestos tasados del art. 30.3 LPAP; los demaniales sí lo son siempre conforme al art. 30.1",
+          "Sí, exactamente igual que los demaniales",
+          "No, nunca puede declararse inembargable un bien patrimonial",
+          "Sí, pero únicamente si son bienes inmuebles"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que podría pensarse, el régimen de los patrimoniales es distinto: su inembargabilidad es excepcional y tasada (art. 30.3), mientras que la de los demaniales es absoluta (art. 30.1). Negar toda posibilidad de inembargabilidad patrimonial también es incorrecto.",
+        "parte": 1,
+        "id": "tema-29-q18"
+      },
+      {
+        "enunciado": "¿Qué protección especial reciben los rendimientos o el producto de la enajenación de un bien patrimonial legalmente afectados a fines determinados?",
+        "opciones": [
+          "El bien queda amparado por la inembargabilidad especial del art. 30.3 LPAP",
+          "Pasan automáticamente a convertirse en bienes de dominio público",
+          "Deben someterse obligatoriamente a transacción ante el Consejo de Estado",
+          "No tienen ninguna protección especial frente al embargo"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 30.3 LPAP protege frente al embargo los bienes cuyos rendimientos o producto de enajenación están legalmente afectados a fines determinados. Trampa: esto no cambia la naturaleza jurídica del bien, que sigue siendo patrimonial, ni exige transacción alguna.",
+        "parte": 1,
+        "id": "tema-29-q19"
+      },
+      {
+        "enunciado": "¿Qué tipo de sociedades estatales determina, según el art. 30.3 LPAP, la inembargabilidad de los valores o títulos representativos de su capital?",
+        "opciones": [
+          "Las que ejecuten políticas públicas o presten servicios de interés económico general",
+          "Todas las sociedades mercantiles estatales, sin excepción alguna",
+          "Solo las sociedades estatales que cotizan en bolsa",
+          "Solo las sociedades estatales en proceso de liquidación"
+        ],
+        "correcta": 0,
+        "explicacion": "El precepto exige una cualificación funcional: que la sociedad estatal ejecute políticas públicas o preste servicios de interés económico general. Trampa: no basta con ser una sociedad mercantil estatal cualquiera, ni importa si cotiza en bolsa o está en liquidación.",
+        "parte": 1,
+        "id": "tema-29-q20"
+      },
+      {
+        "enunciado": "A diferencia de los bienes demaniales (inembargables siempre, art. 30.1), los bienes patrimoniales inembargables del art. 30.3 lo son:",
+        "opciones": [
+          "Únicamente cuando concurre alguno de los supuestos tasados que enumera dicho precepto",
+          "En todo caso, sin necesidad de ningún requisito adicional",
+          "Solo si han sido previamente inscritos en el Inventario General de Bienes y Derechos del Estado",
+          "Solo si lo acuerda expresamente el Consejo de Ministros"
+        ],
+        "correcta": 0,
+        "explicacion": "La inembargabilidad patrimonial del art. 30.3 es condicionada: exige que concurra alguno de los tres supuestos tasados (afectación a servicio público, rendimientos afectados a fines determinados, o valores de sociedades estatales cualificadas). Ni la inscripción en el Inventario ni un acuerdo del Consejo de Ministros son requisitos de este precepto.",
+        "parte": 1,
+        "id": "tema-29-q21"
+      },
+      {
+        "enunciado": "¿Qué órgano o autoridad queda impedido de dictar providencia de embargo sobre los bienes patrimoniales que se encuentren en alguno de los supuestos del art. 30.3 LPAP?",
+        "opciones": [
+          "Ningún Tribunal ni autoridad administrativa",
+          "Solo los Tribunales del orden civil",
+          "Solo el Tribunal de Cuentas",
+          "Solo los juzgados de lo contencioso-administrativo"
+        ],
+        "correcta": 0,
+        "explicacion": "Al igual que ocurre con los bienes demaniales del art. 30.1, la prohibición del art. 30.3 alcanza a cualquier Tribunal o autoridad administrativa, sin limitarla a un orden jurisdiccional concreto. Reducirla a un solo orden o a un órgano específico es una trampa habitual.",
+        "parte": 1,
+        "id": "tema-29-q22"
+      },
+      {
+        "enunciado": "Un bien patrimonial adquirido con el propósito de devolverlo al tráfico jurídico ordinario, sin afectación a servicio público ni rendimientos afectados a fines determinados, ¿es embargable?",
+        "opciones": [
+          "Sí, al no concurrir ninguno de los supuestos tasados del art. 30.3 LPAP, no goza de la inembargabilidad especial",
+          "No, ningún bien patrimonial puede ser embargado en ningún caso",
+          "No, salvo que medie autorización judicial expresa en contrario",
+          "Sí, pero solo si lo autoriza previamente el Consejo de Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "Si el bien patrimonial no encaja en ninguno de los tres supuestos del art. 30.3, no disfruta de la inembargabilidad especial y queda sometido al régimen general de embargabilidad. Ojo, decir que ningún bien patrimonial es embargable invierte la regla general del sistema.",
+        "parte": 1,
+        "id": "tema-29-q23"
+      },
+      {
+        "enunciado": "Según el art. 31 LPAP, ¿puede la Administración transigir judicial o extrajudicialmente sobre bienes y derechos del Patrimonio del Estado?",
+        "opciones": [
+          "Solo mediante real decreto acordado en Consejo de Ministros, a propuesta del de Hacienda, previo dictamen del Consejo de Estado en pleno",
+          "Sí, libremente, sin ningún requisito adicional",
+          "No, en ningún caso, cualquiera que sea el procedimiento seguido",
+          "Sí, con la sola autorización del Ministro de Hacienda"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 31 LPAP establece una prohibición general con una única excepción muy cualificada: real decreto en Consejo de Ministros, a propuesta de Hacienda y con dictamen previo del Consejo de Estado en pleno. Trampa: ni la libertad absoluta ni la prohibición absoluta ni la sola autorización ministerial reflejan correctamente el régimen legal.",
+        "parte": 1,
+        "id": "tema-29-q24"
+      },
+      {
+        "enunciado": "¿Qué dictamen es preceptivo, según el art. 31 LPAP, antes de aprobar el real decreto que autorice transigir o someter a arbitraje bienes del Patrimonio del Estado?",
+        "opciones": [
+          "El dictamen del Consejo de Estado en pleno",
+          "El dictamen de la Comisión Permanente del Consejo de Estado",
+          "El informe de la Abogacía del Estado",
+          "El informe de la Intervención General de la Administración del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 31 LPAP exige específicamente el dictamen del Pleno del Consejo de Estado, no de su Comisión Permanente. Trampa: no basta con un informe de la Abogacía del Estado ni de la Intervención General, que cumplen otras funciones en el procedimiento patrimonial.",
+        "parte": 1,
+        "id": "tema-29-q25"
+      },
+      {
+        "enunciado": "¿A propuesta de qué Ministerio se acuerda, en Consejo de Ministros, el real decreto que permite transigir o someter a arbitraje sobre bienes del Patrimonio del Estado?",
+        "opciones": [
+          "Del Ministerio de Hacienda",
+          "Del Ministerio de Justicia",
+          "Del Ministerio de la Presidencia",
+          "De cualquier Ministerio afectado por el litigio"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 31 LPAP atribuye la propuesta al Ministerio de Hacienda, por su competencia general sobre el Patrimonio del Estado. Ojo, no es el Ministerio de Justicia ni el de Presidencia, ni queda abierto a cualquier departamento implicado en el litigio.",
+        "parte": 1,
+        "id": "tema-29-q26"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el art. 31 LPAP es FALSA?",
+        "opciones": [
+          "Se prohíbe transigir y someter a arbitraje sobre bienes del Patrimonio del Estado salvo una excepción tasada",
+          "La excepción exige real decreto acordado en Consejo de Ministros",
+          "Es necesario el dictamen previo del Consejo de Estado en pleno",
+          "El Ministro de Hacienda puede autorizarlo por sí solo mediante una simple orden ministerial"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: una orden ministerial del titular de Hacienda nunca basta; se exige un real decreto en Consejo de Ministros con dictamen previo del Consejo de Estado en pleno. Las tres primeras afirmaciones reproducen correctamente el régimen del art. 31.",
+        "parte": 1,
+        "id": "tema-29-q27"
+      },
+      {
+        "enunciado": "Surge una controversia sobre la titularidad de un bien del Patrimonio del Estado y las partes desean someterla a arbitraje. ¿Es posible?",
+        "opciones": [
+          "Solo mediante real decreto en Consejo de Ministros, a propuesta de Hacienda, con dictamen previo del Consejo de Estado en pleno",
+          "Sí, basta con el simple acuerdo de las partes en conflicto",
+          "No, en ningún caso puede someter a arbitraje una controversia de este tipo",
+          "Sí, con la sola autorización de la Dirección General del Patrimonio del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "El sometimiento a arbitraje sigue exactamente el mismo cauce excepcional que la transacción: real decreto en Consejo de Ministros, propuesta de Hacienda y dictamen del Consejo de Estado en pleno. Ni el simple acuerdo de partes ni una autorización de la Dirección General bastan para ello.",
+        "parte": 1,
+        "id": "tema-29-q28"
+      },
+      {
+        "enunciado": "¿Qué formación del Consejo de Estado debe dictaminar, conforme al art. 31 LPAP, antes de autorizar la transacción o el arbitraje sobre bienes del Patrimonio del Estado?",
+        "opciones": [
+          "El Pleno del Consejo de Estado",
+          "La Comisión Permanente",
+          "La Sección correspondiente por razón de la materia",
+          "Cualquier órgano consultivo que determine el Ministro proponente"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP exige expresamente el dictamen del Pleno del Consejo de Estado, un requisito reforzado dada la relevancia de disponer sobre bienes del Patrimonio del Estado. Al revés de lo que podría suponerse, no basta con la Comisión Permanente ni con una sección sectorial.",
+        "parte": 1,
+        "id": "tema-29-q29"
+      },
+      {
+        "enunciado": "¿Qué artículo de la LPAP recoge las facultades y prerrogativas de las Administraciones Públicas para la defensa de su patrimonio?",
+        "opciones": [
+          "Art. 41",
+          "Art. 30",
+          "Art. 32",
+          "Art. 36"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 41 LPAP enumera las facultades de investigación, deslinde, recuperación de oficio y desahucio. No lo confundas con el art. 30 (inembargabilidad), el art. 32 (inventario) o el art. 36 (registro).",
+        "parte": 1,
+        "id": "tema-29-q30"
+      },
+      {
+        "enunciado": "¿Cuáles son las cuatro facultades y prerrogativas de defensa del patrimonio que enumera el art. 41 LPAP?",
+        "opciones": [
+          "Investigar, deslindar, recuperar de oficio la posesión y desahuciar en vía administrativa",
+          "Investigar, inventariar, inscribir y transigir",
+          "Deslindar, embargar, transigir y arbitrar",
+          "Inventariar, registrar, investigar y enajenar"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 41 LPAP enumera exactamente estas cuatro facultades como prerrogativas de defensa del patrimonio. Trampa: inventariar, inscribir, embargar, transigir o arbitrar son instituciones reguladas en otros artículos, no facultades de este precepto.",
+        "parte": 1,
+        "id": "tema-29-q31"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una facultad de defensa del patrimonio recogida en el art. 41 LPAP?",
+        "opciones": [
+          "Investigar la situación de los bienes y derechos que presumiblemente pertenezcan a su patrimonio",
+          "Deslindar en vía administrativa los inmuebles de su titularidad",
+          "Recuperar de oficio la posesión indebidamente perdida sobre sus bienes y derechos",
+          "Enajenar en subasta pública, sin más trámite, los bienes previamente investigados"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: la enajenación en subasta no es una de las cuatro facultades del art. 41; estas son investigar, deslindar, recuperar de oficio y desahuciar. Las tres primeras opciones reproducen literalmente dicho precepto.",
+        "parte": 1,
+        "id": "tema-29-q32"
+      },
+      {
+        "enunciado": "¿Qué finalidad común tienen las cuatro facultades enumeradas en el art. 41 LPAP?",
+        "opciones": [
+          "Servir como instrumentos de defensa del patrimonio público frente a situaciones de incertidumbre, usurpación o indebida ocupación",
+          "Permitir la venta directa de bienes públicos sin necesidad de subasta",
+          "Autorizar con carácter general el embargo de bienes demaniales",
+          "Sustituir en todo caso al procedimiento judicial de reivindicación"
+        ],
+        "correcta": 0,
+        "explicacion": "Investigar, deslindar, recuperar de oficio y desahuciar comparten la finalidad de defender el patrimonio frente a dudas sobre su titularidad o situaciones de ocupación irregular. Ninguna de ellas habilita la venta directa ni el embargo, y no sustituyen de forma absoluta a la vía judicial.",
+        "parte": 1,
+        "id": "tema-29-q33"
+      },
+      {
+        "enunciado": "¿Qué artículo de la LPAP impone con carácter general la obligación de inventariar los bienes y derechos que integran el patrimonio de las Administraciones Públicas?",
+        "opciones": [
+          "Art. 32",
+          "Art. 28",
+          "Art. 36",
+          "Art. 41"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 32 LPAP es el que establece la obligación general de inventariar. El art. 28 fija el deber genérico de protección, el art. 36 regula el registro y el art. 41 las facultades de defensa.",
+        "parte": 1,
+        "id": "tema-29-q34"
+      },
+      {
+        "enunciado": "Según el art. 32 LPAP, al inventariar sus bienes y derechos, las Administraciones Públicas deben hacer constar, con el suficiente detalle:",
+        "opciones": [
+          "Las menciones necesarias para su identificación, su situación jurídica y el destino o uso a que están dedicados",
+          "Únicamente su valor de tasación, actualizado con periodicidad anual",
+          "Solo el nombre del funcionario responsable de su custodia material",
+          "Exclusivamente los datos catastrales del inmueble correspondiente"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 32 LPAP exige constancia de la identificación del bien, su situación jurídica y su destino o uso. Trampa: la ley no limita el contenido del inventario a la tasación, a datos de un funcionario responsable ni a datos catastrales.",
+        "parte": 1,
+        "id": "tema-29-q35"
+      },
+      {
+        "enunciado": "¿Qué incluye el Inventario General de Bienes y Derechos del Estado?",
+        "opciones": [
+          "La totalidad de los bienes y derechos que integran el Patrimonio del Estado, con ciertas excepciones",
+          "Únicamente los bienes de dominio público",
+          "Únicamente los bienes de carácter patrimonial",
+          "Solo los bienes que ya constan inscritos en el Registro de la Propiedad"
+        ],
+        "correcta": 0,
+        "explicacion": "El Inventario General abarca en principio todo el Patrimonio del Estado, demanial y patrimonial, salvo las excepciones legalmente previstas. Ojo, limitarlo a una sola categoría de bienes o condicionarlo a la previa inscripción registral es incorrecto.",
+        "parte": 1,
+        "id": "tema-29-q36"
+      },
+      {
+        "enunciado": "¿Qué bienes quedan EXCLUIDOS del Inventario General de Bienes y Derechos del Estado conforme a la LPAP?",
+        "opciones": [
+          "Los adquiridos por organismos públicos para devolverlos al tráfico jurídico patrimonial conforme a sus fines peculiares",
+          "Los adquiridos para cumplir con requisitos sobre provisiones técnicas obligatorias",
+          "Ambas respuestas anteriores son excepciones previstas por la ley",
+          "Todos los bienes inmuebles de titularidad estatal, sin excepción"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP recoge ambas excepciones conjuntamente: bienes adquiridos para devolver al tráfico jurídico patrimonial y bienes para provisiones técnicas obligatorias. Trampa: no existe una exclusión general de todos los inmuebles estatales, que sí se inventarían como regla.",
+        "parte": 1,
+        "id": "tema-29-q37"
+      },
+      {
+        "enunciado": "¿Cómo se reflejan las acciones y títulos representativos del capital de sociedades mercantiles propiedad de la AGE y sus organismos dependientes?",
+        "opciones": [
+          "En la correspondiente contabilidad patrimonial y en un inventario de carácter auxiliar coordinado con dicha contabilidad",
+          "Directamente en el Registro de la Propiedad, como cualquier inmueble",
+          "No se reflejan en ningún instrumento, al no considerarse bienes inventariables",
+          "Únicamente en el Inventario General, sin ninguna conexión con la contabilidad patrimonial"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP exige su reflejo en la contabilidad patrimonial y, además, en un inventario auxiliar coordinado con ella. Trampa: no se inscriben en el Registro de la Propiedad, que es un registro de bienes inmuebles, ni quedan fuera de todo control.",
+        "parte": 1,
+        "id": "tema-29-q38"
+      },
+      {
+        "enunciado": "¿Sustituye el inventario auxiliar de acciones y títulos representativos del capital de sociedades mercantiles al Inventario General de Bienes y Derechos del Estado?",
+        "opciones": [
+          "No, es un inventario de carácter auxiliar, coordinado con el sistema de contabilidad patrimonial, distinto del Inventario General",
+          "Sí, lo sustituye íntegramente para ese tipo concreto de bienes",
+          "Sí, pero únicamente respecto de las sociedades que cotizan en bolsa",
+          "No, porque la LPAP no prevé ningún inventario auxiliar de este tipo"
+        ],
+        "correcta": 0,
+        "explicacion": "Al revés de lo que podría pensarse, el inventario auxiliar no sustituye al Inventario General, sino que convive con él de forma coordinada con la contabilidad patrimonial. Negar su existencia también es un error, porque la LPAP lo prevé expresamente.",
+        "parte": 1,
+        "id": "tema-29-q39"
+      },
+      {
+        "enunciado": "Un organismo público adquiere un bien con el propósito de devolverlo al tráfico jurídico patrimonial conforme a sus fines peculiares. ¿Debe incluirse en el Inventario General de Bienes y Derechos del Estado?",
+        "opciones": [
+          "No, queda exceptuado expresamente de dicho Inventario General",
+          "Sí, sin excepción posible, como cualquier otro bien del Patrimonio del Estado",
+          "Sí, pero únicamente si se trata de un bien inmueble",
+          "No, porque ese tipo de bienes nunca puede ser objeto de ningún inventario"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP exceptúa expresamente del Inventario General los bienes adquiridos con ese propósito de retorno al tráfico jurídico patrimonial. Trampa: eso no significa que queden fuera de todo control, pues pueden figurar en otros registros contables o auxiliares.",
+        "parte": 1,
+        "id": "tema-29-q40"
+      },
+      {
+        "enunciado": "¿Tiene el Inventario General de Bienes y Derechos del Estado la consideración de Registro Público?",
+        "opciones": [
+          "No, y por ello no surte efectos frente a terceros ni frente a la propia Administración General del Estado",
+          "Sí, con plenos efectos frente a terceros, igual que el Registro de la Propiedad",
+          "Sí, pero únicamente respecto de los bienes inmuebles inventariados",
+          "No, pero sí surte plenos efectos frente a la propia Administración General del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP es taxativa: el Inventario General no tiene carácter de Registro Público y, por tanto, no produce efectos ni frente a terceros ni frente a la propia AGE. Trampa: atribuirle efectos parciales, aunque solo sea frente a la propia Administración, contradice el texto legal.",
+        "parte": 1,
+        "id": "tema-29-q41"
+      },
+      {
+        "enunciado": "Un dato figura en el Inventario General de Bienes y Derechos del Estado pero no consta inscrito en el Registro de la Propiedad. ¿Puede oponerse ese dato a un tercero de buena fe basándose únicamente en el Inventario?",
+        "opciones": [
+          "No, porque el Inventario tiene carácter meramente informativo y no surte efectos frente a terceros",
+          "Sí, porque el Inventario tiene la consideración de Registro Público",
+          "Sí, siempre que lo certifique expresamente la Dirección General del Patrimonio del Estado",
+          "No, pero únicamente si el bien tiene naturaleza demanial"
+        ],
+        "correcta": 0,
+        "explicacion": "El carácter meramente informativo del Inventario impide oponerlo frente a terceros, con independencia de certificaciones administrativas. Trampa: atribuirle naturaleza de Registro Público, o distinguir según la naturaleza demanial o patrimonial del bien, no responde a lo que dice la LPAP.",
+        "parte": 1,
+        "id": "tema-29-q42"
+      },
+      {
+        "enunciado": "¿Qué finalidad tienen los datos que contiene el Inventario General de Bienes y Derechos del Estado?",
+        "opciones": [
+          "Son meramente informativos, de apoyo para la gestión interna y la definición de políticas",
+          "Tienen pleno valor probatorio frente a terceros, igual que el Registro de la Propiedad",
+          "Sirven exclusivamente para fines estadísticos del Instituto Nacional de Estadística",
+          "Determinan de forma constitutiva la titularidad del bien inscrito"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP califica expresamente estos datos como meramente informativos, útiles para la gestión interna y el diseño de políticas patrimoniales. Ojo, no tienen eficacia constitutiva ni probatoria equiparable a un registro público.",
+        "parte": 1,
+        "id": "tema-29-q43"
+      },
+      {
+        "enunciado": "¿A qué Ministerio está a cargo el Inventario General de Bienes y Derechos del Estado?",
+        "opciones": [
+          "Al Ministerio de Hacienda",
+          "Al Ministerio de Justicia",
+          "Al Ministerio de la Presidencia",
+          "Exclusivamente al Ministerio de Economía"
+        ],
+        "correcta": 0,
+        "explicacion": "El Inventario General está a cargo del Ministerio de Hacienda, competente en materia de gestión patrimonial del Estado. No corresponde a Justicia, Presidencia ni, en exclusiva, a Economía.",
+        "parte": 1,
+        "id": "tema-29-q44"
+      },
+      {
+        "enunciado": "¿A qué órgano corresponde la llevanza directa del Inventario General de Bienes y Derechos del Estado, con la colaboración de las unidades patrimoniales de los departamentos como órganos auxiliares?",
+        "opciones": [
+          "A la Dirección General del Patrimonio del Estado",
+          "A la Abogacía General del Estado",
+          "Al Consejo de Estado",
+          "A la Intervención General de la Administración del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La llevanza corresponde a la Dirección General del Patrimonio del Estado, dentro del Ministerio de Hacienda. Trampa: la Abogacía General, el Consejo de Estado y la Intervención General desempeñan otras funciones específicas dentro del sistema patrimonial, no la llevanza del Inventario.",
+        "parte": 1,
+        "id": "tema-29-q45"
+      },
+      {
+        "enunciado": "¿Qué función desempeñan las unidades con competencia en materia de gestión patrimonial de los departamentos ministeriales y organismos públicos respecto al Inventario General de Bienes y Derechos del Estado?",
+        "opciones": [
+          "Actúan como órganos auxiliares de la Dirección General del Patrimonio del Estado",
+          "Sustituyen por completo a la Dirección General del Patrimonio del Estado",
+          "Carecen de cualquier intervención en la llevanza del inventario",
+          "Solo intervienen si el bien ya está inscrito en el Registro de la Propiedad"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP las configura como órganos auxiliares, no como sustitutos de la Dirección General del Patrimonio del Estado. Trampa: tampoco es cierto que carezcan de intervención, ni que esta dependa de una previa inscripción registral.",
+        "parte": 1,
+        "id": "tema-29-q46"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes bienes inventaría DIRECTAMENTE la Dirección General del Patrimonio del Estado?",
+        "opciones": [
+          "Los bienes inmuebles y derechos reales sobre los mismos",
+          "Las infraestructuras de titularidad estatal sobre las que un departamento ostente competencias de gestión",
+          "Los bienes de dominio público sometidos a legislación especial gestionados por un departamento",
+          "Los bienes muebles adquiridos o utilizados por los departamentos ministeriales"
+        ],
+        "correcta": 0,
+        "explicacion": "Los bienes inmuebles y derechos reales sobre ellos son inventariados directamente por la Dirección General del Patrimonio del Estado. Trampa: las otras tres opciones corresponden a las unidades patrimoniales de los departamentos u organismos que gestionan esos bienes concretos.",
+        "parte": 1,
+        "id": "tema-29-q47"
+      },
+      {
+        "enunciado": "¿Quién lleva el inventario de los derechos de arrendamiento y demás derechos de carácter personal por los que se atribuye a la AGE el uso o disfrute de inmuebles ajenos?",
+        "opciones": [
+          "La Dirección General del Patrimonio del Estado",
+          "El organismo público que ocupa materialmente el inmueble arrendado, en todo caso",
+          "El Registro de la Propiedad correspondiente",
+          "La Abogacía del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP atribuye este inventario a la Dirección General del Patrimonio del Estado, no al organismo ocupante ni a terceros ajenos a la gestión patrimonial. Ojo, ni el Registro de la Propiedad ni la Abogacía del Estado llevan inventarios de este tipo.",
+        "parte": 1,
+        "id": "tema-29-q48"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes bienes inventarían las UNIDADES de los departamentos ministeriales y organismos públicos, y no la Dirección General del Patrimonio del Estado?",
+        "opciones": [
+          "Los bienes muebles adquiridos o utilizados por ellos",
+          "Los valores mobiliarios representativos de acciones y participaciones en el capital de sociedades mercantiles",
+          "Los bienes inmuebles y derechos reales sobre los mismos, con carácter general",
+          "Los derechos de arrendamiento que atribuyen a la AGE el uso de inmuebles ajenos"
+        ],
+        "correcta": 0,
+        "explicacion": "Los bienes muebles adquiridos o utilizados por los propios departamentos y organismos los inventarían ellos mismos, como unidades gestoras directas. Trampa: valores mobiliarios, inmuebles en general y derechos de arrendamiento corresponden, según el texto, a la Dirección General del Patrimonio del Estado.",
+        "parte": 1,
+        "id": "tema-29-q49"
+      },
+      {
+        "enunciado": "¿Quién inventaría los derechos de propiedad incorporal generados por la actividad de un departamento u organismo, o cuya gestión tenga encomendada?",
+        "opciones": [
+          "Las unidades competentes en materia patrimonial de ese departamento u organismo",
+          "Siempre la Dirección General del Patrimonio del Estado, sin excepción",
+          "El Consejo de Estado",
+          "La Abogacía General del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "Son las propias unidades patrimoniales del departamento u organismo generador de esos derechos quienes los inventarían. Trampa: la Dirección General del Patrimonio del Estado inventaría las propiedades incorporales cuyo inventario no corresponda a esos departamentos u organismos, no todas ellas.",
+        "parte": 1,
+        "id": "tema-29-q50"
+      },
+      {
+        "enunciado": "¿Qué bienes muebles y propiedades incorporales inventaría directamente la Dirección General del Patrimonio del Estado?",
+        "opciones": [
+          "Aquellos cuyo inventario no corresponda llevar a los departamentos ministeriales ni a los organismos públicos dependientes o vinculados a la AGE",
+          "Todos, sin excepción, al margen de quién los use o gestione",
+          "Ninguno, esa función corresponde siempre a los departamentos ministeriales",
+          "Solo los adquiridos con anterioridad a la entrada en vigor de la LPAP"
+        ],
+        "correcta": 0,
+        "explicacion": "La regla es residual: la Dirección General lleva el inventario de los bienes muebles y propiedades incorporales que no corresponda llevar a departamentos u organismos. Trampa: no es una regla absoluta ni limitada por fecha de adquisición.",
+        "parte": 1,
+        "id": "tema-29-q51"
+      },
+      {
+        "enunciado": "Según el art. 36 LPAP, ¿qué deben hacer las Administraciones Públicas respecto de los bienes y derechos de su patrimonio susceptibles de inscripción?",
+        "opciones": [
+          "Inscribirlos en los correspondientes registros, ya sean demaniales o patrimoniales, junto con los actos y contratos referidos a ellos",
+          "Inscribir solo los bienes patrimoniales, nunca los demaniales",
+          "Inscribir únicamente los bienes inmuebles adquiridos a partir de 2003",
+          "Abstenerse de inscribir cualquier bien de dominio público"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 36 LPAP impone la inscripción tanto de bienes demaniales como patrimoniales susceptibles de ella, junto con sus actos y contratos. Trampa: no existe una exclusión de los bienes demaniales ni una limitación temporal a partir de 2003.",
+        "parte": 1,
+        "id": "tema-29-q52"
+      },
+      {
+        "enunciado": "¿Es obligatoria, según el art. 36 LPAP, la inscripción registral de los arrendamientos inscribibles conforme a la legislación hipotecaria?",
+        "opciones": [
+          "No, para esos arrendamientos la inscripción es potestativa para las Administraciones Públicas",
+          "Sí, es obligatoria en todo caso, sin excepción",
+          "Sí, pero únicamente si el arrendamiento supera los diez años de duración",
+          "No, los arrendamientos nunca pueden inscribirse en el Registro"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 36 LPAP configura como potestativa, no obligatoria, la inscripción de arrendamientos inscribibles conforme a la legislación hipotecaria. Trampa: no se fija ningún umbral de duración ni se prohíbe su inscripción, solo se exime del carácter obligatorio.",
+        "parte": 1,
+        "id": "tema-29-q53"
+      },
+      {
+        "enunciado": "Según el art. 36 LPAP, señale quién NO está legitimado para solicitar la inscripción de un bien o derecho:",
+        "opciones": [
+          "El órgano que haya adquirido el bien o derecho",
+          "El órgano que haya dictado el acto o intervenido en el contrato que deba constar en el registro",
+          "Aquel al que corresponda la administración y gestión del bien",
+          "Cualquier particular interesado en la finca colindante"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: la LPAP legitima a órganos administrativos concretos (el adquirente, el que dictó el acto o intervino en el contrato, o el gestor), no a cualquier particular ajeno a la Administración. Las tres primeras opciones reproducen literalmente la norma.",
+        "parte": 1,
+        "id": "tema-29-q54"
+      },
+      {
+        "enunciado": "Un departamento ministerial dicta un acto administrativo que debe constar en el Registro de la Propiedad. ¿Quién puede solicitar su inscripción conforme al art. 36 LPAP?",
+        "opciones": [
+          "El propio órgano que dictó el acto, entre otros legitimados por el art. 36 LPAP",
+          "Únicamente el Consejo de Estado",
+          "Únicamente la Dirección General del Patrimonio del Estado, con exclusión de cualquier otro órgano",
+          "Nadie, pues los actos administrativos nunca acceden al Registro de la Propiedad"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 36 LPAP legitima expresamente al órgano que dictó el acto o intervino en el contrato para solicitar la inscripción. Trampa: ni el Consejo de Estado ni la exclusividad de la Dirección General responden al reparto real de legitimación de este artículo.",
+        "parte": 1,
+        "id": "tema-29-q55"
+      },
+      {
+        "enunciado": "¿Qué tipo de bienes y derechos deben inscribirse conforme al art. 36 LPAP?",
+        "opciones": [
+          "Tanto los demaniales como los patrimoniales, siempre que sean susceptibles de inscripción",
+          "Solo los bienes de dominio público",
+          "Solo los bienes de carácter patrimonial",
+          "Solo los bienes muebles cuyo valor supere un determinado umbral"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 36 LPAP no distingue entre demanio y patrimonio a efectos de la obligación registral: lo relevante es que el bien o derecho sea susceptible de inscripción. Trampa: tampoco se fija ningún umbral de valor para los bienes muebles.",
+        "parte": 1,
+        "id": "tema-29-q56"
+      },
+      {
+        "enunciado": "¿Qué órgano debe emitir informe en los expedientes de inscripción de bienes o derechos de titularidad de la Administración General del Estado o de sus organismos autónomos?",
+        "opciones": [
+          "La Abogacía del Estado",
+          "El Tribunal de Cuentas",
+          "El Consejo de Estado en pleno",
+          "La Intervención General de la Administración del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP exige el informe de la Abogacía del Estado en estos expedientes de inscripción de la AGE y sus organismos autónomos. Trampa: el Consejo de Estado en pleno interviene en el procedimiento de transacción y arbitraje del art. 31, no en este trámite registral.",
+        "parte": 1,
+        "id": "tema-29-q57"
+      },
+      {
+        "enunciado": "Si el bien o derecho a inscribir corresponde a una entidad pública dependiente de la AGE distinta de un organismo autónomo, ¿quién emite el informe preceptivo en el expediente de inscripción?",
+        "opciones": [
+          "El órgano al que corresponda el asesoramiento jurídico de esa entidad",
+          "Siempre la Abogacía del Estado, sin excepción alguna",
+          "El Registrador de la Propiedad competente para la inscripción",
+          "El Ministro de Hacienda personalmente"
+        ],
+        "correcta": 0,
+        "explicacion": "Para esas otras entidades, la LPAP desplaza el informe preceptivo al órgano de asesoramiento jurídico propio de cada una, no a la Abogacía del Estado. Trampa: tampoco corresponde esta función al Registrador ni al Ministro de Hacienda a título personal.",
+        "parte": 1,
+        "id": "tema-29-q58"
+      },
+      {
+        "enunciado": "Cuando se inscriban en el Registro de la Propiedad excesos de cabida de fincas colindantes con otras pertenecientes a una Administración Pública, ¿qué debe hacer el Registrador?",
+        "opciones": [
+          "Ponerlo en conocimiento del órgano al que corresponda la administración de la finca pública colindante, con los datos de la persona a cuyo favor se inscribió y la descripción de la finca",
+          "Denegar automáticamente la inscripción de cualquier exceso de cabida",
+          "Remitir el expediente directamente al Consejo de Estado para su resolución",
+          "No tiene ninguna obligación de comunicación en estos casos"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP impone al Registrador un deber específico de comunicación, con datos identificativos y descripción de la finca, a los órganos competentes de la Administración colindante. Trampa: no se trata de una denegación automática ni de una remisión al Consejo de Estado, que no interviene en este trámite.",
+        "parte": 1,
+        "id": "tema-29-q59"
+      },
+      {
+        "enunciado": "¿En qué otro supuesto, además del exceso de cabida, debe el Registrador de la Propiedad cursar igual comunicación al órgano administrativo competente?",
+        "opciones": [
+          "En los supuestos de inmatriculación de fincas colindantes con otras pertenecientes a una Administración Pública",
+          "En cualquier compraventa entre particulares, sin ninguna excepción",
+          "Solo cuando el Consejo de Estado lo requiera expresamente",
+          "Nunca, esa comunicación solo se aplica a los excesos de cabida"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP extiende la misma obligación de comunicación a los casos de inmatriculación de fincas colindantes con las de una Administración Pública. Trampa: no se trata de cualquier compraventa entre particulares, ni depende de un requerimiento del Consejo de Estado.",
+        "parte": 1,
+        "id": "tema-29-q60"
+      },
+      {
+        "enunciado": "¿Cuál es la finalidad de la facultad de investigación regulada en la LPAP?",
+        "opciones": [
+          "Determinar la titularidad de bienes y derechos que presumiblemente formen parte del patrimonio público cuando ésta no conste de modo cierto",
+          "Fijar los límites físicos entre una finca pública y las colindantes",
+          "Recuperar la posesión de un bien perdida indebidamente por la Administración",
+          "Extinguir el título que amparaba la ocupación de un bien demanial por un tercero"
+        ],
+        "correcta": 0,
+        "explicacion": "La facultad de investigación persigue aclarar la titularidad incierta de bienes y derechos que presumiblemente son públicos. Las otras finalidades corresponden a deslinde, recuperación y desahucio, respectivamente, que son facultades distintas aunque relacionadas.",
+        "parte": 2,
+        "id": "tema-29-q61"
+      },
+      {
+        "enunciado": "En la Administración General del Estado, ¿qué órgano es competente para acordar la incoación y resolver el procedimiento de investigación de bienes y derechos?",
+        "opciones": [
+          "El Ministro de Hacienda",
+          "El Director General del Patrimonio del Estado, o en su caso los presidentes o directores de los organismos públicos",
+          "Los Delegados de Economía y Hacienda",
+          "La Abogacía General del Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El procedimiento de investigación se incoa y resuelve por el Director General del Patrimonio del Estado, salvo que se trate de bienes de organismos públicos, en cuyo caso corresponde a sus presidentes o directores. No debe confundirse con el deslinde, donde la resolución final de bienes patrimoniales corresponde al Ministro de Hacienda.",
+        "parte": 2,
+        "id": "tema-29-q62"
+      },
+      {
+        "enunciado": "En los expedientes de investigación de bienes de titularidad de la AGE, ¿en qué caso NO es preceptivo el informe de la Abogacía General del Estado antes de resolver?",
+        "opciones": [
+          "Cuando el expediente se vaya a resolver con la incorporación del bien al Patrimonio del Estado",
+          "Cuando la resolución vaya a ser la de archivo del expediente",
+          "Cuando el bien haya sido denunciado por un particular",
+          "Nunca se exceptúa; el informe es siempre preceptivo"
+        ],
+        "correcta": 1,
+        "explicacion": "El informe previo de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado es preceptivo antes de adoptar la resolución, salvo que ésta sea la de archivo del expediente. Para bienes de otras entidades dependientes de la AGE, el informe corresponde al órgano de asesoramiento jurídico propio.",
+        "parte": 2,
+        "id": "tema-29-q63"
+      },
+      {
+        "enunciado": "Señale la afirmación correcta sobre el inicio del procedimiento de investigación:",
+        "opciones": [
+          "Solo puede iniciarse de oficio por la Administración",
+          "Puede iniciarse de oficio, por iniciativa propia, o por denuncia de particulares",
+          "Solo puede iniciarse a petición de los colindantes del inmueble",
+          "Requiere siempre autorización previa del Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "El procedimiento de investigación se inicia de oficio, por iniciativa propia de la Administración o por denuncia de particulares. La petición de colindantes es, en cambio, uno de los modos de inicio previstos para el deslinde.",
+        "parte": 2,
+        "id": "tema-29-q64"
+      },
+      {
+        "enunciado": "Un particular, sin estar obligado por razón de su cargo, denuncia la existencia de un bien presumiblemente de titularidad pública que finalmente se incorpora al Patrimonio del Estado sin que la incorporación sea revocada. ¿Qué premio percibe?",
+        "opciones": [
+          "El 5% del valor del bien, igual que en la recuperación posesoria",
+          "El 10% del valor de los bienes o derechos denunciados",
+          "El 18% del valor del bien, equivalente al plazo máximo de un deslinde",
+          "No tiene derecho a premio alguno, solo a la devolución de gastos"
+        ],
+        "correcta": 1,
+        "explicacion": "Quien denuncia la existencia de bienes presumiblemente públicos, sin estar obligado a ello por su cargo, tiene derecho a un premio del 10% del valor de los bienes o derechos denunciados, siempre que el procedimiento concluya con su incorporación al Patrimonio del Estado y ésta no sea revocada. El 5% es, en cambio, el tope de las multas coercitivas en recuperación y desahucio.",
+        "parte": 2,
+        "id": "tema-29-q65"
+      },
+      {
+        "enunciado": "Cuando el procedimiento de investigación se inicia por denuncia de un particular, ¿quién resuelve sobre la admisibilidad de la denuncia?",
+        "opciones": [
+          "El Ministro de Hacienda",
+          "Los Delegados de Economía y Hacienda",
+          "La Dirección General del Patrimonio del Estado",
+          "La Abogacía General del Estado"
+        ],
+        "correcta": 2,
+        "explicacion": "Ante una denuncia, la Dirección General del Patrimonio del Estado resuelve sobre su admisibilidad y, en su caso, ordena el inicio del procedimiento de investigación. Los Delegados de Economía y Hacienda no intervienen en investigación, sino que instruyen el procedimiento de deslinde.",
+        "parte": 2,
+        "id": "tema-29-q66"
+      },
+      {
+        "enunciado": "¿Cómo se publica el acuerdo de incoación del procedimiento de investigación?",
+        "opciones": [
+          "De forma gratuita en el BOE, sin perjuicio de otros medios de difusión adicionales",
+          "Solo mediante notificación personal a los colindantes del bien",
+          "Mediante pago de tasa en el Boletín Oficial de la Provincia correspondiente",
+          "No requiere publicación, basta con la notificación al denunciante"
+        ],
+        "correcta": 0,
+        "explicacion": "El acuerdo de incoación del procedimiento de investigación se publica gratuitamente en el BOE, sin perjuicio de utilizar además otros medios de difusión. Además, se remite copia al ayuntamiento donde radique el bien para su exposición en el tablón de edictos.",
+        "parte": 2,
+        "id": "tema-29-q67"
+      },
+      {
+        "enunciado": "Además de publicarse en el BOE, ¿qué otro trámite de publicidad se prevé para el acuerdo de incoación del expediente de investigación?",
+        "opciones": [
+          "Se remite copia al ayuntamiento donde radique el bien para exposición en el tablón de edictos",
+          "Se publica en el Diario Oficial de la Unión Europea",
+          "Se comunica al Registro de la Propiedad para su inscripción provisional inmediata",
+          "Se notifica únicamente a la Abogacía General del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "Se remite una copia del acuerdo de incoación al ayuntamiento en cuyo término radique el bien, para su exposición al público en el tablón de edictos, como complemento a la publicación gratuita en el BOE.",
+        "parte": 2,
+        "id": "tema-29-q68"
+      },
+      {
+        "enunciado": "Cuando la resolución del expediente de investigación declara acreditada la titularidad de la AGE sobre un bien, ¿qué efectos produce dicha resolución?",
+        "opciones": [
+          "Solo la inscripción registral del bien, sin más trámites",
+          "La tasación del bien, su inclusión en el Inventario General, su inscripción en el Registro de la Propiedad y, en su caso, la adopción de medidas para obtener su posesión",
+          "El pago inmediato del premio del denunciante y la clausura del expediente sin más efectos",
+          "La apertura automática de un procedimiento de deslinde sobre el mismo bien"
+        ],
+        "correcta": 1,
+        "explicacion": "La resolución que acredita la titularidad estatal conlleva la tasación del bien, su inclusión en el Inventario General de Bienes y Derechos del Estado, su inscripción en el Registro de la Propiedad y, si procede, la adopción de medidas para obtener la posesión. El pago del premio es un efecto distinto, condicionado a que exista denuncia y no se revoque la incorporación.",
+        "parte": 2,
+        "id": "tema-29-q69"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo de caducidad del expediente de investigación, transcurrido el cual el órgano instructor acordará el archivo de las actuaciones sin más trámite?",
+        "opciones": [
+          "Un año desde la usurpación",
+          "Dieciocho meses desde el acuerdo de iniciación",
+          "Dos años desde el día siguiente a la publicación del acuerdo de incoación",
+          "Ocho días desde el requerimiento de desalojo"
+        ],
+        "correcta": 2,
+        "explicacion": "Si el expediente de investigación no se resuelve en el plazo de dos años desde el día siguiente a la publicación del acuerdo de incoación, el órgano instructor acordará sin más trámite el archivo de las actuaciones. No debe confundirse con el plazo de 18 meses del deslinde ni con el de 1 año de la recuperación posesoria de bienes patrimoniales.",
+        "parte": 2,
+        "id": "tema-29-q70"
+      },
+      {
+        "enunciado": "El plazo de dos años para resolver el expediente de investigación se computa:",
+        "opciones": [
+          "Desde el día siguiente a la publicación del acuerdo de incoación en el BOE",
+          "Desde la fecha del acuerdo de iniciación del procedimiento",
+          "Desde el día siguiente a la usurpación del bien",
+          "Desde la notificación al denunciante de la admisibilidad de su denuncia"
+        ],
+        "correcta": 0,
+        "explicacion": "El cómputo del plazo de dos años arranca el día siguiente al de la publicación del acuerdo de incoación. La opción sobre 'fecha del acuerdo de iniciación' corresponde en realidad al cómputo del plazo de 18 meses del procedimiento de deslinde.",
+        "parte": 2,
+        "id": "tema-29-q71"
+      },
+      {
+        "enunciado": "Si transcurren los dos años sin que se haya resuelto el expediente de investigación, ¿qué ocurre?",
+        "opciones": [
+          "Se entiende tácitamente que el bien pertenece a la Administración",
+          "El órgano instructor acuerda sin más trámite el archivo de las actuaciones",
+          "El expediente se transforma automáticamente en un procedimiento de deslinde",
+          "Se duplica el plazo por otros dos años adicionales de oficio"
+        ],
+        "correcta": 1,
+        "explicacion": "La consecuencia del vencimiento del plazo de dos años es el archivo de las actuaciones por el órgano instructor, sin necesidad de más trámite. No existe una prórroga automática ni una transformación en otro procedimiento.",
+        "parte": 2,
+        "id": "tema-29-q72"
+      },
+      {
+        "enunciado": "Para los bienes o derechos de titularidad de entidades públicas dependientes de la AGE distintas de sus organismos autónomos, ¿quién debe emitir el informe previo en el expediente de investigación?",
+        "opciones": [
+          "La Abogacía General del Estado necesariamente",
+          "El órgano al que corresponda su asesoramiento jurídico",
+          "El Ministro de Hacienda",
+          "El Consejo de Estado en pleno"
+        ],
+        "correcta": 1,
+        "explicacion": "Cuando los bienes o derechos pertenecen a otras entidades públicas dependientes de la AGE, el informe preceptivo corresponde al órgano al que corresponda su propio asesoramiento jurídico, y no necesariamente a la Abogacía General del Estado, que informa en los expedientes de bienes de la AGE y sus organismos autónomos.",
+        "parte": 2,
+        "id": "tema-29-q73"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una causa de inicio del procedimiento de investigación de bienes?",
+        "opciones": [
+          "La iniciativa propia de la Administración",
+          "La denuncia de un particular",
+          "La petición de los colindantes del inmueble a su costa",
+          "Ninguna de las anteriores; de oficio y por denuncia son las únicas causas previstas"
+        ],
+        "correcta": 2,
+        "explicacion": "El procedimiento de investigación se inicia de oficio o por denuncia de particulares; la petición de los colindantes a su costa es, en cambio, el modo de inicio a instancia de parte previsto específicamente para el procedimiento de deslinde.",
+        "parte": 2,
+        "id": "tema-29-q74"
+      },
+      {
+        "enunciado": "La LPAP exige acreditar la titularidad de la AGE 'de modo cierto' como presupuesto de la facultad de investigación. ¿Qué procedimiento es, por tanto, el adecuado cuando existe duda sobre a quién pertenece un bien, frente al deslinde, pensado para límites imprecisos entre fincas ya identificadas como de titularidad conocida?",
+        "opciones": [
+          "El desahucio administrativo",
+          "La investigación",
+          "El reintegro posesorio",
+          "La recuperación de oficio en cualquier momento"
+        ],
+        "correcta": 1,
+        "explicacion": "La investigación se dirige precisamente a determinar la titularidad incierta de un bien, mientras que el deslinde presupone que la titularidad de la finca pública ya es conocida y lo que se fija son sus límites físicos frente a fincas colindantes.",
+        "parte": 2,
+        "id": "tema-29-q75"
+      },
+      {
+        "enunciado": "¿En qué supuestos procede la facultad de deslinde administrativo según la LPAP?",
+        "opciones": [
+          "Cuando los límites entre el bien público y los colindantes sean imprecisos o existan indicios de usurpación",
+          "Cuando la titularidad del bien sea completamente desconocida",
+          "Cuando un tercero haya perdido el título que legitimaba su ocupación",
+          "Cuando se produzca una usurpación posesoria sobre un bien demanial"
+        ],
+        "correcta": 0,
+        "explicacion": "El deslinde procede cuando los límites entre el bien público y los de terceros colindantes son imprecisos o existen indicios de usurpación. La titularidad desconocida es presupuesto de la investigación, y la pérdida del título de ocupación es presupuesto del desahucio.",
+        "parte": 2,
+        "id": "tema-29-q76"
+      },
+      {
+        "enunciado": "Tratándose de bienes patrimoniales de la AGE, ¿qué órgano acuerda la incoación del procedimiento de deslinde?",
+        "opciones": [
+          "El Ministro de Hacienda",
+          "El Director General del Patrimonio del Estado",
+          "Los Delegados de Economía y Hacienda",
+          "El presidente del organismo público afectado"
+        ],
+        "correcta": 1,
+        "explicacion": "La incoación del procedimiento de deslinde de bienes patrimoniales de la AGE corresponde al Director General del Patrimonio del Estado, mientras que la resolución final se reserva al Ministro de Hacienda. Es el mismo órgano que incoa y resuelve en los expedientes de investigación, pero aquí la resolución la asume otro órgano distinto.",
+        "parte": 2,
+        "id": "tema-29-q77"
+      },
+      {
+        "enunciado": "Tratándose de bienes patrimoniales de la AGE, ¿a quién corresponde dictar la resolución que ponga fin al procedimiento de deslinde?",
+        "opciones": [
+          "Al Director General del Patrimonio del Estado",
+          "Al Ministro de Hacienda",
+          "A la Abogacía General del Estado",
+          "Al Delegado de Economía y Hacienda"
+        ],
+        "correcta": 1,
+        "explicacion": "A diferencia de la investigación, donde el mismo órgano (el Director General del Patrimonio del Estado) incoa y resuelve, en el deslinde de bienes patrimoniales la incoación corresponde a dicho Director General pero la resolución final corresponde al Ministro de Hacienda.",
+        "parte": 2,
+        "id": "tema-29-q78"
+      },
+      {
+        "enunciado": "¿Qué órgano tiene encomendada la instrucción del procedimiento de deslinde?",
+        "opciones": [
+          "Los Delegados de Economía y Hacienda",
+          "El Ministro de Hacienda",
+          "La Abogacía General del Estado",
+          "El Director General del Patrimonio del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La instrucción del procedimiento de deslinde corresponde a los Delegados de Economía y Hacienda, mientras que la incoación de bienes patrimoniales corresponde al Director General del Patrimonio del Estado y la resolución al Ministro de Hacienda.",
+        "parte": 2,
+        "id": "tema-29-q79"
+      },
+      {
+        "enunciado": "Cuando el deslinde se refiere a bienes demaniales de la AGE, ¿quién acuerda la incoación del procedimiento?",
+        "opciones": [
+          "El titular del departamento ministerial que tenga afectados los bienes o al que corresponda su gestión o administración",
+          "Siempre el Director General del Patrimonio del Estado",
+          "El Ministro de Hacienda en todo caso",
+          "Los Delegados de Economía y Hacienda"
+        ],
+        "correcta": 0,
+        "explicacion": "Para los bienes demaniales de la AGE, la incoación del deslinde corresponde al titular del departamento ministerial que tenga afectados los bienes o al que corresponda su gestión o administración, a diferencia de los bienes patrimoniales, cuya incoación corresponde al Director General del Patrimonio del Estado.",
+        "parte": 2,
+        "id": "tema-29-q80"
+      },
+      {
+        "enunciado": "Respecto de los bienes propios de los organismos públicos o adscritos a ellos, ¿quién ejerce la competencia para el deslinde?",
+        "opciones": [
+          "Sus presidentes o directores",
+          "El Ministro de Hacienda",
+          "La Dirección General del Patrimonio del Estado",
+          "El Consejo de Ministros"
+        ],
+        "correcta": 0,
+        "explicacion": "La competencia sobre el deslinde de bienes propios de los organismos públicos, o adscritos a ellos, se ejerce por sus presidentes o directores, de modo paralelo a lo que ocurre en la facultad de investigación respecto de estos organismos.",
+        "parte": 2,
+        "id": "tema-29-q81"
+      },
+      {
+        "enunciado": "Si el procedimiento de deslinde se inicia a petición de los colindantes, ¿quién asume los gastos que genere?",
+        "opciones": [
+          "La Administración, con cargo a los presupuestos generales",
+          "Los colindantes que lo solicitan, a su costa, debiendo constar su conformidad expresa",
+          "Se reparten al 50% entre la Administración y los colindantes",
+          "El denunciante que inició previamente el expediente de investigación"
+        ],
+        "correcta": 1,
+        "explicacion": "Cuando el deslinde se inicia a petición de los colindantes, los gastos generados corren a su costa, debiendo constar en el expediente su conformidad expresa; para su cobro puede seguirse la vía de apremio, igual que ocurre con los gastos del usurpador en la recuperación posesoria.",
+        "parte": 2,
+        "id": "tema-29-q82"
+      },
+      {
+        "enunciado": "¿Cómo se publica el inicio del procedimiento de deslinde?",
+        "opciones": [
+          "Solo mediante notificación personal a los colindantes, sin publicación oficial",
+          "Gratuitamente en el BOE y en el tablón de edictos del ayuntamiento donde radique el inmueble",
+          "Únicamente en el Boletín Oficial de la Comunidad Autónoma",
+          "No requiere publicación alguna, basta la inscripción registral"
+        ],
+        "correcta": 1,
+        "explicacion": "El inicio del procedimiento de deslinde se publica gratuitamente en el BOE y en el tablón de edictos del ayuntamiento donde radique el inmueble, sin perjuicio de otros medios adicionales; además, se notifica a quienes conste que ostentan derechos sobre las fincas colindantes afectadas.",
+        "parte": 2,
+        "id": "tema-29-q83"
+      },
+      {
+        "enunciado": "Además de la publicación en el BOE y el tablón de edictos, ¿qué otro trámite de comunicación exige el inicio del deslinde?",
+        "opciones": [
+          "La notificación a cuantas personas se conozca que ostenten derechos sobre las fincas colindantes afectadas",
+          "La comunicación al Consejo de Estado en pleno",
+          "El pago previo de una tasa por parte del promotor del expediente",
+          "La publicación en el Diario Oficial de la Unión Europea"
+        ],
+        "correcta": 0,
+        "explicacion": "El acuerdo de iniciación del deslinde se notifica también a cuantas personas se conozca que ostentan derechos sobre las fincas colindantes que puedan verse afectadas, además de su publicación oficial.",
+        "parte": 2,
+        "id": "tema-29-q84"
+      },
+      {
+        "enunciado": "¿Qué informe es preceptivo antes de dictar la resolución que apruebe el deslinde?",
+        "opciones": [
+          "El de la Abogacía del Estado o del órgano al que corresponda el asesoramiento jurídico de la entidad vinculada",
+          "El de la Intervención General de la Administración del Estado",
+          "El del Consejo de Estado en pleno",
+          "El del Tribunal de Cuentas"
+        ],
+        "correcta": 0,
+        "explicacion": "La resolución que apruebe el deslinde requiere informe previo de la Abogacía del Estado o, en el caso de entidades públicas vinculadas a la AGE, del órgano al que corresponda su asesoramiento jurídico, de forma análoga a lo previsto en la investigación.",
+        "parte": 2,
+        "id": "tema-29-q85"
+      },
+      {
+        "enunciado": "Una vez firme el acuerdo resolutorio del deslinde, ¿qué trámite registral procede?",
+        "opciones": [
+          "No procede ningún trámite registral, pues el deslinde es un acto puramente material",
+          "Se inscribe en el Registro de la Propiedad correspondiente",
+          "Se incorpora al Inventario General, pero no se inscribe en el Registro de la Propiedad",
+          "Se anota preventivamente, pero solo durante un año"
+        ],
+        "correcta": 1,
+        "explicacion": "Firme el acuerdo resolutorio del deslinde, éste se inscribe en el Registro de la Propiedad correspondiente, culminando así la delimitación física de la finca pública frente a las colindantes.",
+        "parte": 2,
+        "id": "tema-29-q86"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo para resolver el procedimiento de deslinde?",
+        "opciones": [
+          "Dos años, igual que en la investigación",
+          "Un año, igual que en la recuperación de bienes patrimoniales",
+          "Dieciocho meses contados desde la fecha del acuerdo de iniciación",
+          "Ocho días, igual que el plazo de desalojo"
+        ],
+        "correcta": 2,
+        "explicacion": "El plazo máximo para resolver el procedimiento de deslinde es de 18 meses, contados desde la fecha del acuerdo de iniciación. No debe confundirse con los 2 años de la investigación ni con el año de la recuperación de bienes patrimoniales.",
+        "parte": 2,
+        "id": "tema-29-q87"
+      },
+      {
+        "enunciado": "El plazo de 18 meses para resolver el deslinde se computa:",
+        "opciones": [
+          "Desde la fecha del acuerdo de iniciación",
+          "Desde el día siguiente a la publicación del acuerdo en el BOE",
+          "Desde la notificación a los colindantes",
+          "Desde la fecha en que se produjo la usurpación"
+        ],
+        "correcta": 0,
+        "explicacion": "El cómputo de los 18 meses del deslinde arranca en la fecha del propio acuerdo de iniciación, a diferencia del plazo de la investigación, que se computa desde el día siguiente a la publicación del acuerdo de incoación en el BOE.",
+        "parte": 2,
+        "id": "tema-29-q88"
+      },
+      {
+        "enunciado": "En un expediente de deslinde sobre un bien demanial afectado al Ministerio de Defensa, ¿qué órgano sería competente para acordar la incoación, frente a lo que ocurriría si el bien fuese patrimonial?",
+        "opciones": [
+          "El titular del Ministerio de Defensa, mientras que si fuera patrimonial incoaría el Director General del Patrimonio del Estado",
+          "En ambos casos, el Director General del Patrimonio del Estado",
+          "En ambos casos, el Ministro de Hacienda",
+          "El presidente del organismo público, en ambos casos"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP distingue según la naturaleza del bien: si es demanial, incoa el titular del departamento ministerial que lo tenga afectado o cuya gestión le corresponda; si es patrimonial, incoa el Director General del Patrimonio del Estado, correspondiendo la resolución en este último caso al Ministro de Hacienda.",
+        "parte": 2,
+        "id": "tema-29-q89"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el deslinde es INCORRECTA?",
+        "opciones": [
+          "Puede iniciarse de oficio o a petición de los colindantes",
+          "El plazo máximo de resolución es de 18 meses desde el acuerdo de iniciación",
+          "La resolución final de bienes patrimoniales corresponde siempre al Director General del Patrimonio del Estado",
+          "Tras la firmeza del acuerdo resolutorio, procede su inscripción en el Registro de la Propiedad"
+        ],
+        "correcta": 2,
+        "explicacion": "Es incorrecta la tercera opción: la resolución final del deslinde de bienes patrimoniales corresponde al Ministro de Hacienda, no al Director General del Patrimonio del Estado, que solo acuerda la incoación. Las demás afirmaciones son correctas conforme a la LPAP.",
+        "parte": 2,
+        "id": "tema-29-q90"
+      },
+      {
+        "enunciado": "¿En qué artículo de la LPAP se recoge la facultad de reintegro posesorio o recuperación?",
+        "opciones": [
+          "Artículo 45",
+          "Artículo 50",
+          "Artículo 55",
+          "Artículo 58"
+        ],
+        "correcta": 2,
+        "explicacion": "La facultad de reintegro posesorio se recoge en el artículo 55 de la LPAP. El artículo 45 abre la regulación de la investigación, el 50 la del deslinde, y el 58 la del desahucio administrativo.",
+        "parte": 2,
+        "id": "tema-29-q91"
+      },
+      {
+        "enunciado": "¿Qué plazo tiene la Administración para recuperar de oficio la posesión indebidamente perdida de un bien PATRIMONIAL?",
+        "opciones": [
+          "Dos años desde la publicación del acuerdo de incoación",
+          "Dieciocho meses desde el acuerdo de iniciación",
+          "Un año, contado desde el día siguiente al de la usurpación",
+          "En cualquier momento, sin límite temporal"
+        ],
+        "correcta": 2,
+        "explicacion": "Para los bienes patrimoniales, el plazo para la recuperación posesoria en vía administrativa es de un año desde el día siguiente a la usurpación; transcurrido ese plazo, la Administración debe acudir a la jurisdicción civil. Para los bienes demaniales, en cambio, la recuperación puede ejercerse en cualquier momento.",
+        "parte": 2,
+        "id": "tema-29-q92"
+      },
+      {
+        "enunciado": "Transcurrido el plazo de un año sin que la Administración haya recuperado en vía administrativa la posesión de un bien patrimonial usurpado, ¿qué debe hacer para recuperarlo?",
+        "opciones": [
+          "Nada; el bien se pierde definitivamente por el simple transcurso del plazo",
+          "Iniciar directamente un procedimiento de desahucio administrativo",
+          "Ejercitar las acciones correspondientes ante los órganos del orden jurisdiccional civil",
+          "Solicitar la intervención directa del Consejo de Estado"
+        ],
+        "correcta": 2,
+        "explicacion": "Pasado el año desde la usurpación sin recuperar la posesión del bien patrimonial por la vía administrativa, la Administración debe ejercitar las acciones correspondientes ante los órganos del orden jurisdiccional civil, pues ya no cabe acudir a la recuperación de oficio.",
+        "parte": 2,
+        "id": "tema-29-q93"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo para que la Administración recupere de oficio la posesión de un bien DEMANIAL usurpado?",
+        "opciones": [
+          "Un año desde la usurpación, igual que en los bienes patrimoniales",
+          "Dieciocho meses desde el acuerdo de iniciación",
+          "Puede ejercerse en cualquier momento",
+          "Dos años desde la publicación en el BOE"
+        ],
+        "correcta": 2,
+        "explicacion": "A diferencia de los bienes patrimoniales, sujetos al plazo de un año, la facultad de recuperación de bienes demaniales puede ejercerse en cualquier momento, reflejando su carácter de inalienables e imprescriptibles.",
+        "parte": 2,
+        "id": "tema-29-q94"
+      },
+      {
+        "enunciado": "¿Qué tipo de procedimiento rige la recuperación posesoria administrativa prevista en el artículo 55 LPAP?",
+        "opciones": [
+          "Un procedimiento sumario sin audiencia al interesado",
+          "Un procedimiento contradictorio con audiencia al interesado",
+          "Un procedimiento exclusivamente documental, resuelto sin trámite alguno",
+          "Un procedimiento arbitral ante el Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "La recuperación posesoria se tramita mediante un procedimiento contradictorio con audiencia al interesado, en el que se comprueba el hecho de la usurpación y la fecha en que se inició antes de requerir el cese.",
+        "parte": 2,
+        "id": "tema-29-q95"
+      },
+      {
+        "enunciado": "Comprobada la usurpación posesoria, ¿qué plazo máximo se concede al ocupante para que cese en su actuación y desaloje?",
+        "opciones": [
+          "Un plazo no superior a ocho días",
+          "Un plazo no superior a dieciocho meses",
+          "Un plazo no superior a un año",
+          "Un plazo no superior a dos años"
+        ],
+        "correcta": 0,
+        "explicacion": "Una vez comprobada la usurpación posesoria y su fecha de inicio, se requiere al ocupante para que cese, señalándole un plazo no superior a ocho días para el desalojo, idéntico plazo al previsto para el desahucio administrativo.",
+        "parte": 2,
+        "id": "tema-29-q96"
+      },
+      {
+        "enunciado": "Si el ocupante se resiste al desalojo en un procedimiento de recuperación posesoria, ¿qué medios puede emplear la Administración?",
+        "opciones": [
+          "Solo puede acudir a la vía judicial civil, sin medios administrativos directos",
+          "El auxilio de las Fuerzas y Cuerpos de Seguridad y multas coercitivas de hasta el 5% del valor de los bienes ocupados",
+          "La imposición de multas coercitivas de hasta el 10%, equivalentes al premio de la investigación",
+          "La expropiación forzosa inmediata del bien ocupado"
+        ],
+        "correcta": 1,
+        "explicacion": "Ante la resistencia al desalojo, la Administración puede solicitar el auxilio de las Fuerzas y Cuerpos de Seguridad e imponer multas coercitivas de hasta un 5% del valor de los bienes ocupados. El 10% es, en cambio, el porcentaje del premio al denunciante en la investigación, no el de las multas coercitivas.",
+        "parte": 2,
+        "id": "tema-29-q97"
+      },
+      {
+        "enunciado": "Las multas coercitivas que pueden imponerse para lograr el desalojo en la recuperación posesoria se reiteran:",
+        "opciones": [
+          "Por períodos de ocho días, hasta que se produzca el desalojo",
+          "Una única vez, sin posibilidad de reiteración",
+          "Por períodos de dieciocho meses",
+          "Anualmente, mientras persista la ocupación"
+        ],
+        "correcta": 0,
+        "explicacion": "Las multas coercitivas de hasta el 5% del valor de los bienes ocupados pueden reiterarse por períodos de ocho días hasta que se produzca el desalojo efectivo, en coherencia con el plazo de ocho días concedido inicialmente para desalojar.",
+        "parte": 2,
+        "id": "tema-29-q98"
+      },
+      {
+        "enunciado": "Los gastos derivados de la tramitación del procedimiento de recuperación, así como los daños y perjuicios ocasionados, son a cargo de:",
+        "opciones": [
+          "La Administración titular del bien, en todo caso",
+          "El usurpador, pudiendo hacerse efectivos por el procedimiento de apremio",
+          "Se reparten al 50% entre la Administración y el usurpador",
+          "El denunciante que puso en conocimiento la usurpación"
+        ],
+        "correcta": 1,
+        "explicacion": "Los gastos de tramitación del procedimiento de recuperación, junto con los daños y perjuicios causados, corren a cargo del usurpador, pudiendo exigirse su importe por la vía de apremio, de modo similar a los gastos a cargo de los colindantes en el deslinde a su instancia.",
+        "parte": 2,
+        "id": "tema-29-q99"
+      },
+      {
+        "enunciado": "¿Qué diferencia esencial existe entre la recuperación posesoria (art. 55) y el desahucio administrativo (art. 58) en cuanto a su presupuesto de hecho?",
+        "opciones": [
+          "No existe diferencia alguna; son el mismo procedimiento con distinto nombre",
+          "La recuperación exige usurpación sin título alguno, mientras que el desahucio presupone que existió un título de ocupación que después decayó o se extinguió",
+          "La recuperación solo se aplica a bienes muebles y el desahucio a bienes inmuebles",
+          "La recuperación requiere siempre informe previo de la Abogacía del Estado y el desahucio no"
+        ],
+        "correcta": 1,
+        "explicacion": "En la recuperación posesoria el ocupante carece de cualquier título, se trata de una usurpación de hecho; en el desahucio, en cambio, el ocupante tuvo en su día un título legítimo de uso sobre el bien demanial que después decayó, desapareció o fue declarado extinguido o caducado.",
+        "parte": 2,
+        "id": "tema-29-q100"
+      },
+      {
+        "enunciado": "Un particular ocupa sin ningún título un solar patrimonial del Estado desde hace ocho meses. ¿Puede la Administración recuperar la posesión en vía administrativa?",
+        "opciones": [
+          "No, porque los bienes patrimoniales nunca admiten recuperación de oficio",
+          "Sí, porque no ha transcurrido el plazo de un año desde la usurpación",
+          "No, porque el plazo aplicable a bienes patrimoniales es de ocho días, ya vencido",
+          "Sí, porque tratándose de un bien patrimonial la recuperación puede ejercerse en cualquier momento"
+        ],
+        "correcta": 1,
+        "explicacion": "Como no han transcurrido los doce meses desde el día siguiente a la usurpación, la Administración todavía puede recuperar la posesión del bien patrimonial por la vía administrativa prevista en el artículo 55 LPAP.",
+        "parte": 2,
+        "id": "tema-29-q101"
+      },
+      {
+        "enunciado": "Si el mismo solar del ejemplo anterior fuera un bien de DOMINIO PÚBLICO en vez de patrimonial, ¿cambiaría el plazo para recuperar la posesión?",
+        "opciones": [
+          "Sí, porque los bienes demaniales solo pueden recuperarse dentro del año siguiente a la usurpación",
+          "No, porque tratándose de un bien demanial, la recuperación puede ejercerse en cualquier momento, sin el límite del año aplicable a los patrimoniales",
+          "Sí, el plazo se reduciría a ocho días en los bienes demaniales",
+          "No, porque ningún bien demanial puede recuperarse por vía administrativa"
+        ],
+        "correcta": 1,
+        "explicacion": "Tratándose de un bien de dominio público, la facultad de recuperación puede ejercerse en cualquier momento, sin sujeción al plazo de un año que sí limita la recuperación de los bienes patrimoniales.",
+        "parte": 2,
+        "id": "tema-29-q102"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la facultad de recuperación es FALSA?",
+        "opciones": [
+          "Se tramita mediante un procedimiento contradictorio con audiencia al interesado",
+          "El plazo de desalojo concedido al ocupante no puede ser superior a ocho días",
+          "Los gastos de tramitación son siempre a cargo de la Administración, nunca del usurpador",
+          "Las multas coercitivas pueden alcanzar hasta el 5% del valor de los bienes ocupados"
+        ],
+        "correcta": 2,
+        "explicacion": "Es falsa la tercera afirmación: los gastos de tramitación y los daños y perjuicios son a cargo del usurpador, exigibles por vía de apremio, y no de la Administración. Las demás afirmaciones son correctas conforme al artículo 55 LPAP.",
+        "parte": 2,
+        "id": "tema-29-q103"
+      },
+      {
+        "enunciado": "¿Qué artículos del Reglamento de la LPAP desarrollan específicamente la facultad de recuperación de la posesión?",
+        "opciones": [
+          "Los artículos 54 a 60",
+          "Los artículos 61 a 67",
+          "El artículo 68",
+          "Los artículos 45 a 49"
+        ],
+        "correcta": 2,
+        "explicacion": "La facultad de recuperación se desarrolla reglamentariamente en el artículo 68 del Reglamento de la LPAP, mientras que los artículos 54 a 60 corresponden a la investigación y los 61 a 67 al deslinde.",
+        "parte": 2,
+        "id": "tema-29-q104"
+      },
+      {
+        "enunciado": "¿Resulta exigible una declaración previa de extinción de título para ejercer la facultad de recuperación posesoria del artículo 55?",
+        "opciones": [
+          "Sí, es idéntico requisito previo que exige el desahucio administrativo",
+          "No, porque en la recuperación el ocupante carece de título alguno, a diferencia del desahucio, donde sí existió un título que debe declararse extinguido o caducado",
+          "Sí, pero solo si el bien es demanial",
+          "No, porque la recuperación nunca exige procedimiento administrativo previo"
+        ],
+        "correcta": 1,
+        "explicacion": "La recuperación posesoria no exige declaración previa de extinción de título, pues parte de que el ocupante nunca tuvo título legítimo; esa exigencia es propia y exclusiva del desahucio administrativo, donde el título existió y decayó.",
+        "parte": 2,
+        "id": "tema-29-q105"
+      },
+      {
+        "enunciado": "¿En qué supuesto procede la facultad de desahucio administrativo prevista en el artículo 58 LPAP?",
+        "opciones": [
+          "Cuando existan límites imprecisos entre un bien demanial y una finca colindante",
+          "Cuando decaigan o desaparezcan el título, las condiciones o las circunstancias que legitimaban la ocupación de un bien demanial por un tercero",
+          "Cuando la titularidad de un bien presumiblemente público no conste de modo cierto",
+          "Cuando un tercero ocupe un bien patrimonial sin haber tenido nunca título alguno"
+        ],
+        "correcta": 1,
+        "explicacion": "El desahucio administrativo procede cuando decaen o desaparecen el título, las condiciones o las circunstancias que legitimaban la ocupación de bienes demaniales por terceros, a diferencia de la recuperación, que se aplica a quien ocupa sin haber tenido nunca título.",
+        "parte": 2,
+        "id": "tema-29-q106"
+      },
+      {
+        "enunciado": "¿Qué requisito previo es necesario para poder ejercer la facultad de desahucio administrativo?",
+        "opciones": [
+          "La previa declaración de extinción o caducidad del título que otorgaba el derecho de utilización del bien de dominio público",
+          "Haber agotado antes el plazo de un año de la recuperación posesoria",
+          "Obtener la autorización previa del Consejo de Estado en pleno",
+          "Haber tramitado antes un expediente de deslinde sobre el mismo bien"
+        ],
+        "correcta": 0,
+        "explicacion": "El ejercicio del desahucio administrativo requiere la previa declaración de extinción o caducidad del título que otorgaba el derecho de utilización de los bienes de dominio público; sin esa declaración previa, no puede acordarse el desahucio.",
+        "parte": 2,
+        "id": "tema-29-q107"
+      },
+      {
+        "enunciado": "La resolución que acuerda el desahucio administrativo:",
+        "opciones": [
+          "No es ejecutiva hasta que adquiera firmeza en vía judicial",
+          "Es ejecutiva, sin perjuicio de los recursos que procedan",
+          "Carece de efectos hasta que se publique en el BOE",
+          "Solo produce efectos si es ratificada por el Ministro de Hacienda"
+        ],
+        "correcta": 1,
+        "explicacion": "La resolución de desahucio es ejecutiva sin perjuicio de los recursos que procedan contra ella, lo que permite a la Administración actuar de inmediato para recuperar el bien demanial, notificando al detentador y requiriéndole el desalojo.",
+        "parte": 2,
+        "id": "tema-29-q108"
+      },
+      {
+        "enunciado": "Notificada la resolución de desahucio al detentador, ¿qué plazo se le concede para desocupar el bien?",
+        "opciones": [
+          "Un plazo no superior a ocho días",
+          "Un plazo no superior a un mes",
+          "Un plazo no superior a un año",
+          "Un plazo no superior a dieciocho meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Al detentador se le requiere para que desocupe el bien en un plazo no superior a ocho días, idéntico al plazo de desalojo previsto en el procedimiento de recuperación posesoria.",
+        "parte": 2,
+        "id": "tema-29-q109"
+      },
+      {
+        "enunciado": "Si el tenedor no atiende el requerimiento de desalojo en el desahucio administrativo, ¿conforme a qué normativa se procede?",
+        "opciones": [
+          "Conforme a lo previsto en el capítulo VII del título IV de la Ley 39/2015",
+          "Conforme al Código Civil en materia de acciones posesorias",
+          "Conforme al Reglamento Hipotecario exclusivamente",
+          "Conforme a la Ley de Expropiación Forzosa"
+        ],
+        "correcta": 0,
+        "explicacion": "Si el tenedor no atiende el requerimiento, se procede en la forma prevista en el capítulo VII del título IV de la Ley 39/2015, de Procedimiento Administrativo Común, que regula la ejecución forzosa de los actos administrativos.",
+        "parte": 2,
+        "id": "tema-29-q110"
+      },
+      {
+        "enunciado": "Para lograr el lanzamiento en un procedimiento de desahucio administrativo, la Administración puede solicitar:",
+        "opciones": [
+          "El auxilio de las Fuerzas y Cuerpos de Seguridad o imponer multas coercitivas de hasta el 5% del valor de los bienes ocupados",
+          "Únicamente la intervención de la Abogacía del Estado",
+          "La suspensión automática de cualquier concesión del detentador sobre otros bienes",
+          "El embargo preventivo de los bienes del detentador en cualquier otro procedimiento"
+        ],
+        "correcta": 0,
+        "explicacion": "Igual que en la recuperación posesoria, para el lanzamiento en el desahucio se puede solicitar el auxilio de las Fuerzas y Cuerpos de Seguridad o imponer multas coercitivas de hasta un 5% del valor de los bienes ocupados.",
+        "parte": 2,
+        "id": "tema-29-q111"
+      },
+      {
+        "enunciado": "Las multas coercitivas impuestas en el procedimiento de desahucio para lograr el desalojo se reiteran:",
+        "opciones": [
+          "Por períodos de ocho días, hasta que se produzca el desalojo",
+          "Una sola vez, sin posibilidad de reiteración posterior",
+          "Por períodos de dieciocho meses",
+          "Por períodos de dos años"
+        ],
+        "correcta": 0,
+        "explicacion": "Las multas coercitivas del desahucio, igual que las de la recuperación posesoria, pueden reiterarse por períodos de ocho días hasta que se produzca el desalojo efectivo del bien.",
+        "parte": 2,
+        "id": "tema-29-q112"
+      },
+      {
+        "enunciado": "Los gastos que ocasione el desalojo en un procedimiento de desahucio administrativo son a cargo de:",
+        "opciones": [
+          "La Administración titular del bien demanial",
+          "El detentador, pudiendo hacerse efectivo su importe por la vía de apremio",
+          "Se reparten proporcionalmente entre la Administración y el detentador",
+          "El tercero que hubiera adquirido después derechos sobre el bien"
+        ],
+        "correcta": 1,
+        "explicacion": "Los gastos del desalojo en el desahucio corren a cargo del detentador, y su importe puede hacerse efectivo por la vía de apremio, exactamente igual que los gastos a cargo del usurpador en la recuperación posesoria.",
+        "parte": 2,
+        "id": "tema-29-q113"
+      },
+      {
+        "enunciado": "¿A quién corresponde la competencia para acordar el desahucio administrativo?",
+        "opciones": [
+          "Al ministro titular del departamento o al presidente o director del organismo público que tenga afectados o adscritos los bienes",
+          "Siempre y exclusivamente al Ministro de Hacienda",
+          "Al Director General del Patrimonio del Estado en todo caso",
+          "A los Delegados de Economía y Hacienda"
+        ],
+        "correcta": 0,
+        "explicacion": "La competencia para el desahucio corresponde al ministro titular del departamento, o al presidente o director del organismo público, que tenga afectados o adscritos los bienes demaniales de que se trate, a diferencia del deslinde de bienes patrimoniales, donde resuelve el Ministro de Hacienda.",
+        "parte": 2,
+        "id": "tema-29-q114"
+      },
+      {
+        "enunciado": "Una concesión administrativa sobre un bien de dominio público caduca por el transcurso de su plazo, y el antiguo concesionario sigue ocupando el bien. ¿Qué facultad debe ejercer la Administración, previa declaración de caducidad del título?",
+        "opciones": [
+          "La facultad de recuperación posesoria del artículo 55",
+          "La facultad de desahucio administrativo del artículo 58",
+          "La facultad de deslinde",
+          "La facultad de investigación"
+        ],
+        "correcta": 1,
+        "explicacion": "Al existir un título -la concesión- que ha decaído por caducidad, el supuesto encaja en el desahucio administrativo del artículo 58, que exige precisamente la previa declaración de extinción o caducidad del título, y no en la recuperación, reservada a ocupaciones sin título alguno.",
+        "parte": 2,
+        "id": "tema-29-q115"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones compara correctamente los plazos de desalojo en la recuperación posesoria y en el desahucio administrativo?",
+        "opciones": [
+          "En la recuperación el plazo es de ocho días y en el desahucio de dieciocho meses",
+          "En ambos procedimientos el plazo de desalojo concedido no puede ser superior a ocho días",
+          "En la recuperación el plazo es de un año y en el desahucio de ocho días",
+          "En ambos procedimientos el plazo de desalojo es de dos años"
+        ],
+        "correcta": 1,
+        "explicacion": "Tanto en la recuperación posesoria como en el desahucio administrativo, el plazo concedido para el desalojo voluntario no puede ser superior a ocho días; lo que distingue a ambas facultades es el presupuesto de hecho, no este plazo, que coincide.",
+        "parte": 2,
+        "id": "tema-29-q116"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el desahucio administrativo es INCORRECTA?",
+        "opciones": [
+          "Exige la previa declaración de extinción o caducidad del título de utilización",
+          "La resolución de desahucio es ejecutiva sin perjuicio de los recursos que procedan",
+          "Las multas coercitivas pueden alcanzar hasta el 10% del valor de los bienes ocupados",
+          "Los gastos del desalojo son a cargo del detentador, exigibles por vía de apremio"
+        ],
+        "correcta": 2,
+        "explicacion": "Es incorrecta la tercera opción: las multas coercitivas del desahucio, como las de la recuperación posesoria, alcanzan hasta el 5% del valor de los bienes ocupados, no el 10%, porcentaje que corresponde en realidad al premio del denunciante en la facultad de investigación.",
+        "parte": 2,
+        "id": "tema-29-q117"
+      },
+      {
+        "enunciado": "Relacione correctamente la facultad con el órgano competente para resolverla cuando se trata de bienes de la AGE: deslinde de bienes patrimoniales, investigación, y desahucio.",
+        "opciones": [
+          "Deslinde: Ministro de Hacienda; investigación: Director General del Patrimonio del Estado; desahucio: ministro titular del departamento o presidente/director del organismo",
+          "Deslinde: Director General del Patrimonio del Estado; investigación: Ministro de Hacienda; desahucio: Delegados de Economía y Hacienda",
+          "Deslinde: Delegados de Economía y Hacienda; investigación: ministro titular del departamento; desahucio: Director General del Patrimonio del Estado",
+          "Los tres procedimientos resuelven siempre por el mismo órgano: el Ministro de Hacienda"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP distribuye la competencia resolutoria de forma diferenciada: el deslinde de bienes patrimoniales se resuelve por el Ministro de Hacienda, la investigación por el Director General del Patrimonio del Estado, y el desahucio por el ministro titular del departamento o el presidente o director del organismo público afectado.",
+        "parte": 2,
+        "id": "tema-29-q118"
+      },
+      {
+        "enunciado": "Tanto en la recuperación posesoria como en el desahucio administrativo, los mecanismos coercitivos para lograr el desalojo material del bien incluyen:",
+        "opciones": [
+          "El auxilio de las Fuerzas y Cuerpos de Seguridad y multas coercitivas de hasta el 5% del valor de los bienes, reiteradas cada ocho días",
+          "Únicamente la vía de apremio, sin posibilidad de auxilio policial",
+          "El embargo inmediato de todo el patrimonio del ocupante o detentador",
+          "La imposición de una multa fija del 10% sin posibilidad de reiteración"
+        ],
+        "correcta": 0,
+        "explicacion": "Ambas facultades comparten idénticos mecanismos coercitivos: el auxilio de las Fuerzas y Cuerpos de Seguridad para el lanzamiento, y multas coercitivas de hasta el 5% del valor de los bienes ocupados, reiterables por períodos de ocho días hasta el desalojo efectivo.",
+        "parte": 2,
+        "id": "tema-29-q119"
+      },
+      {
+        "enunciado": "Señale la combinación correcta de plazos máximos o de referencia propios de cada facultad de protección y defensa del patrimonio público.",
+        "opciones": [
+          "Investigación: 2 años; deslinde: 18 meses; recuperación de bienes patrimoniales: 1 año; desalojo en recuperación y desahucio: 8 días",
+          "Investigación: 1 año; deslinde: 2 años; recuperación de bienes patrimoniales: 18 meses; desalojo: 8 días",
+          "Investigación: 18 meses; deslinde: 1 año; recuperación de bienes patrimoniales: 2 años; desalojo: 8 días",
+          "Todas las facultades comparten el mismo plazo de referencia de 18 meses"
+        ],
+        "correcta": 0,
+        "explicacion": "La combinación correcta es: 2 años de caducidad en la investigación, 18 meses como plazo máximo de resolución del deslinde, 1 año para la recuperación administrativa de bienes patrimoniales (ilimitado en los demaniales), y 8 días como plazo de desalojo tanto en la recuperación como en el desahucio.",
+        "parte": 2,
+        "id": "tema-29-q120"
+      },
+      {
+        "enunciado": "El artículo 30.3 LPAP protege frente al embargo, además de a los bienes demaniales, a ciertos bienes patrimoniales del Estado. ¿Cuál de las siguientes circunstancias NO figura entre las causas legales que impiden despachar mandamiento de ejecución contra un bien patrimonial?",
+        "opciones": [
+          "Que el bien se encuentre materialmente afectado a un servicio público o a una función pública",
+          "Que los rendimientos del bien o el producto de su enajenación estén legalmente afectados a fines determinados",
+          "Que se trate de valores o títulos representativos del capital de sociedades estatales que ejecuten políticas públicas o presten servicios de interés económico general",
+          "Que el bien patrimonial haya sido adquirido mediante expropiación forzosa en los últimos cinco años"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 30.3 LPAP recoge tres supuestos tasados en los que los bienes patrimoniales quedan protegidos frente al embargo: afectación material a un servicio o función pública, afectación legal de sus rendimientos o producto de enajenación a fines determinados, y valores o títulos de sociedades estatales que ejecuten políticas públicas o presten servicios de interés económico general. El supuesto de la expropiación forzosa reciente no aparece en el precepto y es un distractor inventado.",
+        "nivel": "avanzado",
+        "id": "tema-29-q121"
+      },
+      {
+        "enunciado": "Para transigir judicial o extrajudicialmente sobre bienes y derechos del Patrimonio del Estado, o sometar a arbitraje las contiendas sobre los mismos, el art. 31 LPAP exige un cauce formal muy reforzado. ¿Cuál es ese cauce?",
+        "opciones": [
+          "Real decreto acordado en Consejo de Ministros, a propuesta del Ministerio de Hacienda, previo dictamen del Consejo de Estado en pleno",
+          "Orden del Ministro de Hacienda, previo informe de la Abogacía General del Estado",
+          "Acuerdo del Consejo de Ministros, sin necesidad de dictamen previo del Consejo de Estado",
+          "Resolución del Director General del Patrimonio del Estado, previa audiencia de los interesados"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 31 LPAP exige real decreto acordado en Consejo de Ministros, a propuesta del Ministerio de Hacienda y previo dictamen del Consejo de Estado en pleno, precisamente para dificultar que se disponga de bienes públicos mediante transacción o arbitraje. Las demás opciones rebajan indebidamente ese nivel de exigencia, al omitir el dictamen del Consejo de Estado, el rango de real decreto o la intervención del Consejo de Ministros.",
+        "nivel": "avanzado",
+        "id": "tema-29-q122"
+      },
+      {
+        "enunciado": "De las cuatro facultades de defensa del patrimonio reconocidas en el art. 41 LPAP, ¿cuál de ellas únicamente puede ejercitarse respecto de bienes de dominio público (demaniales), quedando excluidos los bienes patrimoniales?",
+        "opciones": [
+          "La facultad de investigación",
+          "La facultad de deslinde",
+          "La facultad de desahucio en vía administrativa",
+          "La facultad de recuperación posesoria"
+        ],
+        "correcta": 2,
+        "explicacion": "El desahucio administrativo (art. 58 LPAP) se refiere expresamente a la recuperación de la posesión de bienes demaniales una vez extinguido o caducado el título que legitimaba su ocupación por un tercero; no se aplica a bienes patrimoniales. La investigación, el deslinde y la recuperación posesoria pueden proyectarse, con matices, sobre bienes de ambas naturalezas.",
+        "nivel": "avanzado",
+        "id": "tema-29-q123"
+      },
+      {
+        "enunciado": "En materia de recuperación de oficio de la posesión, el art. 55 LPAP distingue según la naturaleza del bien. ¿Cómo se articula esa diferencia?",
+        "opciones": [
+          "Para bienes patrimoniales el plazo es de un año desde la usurpación; para bienes demaniales puede ejercitarse en cualquier momento",
+          "Para bienes demaniales el plazo es de un año desde la usurpación; para bienes patrimoniales puede ejercitarse en cualquier momento",
+          "El plazo es de dos años en ambos casos, contado desde que se tuvo conocimiento de la usurpación",
+          "No existe diferencia: en ambos casos la Administración puede recuperar la posesión en cualquier momento"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 55 LPAP fija un plazo de un año, contado desde el día siguiente al de la usurpación, para que la Administración recupere por sí misma la posesión de bienes patrimoniales; transcurrido ese plazo debe acudir a la jurisdicción civil. Para los bienes demaniales, en cambio, la facultad de recuperación puede ejercerse en cualquier momento, reflejo de su carácter inalienable e imprescriptible.",
+        "nivel": "avanzado",
+        "id": "tema-29-q124"
+      },
+      {
+        "enunciado": "En el procedimiento de investigación de bienes y derechos de titularidad de la AGE o de sus organismos autónomos, ¿en qué único caso no resulta preceptivo el informe previo de la Abogacía General del Estado-Dirección del Servicio Jurídico del Estado?",
+        "opciones": [
+          "Cuando el expediente se haya iniciado por denuncia de un particular",
+          "Cuando la resolución que se vaya a adoptar sea la de archivo del expediente",
+          "Cuando el bien tenga un valor inferior a determinada cuantía reglamentaria",
+          "Cuando el procedimiento se haya iniciado de oficio por la propia Administración"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP exige informe preceptivo de la Abogacía del Estado antes de la resolución del expediente de investigación, salvo que dicha resolución sea la de archivo, caso en el que no se requiere ese informe. El origen del expediente (denuncia o iniciativa propia) o el valor del bien no alteran esa exigencia.",
+        "nivel": "avanzado",
+        "id": "tema-29-q125"
+      },
+      {
+        "enunciado": "Un particular, sin estar obligado a ello por su cargo, denuncia la existencia de un bien presumiblemente perteneciente al Patrimonio del Estado. El procedimiento de investigación concluye declarando la titularidad estatal del bien, que se incorpora al patrimonio, pero dos años después esa incorporación es revocada en vía de recurso. ¿Tiene derecho el denunciante al premio del 10% del valor del bien?",
+        "opciones": [
+          "Sí, porque el derecho al premio se genera en el momento de la denuncia y es irrevocable",
+          "No, porque el premio solo procede si la incorporación al Patrimonio del Estado no es revocada posteriormente",
+          "Sí, pero reducido al 5% del valor del bien, por haberse revocado la incorporación",
+          "No, porque los particulares nunca tienen derecho a premio por denunciar bienes públicos"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP condiciona expresamente el premio del 10% del valor de los bienes o derechos denunciados a que el procedimiento concluya con su incorporación al Patrimonio del Estado y a que esa incorporación no sea revocada posteriormente. Si la incorporación se revoca, decae el derecho al premio, por lo que las demás opciones son incorrectas.",
+        "nivel": "avanzado",
+        "id": "tema-29-q126"
+      },
+      {
+        "enunciado": "Cuando el procedimiento de investigación se inicia por denuncia de un particular, ¿qué órgano resuelve sobre la admisibilidad de dicha denuncia y, en su caso, ordena el inicio del procedimiento?",
+        "opciones": [
+          "El Consejo de Estado en pleno",
+          "La Abogacía General del Estado",
+          "La Dirección General del Patrimonio del Estado",
+          "El Ministro de Hacienda"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP atribuye a la Dirección General del Patrimonio del Estado la resolución sobre la admisibilidad de la denuncia y, si procede, la orden de inicio del procedimiento de investigación. Ni el Consejo de Estado, ni la Abogacía del Estado, ni el Ministro de Hacienda tienen asignada esa función en este trámite.",
+        "nivel": "avanzado",
+        "id": "tema-29-q127"
+      },
+      {
+        "enunciado": "Si un expediente de investigación de bienes no se resuelve dentro del plazo legalmente previsto, ¿qué consecuencia se produce y desde qué momento se computa dicho plazo?",
+        "opciones": [
+          "El órgano instructor acuerda el archivo de las actuaciones; el plazo es de dos años desde el día siguiente a la publicación del acuerdo de incoación",
+          "El expediente se entiende resuelto favorablemente a la Administración; el plazo es de un año desde la incoación",
+          "El órgano instructor acuerda el archivo de las actuaciones; el plazo es de seis meses desde la denuncia",
+          "El expediente pasa automáticamente a los tribunales del orden civil; el plazo es de tres años desde la incoación"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP establece que si el expediente de investigación no se resuelve en el plazo de dos años, contados desde el día siguiente al de la publicación del acuerdo de incoación, el órgano instructor acordará sin más trámite el archivo de las actuaciones. No hay silencio positivo a favor de la Administración ni remisión automática a la vía civil.",
+        "nivel": "avanzado",
+        "id": "tema-29-q128"
+      },
+      {
+        "enunciado": "En el procedimiento de deslinde administrativo de bienes patrimoniales de la Administración General del Estado, ¿cómo se reparten las competencias de incoación, instrucción y resolución?",
+        "opciones": [
+          "Incoa el Director General del Patrimonio del Estado, instruyen los Delegados de Economía y Hacienda, y resuelve el Ministro de Hacienda",
+          "Incoa y resuelve el Ministro de Hacienda, e instruye la Abogacía General del Estado",
+          "Incoa, instruye y resuelve en todo caso el Director General del Patrimonio del Estado",
+          "Incoa el titular del departamento ministerial que tenga afectado el bien, e instruye y resuelve el Delegado de Economía y Hacienda correspondiente"
+        ],
+        "correcta": 0,
+        "explicacion": "Para los bienes patrimoniales de la AGE, la incoación corresponde al Director General del Patrimonio del Estado, la instrucción a los Delegados de Economía y Hacienda, y la resolución al Ministro de Hacienda. La opción que atribuye la incoación al titular del departamento ministerial corresponde, en realidad, al régimen de los bienes demaniales, no al de los patrimoniales.",
+        "nivel": "avanzado",
+        "id": "tema-29-q129"
+      },
+      {
+        "enunciado": "El procedimiento de deslinde se inicia a petición de los propietarios colindantes con un inmueble de titularidad pública. ¿Qué régimen se aplica a los gastos generados por el procedimiento?",
+        "opciones": [
+          "Corren a cargo de la Administración, al tratarse de un bien público",
+          "Se reparten al 50% entre la Administración y los colindantes que solicitaron el deslinde",
+          "Son a costa de los colindantes solicitantes, debiendo constar su conformidad expresa, y pueden cobrarse por la vía de apremio",
+          "Quedan condicionados al resultado del deslinde: solo los paga el colindante si el deslinde le resulta desfavorable"
+        ],
+        "correcta": 2,
+        "explicacion": "Cuando el deslinde se inicia a petición de los colindantes, la LPAP hace recaer en ellos los gastos generados, exigiendo que su conformidad con dichos gastos conste expresamente en el expediente; para su cobro la Administración puede acudir a la vía de apremio. No existe reparto al 50% ni condicionamiento al resultado del deslinde.",
+        "nivel": "avanzado",
+        "id": "tema-29-q130"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo para resolver el procedimiento de deslinde administrativo, y desde qué momento se computa?",
+        "opciones": [
+          "Seis meses, desde la solicitud de los colindantes",
+          "Un año, desde la publicación en el BOE",
+          "Dieciocho meses, desde la fecha del acuerdo de iniciación",
+          "Dos años, desde la fecha del acuerdo de iniciación, igual que en el procedimiento de investigación"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP fija en dieciocho meses, contados desde la fecha del acuerdo de iniciación, el plazo máximo para resolver el procedimiento de deslinde. Conviene no confundirlo con el plazo de dos años previsto para el procedimiento de investigación, que es distinto y se computa desde la publicación del acuerdo de incoación.",
+        "nivel": "avanzado",
+        "id": "tema-29-q131"
+      },
+      {
+        "enunciado": "Una vez resuelto el procedimiento de deslinde y firme el acuerdo resolutorio, ¿qué trámite registral debe seguirse, y qué informe previo es necesario para dictar la resolución que aprueba el deslinde?",
+        "opciones": [
+          "Se inscribe en el Registro de la Propiedad, y la resolución requiere informe previo de la Abogacía del Estado (u órgano de asesoramiento jurídico equivalente)",
+          "Se incorpora al Inventario General de Bienes y Derechos del Estado, sin que sea necesaria su inscripción registral",
+          "Se inscribe en el Registro de la Propiedad, sin que se requiera ningún informe previo a la resolución",
+          "Se comunica al Registro de la Propiedad únicamente a efectos informativos, sin inscripción ni informe previo"
+        ],
+        "correcta": 0,
+        "explicacion": "La resolución que apruebe el deslinde requiere informe previo de la Abogacía del Estado o, en su caso, del órgano de asesoramiento jurídico de la entidad correspondiente, y una vez firme el acuerdo resolutorio se inscribe en el Registro de la Propiedad. No basta con anotarlo en el Inventario General, que no tiene la consideración de Registro Público.",
+        "nivel": "avanzado",
+        "id": "tema-29-q132"
+      },
+      {
+        "enunciado": "En el procedimiento de recuperación posesoria (reintegro posesorio), una vez comprobada la usurpación, ¿qué plazo se concede al ocupante para que cese voluntariamente en su actuación?",
+        "opciones": [
+          "Un plazo no superior a ocho días",
+          "Un plazo no superior a quince días",
+          "Un plazo no superior a un mes",
+          "Un plazo no superior a tres meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Comprobada la usurpación posesoria, se requiere al ocupante para que cese en su actuación, señalándole un plazo no superior a ocho días; este mismo plazo de ocho días se utiliza también para el desahucio administrativo y para la reiteración de las multas coercitivas, por lo que conviene no confundirlo con plazos más largos.",
+        "nivel": "avanzado",
+        "id": "tema-29-q133"
+      },
+      {
+        "enunciado": "Tanto en la recuperación posesoria como en el desahucio administrativo, si el obligado resiste el desalojo, la Administración puede imponer multas coercitivas. ¿Cómo se calculan y con qué periodicidad se reiteran?",
+        "opciones": [
+          "Hasta el cinco por ciento del valor de los bienes ocupados, reiteradas por períodos de ocho días hasta el desalojo",
+          "Una cuantía fija de 1.000 euros por cada día de retraso, sin límite máximo",
+          "Hasta el diez por ciento del valor de los bienes ocupados, reiteradas mensualmente",
+          "Hasta el cinco por ciento del valor de los bienes ocupados, con un máximo de tres reiteraciones"
+        ],
+        "correcta": 0,
+        "explicacion": "En ambos procedimientos la LPAP permite imponer multas coercitivas de hasta el cinco por ciento del valor de los bienes ocupados, que pueden reiterarse por períodos de ocho días hasta que se produzca el desalojo efectivo, sin fijar un número máximo de reiteraciones ni una cuantía fija independiente del valor del bien.",
+        "nivel": "avanzado",
+        "id": "tema-29-q134"
+      },
+      {
+        "enunciado": "¿Cuál es la diferencia conceptual esencial entre la facultad de recuperación posesoria (art. 55 LPAP) y la facultad de desahucio administrativo (art. 58 LPAP)?",
+        "opciones": [
+          "La recuperación posesoria exige que el ocupante nunca haya tenido título alguno (usurpación), mientras que el desahucio presupone que existió un título de ocupación que se ha extinguido o caducado",
+          "La recuperación posesoria solo se aplica a bienes muebles, y el desahucio solo a bienes inmuebles",
+          "La recuperación posesoria requiere resolución judicial previa, y el desahucio se tramita siempre en vía administrativa sin posibilidad de recurso",
+          "No existe diferencia material entre ambas; son dos denominaciones distintas para el mismo procedimiento"
+        ],
+        "correcta": 0,
+        "explicacion": "La recuperación de oficio reacciona frente a una posesión perdida indebidamente, sin que mediara título legítimo del ocupante (usurpación), mientras que el desahucio administrativo presupone que hubo un título válido de ocupación de un bien demanial que después se extingue o caduca, precisando su previa declaración. Ninguna de ellas se limita a bienes muebles o inmuebles en los términos planteados, y ambas son ejecutivas en vía administrativa, sin perjuicio de los recursos procedentes.",
+        "nivel": "avanzado",
+        "id": "tema-29-q135"
+      },
+      {
+        "enunciado": "Si, requerido para desalojar un bien demanial tras la extinción de su título, el detentador no atiende el requerimiento, ¿conforme a qué normativa se procede para la ejecución forzosa?",
+        "opciones": [
+          "Conforme al capítulo VII del título IV de la Ley 39/2015, del Procedimiento Administrativo Común",
+          "Conforme a la Ley de Enjuiciamiento Civil, por la vía del juicio verbal",
+          "Conforme a la Ley de Expropiación Forzosa",
+          "Conforme al Reglamento General de Recaudación exclusivamente"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 58 y siguientes de la LPAP remiten, para la ejecución forzosa cuando el detentador no atiende el requerimiento de desalojo, al capítulo VII del título IV de la Ley 39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas. No se acude a la vía civil ni a la normativa de expropiación forzosa para este trámite.",
+        "nivel": "avanzado",
+        "id": "tema-29-q136"
+      },
+      {
+        "enunciado": "¿Qué requisito previo exige el art. 58 LPAP para que la Administración pueda ejercer la facultad de desahucio administrativo sobre un bien demanial?",
+        "opciones": [
+          "La previa declaración de extinción o caducidad del título que otorgaba el derecho de utilización del bien de dominio público",
+          "La previa autorización del Consejo de Estado en pleno",
+          "La previa tramitación de un expediente de investigación de la titularidad del bien",
+          "Nada, basta con la mera constatación material de la ocupación por el detentador"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa: el desahucio administrativo no opera por la mera falta de título, sino que exige que antes se haya declarado formalmente extinguido o caducado el título que legitimaba la ocupación; solo entonces puede dictarse la resolución de desahucio, que es ejecutiva sin perjuicio de los recursos que procedan.",
+        "nivel": "avanzado",
+        "id": "tema-29-q137"
+      },
+      {
+        "enunciado": "El Inventario General de Bienes y Derechos del Estado no tiene la consideración de Registro Público. ¿Qué consecuencia práctica tiene esa falta de carácter registral?",
+        "opciones": [
+          "Que sus datos son meramente informativos para la gestión interna, sin que surtan efectos frente a terceros ni frente a la propia Administración General del Estado",
+          "Que carece de valor jurídico alguno y su llevanza es meramente voluntaria para las Administraciones",
+          "Que solo produce efectos frente a terceros, pero no frente a la propia Administración",
+          "Que sus datos prevalecen sobre los del Registro de la Propiedad en caso de discrepancia"
+        ],
+        "correcta": 0,
+        "explicacion": "Al no tener la consideración de Registro Público, el Inventario General no surte efectos ni frente a terceros ni frente a la propia AGE; sus datos son de apoyo meramente informativo para la gestión interna y la definición de políticas. Su llevanza, sin embargo, es obligatoria por ley (art. 32 LPAP), y en ningún caso prevalece sobre el Registro de la Propiedad.",
+        "nivel": "avanzado",
+        "id": "tema-29-q138"
+      },
+      {
+        "enunciado": "El Inventario General de Bienes y Derechos del Estado incluye, como regla, la totalidad de los bienes y derechos del Patrimonio del Estado. ¿Qué bienes quedan excluidos de esa regla general?",
+        "opciones": [
+          "Los bienes adquiridos por organismos públicos con el propósito de devolverlos al tráfico jurídico patrimonial conforme a sus fines, o para cumplir provisiones técnicas obligatorias",
+          "Los bienes inmuebles situados fuera del territorio nacional",
+          "Los bienes muebles de escaso valor económico, inferior a la cuantía que fije el reglamento",
+          "Los bienes y derechos que ya figuren inscritos en el Registro de la Propiedad"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP excluye expresamente del Inventario General a los bienes que los organismos públicos adquieren con la finalidad de devolverlos al tráfico jurídico patrimonial, de acuerdo con sus fines peculiares, o para cumplir requisitos de provisiones técnicas obligatorias. Las demás exclusiones propuestas (ubicación fuera de España, escaso valor o constar ya en el Registro de la Propiedad) no aparecen en el texto legal.",
+        "nivel": "avanzado",
+        "id": "tema-29-q139"
+      },
+      {
+        "enunciado": "Las acciones y títulos representativos del capital de sociedades mercantiles propiedad de la AGE y sus organismos públicos dependientes, ¿cómo se reflejan a efectos de control patrimonial?",
+        "opciones": [
+          "En la correspondiente contabilidad patrimonial y, además, en un inventario de carácter auxiliar coordinado con dicha contabilidad",
+          "Exclusivamente en el Inventario General de Bienes y Derechos del Estado, como cualquier otro bien mueble",
+          "Únicamente en el Registro de la Propiedad, por tratarse de bienes susceptibles de inscripción",
+          "No requieren ningún tipo de registro o contabilización específica, al tratarse de activos financieros"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP dispone que estas acciones y títulos se reflejen en la contabilidad patrimonial correspondiente y se incluyan en un inventario de carácter auxiliar, que debe estar coordinado con el sistema de contabilidad patrimonial, en lugar de integrarse sin más en el Inventario General como un bien mueble ordinario.",
+        "nivel": "avanzado",
+        "id": "tema-29-q140"
+      },
+      {
+        "enunciado": "¿A quién corresponde llevar el inventario de los bienes inmuebles y derechos reales del Patrimonio del Estado, así como de los valores mobiliarios y títulos representativos de capital de sociedades mercantiles?",
+        "opciones": [
+          "A la Dirección General del Patrimonio del Estado, de forma directa",
+          "A las unidades competentes en materia patrimonial de cada departamento ministerial, de forma exclusiva",
+          "A los organismos públicos vinculados o dependientes de la AGE, en todo caso",
+          "Al Registrador de la Propiedad territorialmente competente"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP atribuye a la Dirección General del Patrimonio del Estado la llevanza directa del inventario de los bienes inmuebles y derechos reales, los derechos de arrendamiento de inmuebles ajenos a favor de la AGE, los bienes muebles e incorporales cuyo inventario no corresponda a otros órganos, y los valores mobiliarios y títulos representativos de capital social. Los departamentos ministeriales y organismos públicos llevan, en cambio, el inventario de otros bienes, como el demanio especial que gestionan o los muebles que adquieren o utilizan.",
+        "nivel": "avanzado",
+        "id": "tema-29-q141"
+      },
+      {
+        "enunciado": "Respecto a la inscripción en el Registro de la Propiedad de los bienes y derechos de las Administraciones públicas, ¿en qué único caso dicha inscripción es potestativa y no obligatoria?",
+        "opciones": [
+          "En el caso de los arrendamientos inscribibles conforme a la legislación hipotecaria",
+          "En el caso de los bienes muebles de escaso valor",
+          "En el caso de los bienes demaniales afectados a un servicio público",
+          "En el caso de los derechos reales de garantía constituidos a favor de la Administración"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 36 LPAP establece como regla general la obligación de inscribir los bienes y derechos susceptibles de inscripción, así como los actos y contratos referidos a ellos, pero exceptúa de esa obligación a los arrendamientos inscribibles conforme a la legislación hipotecaria, para los que la inscripción es meramente potestativa.",
+        "nivel": "avanzado",
+        "id": "tema-29-q142"
+      },
+      {
+        "enunciado": "¿Quién puede solicitar la inscripción registral de un bien o derecho de titularidad pública, conforme al art. 36 LPAP?",
+        "opciones": [
+          "El órgano que haya adquirido el bien o derecho, el que haya dictado el acto o intervenido en el contrato que deba constar en el registro, o aquel al que corresponda su administración y gestión",
+          "Únicamente la Dirección General del Patrimonio del Estado, con independencia de qué órgano gestione el bien",
+          "Exclusivamente el Registrador de la Propiedad, de oficio, cuando detecte la titularidad pública del bien",
+          "Únicamente la Abogacía del Estado, previa emisión de su informe preceptivo"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP legitima para solicitar la inscripción, alternativamente, al órgano que adquirió el bien o derecho, al que dictó el acto o intervino en el contrato que deba constar en el registro, o a aquel al que corresponda la administración y gestión del bien; no se exige que sea necesariamente la DGPE, ni la inscripción se produce de oficio por el Registrador.",
+        "nivel": "avanzado",
+        "id": "tema-29-q143"
+      },
+      {
+        "enunciado": "En los expedientes de inscripción registral de bienes de titularidad de la AGE o sus organismos autónomos, ¿qué informe es preceptivo, y qué ocurre cuando los bienes pertenecen a otras entidades públicas dependientes de la AGE?",
+        "opciones": [
+          "Es preceptivo el informe de la Abogacía del Estado para los bienes de la AGE y sus organismos autónomos; para otras entidades dependientes, informa el órgano al que corresponda su propio asesoramiento jurídico",
+          "No se exige informe alguno en ningún caso, al tratarse de un trámite puramente registral",
+          "Es preceptivo únicamente el informe del Consejo de Estado, con independencia de la entidad titular del bien",
+          "Es preceptivo el informe de la Abogacía del Estado en todos los casos, sin excepción, cualquiera que sea la entidad titular"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP exige informe de la Abogacía del Estado en los expedientes de inscripción de bienes de la AGE y sus organismos autónomos, pero cuando los bienes corresponden a otras entidades públicas dependientes de la AGE, el informe lo emite el órgano al que corresponda el asesoramiento jurídico propio de esa entidad, no necesariamente la Abogacía del Estado.",
+        "nivel": "avanzado",
+        "id": "tema-29-q144"
+      },
+      {
+        "enunciado": "Cuando se inscribe en el Registro de la Propiedad un exceso de cabida de una finca colindante con otra de titularidad pública, ¿qué obligación recae sobre el Registrador, además de hacer constar la limitación de efectos del art. 207 de la Ley Hipotecaria?",
+        "opciones": [
+          "Poner el hecho en conocimiento del órgano administrativo competente, indicando nombre, apellidos y domicilio del beneficiario de la inscripción, la descripción de la finca y la mayor cabida inscrita; igual comunicación procede en caso de inmatriculación de fincas colindantes",
+          "Denegar automáticamente la inscripción hasta que la Administración preste su consentimiento expreso",
+          "Remitir el expediente directamente a la Abogacía del Estado para que inicie un procedimiento de deslinde",
+          "Inscribir el exceso de cabida a favor de la Administración pública colindante, en lugar de a favor del solicitante"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 207 LH, en relación con la LPAP, obliga al Registrador a comunicar a los órganos a los que corresponda la administración de la finca pública colindante los datos del beneficiario de la inscripción, la descripción de la finca y la mayor cabida inscrita, tanto en los excesos de cabida como en las inmatriculaciones de fincas colindantes. No se trata de una denegación automática ni de una inscripción directa a favor de la Administración, sino de un deber de información.",
+        "nivel": "avanzado",
+        "id": "tema-29-q145"
+      }
+    ]
+  },
+  {
+    "id": "tema-30",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 30. Uso y explotación de bienes y derechos públicos.",
+    "preguntas": [
+      {
+        "enunciado": "Según el Título IV de la LPAP, los bienes de dominio público destinados a uso general y público tienen la condición de 'res extracomercium'. ¿Qué implica esto?",
+        "opciones": [
+          "Que no pueden ser usados ni explotados en ningún caso por particulares.",
+          "Que no son susceptibles de propiedad privada y su titularidad corresponde a la Administración, sin que ello impida su uso y explotación por particulares.",
+          "Que solo pueden ser utilizados por los empleados públicos.",
+          "Que su titularidad puede transmitirse libremente entre particulares mediante compraventa."
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, 'res extracomercium' no significa que estén vedados a los particulares: sí pueden usarse y explotarse, pero sometidos a título habilitante (salvo en el uso común). Son bienes no susceptibles de propiedad privada cuya titularidad pertenece a la Administración. La opción A confunde la naturaleza jurídica con una prohibición absoluta de uso.",
+        "parte": 1,
+        "id": "tema-30-q1"
+      },
+      {
+        "enunciado": "De los cinco usos que puede sufrir un bien demanial regulados en el artículo 85 y siguientes de la LPAP, ¿cuál es el único que NO requiere título habilitante?",
+        "opciones": [
+          "Aprovechamiento especial",
+          "Uso común",
+          "Uso privativo",
+          "Reservas demaniales"
+        ],
+        "correcta": 1,
+        "explicacion": "El uso común se ejerce libremente, sin más límite que el derivado de su propia naturaleza o de las normas aplicables, por lo que no precisa título habilitante. Trampa: los otros cuatro usos (aprovechamiento especial, uso privativo, reservas y ocupación de edificios) sí exigen algún tipo de título, sea autorización, concesión, acuerdo o contrato.",
+        "parte": 1,
+        "id": "tema-30-q2"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones reproduce correctamente el contenido del artículo 84 de la LPAP?",
+        "opciones": [
+          "'Nadie puede, sin título que lo autorice otorgado por la autoridad competente, ocupar bienes de dominio público o utilizarlos en forma que exceda el derecho de uso que, en su caso, corresponde a todos.'",
+          "'Todos los ciudadanos pueden ocupar libremente los bienes de dominio público sin necesidad de autorización alguna.'",
+          "'Solo la Administración titular puede utilizar los bienes de dominio público.'",
+          "'Las concesiones demaniales se otorgarán siempre de forma gratuita.'"
+        ],
+        "correcta": 0,
+        "explicacion": "Es la transcripción literal del art. 84 LPAP, que consagra la regla general de necesidad de título habilitante para ocupar o exceder el uso común de bienes demaniales. Las demás opciones tergiversan su sentido o introducen afirmaciones ajenas al precepto.",
+        "parte": 1,
+        "id": "tema-30-q3"
+      },
+      {
+        "enunciado": "Respecto al régimen jurídico de las concesiones y autorizaciones sobre bienes de dominio público, ¿qué normativa se aplica con carácter preferente?",
+        "opciones": [
+          "Siempre la LPAP, con independencia de que exista legislación especial.",
+          "La legislación especial reguladora de aquéllas y, solo a falta de normas especiales o en caso de insuficiencia de éstas, la LPAP.",
+          "El Código Civil, por tratarse de bienes patrimoniales.",
+          "La Ley de Contratos del Sector Público en todo caso."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: la LPAP actúa como derecho supletorio, no como norma de aplicación directa y preferente. Rige primero la legislación especial y solo en su defecto o insuficiencia se aplica la LPAP.",
+        "parte": 1,
+        "id": "tema-30-q4"
+      },
+      {
+        "enunciado": "¿Cuántas formas de utilización de los bienes demaniales regula el artículo 85 y siguientes de la LPAP?",
+        "opciones": [
+          "Tres",
+          "Cuatro",
+          "Cinco",
+          "Seis"
+        ],
+        "correcta": 2,
+        "explicacion": "Son cinco: uso común, aprovechamiento especial, uso privativo, reservas demaniales y ocupación de espacios en edificios administrativos. Un error frecuente es olvidar esta última como categoría autónoma.",
+        "parte": 1,
+        "id": "tema-30-q5"
+      },
+      {
+        "enunciado": "Según el tema, ¿qué elemento predetermina o enmarca las posibilidades de utilización de un bien demanial?",
+        "opciones": [
+          "El valor económico del bien",
+          "La clase de afectación a la que esté sujeto el bien",
+          "La antigüedad del bien",
+          "El número de solicitantes interesados"
+        ],
+        "correcta": 1,
+        "explicacion": "Las formas de utilización dependen de las distintas clases de afectación del bien: la afectación marca el margen de usos posibles. El valor económico o la antigüedad no son los criterios determinantes en este punto.",
+        "parte": 1,
+        "id": "tema-30-q6"
+      },
+      {
+        "enunciado": "¿Cómo se define el uso común de un bien de dominio público?",
+        "opciones": [
+          "El que corresponde por igual y de forma indistinta a todos los ciudadanos, de modo que el uso por unos no impide el de los demás.",
+          "El que excluye a cualquier otro interesado de la utilización del bien.",
+          "El reservado exclusivamente a la Administración.",
+          "El que exige siempre concesión administrativa previa."
+        ],
+        "correcta": 0,
+        "explicacion": "Es la definición legal del uso común: igualdad e indistinción entre todos los ciudadanos, sin exclusión mutua. B describe más bien el uso privativo, y C se aproxima a la reserva demanial.",
+        "parte": 1,
+        "id": "tema-30-q7"
+      },
+      {
+        "enunciado": "El uso común se ejerce libremente, sin más limitación que...",
+        "opciones": [
+          "la que resulte de su propia naturaleza o de las disposiciones que le sean de aplicación.",
+          "la necesidad de obtener autorización administrativa previa.",
+          "el pago de la tasa por utilización privativa.",
+          "el acuerdo del Consejo de Ministros."
+        ],
+        "correcta": 0,
+        "explicacion": "El uso común no exige título habilitante; sus únicos límites derivan de la naturaleza del bien o de la normativa aplicable. B, C y D son exigencias propias de otros usos (aprovechamiento especial, uso privativo o reservas).",
+        "parte": 1,
+        "id": "tema-30-q8"
+      },
+      {
+        "enunciado": "Según SANTAMARÍA, el uso común general está sometido, cuando menos, a cuatro principios. ¿Cuáles son?",
+        "opciones": [
+          "Compatibilidad, prioridad temporal, indemnidad y ordenación.",
+          "Legalidad, proporcionalidad, buena fe y eficacia.",
+          "Publicidad, concurrencia, transparencia y economía.",
+          "Compatibilidad, onerosidad, temporalidad y reversión."
+        ],
+        "correcta": 0,
+        "explicacion": "Los cuatro principios de SANTAMARÍA son compatibilidad, prioridad temporal, indemnidad y ordenación. Las demás opciones mezclan principios generales del derecho administrativo o de la contratación pública, que no son los específicos de este tema.",
+        "parte": 1,
+        "id": "tema-30-q9"
+      },
+      {
+        "enunciado": "El principio de compatibilidad en el uso común implica que...",
+        "opciones": [
+          "el uso de cada uno no debe perturbar o impedir el de los demás.",
+          "debe respetarse la preferencia del usuario que llegó primero.",
+          "el uso no puede causar daño que menoscabe sensiblemente el bien.",
+          "la Administración puede regular normativamente el uso general."
+        ],
+        "correcta": 0,
+        "explicacion": "La compatibilidad exige que el disfrute de unos no estorbe el de los otros usuarios. B corresponde a la prioridad temporal, C a la indemnidad y D a la ordenación; es fácil confundirlos entre sí.",
+        "parte": 1,
+        "id": "tema-30-q10"
+      },
+      {
+        "enunciado": "Si dos personas quieren utilizar simultáneamente un mismo espacio de uso común y una de ellas llegó antes, ¿qué principio del uso común protege a la primera en caso de conflicto?",
+        "opciones": [
+          "Ordenación",
+          "Indemnidad",
+          "Prioridad temporal",
+          "Compatibilidad"
+        ],
+        "correcta": 2,
+        "explicacion": "La prioridad temporal obliga a respetar la preferencia del usuario primero o anterior. Trampa: no confundir con la compatibilidad, que se refiere a que ambos usos puedan coexistir sin perturbarse mutuamente.",
+        "parte": 1,
+        "id": "tema-30-q11"
+      },
+      {
+        "enunciado": "Un ciudadano utiliza un parque público de forma que deteriora gravemente el césped, impidiendo su uso posterior por los demás. ¿Qué principio del uso común está vulnerando?",
+        "opciones": [
+          "Prioridad temporal",
+          "Indemnidad",
+          "Ordenación",
+          "Compatibilidad"
+        ],
+        "correcta": 1,
+        "explicacion": "La indemnidad exige que el uso no cause al bien demanial un daño que impida o menoscabe sensiblemente su uso posterior. Ojo: aunque el deterioro también afecta a la coexistencia con otros usuarios, el principio específico que protege la integridad del bien frente al daño es la indemnidad.",
+        "parte": 1,
+        "id": "tema-30-q12"
+      },
+      {
+        "enunciado": "El Ayuntamiento aprueba una ordenanza que regula los horarios de uso de una playa pública para garantizar la convivencia entre bañistas y paseantes. ¿Qué principio del uso común ilustra esta actuación municipal?",
+        "opciones": [
+          "Compatibilidad",
+          "Indemnidad",
+          "Prioridad temporal",
+          "Ordenación"
+        ],
+        "correcta": 3,
+        "explicacion": "La ordenación reconoce a la Administración la potestad de regular normativamente el uso general para asegurar la efectividad de los demás principios (compatibilidad, prioridad temporal e indemnidad). Trampa: el resultado busca la compatibilidad entre usuarios, pero el principio que describe la potestad reguladora en sí es la ordenación.",
+        "parte": 1,
+        "id": "tema-30-q13"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es uno de los cuatro principios del uso común según SANTAMARÍA?",
+        "opciones": [
+          "Compatibilidad",
+          "Onerosidad",
+          "Indemnidad",
+          "Ordenación"
+        ],
+        "correcta": 1,
+        "explicacion": "La onerosidad (pago de un precio o tasa) no forma parte de los principios del uso común, que es precisamente gratuito y no sujeto a título habilitante. Los cuatro reales son compatibilidad, prioridad temporal, indemnidad y ordenación.",
+        "parte": 1,
+        "id": "tema-30-q14"
+      },
+      {
+        "enunciado": "En un parque público, varios grupos de personas pasean simultáneamente sin que unos impidan el paso de otros. Este equilibrio responde fundamentalmente al principio de...",
+        "opciones": [
+          "Indemnidad",
+          "Compatibilidad",
+          "Ordenación",
+          "Prioridad temporal"
+        ],
+        "correcta": 1,
+        "explicacion": "La compatibilidad es precisamente la coexistencia pacífica de usos simultáneos sin perturbación mutua. No se trata de prioridad temporal, pues no hay conflicto entre un usuario anterior y otro posterior, sino simple convivencia de usos.",
+        "parte": 1,
+        "id": "tema-30-q15"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el uso común es FALSA?",
+        "opciones": [
+          "No requiere título habilitante.",
+          "Corresponde por igual a todos los ciudadanos.",
+          "Está sometido a los cuatro principios señalados por SANTAMARÍA.",
+          "Requiere siempre autorización previa si se trata de instalaciones desmontables."
+        ],
+        "correcta": 3,
+        "explicacion": "Al revés: la exigencia de autorización para instalaciones desmontables es propia del aprovechamiento especial y del uso privativo, no del uso común, que se ejerce libremente sin título habilitante. Las otras tres afirmaciones son correctas.",
+        "parte": 1,
+        "id": "tema-30-q16"
+      },
+      {
+        "enunciado": "¿Qué relación guarda el principio de ordenación con los otros tres principios del uso común (compatibilidad, prioridad temporal e indemnidad)?",
+        "opciones": [
+          "Es independiente y no tiene conexión con ellos.",
+          "Reconoce a la Administración la potestad de regular normativamente el uso general para asegurar la efectividad de esos tres principios.",
+          "Sustituye a los otros tres, que quedan derogados cuando existe ordenación.",
+          "Solo se aplica cuando el uso común se convierte en aprovechamiento especial."
+        ],
+        "correcta": 1,
+        "explicacion": "La ordenación es instrumental respecto de los demás: permite a la Administración dictar normas para hacer efectivos la compatibilidad, la prioridad temporal y la indemnidad. No los deroga ni es independiente de ellos.",
+        "parte": 1,
+        "id": "tema-30-q17"
+      },
+      {
+        "enunciado": "Pasear por una vía pública o bañarse en una playa son ejemplos típicos de...",
+        "opciones": [
+          "Uso privativo",
+          "Aprovechamiento especial",
+          "Uso común",
+          "Reserva demanial"
+        ],
+        "correcta": 2,
+        "explicacion": "Son ejemplos clásicos de uso común: cualquier ciudadano puede disfrutarlos por igual sin necesidad de título habilitante. No hay exclusión de otros usuarios ni exceso de utilización que lo convierta en aprovechamiento especial.",
+        "parte": 1,
+        "id": "tema-30-q18"
+      },
+      {
+        "enunciado": "Varias personas hacen cola para acceder a una fuente pública y se respeta el orden de llegada. Este respeto al orden de llegada es una manifestación del principio de...",
+        "opciones": [
+          "Compatibilidad",
+          "Prioridad temporal",
+          "Indemnidad",
+          "Ordenación"
+        ],
+        "correcta": 1,
+        "explicacion": "El respeto al orden de llegada es la expresión directa de la prioridad temporal, que protege la preferencia del usuario anterior. No se trata de compatibilidad, que alude a la posibilidad de coexistencia simultánea sin conflicto.",
+        "parte": 1,
+        "id": "tema-30-q19"
+      },
+      {
+        "enunciado": "¿Qué autor es citado en el tema como referencia doctrinal para los cuatro principios que condicionan el uso común?",
+        "opciones": [
+          "GARCÍA DE ENTERRÍA",
+          "SANTAMARÍA",
+          "PARADA VÁZQUEZ",
+          "GARRIDO FALLA"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema atribuye expresamente a SANTAMARÍA la formulación de los cuatro principios (compatibilidad, prioridad temporal, indemnidad y ordenación) que condicionan el uso común, aunque no se encuentre sometido a título habilitante.",
+        "parte": 1,
+        "id": "tema-30-q20"
+      },
+      {
+        "enunciado": "¿Qué diferencia esencial existe entre el uso común y el aprovechamiento especial?",
+        "opciones": [
+          "El uso común exige concesión y el aprovechamiento especial no exige ningún título.",
+          "El uso común no requiere título habilitante, mientras que el aprovechamiento especial, aun sin impedir el uso común, supone un exceso de utilización que exige autorización o concesión.",
+          "Ambos exigen el mismo título habilitante, sin diferencia alguna.",
+          "El aprovechamiento especial corresponde por igual a todos los ciudadanos, igual que el uso común."
+        ],
+        "correcta": 1,
+        "explicacion": "El uso común es libre y sin título; el aprovechamiento especial, aunque no impide el uso común, implica circunstancias (intensidad, peligrosidad, rentabilidad singular...) que exceden el uso ordinario y exigen autorización o concesión según su duración.",
+        "parte": 1,
+        "id": "tema-30-q21"
+      },
+      {
+        "enunciado": "Que 'el uso por unos no impide el de los demás interesados' es una característica definitoria de...",
+        "opciones": [
+          "El uso privativo",
+          "El uso común",
+          "La reserva demanial",
+          "La concesión demanial"
+        ],
+        "correcta": 1,
+        "explicacion": "Es literalmente parte de la definición de uso común. El uso privativo, por el contrario, se caracteriza justo por lo opuesto: limita o excluye la utilización por otros interesados.",
+        "parte": 1,
+        "id": "tema-30-q22"
+      },
+      {
+        "enunciado": "¿Cómo define el tema el aprovechamiento especial de un bien demanial?",
+        "opciones": [
+          "El que, sin impedir el uso común, supone circunstancias como peligrosidad, intensidad, preferencia por escasez o rentabilidad singular que determinan un exceso de utilización o menoscabo del uso común.",
+          "El que excluye totalmente a los demás interesados de la utilización del bien.",
+          "El uso exclusivo reservado a la Administración por razones de interés general.",
+          "El que se ejerce libremente sin ningún tipo de limitación ni título."
+        ],
+        "correcta": 0,
+        "explicacion": "Es la definición literal: no impide el uso común, pero concurren circunstancias que exceden el uso ordinario. B describe el uso privativo y C la reserva demanial.",
+        "parte": 1,
+        "id": "tema-30-q23"
+      },
+      {
+        "enunciado": "En el aprovechamiento especial de bienes de dominio público mediante instalaciones desmontables o bienes muebles, ¿qué título se exige si la duración NO excede de cuatro años?",
+        "opciones": [
+          "Concesión",
+          "Autorización",
+          "Reserva demanial",
+          "Ningún título, basta comunicación previa"
+        ],
+        "correcta": 1,
+        "explicacion": "Si la ocupación se efectúa solo con instalaciones desmontables o bienes muebles, está sujeta a autorización; únicamente si la duración excede de cuatro años se exige concesión. La comunicación previa y la declaración de responsabilidad son adicionales al título, no lo sustituyen.",
+        "parte": 1,
+        "id": "tema-30-q24"
+      },
+      {
+        "enunciado": "Un aprovechamiento especial con instalaciones desmontables cuya duración excede de cuatro años estará sujeto a...",
+        "opciones": [
+          "Autorización",
+          "Concesión",
+          "Reserva demanial",
+          "Ocupación de espacios en edificios administrativos"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP fija el umbral de los cuatro años: por debajo, autorización; por encima, concesión, aunque se trate igualmente de instalaciones desmontables. Es un dato numérico muy preguntado en examen.",
+        "parte": 1,
+        "id": "tema-30-q25"
+      },
+      {
+        "enunciado": "Además del título habilitante correspondiente, ¿qué dos trámites adicionales exige la LPAP para el aprovechamiento especial de bienes de dominio público?",
+        "opciones": [
+          "Informe preceptivo del Consejo de Estado y publicación en el BOE.",
+          "Comunicación previa y declaración de responsabilidad.",
+          "Acuerdo del Consejo de Ministros y fianza definitiva.",
+          "Concurso público y adjudicación directa."
+        ],
+        "correcta": 1,
+        "explicacion": "El tema señala expresamente que, además del título habilitante, se hace necesaria comunicación previa y declaración de responsabilidad. Las otras opciones corresponden a otros procedimientos (reservas demaniales, contratación), no al aprovechamiento especial.",
+        "parte": 1,
+        "id": "tema-30-q26"
+      },
+      {
+        "enunciado": "¿Qué ejemplo pone el tema para ilustrar el aprovechamiento especial?",
+        "opciones": [
+          "Un kiosko instalado permanentemente en una plaza",
+          "La celebración de espectáculos en una plaza pública",
+          "Pasear por un parque",
+          "Una oficina bancaria dentro de un ministerio"
+        ],
+        "correcta": 1,
+        "explicacion": "El ejemplo literal del tema es la celebración de espectáculos en una plaza pública, que no impide el uso común pero sí supone un exceso de utilización puntual. El kiosko es el ejemplo de uso privativo.",
+        "parte": 1,
+        "id": "tema-30-q27"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes circunstancias NO se menciona en el tema como determinante del aprovechamiento especial?",
+        "opciones": [
+          "Peligrosidad o intensidad del uso",
+          "Preferencia en casos de escasez",
+          "Obtención de una rentabilidad singular",
+          "Exclusión total y permanente de cualquier otro usuario"
+        ],
+        "correcta": 3,
+        "explicacion": "Trampa: la exclusión total y permanente de otros usuarios es propia del uso privativo, no del aprovechamiento especial, que por definición no impide el uso común. Las otras tres (peligrosidad/intensidad, escasez, rentabilidad singular) sí son las circunstancias citadas en el tema.",
+        "parte": 1,
+        "id": "tema-30-q28"
+      },
+      {
+        "enunciado": "La clave que distingue al aprovechamiento especial de otros usos más intensos del dominio público es que...",
+        "opciones": [
+          "siempre requiere concesión, nunca autorización.",
+          "sin impedir el uso común, supone un exceso de utilización o menoscabo de este.",
+          "solo puede realizarse mediante obras o instalaciones fijas.",
+          "está reservado exclusivamente a la Administración General del Estado."
+        ],
+        "correcta": 1,
+        "explicacion": "Esa es precisamente la definición legal. A es falso porque puede requerir autorización o concesión según la duración; C describe más bien el uso privativo con obras fijas; D corresponde a la reserva demanial.",
+        "parte": 1,
+        "id": "tema-30-q29"
+      },
+      {
+        "enunciado": "Un bar instala una terraza con mesas y sillas desmontables en la vía pública durante dos años, sin impedir que los peatones sigan transitando por el resto de la acera. ¿Qué tipo de uso del dominio público es este, y qué título exige?",
+        "opciones": [
+          "Uso privativo; exige concesión por tratarse de obras fijas.",
+          "Aprovechamiento especial; al ser instalaciones desmontables y no superar los cuatro años, exige autorización.",
+          "Uso común; no exige ningún título.",
+          "Reserva demanial; exige acuerdo del Consejo de Ministros."
+        ],
+        "correcta": 1,
+        "explicacion": "Es un aprovechamiento especial típico (rentabilidad singular, exceso de utilización, pero sin impedir el uso común del resto de la acera); al ser instalaciones desmontables y no superar los cuatro años, basta con autorización, no concesión.",
+        "parte": 1,
+        "id": "tema-30-q30"
+      },
+      {
+        "enunciado": "Tanto el aprovechamiento especial como el uso privativo mediante instalaciones desmontables comparten el mismo régimen de título habilitante cuando la duración no excede de cuatro años. ¿Cuál es?",
+        "opciones": [
+          "Reserva demanial",
+          "Autorización",
+          "Concesión obligatoria",
+          "Contrato de arrendamiento"
+        ],
+        "correcta": 1,
+        "explicacion": "En ambos casos, si se trata de instalaciones desmontables o bienes muebles y la duración no supera los cuatro años, el título exigido es la autorización; solo superado ese plazo (o, en el uso privativo, si hay obras fijas) se exige concesión.",
+        "parte": 1,
+        "id": "tema-30-q31"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el aprovechamiento especial es INCORRECTA?",
+        "opciones": [
+          "Puede implicar peligrosidad o intensidad de uso.",
+          "Nunca requiere comunicación previa ni declaración de responsabilidad.",
+          "Puede estar sujeto a concesión si la duración excede de cuatro años.",
+          "No impide el uso común del bien."
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés: el tema exige expresamente, además del título habilitante, comunicación previa y declaración de responsabilidad. Las demás afirmaciones (A, C y D) son correctas conforme al tema.",
+        "parte": 1,
+        "id": "tema-30-q32"
+      },
+      {
+        "enunciado": "El régimen de autorización/concesión en el aprovechamiento especial que describe el tema se aplica específicamente cuando la ocupación se efectúa...",
+        "opciones": [
+          "únicamente con instalaciones desmontables o bienes muebles.",
+          "exclusivamente mediante obras permanentes de fábrica.",
+          "por cualquier medio, sin distinción.",
+          "solo si el beneficiario es una persona jurídica pública."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema precisa que ese régimen (autorización o concesión según duración) opera 'cuando la ocupación se efectúe únicamente con instalaciones desmontables o bienes muebles'. Las obras permanentes son más propias del uso privativo.",
+        "parte": 1,
+        "id": "tema-30-q33"
+      },
+      {
+        "enunciado": "El aprovechamiento especial determina, respecto al uso que corresponde a todos, un...",
+        "opciones": [
+          "exceso de utilización o un menoscabo de éste",
+          "uso exactamente igual sin ninguna diferencia",
+          "traslado completo de la titularidad del bien",
+          "cese definitivo del uso común en todo el bien"
+        ],
+        "correcta": 0,
+        "explicacion": "Literalmente, el aprovechamiento especial determina 'un exceso de utilización sobre el uso que corresponde a todos o un menoscabo de éste', pero sin llegar a impedirlo por completo, que es lo que caracteriza al uso privativo.",
+        "parte": 1,
+        "id": "tema-30-q34"
+      },
+      {
+        "enunciado": "¿Cómo se define el uso privativo de un bien de dominio público?",
+        "opciones": [
+          "El que determina la ocupación de una porción del dominio público, de modo que se limita o excluye la utilización del mismo por otros interesados.",
+          "El que corresponde por igual a todos los ciudadanos sin exclusión.",
+          "El que, sin impedir el uso común, supone un exceso de utilización puntual.",
+          "El uso exclusivo reservado por la AGE por razones de utilidad pública."
+        ],
+        "correcta": 0,
+        "explicacion": "Es la definición literal del uso privativo. B es el uso común, C el aprovechamiento especial y D la reserva demanial.",
+        "parte": 1,
+        "id": "tema-30-q35"
+      },
+      {
+        "enunciado": "¿Qué ejemplo utiliza el tema para ilustrar el uso privativo?",
+        "opciones": [
+          "Un kiosko",
+          "Espectáculos en una plaza pública",
+          "Pasear por un parque",
+          "Una oficina bancaria en un ministerio"
+        ],
+        "correcta": 0,
+        "explicacion": "El tema pone como ejemplo de uso privativo un kiosko, por ocupar de forma exclusiva y excluyente una porción del dominio público. El de los espectáculos en plaza pública es el ejemplo de aprovechamiento especial.",
+        "parte": 1,
+        "id": "tema-30-q36"
+      },
+      {
+        "enunciado": "En el uso privativo, ¿cuándo se exige concesión en lugar de autorización?",
+        "opciones": [
+          "Siempre, el uso privativo exige siempre concesión.",
+          "Cuando la duración excede de cuatro años o la ocupación se realiza con obras o instalaciones fijas.",
+          "Solo cuando lo decide discrecionalmente el titular del bien, sin criterio legal.",
+          "Nunca; el uso privativo solo admite autorización."
+        ],
+        "correcta": 1,
+        "explicacion": "El tema añade, respecto al aprovechamiento especial, un segundo supuesto que exige concesión: además de superar los cuatro años, basta con que la ocupación se realice con obras o instalaciones fijas, aunque dure menos tiempo.",
+        "parte": 1,
+        "id": "tema-30-q37"
+      },
+      {
+        "enunciado": "¿Cuál es la diferencia esencial entre el uso privativo y el aprovechamiento especial?",
+        "opciones": [
+          "No existe diferencia, son sinónimos en la LPAP.",
+          "El aprovechamiento especial no impide el uso común, mientras que el uso privativo limita o excluye la utilización del bien por otros interesados.",
+          "El uso privativo nunca requiere título habilitante, al contrario que el aprovechamiento especial.",
+          "El aprovechamiento especial solo puede recaer sobre inmuebles, y el uso privativo solo sobre bienes muebles."
+        ],
+        "correcta": 1,
+        "explicacion": "Esa es la diferencia clave: en el aprovechamiento especial coexisten el uso común y el uso especial, mientras que en el uso privativo la ocupación excluye a terceros de esa porción del dominio público. C es falso, porque ambos requieren título habilitante.",
+        "parte": 1,
+        "id": "tema-30-q38"
+      },
+      {
+        "enunciado": "Un kiosko de prensa se instala en una vía pública mediante una estructura de obra fija, aunque el contrato dure solo dos años. ¿Qué título habilitante corresponde según la LPAP?",
+        "opciones": [
+          "Autorización, porque la duración no supera los cuatro años.",
+          "Concesión, porque la ocupación se realiza con obras o instalaciones fijas, aunque no se superen los cuatro años.",
+          "Ningún título, por tratarse de un uso común.",
+          "Reserva demanial, al ser un bien de uso general."
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: aunque la duración (dos años) no supere el umbral de cuatro años, basta con que exista obra o instalación fija para que se exija concesión en el uso privativo. El criterio de los cuatro años solo opera cuando se trata de instalaciones desmontables.",
+        "parte": 1,
+        "id": "tema-30-q39"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre el uso privativo es FALSA?",
+        "opciones": [
+          "Limita o excluye la utilización del bien por otros interesados.",
+          "Puede requerir autorización si se ejerce mediante instalaciones desmontables.",
+          "Nunca puede dar lugar a concesión, solo a autorización.",
+          "Supone la ocupación de una porción del dominio público."
+        ],
+        "correcta": 2,
+        "explicacion": "Al revés: el uso privativo puede dar lugar a concesión cuando dura más de cuatro años o se ejecuta con obras fijas. Las demás afirmaciones (A, B y D) son correctas según el tema.",
+        "parte": 1,
+        "id": "tema-30-q40"
+      },
+      {
+        "enunciado": "Mientras que en el uso común 'el uso por unos no impide el de los demás', en el uso privativo ocurre que...",
+        "opciones": [
+          "tampoco se impide el uso de los demás, igual que en el uso común.",
+          "se limita o excluye la utilización del bien por otros interesados.",
+          "se exige siempre acuerdo del Consejo de Ministros.",
+          "se trata de un uso exclusivo de la Administración, no de particulares."
+        ],
+        "correcta": 1,
+        "explicacion": "Es justamente lo opuesto al uso común: el uso privativo excluye o limita a terceros respecto de la porción ocupada. D describe más bien la reserva demanial, no el uso privativo, que sí puede ser ejercido por particulares.",
+        "parte": 1,
+        "id": "tema-30-q41"
+      },
+      {
+        "enunciado": "Al igual que en el aprovechamiento especial, si el uso privativo se ejerce mediante instalaciones desmontables, se hace necesaria...",
+        "opciones": [
+          "una reserva demanial",
+          "una autorización",
+          "un contrato de arrendamiento",
+          "la declaración de utilidad pública"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema equipara expresamente el régimen: instalaciones desmontables exigen autorización, tanto en el aprovechamiento especial como en el uso privativo. Solo si se supera el plazo de cuatro años o hay obras fijas se exige concesión.",
+        "parte": 1,
+        "id": "tema-30-q42"
+      },
+      {
+        "enunciado": "El uso privativo se caracteriza, frente al aprovechamiento especial, por determinar...",
+        "opciones": [
+          "la ocupación de una porción del dominio público que limita o excluye su utilización por otros.",
+          "un simple exceso puntual de utilización sin exclusión de terceros.",
+          "la reserva de uso exclusivo a favor de la AGE.",
+          "la celebración de espectáculos públicos de forma recurrente."
+        ],
+        "correcta": 0,
+        "explicacion": "Esa ocupación excluyente de una porción del bien es la nota distintiva del uso privativo. B describe el aprovechamiento especial y C la reserva demanial.",
+        "parte": 1,
+        "id": "tema-30-q43"
+      },
+      {
+        "enunciado": "Una terraza de hostelería se instala sobre el dominio público mediante una estructura fija y durante seis años. ¿Qué título exige y por qué razón(es)?",
+        "opciones": [
+          "Autorización, porque se trata de un uso privativo que nunca exige concesión.",
+          "Concesión, concurriendo dos motivos: la duración supera los cuatro años y además se trata de una instalación fija.",
+          "Ningún título, porque se trata de un aprovechamiento especial.",
+          "Reserva demanial, por acuerdo del Consejo de Ministros."
+        ],
+        "correcta": 1,
+        "explicacion": "Aquí concurren los dos supuestos que exigen concesión en el uso privativo: duración superior a cuatro años e instalación fija, aunque bastaría con que se diera solo uno de ellos para exigir concesión.",
+        "parte": 1,
+        "id": "tema-30-q44"
+      },
+      {
+        "enunciado": "¿Quién puede reservarse el uso exclusivo de bienes de su titularidad destinados al uso general, conforme al tema?",
+        "opciones": [
+          "Cualquier particular interesado",
+          "La Administración General del Estado",
+          "Los Ayuntamientos exclusivamente",
+          "El Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema atribuye esta facultad específicamente a la Administración General del Estado (AGE), para la realización de fines de su competencia, no a los particulares ni a otras Administraciones mencionadas en el texto.",
+        "parte": 1,
+        "id": "tema-30-q45"
+      },
+      {
+        "enunciado": "¿Qué razones justifican que la AGE se reserve el uso exclusivo de un bien destinado al uso general?",
+        "opciones": [
+          "Razones de rentabilidad económica exclusivamente",
+          "Razones de utilidad pública o interés general",
+          "La mera voluntad discrecional sin motivación",
+          "La escasez de presupuesto del organismo"
+        ],
+        "correcta": 1,
+        "explicacion": "Se exige que existan razones de utilidad pública o interés general que justifiquen la reserva; no basta con criterios económicos o la mera discrecionalidad sin motivación.",
+        "parte": 1,
+        "id": "tema-30-q46"
+      },
+      {
+        "enunciado": "¿Cuál es la duración de una reserva demanial?",
+        "opciones": [
+          "Siempre 75 años, como las concesiones.",
+          "Se limita al tiempo necesario para el cumplimiento de los fines para los que se acordó.",
+          "Es indefinida por naturaleza.",
+          "Máximo cuatro años, igual que las autorizaciones."
+        ],
+        "correcta": 1,
+        "explicacion": "La duración de la reserva no tiene un plazo fijo tasado, sino que se limita funcionalmente al tiempo necesario para cumplir el fin que motivó su constitución. No se asimila ni a los 75 años de las concesiones ni a los 4 años de las autorizaciones.",
+        "parte": 1,
+        "id": "tema-30-q47"
+      },
+      {
+        "enunciado": "¿Mediante qué acto se efectúa una reserva demanial?",
+        "opciones": [
+          "Resolución del Director General del Patrimonio del Estado",
+          "Acuerdo del Consejo de Ministros",
+          "Orden del Ministro de Hacienda",
+          "Sorteo entre los interesados"
+        ],
+        "correcta": 1,
+        "explicacion": "La reserva demanial se efectúa por Acuerdo del Consejo de Ministros, lo que revela su carácter excepcional e importante, frente a actos de rango inferior propios de autorizaciones o concesiones ordinarias.",
+        "parte": 1,
+        "id": "tema-30-q48"
+      },
+      {
+        "enunciado": "El acuerdo del Consejo de Ministros por el que se constituye una reserva demanial debe...",
+        "opciones": [
+          "publicarse en el BOE e inscribirse en el Registro de la Propiedad.",
+          "notificarse únicamente a los interesados directamente afectados, sin publicidad.",
+          "mantenerse en secreto por razones de seguridad nacional.",
+          "sometido a ratificación de las Cortes Generales."
+        ],
+        "correcta": 0,
+        "explicacion": "Se exige doble formalidad: publicación en el BOE e inscripción en el Registro de la Propiedad, garantizando publicidad y oponibilidad frente a terceros. No se exige ratificación parlamentaria ni secreto.",
+        "parte": 1,
+        "id": "tema-30-q49"
+      },
+      {
+        "enunciado": "¿Qué efecto tiene la reserva demanial frente a otros posibles usos del bien?",
+        "opciones": [
+          "Prevalece frente a cualesquiera otros posibles usos de los bienes.",
+          "Queda subordinada al uso común preexistente.",
+          "Solo prevalece si así lo decide el juez contencioso-administrativo.",
+          "No tiene ningún efecto sobre usos anteriores."
+        ],
+        "correcta": 0,
+        "explicacion": "La reserva demanial prevalece frente a cualesquiera otros usos posibles del bien, lo que la distingue de los demás títulos de uso, sujetos en general a coexistencia o a límites como la indemnidad o la compatibilidad.",
+        "parte": 1,
+        "id": "tema-30-q50"
+      },
+      {
+        "enunciado": "¿Qué consecuencia expropiatoria lleva implícita el acuerdo de reserva demanial respecto de derechos preexistentes incompatibles con ella?",
+        "opciones": [
+          "Ninguna; no afecta a derechos preexistentes.",
+          "Lleva implícita la declaración de utilidad pública y la necesidad de ocupación, a efectos expropiatorios, de los derechos preexistentes incompatibles.",
+          "Obliga a indemnizar previamente sin necesidad de expediente expropiatorio.",
+          "Extingue automáticamente la propiedad privada colindante sin ningún trámite."
+        ],
+        "correcta": 1,
+        "explicacion": "El acuerdo de reserva implica, por sí mismo, la declaración de utilidad pública y la necesidad de ocupación a efectos expropiatorios de los derechos preexistentes incompatibles, agilizando así el procedimiento expropiatorio, sin suprimir las garantías propias de este (como la indemnización).",
+        "parte": 1,
+        "id": "tema-30-q51"
+      },
+      {
+        "enunciado": "¿Por qué se dice en el tema que la reserva demanial 'propiamente dicho no lo utilizan ni explotan particulares'?",
+        "opciones": [
+          "Porque siempre está prohibido el acceso físico de los ciudadanos al bien reservado.",
+          "Porque el uso exclusivo se reserva a la propia AGE para fines de su competencia, no para su explotación por terceros particulares.",
+          "Porque solo pueden explotarlo las comunidades autónomas.",
+          "Porque los particulares deben pagar siempre una tasa para poder usarlo."
+        ],
+        "correcta": 1,
+        "explicacion": "A diferencia de la autorización, concesión o aprovechamiento especial, en la reserva demanial el beneficiario del uso exclusivo es la propia Administración, para sus propios fines de interés público, y no un particular que lo explote económicamente.",
+        "parte": 1,
+        "id": "tema-30-q52"
+      },
+      {
+        "enunciado": "¿Qué diferencia fundamental existe entre la reserva demanial y el resto de usos (aprovechamiento especial, uso privativo)?",
+        "opciones": [
+          "La reserva no exige ningún tipo de acuerdo administrativo.",
+          "En la reserva, el uso exclusivo beneficia a la propia Administración por razones de utilidad pública, mientras que en los otros usos el título habilitante permite la explotación por particulares.",
+          "La reserva siempre tiene una duración de 75 años, como las concesiones.",
+          "La reserva es el único uso que no necesita publicarse en el BOE."
+        ],
+        "correcta": 1,
+        "explicacion": "La reserva demanial es un uso 'para dentro' de la propia Administración, por fines de utilidad pública, mientras que en el aprovechamiento especial y el uso privativo son particulares quienes, mediante autorización o concesión, explotan el bien.",
+        "parte": 1,
+        "id": "tema-30-q53"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones sobre la reserva demanial es INCORRECTA?",
+        "opciones": [
+          "Se efectúa por acuerdo del Consejo de Ministros.",
+          "Su duración se limita al tiempo necesario para cumplir los fines que la justificaron.",
+          "Requiere publicación en el BOE e inscripción registral.",
+          "Puede acordarla directamente cualquier Ministerio sin necesidad de Consejo de Ministros, por razones de urgencia."
+        ],
+        "correcta": 3,
+        "explicacion": "Al revés: el tema exige expresamente que la reserva se efectúe por Acuerdo del Consejo de Ministros, sin que se contemple una vía de urgencia alternativa a nivel ministerial. Las demás afirmaciones (A, B y C) son correctas.",
+        "parte": 1,
+        "id": "tema-30-q54"
+      },
+      {
+        "enunciado": "¿Con qué carácter se admite la ocupación de espacios en edificios administrativos?",
+        "opciones": [
+          "Ordinario y generalizado",
+          "Excepcional, para dar soporte a servicios dirigidos al personal o al público visitante, o para explotación marginal de espacios no necesarios para los servicios administrativos",
+          "Obligatorio en todos los edificios públicos",
+          "Prohibido en cualquier caso"
+        ],
+        "correcta": 1,
+        "explicacion": "El tema califica esta ocupación como excepcional y la vincula a finalidades concretas: servicios de apoyo al personal o visitantes, o explotación marginal de espacios sobrantes. No es ni la regla general ni algo prohibido.",
+        "parte": 1,
+        "id": "tema-30-q55"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un ejemplo citado en el tema de ocupación de espacios en edificios administrativos?",
+        "opciones": [
+          "Cafeterías",
+          "Oficinas bancarias",
+          "Cajeros automáticos",
+          "Viviendas de alquiler para funcionarios"
+        ],
+        "correcta": 3,
+        "explicacion": "El tema cita como ejemplos cafeterías, oficinas bancarias, cajeros automáticos y oficinas postales 'u otros análogos'. Las viviendas de alquiler para funcionarios no aparecen entre los ejemplos del tema.",
+        "parte": 1,
+        "id": "tema-30-q56"
+      },
+      {
+        "enunciado": "¿Qué límite impone el tema a la ocupación de espacios en edificios administrativos?",
+        "opciones": [
+          "No podrá entorpecer o menoscabar la utilización del inmueble por los órganos o unidades alojados en él.",
+          "No podrá superar nunca el 10% de la superficie del edificio.",
+          "Solo podrá autorizarse a entidades públicas, nunca a particulares.",
+          "Deberá ser siempre gratuita."
+        ],
+        "correcta": 0,
+        "explicacion": "El límite expreso que marca el tema es funcional: que la ocupación no entorpezca ni menoscabe el uso del inmueble por los órganos alojados. No se fija un porcentaje máximo de superficie ni se excluye a particulares, que de hecho son los habituales explotadores de cafeterías o cajeros.",
+        "parte": 1,
+        "id": "tema-30-q57"
+      },
+      {
+        "enunciado": "La ocupación de espacios en edificios administrativos habrá de estar amparada por...",
+        "opciones": [
+          "autorización, si se efectúa con bienes muebles o instalaciones desmontables; concesión, si se produce mediante instalaciones fijas; o un contrato conforme a la legislación de contratos de las Administraciones Públicas.",
+          "únicamente un contrato de arrendamiento, sin otra alternativa.",
+          "un acuerdo del Consejo de Ministros en todo caso.",
+          "nunca requiere ningún título, por tratarse de un uso común dentro de un edificio público."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema prevé tres alternativas según el medio empleado: autorización (muebles/desmontables), concesión (instalaciones fijas) o contrato formalizado conforme a la Ley de Contratos de las Administraciones Públicas. No exige en ningún caso acuerdo del Consejo de Ministros, que es propio de la reserva demanial.",
+        "parte": 1,
+        "id": "tema-30-q58"
+      },
+      {
+        "enunciado": "Además de dar soporte a servicios para el personal o el público visitante, ¿qué otra finalidad justifica la ocupación de espacios en edificios administrativos según el tema?",
+        "opciones": [
+          "La explotación marginal de espacios no necesarios para los servicios administrativos.",
+          "La obtención de la máxima rentabilidad posible del edificio, sin otra condición.",
+          "La cesión gratuita permanente a cualquier entidad privada que lo solicite.",
+          "La instalación de viviendas para altos cargos."
+        ],
+        "correcta": 0,
+        "explicacion": "El tema menciona dos finalidades: dar soporte a servicios para el personal/público visitante, o la explotación marginal de espacios sobrantes que no son necesarios para los servicios administrativos del edificio.",
+        "parte": 1,
+        "id": "tema-30-q59"
+      },
+      {
+        "enunciado": "Un banco instala un cajero automático empotrado mediante obra fija en el vestíbulo de un Ministerio, por un plazo de diez años, sin que ello impida el normal funcionamiento de las unidades alojadas en el edificio. ¿Qué título habilitante corresponde según el régimen de ocupación de espacios en edificios administrativos?",
+        "opciones": [
+          "Autorización, por tratarse de un servicio dirigido al público visitante.",
+          "Concesión, al producirse la ocupación por medio de instalaciones fijas.",
+          "Reserva demanial, por acuerdo del Consejo de Ministros.",
+          "Ningún título, al ser un uso común dentro de un edificio público."
+        ],
+        "correcta": 1,
+        "explicacion": "Como la ocupación se realiza mediante instalaciones fijas (obra de empotramiento), corresponde concesión, no autorización, que queda reservada a los casos de bienes muebles o instalaciones desmontables. Además, debe respetarse el límite de no entorpecer la utilización del inmueble por las unidades alojadas.",
+        "parte": 1,
+        "id": "tema-30-q60"
+      },
+      {
+        "enunciado": "¿Quién puede aprobar las condiciones generales para el otorgamiento de categorías determinadas de concesiones y autorizaciones sobre bienes del Patrimonio del Estado?",
+        "opciones": [
+          "El Consejo de Ministros",
+          "El Ministro titular del departamento al que estén afectados los bienes",
+          "El Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado",
+          "El Director General del Patrimonio del Estado por delegación del Consejo de Ministros"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 86 LPAP atribuye esta facultad al Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado. Estas condiciones generales deben publicarse en el BOE. No corresponde al Consejo de Ministros, que sí interviene en otras figuras como las reservas demaniales.",
+        "parte": 2,
+        "id": "tema-30-q61"
+      },
+      {
+        "enunciado": "Las condiciones generales aprobadas por el Ministro de Hacienda para el otorgamiento de concesiones y autorizaciones demaniales deben:",
+        "opciones": [
+          "Publicarse en el Boletín Oficial del Estado",
+          "Comunicarse únicamente a los organismos públicos afectados",
+          "Inscribirse en el Registro de la Propiedad",
+          "Notificarse individualmente a cada futuro solicitante"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP exige que estas condiciones generales se publiquen en el BOE, garantizando su publicidad y conocimiento general. La inscripción registral es propia de otras figuras, como las reservas demaniales o las concesiones ya otorgadas.",
+        "parte": 2,
+        "id": "tema-30-q62"
+      },
+      {
+        "enunciado": "En defecto de condiciones generales aprobadas por el Ministro de Hacienda, ¿qué requisito es necesario para que el ministro titular del departamento afectado establezca las condiciones de otorgamiento?",
+        "opciones": [
+          "Autorización del Consejo de Ministros",
+          "Dictamen no vinculante del Consejo de Estado",
+          "Ninguno, puede actuar con plena autonomía",
+          "Informe previo favorable del Ministro de Hacienda, preceptivo y vinculante"
+        ],
+        "correcta": 3,
+        "explicacion": "Cuando no existen condiciones generales, el ministro competente por razón de la afectación del bien debe contar con informe previo del Ministro de Hacienda, que es preceptivo (obligatorio solicitarlo) y vinculante (debe seguirse su contenido). Esto asegura la coherencia patrimonial del Estado.",
+        "parte": 2,
+        "id": "tema-30-q63"
+      },
+      {
+        "enunciado": "El informe que debe emitir el Ministro de Hacienda cuando no existen condiciones generales para una categoría de concesiones o autorizaciones tiene naturaleza:",
+        "opciones": [
+          "Facultativa y no vinculante",
+          "Preceptiva y vinculante",
+          "Preceptiva pero no vinculante",
+          "Facultativa pero vinculante si se solicita"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP califica este informe como preceptivo, es decir, de solicitud obligatoria, y vinculante, de manera que su contenido condiciona la decisión final. Un distractor habitual es confundirlo con informes meramente facultativos o no vinculantes, que no generan esa obligación de ajuste.",
+        "parte": 2,
+        "id": "tema-30-q64"
+      },
+      {
+        "enunciado": "¿Quién propone al Ministro de Hacienda la aprobación de las condiciones generales para el otorgamiento de concesiones y autorizaciones demaniales?",
+        "opciones": [
+          "La Abogacía del Estado",
+          "El Consejo de Ministros",
+          "La Dirección General del Patrimonio del Estado",
+          "Los presidentes de los organismos públicos adscritos"
+        ],
+        "correcta": 2,
+        "explicacion": "Es la Dirección General del Patrimonio del Estado la que propone al Ministro de Hacienda la aprobación de dichas condiciones generales, conforme al art. 86 LPAP. La Abogacía del Estado interviene posteriormente en otros procedimientos, como el informe sobre bases de concursos de explotación patrimonial.",
+        "parte": 2,
+        "id": "tema-30-q65"
+      },
+      {
+        "enunciado": "Conforme al artículo 92 LPAP, las autorizaciones demaniales se otorgarán, con carácter general:",
+        "opciones": [
+          "Directamente a los peticionarios que reúnan las condiciones requeridas",
+          "Siempre mediante concurso público",
+          "Siempre mediante sorteo entre los interesados",
+          "Exclusivamente por concesión administrativa previa"
+        ],
+        "correcta": 0,
+        "explicacion": "La regla general del art. 92 LPAP es el otorgamiento directo a quienes cumplan los requisitos exigidos. Solo cuando el número de autorizaciones esté limitado se recurre a la concurrencia o, en su caso, al sorteo.",
+        "parte": 2,
+        "id": "tema-30-q66"
+      },
+      {
+        "enunciado": "Si el número de autorizaciones demaniales que pueden otorgarse se encuentra limitado, ¿cómo se procederá?",
+        "opciones": [
+          "Siempre mediante sorteo, sin excepción",
+          "Se denegarán todas las solicitudes presentadas",
+          "Se otorgarán por orden de antigüedad del solicitante exclusivamente",
+          "En régimen de concurrencia y, si no procede valorar condiciones especiales, mediante sorteo"
+        ],
+        "correcta": 3,
+        "explicacion": "Cuando existe limitación numérica, el art. 92 LPAP prevé el régimen de concurrencia, valorando las condiciones de los solicitantes; solo si no procede valorar tales condiciones especiales se acude al sorteo. No se trata de un sorteo automático ni de una denegación generalizada.",
+        "parte": 2,
+        "id": "tema-30-q67"
+      },
+      {
+        "enunciado": "El sorteo como mecanismo de otorgamiento de autorizaciones demaniales limitadas en número se utiliza cuando:",
+        "opciones": [
+          "Exista un único solicitante",
+          "No proceda valorar condiciones especiales en los solicitantes",
+          "El bien tenga un valor económico elevado",
+          "Lo decida discrecionalmente el Director General del Patrimonio del Estado en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "El sorteo opera como alternativa a la concurrencia cuando no es procedente valorar condiciones especiales entre los peticionarios, es decir, cuando todos están en igualdad de méritos. No depende del valor económico del bien ni de una decisión discrecional al margen de la ley.",
+        "parte": 2,
+        "id": "tema-30-q68"
+      },
+      {
+        "enunciado": "¿Son transmisibles, con carácter general, las autorizaciones cuyo otorgamiento depende de circunstancias personales del autorizado?",
+        "opciones": [
+          "Sí, siempre que se comunique a la Administración",
+          "Sí, sin ningún requisito adicional",
+          "No, salvo que las condiciones por las que se rigen admitan su transmisión",
+          "No, en ningún caso, ni aunque las condiciones lo permitan"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 92 LPAP establece la intransmisibilidad de las autorizaciones otorgadas en atención a circunstancias personales o cuyo número esté limitado, salvo que las propias condiciones reguladoras admitan excepcionalmente su transmisión. La opción que niega cualquier transmisión en todo caso es incorrecta porque la ley prevé esa excepción.",
+        "parte": 2,
+        "id": "tema-30-q69"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo de duración de las autorizaciones demaniales, incluidas las prórrogas?",
+        "opciones": [
+          "Cuatro años",
+          "Veinte años",
+          "Setenta y cinco años",
+          "Un año"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 92 LPAP fija en cuatro años el plazo máximo de las autorizaciones, incluidas las prórrogas. No debe confundirse con los 75 años de las concesiones demaniales ni con los 20 años de los contratos de explotación de bienes patrimoniales.",
+        "parte": 2,
+        "id": "tema-30-q70"
+      },
+      {
+        "enunciado": "Señale cuál NO es uno de los supuestos que permiten la revocación unilateral sin indemnización de una autorización demanial:",
+        "opciones": [
+          "Que resulte incompatible con condiciones generales aprobadas con posterioridad",
+          "Que produzca daños en el dominio público",
+          "Que menoscabe el uso general",
+          "Que el titular transmita la autorización a un tercero con autorización previa"
+        ],
+        "correcta": 3,
+        "explicacion": "Los cuatro supuestos legales de revocación unilateral sin indemnización son la incompatibilidad con condiciones generales posteriores, los daños al dominio público, impedir usos de mayor interés público y el menoscabo del uso general. La transmisión autorizada a un tercero no figura entre ellos.",
+        "parte": 2,
+        "id": "tema-30-q71"
+      },
+      {
+        "enunciado": "Las autorizaciones demaniales pueden ser revocadas unilateralmente por la Administración cuando impidan su utilización para:",
+        "opciones": [
+          "Actividades de cualquier tipo, sin más requisito",
+          "Actividades de mayor interés público",
+          "Actividades privadas lucrativas",
+          "Actividades de interés exclusivamente municipal"
+        ],
+        "correcta": 1,
+        "explicacion": "Uno de los cuatro supuestos tasados de revocación unilateral es que la autorización impida destinar el bien a actividades de mayor interés público. Las demás opciones generalizan o desvían el supuesto legal, que exige que el nuevo interés sea superior al que satisface la autorización vigente.",
+        "parte": 2,
+        "id": "tema-30-q72"
+      },
+      {
+        "enunciado": "La revocación unilateral de una autorización demanial por razones de interés público:",
+        "opciones": [
+          "Siempre genera derecho a indemnización",
+          "Genera indemnización solo si han transcurrido más de dos años",
+          "No genera derecho a indemnización",
+          "Genera indemnización equivalente al canon pagado"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 92 LPAP es claro al señalar que la revocación unilateral por razones de interés público, en los supuestos tasados, no genera derecho a indemnización para el titular. Esto diferencia la revocación de la autorización del rescate de la concesión, que sí lleva aparejada indemnización previa.",
+        "parte": 2,
+        "id": "tema-30-q73"
+      },
+      {
+        "enunciado": "¿Qué norma regula la tasa por utilización privativa o aprovechamiento especial de bienes del dominio público estatal aplicable, en su caso, a las autorizaciones?",
+        "opciones": [
+          "La Ley 25/1998",
+          "La Ley 33/2003",
+          "El Texto Refundido de la Ley de Contratos de las Administraciones Públicas",
+          "La Ley 39/2015"
+        ],
+        "correcta": 0,
+        "explicacion": "La tasa aplicable a la utilización privativa o el aprovechamiento especial del dominio público estatal se regula en la Ley 25/1998. La LPAP (Ley 33/2003) se remite a esa norma específica para la exacción de la tasa correspondiente.",
+        "parte": 2,
+        "id": "tema-30-q74"
+      },
+      {
+        "enunciado": "Las autorizaciones demaniales NO estarán sujetas a la tasa de la Ley 25/1998 cuando:",
+        "opciones": [
+          "El autorizado sea una persona física",
+          "El plazo de la autorización sea inferior a un año",
+          "El bien se encuentre en el extranjero",
+          "La utilización privativa o aprovechamiento especial no lleve aparejada utilidad económica para el autorizado"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP excluye la sujeción a la tasa cuando no existe utilidad económica para el autorizado, o cuando, aun existiendo, las contraprestaciones impuestas anulan o hacen irrelevante esa utilidad. El tipo de solicitante o la duración concreta no son los criterios determinantes de esta exclusión.",
+        "parte": 2,
+        "id": "tema-30-q75"
+      },
+      {
+        "enunciado": "Además de no existir utilidad económica, ¿en qué otro supuesto una autorización queda no sujeta a la tasa de la Ley 25/1998?",
+        "opciones": [
+          "Cuando el autorizado sea un organismo público",
+          "Cuando, existiendo utilidad económica, las condiciones o contraprestaciones impuestas al beneficiario anulen o hagan irrelevante esa utilidad",
+          "Cuando la autorización se otorgue por sorteo",
+          "Cuando el plazo máximo de cuatro años no se agote"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP contempla un segundo supuesto de no sujeción: aun existiendo utilidad económica, si las condiciones o contraprestaciones exigidas al beneficiario anulan o hacen irrelevante dicha utilidad, tampoco se exige la tasa. Los demás supuestos propuestos no están previstos legalmente como causa de exclusión.",
+        "parte": 2,
+        "id": "tema-30-q76"
+      },
+      {
+        "enunciado": "¿Qué puede exigir la Administración al solicitante de una autorización demanial?",
+        "opciones": [
+          "Un aval bancario obligatorio en todos los casos",
+          "La constitución de una sociedad mercantil",
+          "Garantía para asegurar el uso del bien, su reposición, reparación o indemnización de daños",
+          "La inscripción previa en el Registro de la Propiedad"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 92 LPAP permite exigir al solicitante garantía, en la forma que se estime más adecuada, para responder del uso, reposición o reparación del bien, o de la indemnización de daños en caso de alteración. No se trata de un aval bancario tasado por ley ni de un requisito registral, que es propio de las concesiones.",
+        "parte": 2,
+        "id": "tema-30-q77"
+      },
+      {
+        "enunciado": "La exigencia de garantía al solicitante de una autorización demanial tiene como finalidad principal:",
+        "opciones": [
+          "Responder del uso del bien y de su reposición, reparación o indemnización de daños",
+          "Financiar las obras de la Administración",
+          "Sustituir el pago de la tasa de la Ley 25/1998",
+          "Acreditar la solvencia económica general del solicitante"
+        ],
+        "correcta": 0,
+        "explicacion": "La garantía se orienta a cubrir eventuales daños o alteraciones causados en el bien demanial objeto de autorización, no a financiar otras actuaciones administrativas ni a sustituir obligaciones tributarias como la tasa. Es una previsión potestativa, no automática.",
+        "parte": 2,
+        "id": "tema-30-q78"
+      },
+      {
+        "enunciado": "Conforme al artículo 93 LPAP, el otorgamiento de concesiones sobre bienes de dominio público se efectuará, con carácter general:",
+        "opciones": [
+          "Siempre de forma directa",
+          "Siempre mediante sorteo",
+          "Por silencio administrativo positivo",
+          "En régimen de concurrencia"
+        ],
+        "correcta": 3,
+        "explicacion": "La regla general para las concesiones demaniales es el régimen de concurrencia, a diferencia de las autorizaciones, cuya regla general es el otorgamiento directo. El otorgamiento directo de concesiones es la excepción, reservada a supuestos tasados.",
+        "parte": 2,
+        "id": "tema-30-q79"
+      },
+      {
+        "enunciado": "El otorgamiento directo de una concesión demanial, en lugar del régimen de concurrencia, procede:",
+        "opciones": [
+          "Siempre que lo solicite el interesado",
+          "En los supuestos del art. 137.4 LPAP (concesiones desiertas o fincas colindantes sin posibilidad de edificación) u otros establecidos por ley, con circunstancias excepcionales justificadas",
+          "Cuando el plazo de la concesión sea inferior a 10 años",
+          "Cuando el bien tenga escaso valor económico"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP remite a los supuestos del art. 137.4 (concesiones declaradas desiertas o referidas a fincas colindantes sin posibilidad de edificación independiente) o a otros previstos legalmente, exigiendo además que concurran circunstancias excepcionales debidamente justificadas. No basta la simple petición del interesado ni el escaso valor del bien.",
+        "parte": 2,
+        "id": "tema-30-q80"
+      },
+      {
+        "enunciado": "Una vez otorgada la concesión demanial, ¿qué trámite formal debe seguirse?",
+        "opciones": [
+          "Publicación en el Diario Oficial de la Unión Europea",
+          "Ratificación por el Consejo de Ministros",
+          "Formalización en documento administrativo, título suficiente para su inscripción en el Registro de la Propiedad",
+          "Elevación a escritura pública notarial obligatoria"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 93 LPAP exige la formalización de la concesión en documento administrativo, que constituye título suficiente para su inscripción registral, sin necesidad de escritura notarial ni de ratificación por el Consejo de Ministros. Esta inscripción otorga seguridad jurídica frente a terceros.",
+        "parte": 2,
+        "id": "tema-30-q81"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo de duración de las concesiones demaniales, incluidas las prórrogas, salvo que las normas especiales establezcan uno menor?",
+        "opciones": [
+          "75 años",
+          "4 años",
+          "20 años",
+          "50 años"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 93 LPAP fija en 75 años, incluidas las prórrogas, el plazo máximo general de las concesiones demaniales, salvo que una norma especial reduzca ese límite. Este plazo no debe confundirse con los 4 años de las autorizaciones ni con los 20 años de los contratos de explotación patrimonial.",
+        "parte": 2,
+        "id": "tema-30-q82"
+      },
+      {
+        "enunciado": "El documento administrativo de formalización de una concesión demanial es título suficiente para:",
+        "opciones": [
+          "Transmitir la propiedad del bien al concesionario",
+          "Eximir al concesionario del pago de cualquier tasa",
+          "Prorrogar automáticamente la concesión al vencimiento",
+          "Inscribir la concesión en el Registro de la Propiedad"
+        ],
+        "correcta": 3,
+        "explicacion": "La formalización administrativa permite únicamente la inscripción registral de la concesión, no la transmisión de la propiedad del bien, que sigue siendo demanial y de titularidad pública, ni exime del pago de tasas ni genera prórroga automática.",
+        "parte": 2,
+        "id": "tema-30-q83"
+      },
+      {
+        "enunciado": "Al igual que las autorizaciones, las concesiones demaniales podrán ser:",
+        "opciones": [
+          "Únicamente gratuitas",
+          "Gratuitas, onerosas, sujetas a condición o al pago de una tasa",
+          "Únicamente onerosas",
+          "Únicamente sujetas a tasa, sin excepción posible"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 93 LPAP reproduce para las concesiones el mismo esquema de modalidades económicas que para las autorizaciones: gratuidad, onerosidad, condición o tasa, con las mismas salvedades de no sujeción previstas para la Ley 25/1998. No existe, por tanto, un régimen económico único y cerrado.",
+        "parte": 2,
+        "id": "tema-30-q84"
+      },
+      {
+        "enunciado": "¿Quién no puede ser titular de una concesión sobre bienes y derechos demaniales conforme al art. 93 LPAP?",
+        "opciones": [
+          "Las personas jurídicas extranjeras",
+          "Los organismos públicos de la Administración General del Estado",
+          "Las personas en quienes concurra alguna prohibición de contratar del Texto Refundido de la Ley de Contratos de las Administraciones Públicas",
+          "Las personas físicas mayores de 65 años"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP prohíbe ser titular de concesiones demaniales a quienes incurran en alguna de las prohibiciones de contratar reguladas en la legislación de contratos de las Administraciones Públicas. No hay restricción legal por nacionalidad de la persona jurídica ni por edad del solicitante.",
+        "parte": 2,
+        "id": "tema-30-q85"
+      },
+      {
+        "enunciado": "Si el titular de una concesión incurre, con posterioridad a su otorgamiento, en una prohibición de contratar, ¿qué efecto produce?",
+        "opciones": [
+          "La extinción de la concesión",
+          "La suspensión temporal de la concesión durante un año",
+          "Ningún efecto, pues la prohibición solo opera en el momento del otorgamiento",
+          "La reducción automática del plazo concesional a la mitad"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP prevé expresamente que, si con posterioridad al otorgamiento el titular incurre en alguna prohibición de contratar, se produce la extinción de la concesión. No se trata de una mera suspensión ni de una reducción del plazo, sino de la terminación de la relación concesional.",
+        "parte": 2,
+        "id": "tema-30-q86"
+      },
+      {
+        "enunciado": "La diferencia esencial entre el régimen general de otorgamiento de autorizaciones y el de concesiones demaniales es que:",
+        "opciones": [
+          "Ambas se otorgan siempre en régimen de concurrencia",
+          "Ambas se otorgan siempre de forma directa",
+          "Las autorizaciones requieren concurrencia y las concesiones otorgamiento directo",
+          "Las autorizaciones se otorgan directamente por regla general y las concesiones en régimen de concurrencia por regla general"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP invierte la regla general entre ambas figuras: en las autorizaciones prevalece el otorgamiento directo (salvo limitación numérica) y en las concesiones, la concurrencia (salvo supuestos excepcionales de otorgamiento directo). Confundir ambos regímenes es uno de los errores más frecuentes en el estudio del tema.",
+        "parte": 2,
+        "id": "tema-30-q87"
+      },
+      {
+        "enunciado": "¿Es posible que una concesión demanial se otorgue de forma directa cuando se refiera a una finca colindante sin posibilidad de edificación independiente?",
+        "opciones": [
+          "No, en ningún caso",
+          "Sí, es uno de los supuestos previstos en el art. 137.4 LPAP",
+          "Solo si lo autoriza el Consejo de Ministros mediante acuerdo específico",
+          "Solo cuando el solicitante sea una Administración Pública distinta del Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 137.4 LPAP, al que se remite el art. 93, contempla expresamente este supuesto entre los que permiten el otorgamiento directo de la concesión, exigiendo además circunstancias excepcionales justificadas. No requiere acuerdo singular del Consejo de Ministros ni queda limitado a otras Administraciones.",
+        "parte": 2,
+        "id": "tema-30-q88"
+      },
+      {
+        "enunciado": "El plazo máximo de 75 años de las concesiones demaniales puede reducirse cuando:",
+        "opciones": [
+          "Lo decida unilateralmente el concesionario",
+          "El bien se encuentre arrendado a un tercero",
+          "Así lo establezcan las normas especiales aplicables",
+          "El concesionario sea una persona física y no jurídica"
+        ],
+        "correcta": 2,
+        "explicacion": "El propio art. 93 LPAP salva la aplicación de normas especiales que fijen un plazo máximo menor al general de 75 años, por ejemplo en legislación sectorial de costas o aguas. La decisión del concesionario o su naturaleza jurídica no son criterios que alteren ese límite legal.",
+        "parte": 2,
+        "id": "tema-30-q89"
+      },
+      {
+        "enunciado": "¿A quién corresponde otorgar las concesiones y autorizaciones sobre bienes y derechos demaniales del Patrimonio del Estado?",
+        "opciones": [
+          "A los ministros titulares de los departamentos afectados o a los presidentes o directores de los organismos públicos adscritos",
+          "Exclusivamente al Ministro de Hacienda",
+          "Exclusivamente al Consejo de Ministros",
+          "Exclusivamente a la Dirección General del Patrimonio del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La competencia para otorgar estas concesiones y autorizaciones corresponde a los ministros de los departamentos a que estén afectados los bienes o cuya gestión les corresponda, o a los presidentes o directores de los organismos públicos que los tengan adscritos. El Ministro de Hacienda interviene en otros ámbitos, como el informe previo o las condiciones generales.",
+        "parte": 2,
+        "id": "tema-30-q90"
+      },
+      {
+        "enunciado": "Cuando un bien demanial está adscrito a un organismo público, la competencia para otorgar la correspondiente concesión o autorización recae en:",
+        "opciones": [
+          "El Ministro de Hacienda en todo caso",
+          "El Consejo de Ministros",
+          "La Abogacía del Estado",
+          "El presidente o director de dicho organismo público"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP atribuye la competencia, en estos casos, a los presidentes o directores de los organismos públicos que tengan adscritos los bienes o a cuyo patrimonio pertenezcan. El Ministro de Hacienda solo interviene mediante el informe preceptivo y vinculante cuando no existen condiciones generales aplicables.",
+        "parte": 2,
+        "id": "tema-30-q91"
+      },
+      {
+        "enunciado": "La atribución de competencia para otorgar concesiones y autorizaciones demaniales se determina, fundamentalmente, en función de:",
+        "opciones": [
+          "El valor económico del bien, exclusivamente",
+          "La afectación del bien o la adscripción a un organismo público",
+          "La fecha de incorporación del bien al Patrimonio del Estado",
+          "El domicilio del solicitante"
+        ],
+        "correcta": 1,
+        "explicacion": "El criterio legal es la afectación de los bienes a un departamento ministerial, o su adscripción o pertenencia patrimonial a un organismo público, no el valor económico ni la fecha de incorporación del bien. Esto conecta con el criterio de gestión patrimonial seguido por la LPAP.",
+        "parte": 2,
+        "id": "tema-30-q92"
+      },
+      {
+        "enunciado": "Si un bien demanial pertenece al patrimonio de un organismo público, ¿quién tiene competencia para otorgar la concesión sobre dicho bien?",
+        "opciones": [
+          "El Ministro de Hacienda, por ser titular último del Patrimonio del Estado",
+          "El Delegado del Gobierno en la comunidad autónoma correspondiente",
+          "El presidente o director de ese organismo público",
+          "El Tribunal de Cuentas"
+        ],
+        "correcta": 2,
+        "explicacion": "La competencia recae en el presidente o director del organismo público titular o gestor del bien, conforme a la regla general de atribución de competencias de la LPAP. Ni el Ministro de Hacienda, ni el Delegado del Gobierno, ni el Tribunal de Cuentas tienen esta función en el procedimiento de otorgamiento.",
+        "parte": 2,
+        "id": "tema-30-q93"
+      },
+      {
+        "enunciado": "El procedimiento de otorgamiento de autorizaciones y concesiones en régimen de concurrencia podrá iniciarse:",
+        "opciones": [
+          "De oficio o a solicitud de persona interesada",
+          "Únicamente de oficio",
+          "Únicamente a instancia de parte",
+          "Solo por mandato judicial"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP permite ambas vías de inicio: de oficio por el órgano competente o a solicitud de la persona interesada. No se limita a una sola de ellas ni requiere intervención judicial previa.",
+        "parte": 2,
+        "id": "tema-30-q94"
+      },
+      {
+        "enunciado": "Para la iniciación de oficio del procedimiento de otorgamiento en régimen de concurrencia, el órgano competente deberá justificar:",
+        "opciones": [
+          "Únicamente el valor de tasación del bien",
+          "La existencia de un informe previo de la Intervención General",
+          "La conformidad del futuro adjudicatario",
+          "La necesidad o conveniencia para los fines públicos, que el bien ha de continuar siendo demanial y, en su caso, la procedencia de la adjudicación directa"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP exige que la motivación de oficio incluya la necesidad o conveniencia de la actuación para los fines públicos, el mantenimiento de la condición demanial del bien y, si procede, la justificación de la adjudicación directa. No exige conformidad previa de un futuro adjudicatario, que sería contradictorio con el principio de concurrencia.",
+        "parte": 2,
+        "id": "tema-30-q95"
+      },
+      {
+        "enunciado": "La convocatoria para el otorgamiento de autorizaciones o concesiones en régimen de concurrencia debe publicarse en:",
+        "opciones": [
+          "Únicamente en un periódico de tirada nacional",
+          "El BOE o, en su caso, el diario oficial de la comunidad autónoma o provincia según la Administración actuante",
+          "Únicamente en el tablón de anuncios del organismo",
+          "El Diario Oficial de la Unión Europea en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "La publicidad legal exige la publicación en el BOE o, según la Administración actuante, en el diario oficial autonómico o provincial correspondiente, sin perjuicio de usar medios adicionales de difusión. No se exige, con carácter general, publicación en el DOUE ni basta con un periódico privado o un simple tablón de anuncios.",
+        "parte": 2,
+        "id": "tema-30-q96"
+      },
+      {
+        "enunciado": "¿De qué plazo disponen los interesados para presentar sus peticiones en el procedimiento de otorgamiento en régimen de concurrencia, una vez publicada la convocatoria?",
+        "opciones": [
+          "Quince días",
+          "Seis meses",
+          "Treinta días",
+          "Un año"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP concede un plazo de treinta días desde la publicación de la convocatoria para que los interesados presenten sus peticiones. No debe confundirse con el plazo de seis meses, que es el que tiene la Administración para resolver el procedimiento.",
+        "parte": 2,
+        "id": "tema-30-q97"
+      },
+      {
+        "enunciado": "Para decidir sobre el otorgamiento de la concesión o autorización en régimen de concurrencia, la Administración atenderá:",
+        "opciones": [
+          "Al mayor interés y utilidad pública de la utilización solicitada, conforme a los criterios de los pliegos de condiciones",
+          "Exclusivamente a la fecha de presentación de la solicitud",
+          "Exclusivamente al orden alfabético de los solicitantes",
+          "Exclusivamente a la oferta económica más alta"
+        ],
+        "correcta": 0,
+        "explicacion": "El criterio legal de valoración es el mayor interés y utilidad pública de la utilización o aprovechamiento solicitado, conforme a los criterios fijados en los pliegos de condiciones, y no criterios automáticos como el orden de presentación o la oferta económica aislada.",
+        "parte": 2,
+        "id": "tema-30-q98"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo para resolver el procedimiento de otorgamiento de autorizaciones o concesiones en régimen de concurrencia?",
+        "opciones": [
+          "Tres meses",
+          "Un año",
+          "Treinta días",
+          "Seis meses"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP fija en seis meses el plazo máximo para resolver este procedimiento, transcurrido el cual sin notificación de resolución expresa opera el silencio administrativo. No debe confundirse con el plazo de treinta días, que corresponde a la presentación de peticiones por los interesados.",
+        "parte": 2,
+        "id": "tema-30-q99"
+      },
+      {
+        "enunciado": "Si transcurre el plazo máximo de seis meses sin que se notifique resolución expresa en el procedimiento de otorgamiento en régimen de concurrencia, se entenderá que la solicitud:",
+        "opciones": [
+          "Ha sido desestimada por silencio administrativo",
+          "Ha sido estimada por silencio administrativo positivo",
+          "Queda en suspenso indefinidamente",
+          "Debe reiterarse automáticamente ante el órgano superior"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP opta por el silencio administrativo negativo (desestimatorio) en este procedimiento, de modo que el transcurso del plazo sin resolución expresa equivale a la denegación de la solicitud. Esto es coherente con el carácter demanial de los bienes y la necesidad de pronunciamiento expreso favorable para constituir el derecho de uso.",
+        "parte": 2,
+        "id": "tema-30-q100"
+      },
+      {
+        "enunciado": "Señale cuál NO es una causa de extinción de las concesiones y autorizaciones demaniales según la LPAP:",
+        "opciones": [
+          "La muerte o incapacidad sobrevenida del usuario o concesionario individual",
+          "La caducidad por vencimiento del plazo",
+          "La transmisión de la autorización expresamente permitida por sus condiciones reguladoras",
+          "El mutuo acuerdo"
+        ],
+        "correcta": 2,
+        "explicacion": "Una transmisión expresamente admitida por las condiciones reguladoras no extingue la autorización, sino que supone precisamente el ejercicio lícito de esa facultad excepcional de transmisión. En cambio, la muerte o incapacidad, la caducidad por vencimiento y el mutuo acuerdo sí son causas legales de extinción.",
+        "parte": 2,
+        "id": "tema-30-q101"
+      },
+      {
+        "enunciado": "La falta de autorización previa en los supuestos de transmisión o modificación por fusión, absorción o escisión de la personalidad jurídica del titular constituye:",
+        "opciones": [
+          "Una causa de extinción de la concesión o autorización",
+          "Un supuesto de prórroga automática",
+          "Un supuesto de subrogación automática sin consecuencias",
+          "Una causa de suspensión temporal de seis meses"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP recoge expresamente, entre las causas de extinción, la falta de autorización administrativa previa cuando se produce una transmisión o modificación de la personalidad jurídica del titular por fusión, absorción o escisión. No se trata de una prórroga ni de una subrogación libre de requisitos.",
+        "parte": 2,
+        "id": "tema-30-q102"
+      },
+      {
+        "enunciado": "La caducidad por vencimiento del plazo, como causa de extinción de concesiones y autorizaciones, se produce cuando:",
+        "opciones": [
+          "El titular incumple levemente alguna obligación accesoria",
+          "El bien demanial se deteriora parcialmente",
+          "Se produce un cambio de Gobierno",
+          "Transcurre el plazo máximo de duración, incluidas las prórrogas, sin haberse renovado"
+        ],
+        "correcta": 3,
+        "explicacion": "La caducidad por vencimiento opera automáticamente al agotarse el plazo máximo de duración fijado (cuatro años en autorizaciones, setenta y cinco en concesiones), incluidas sus prórrogas. El incumplimiento leve de obligaciones accesorias no determina por sí esta causa, que requiere incumplimiento grave para constituir una causa distinta de extinción.",
+        "parte": 2,
+        "id": "tema-30-q103"
+      },
+      {
+        "enunciado": "El rescate de una concesión demanial, como causa de extinción, exige:",
+        "opciones": [
+          "El consentimiento expreso del concesionario, sin indemnización",
+          "Indemnización previa al concesionario",
+          "Que el concesionario haya incumplido gravemente sus obligaciones",
+          "Que haya transcurrido al menos la mitad del plazo concesional"
+        ],
+        "correcta": 1,
+        "explicacion": "El rescate de la concesión, a diferencia de la revocación unilateral de la autorización, exige indemnización previa al concesionario, reconociendo así el mayor alcance y estabilidad jurídica de la concesión frente a la autorización. No depende del consentimiento del concesionario ni de un incumplimiento previo por su parte.",
+        "parte": 2,
+        "id": "tema-30-q104"
+      },
+      {
+        "enunciado": "La revocación unilateral, como causa de extinción aplicable específicamente a las autorizaciones, se diferencia del rescate de las concesiones en que:",
+        "opciones": [
+          "Ambas exigen indemnización previa en idéntica cuantía",
+          "Ninguna de las dos genera derecho a indemnización",
+          "La revocación no genera indemnización, mientras que el rescate exige indemnización previa",
+          "La revocación exige el consentimiento del titular y el rescate no"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP distingue claramente ambos mecanismos: la revocación unilateral de autorizaciones por razones de interés público, en los supuestos tasados, no genera indemnización, mientras que el rescate de concesiones sí exige indemnización previa al concesionario. Esta diferencia refleja la mayor consistencia jurídica de la concesión frente a la autorización.",
+        "parte": 2,
+        "id": "tema-30-q105"
+      },
+      {
+        "enunciado": "La falta de pago del canon o cualquier otro incumplimiento grave de las obligaciones del titular de la concesión constituye:",
+        "opciones": [
+          "Una causa de extinción de la concesión",
+          "Un supuesto de prórroga forzosa",
+          "Un supuesto exclusivo de sanción pecuniaria sin extinción",
+          "Una causa que solo afecta a las autorizaciones, no a las concesiones"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP incluye expresamente el impago del canon u otro incumplimiento grave entre las causas de extinción de las concesiones (y, análogamente, de las autorizaciones), sin que ello excluya, además, otras consecuencias accesorias previstas en el título habilitante. No se limita a una sanción pecuniaria sin efectos extintivos.",
+        "parte": 2,
+        "id": "tema-30-q106"
+      },
+      {
+        "enunciado": "La desaparición del bien o el agotamiento del aprovechamiento, como causa de extinción, responde a un supuesto de:",
+        "opciones": [
+          "Incumplimiento culpable del titular",
+          "Revocación discrecional sin causa",
+          "Mutuo acuerdo tácito entre las partes",
+          "Imposibilidad sobrevenida de cumplir el objeto de la concesión o autorización"
+        ],
+        "correcta": 3,
+        "explicacion": "Esta causa de extinción opera por una imposibilidad material sobrevenida, al desaparecer físicamente el bien o agotarse el aprovechamiento objeto del título, sin que medie necesariamente incumplimiento culpable del titular ni decisión discrecional de la Administración.",
+        "parte": 2,
+        "id": "tema-30-q107"
+      },
+      {
+        "enunciado": "Entre las causas de extinción de concesiones y autorizaciones demaniales previstas en la LPAP, el mutuo acuerdo supone:",
+        "opciones": [
+          "Una modalidad de revocación unilateral",
+          "La extinción pactada entre la Administración y el titular",
+          "Una causa aplicable únicamente a las autorizaciones",
+          "Un supuesto de nulidad de pleno derecho del título"
+        ],
+        "correcta": 1,
+        "explicacion": "El mutuo acuerdo constituye una causa de extinción consensuada entre la Administración titular del bien y el titular del derecho de uso, distinta de la revocación unilateral (que por definición no requiere acuerdo) y aplicable tanto a autorizaciones como a concesiones.",
+        "parte": 2,
+        "id": "tema-30-q108"
+      },
+      {
+        "enunciado": "La explotación de bienes y derechos patrimoniales de la AGE susceptibles de aprovechamiento rentable, cuando el plazo de explotación sea superior a un año, será acordada por:",
+        "opciones": [
+          "El Director General del Patrimonio del Estado, sin propuesta previa",
+          "El Consejo de Ministros en todo caso",
+          "El Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado",
+          "El presidente del organismo público titular, sin excepción"
+        ],
+        "correcta": 2,
+        "explicacion": "Cuando el plazo de explotación excede de un año, la competencia corresponde al Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado. Si el plazo inicial no excede de un año, la competencia desciende al Director General del Patrimonio del Estado.",
+        "parte": 2,
+        "id": "tema-30-q109"
+      },
+      {
+        "enunciado": "Si el plazo inicial de explotación de un bien patrimonial no excede de un año, la competencia para acordarla corresponde a:",
+        "opciones": [
+          "El Director General del Patrimonio del Estado",
+          "El Ministro de Hacienda",
+          "El Consejo de Ministros",
+          "La Abogacía del Estado"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP desconcentra la competencia hacia el Director General del Patrimonio del Estado cuando el plazo inicial de explotación no supera el año, reservando al Ministro de Hacienda los plazos superiores a un año. Este criterio temporal es clave para distinguir ambos niveles competenciales.",
+        "parte": 2,
+        "id": "tema-30-q110"
+      },
+      {
+        "enunciado": "¿Qué régimen se aplica a la atribución del uso de bienes o derechos patrimoniales por plazo inferior a 30 días o para la organización de eventos como conferencias o seminarios?",
+        "opciones": [
+          "Se sujeta al mismo régimen que las explotaciones de más de un año",
+          "Requiere siempre acuerdo del Consejo de Ministros",
+          "Requiere concurso público obligatorio",
+          "No se sujeta a los requisitos generales de competencia y procedimiento de explotación"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP exceptúa de los requisitos generales (competencia del Ministro de Hacienda o del Director General, procedimiento de concurso, etc.) la atribución de uso por plazos inferiores a treinta días o destinada a eventos puntuales como conferencias, seminarios o presentaciones. Es una excepción práctica pensada para usos esporádicos de escasa entidad.",
+        "parte": 2,
+        "id": "tema-30-q111"
+      },
+      {
+        "enunciado": "¿Cuál es la duración máxima de los contratos para la explotación de bienes y derechos patrimoniales, incluidas las prórrogas, salvo causas excepcionales justificadas?",
+        "opciones": [
+          "Setenta y cinco años",
+          "Veinte años",
+          "Cuatro años",
+          "Diez años"
+        ],
+        "correcta": 1,
+        "explicacion": "El límite general es de veinte años, incluidas las prórrogas, salvo causas excepcionales debidamente justificadas que permitan superarlo. No debe confundirse con los setenta y cinco años de las concesiones demaniales ni con los cuatro años de las autorizaciones demaniales.",
+        "parte": 2,
+        "id": "tema-30-q112"
+      },
+      {
+        "enunciado": "Los contratos de arrendamiento con opción de compra sobre inmuebles del Patrimonio del Estado se sujetan a:",
+        "opciones": [
+          "Las normas generales de explotación de bienes demaniales",
+          "Un régimen libre, sin sujeción a norma alguna",
+          "Las mismas normas de competencia y procedimiento aplicables a las enajenaciones",
+          "Las normas aplicables exclusivamente a las concesiones demaniales"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP remite el arrendamiento con opción de compra (operación tipo leaseback) al régimen de competencia y procedimiento propio de las enajenaciones de inmuebles, materia desarrollada con mayor detalle en el Tema 31. No sigue, por tanto, el régimen de explotación ordinaria ni el de bienes demaniales.",
+        "parte": 2,
+        "id": "tema-30-q113"
+      },
+      {
+        "enunciado": "Los contratos para la explotación de bienes y derechos patrimoniales se adjudicarán, con carácter general, por:",
+        "opciones": [
+          "Concurso, seleccionando la oferta más ventajosa",
+          "Subasta al mejor postor exclusivamente",
+          "Adjudicación directa, salvo que proceda el concurso",
+          "Sorteo entre los interesados"
+        ],
+        "correcta": 0,
+        "explicacion": "La regla general es la adjudicación por concurso, valorando la oferta más ventajosa, y solo excepcionalmente, cuando concurra alguno de los supuestos tasados, cabe la adjudicación directa. Esto invierte la regla y la excepción que proponen otras opciones.",
+        "parte": 2,
+        "id": "tema-30-q114"
+      },
+      {
+        "enunciado": "Señale cuál NO es uno de los supuestos que permiten la adjudicación directa de un contrato de explotación de bienes patrimoniales:",
+        "opciones": [
+          "Las peculiaridades del bien",
+          "La limitación de la demanda",
+          "La urgencia resultante de acontecimientos imprevisibles",
+          "La mayor rentabilidad económica ofrecida por un único licitador"
+        ],
+        "correcta": 3,
+        "explicacion": "Los cuatro supuestos legales de adjudicación directa son las peculiaridades del bien, la limitación de la demanda, la urgencia por acontecimientos imprevisibles y la singularidad de la operación; la mera mayor rentabilidad ofrecida por un licitador no figura entre ellos y, de hecho, es precisamente lo que debe valorarse en el concurso.",
+        "parte": 2,
+        "id": "tema-30-q115"
+      },
+      {
+        "enunciado": "Las circunstancias que determinan la adjudicación directa de un contrato de explotación de bienes patrimoniales deben:",
+        "opciones": [
+          "Ser aprobadas previamente por el Consejo de Ministros",
+          "Justificarse suficientemente en el expediente",
+          "Publicarse en el BOE con quince días de antelación",
+          "Contar con el visto bueno del Tribunal de Cuentas"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP exige que las circunstancias determinantes de la adjudicación directa queden suficientemente justificadas en el expediente administrativo, como garantía frente al uso abusivo de esta vía excepcional, sin exigir aprobación previa del Consejo de Ministros ni del Tribunal de Cuentas.",
+        "parte": 2,
+        "id": "tema-30-q116"
+      },
+      {
+        "enunciado": "Las bases del concurso o las condiciones de explotación de bienes patrimoniales deben someterse a previo informe de:",
+        "opciones": [
+          "El Tribunal de Cuentas",
+          "La Abogacía del Estado u órgano equivalente de asesoramiento jurídico",
+          "La Intervención General de la Administración del Estado exclusivamente",
+          "El Consejo de Estado con carácter preceptivo"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP exige el informe previo de la Abogacía del Estado o del órgano al que corresponda el asesoramiento jurídico de las entidades públicas vinculadas a la AGE, como garantía de legalidad de las bases o condiciones de explotación. No se exige, para este trámite, informe del Tribunal de Cuentas ni del Consejo de Estado.",
+        "parte": 2,
+        "id": "tema-30-q117"
+      },
+      {
+        "enunciado": "A petición del adjudicatario, el contrato de explotación de bienes patrimoniales podrá prorrogarse por un plazo que:",
+        "opciones": [
+          "No podrá exceder de la mitad del plazo inicial",
+          "No podrá exceder del plazo inicial completo",
+          "Será siempre de cinco años adicionales",
+          "Quedará fijado discrecionalmente sin límite legal"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP limita la prórroga, a petición del adjudicatario y cuando el resultado de la explotación lo haga aconsejable, a un máximo de la mitad del plazo inicialmente pactado. No se trata de una prórroga igual al plazo inicial ni de un plazo fijo de cinco años.",
+        "parte": 2,
+        "id": "tema-30-q118"
+      },
+      {
+        "enunciado": "¿Es posible que un tercero se subrogue en los derechos y obligaciones del adjudicatario de un contrato de explotación de bienes patrimoniales?",
+        "opciones": [
+          "No, está expresamente prohibido por la LPAP",
+          "Sí, pero solo mediante nuevo concurso público",
+          "Sí, sin necesidad de autorización ni comunicación alguna",
+          "Sí, siempre que medie autorización expresa del órgano competente para adjudicar el contrato"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP admite la subrogación de un tercero en los derechos y obligaciones del adjudicatario del contrato de explotación, pero exige para ello la autorización expresa del órgano competente para adjudicar el contrato, no bastando la mera comunicación ni resultando necesario abrir un nuevo concurso.",
+        "parte": 2,
+        "id": "tema-30-q119"
+      },
+      {
+        "enunciado": "Las rentas, frutos o percepciones de cualquier clase producidos por los bienes patrimoniales de la Administración General del Estado se ingresarán en:",
+        "opciones": [
+          "El patrimonio del organismo público gestor, sin excepción",
+          "El Tesoro Público",
+          "Un fondo específico de reinversión en el propio bien",
+          "La Dirección General del Patrimonio del Estado, en concepto de tasa"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP establece que las rentas, frutos o percepciones de cualquier clase o naturaleza generados por los bienes patrimoniales de la AGE se ingresan en el Tesoro Público, como regla general de unidad de caja, sin perjuicio de las excepciones que puedan establecerse para organismos públicos con patrimonio propio.",
+        "parte": 2,
+        "id": "tema-30-q120"
+      },
+      {
+        "enunciado": "Un ayuntamiento autoriza a un bar la instalación de una terraza con mesas y sombrillas desmontables en la vía pública durante 2 años. Transcurrido ese plazo, el bar solicita instalar una estructura fija de madera anclada al suelo por un periodo de 6 años. ¿Qué título habilitante corresponde a cada situación, respectivamente?",
+        "opciones": [
+          "Autorización en ambos casos, pues la naturaleza desmontable o fija de la instalación es irrelevante a efectos del título habilitante.",
+          "Autorización para la terraza desmontable de 2 años; concesión para la estructura fija de 6 años, al concurrir una instalación fija y superarse además el plazo de 4 años.",
+          "Concesión en ambos casos, ya que toda explotación lucrativa de dominio público por un particular exige necesariamente concesión.",
+          "Autorización en los dos supuestos, siempre que se respete el plazo máximo de cuatro años, prorrogable hasta ese límite."
+        ],
+        "correcta": 1,
+        "explicacion": "El uso privativo mediante instalaciones desmontables se sujeta a autorización, salvo que la ocupación exceda de cuatro años o se realice con obras o instalaciones fijas, supuestos en los que corresponde concesión. La estructura fija de 6 años incurre en ambas circunstancias que exigen concesión, mientras que la terraza desmontable de 2 años cumple los requisitos propios de la autorización.",
+        "nivel": "avanzado",
+        "id": "tema-30-q121"
+      },
+      {
+        "enunciado": "Durante las fiestas patronales, un ayuntamiento permite instalar en una plaza, durante 10 días, una noria y puestos de feria desmontables, sin que ello impida el paso de los viandantes por el resto de la plaza. En esa misma plaza existe, además, un kiosko de prensa instalado de forma permanente que ocupa en exclusiva una porción del suelo. ¿Cómo se califican respectivamente ambas situaciones?",
+        "opciones": [
+          "Ambas constituyen uso privativo, pues las dos requieren autorización previa.",
+          "La feria es un aprovechamiento especial (intensifica el uso sin excluirlo totalmente) y el kiosko es un uso privativo (ocupa en exclusiva una porción del dominio público excluyendo a terceros).",
+          "La feria es uso privativo por su carácter oneroso, y el kiosko es aprovechamiento especial por tratarse de una instalación permanente.",
+          "Ambas son reservas demaniales, al limitar la Administración el uso general del bien en favor de terceros."
+        ],
+        "correcta": 1,
+        "explicacion": "El aprovechamiento especial no impide el uso común, aunque suponga una intensidad o rentabilidad que excede del uso ordinario; es el caso de la feria, que no excluye el paso por el resto de la plaza. El uso privativo, en cambio, limita o excluye la utilización por otros interesados al ocupar en exclusiva una porción del bien, como ocurre con el kiosko, ejemplo expresamente citado en la regulación.",
+        "nivel": "avanzado",
+        "id": "tema-30-q122"
+      },
+      {
+        "enunciado": "Un Ministerio pretende destinar con carácter exclusivo, por razones de interés general, un conjunto de terrenos de dominio público que venían siendo usados libremente por los ciudadanos. ¿Cuál de las siguientes afirmaciones sobre esta reserva demanial es INCORRECTA?",
+        "opciones": [
+          "Debe acordarse por el Consejo de Ministros y publicarse en el BOE.",
+          "Debe inscribirse en el Registro de la Propiedad.",
+          "Su duración puede ser indefinida, pues al no tratarse de un título habilitante en sentido propio no está sujeta a plazo alguno.",
+          "Lleva implícita la declaración de utilidad pública y la necesidad de ocupación, a efectos expropiatorios, de los derechos preexistentes incompatibles con ella."
+        ],
+        "correcta": 2,
+        "explicacion": "La reserva demanial se limitará al tiempo necesario para el cumplimiento de los fines para los que se acordó, por lo que no puede ser indefinida. Las demás afirmaciones son correctas: requiere acuerdo del Consejo de Ministros con publicación en el BOE e inscripción registral, y lleva implícita la declaración de utilidad pública y necesidad de ocupación expropiatoria.",
+        "nivel": "avanzado",
+        "id": "tema-30-q123"
+      },
+      {
+        "enunciado": "Un vecino coloca una valla fija de forma permanente alrededor de un banco en un parque público para 'reservárselo', alegando que fue el primero en utilizarlo de forma habitual. ¿Qué principio del uso común invoca erróneamente, y por qué no le ampara?",
+        "opciones": [
+          "Invoca la prioridad temporal, pero este principio solo protege la preferencia en el uso simultáneo o sucesivo, no permite excluir permanentemente a los demás, lo que además vulnera el principio de compatibilidad.",
+          "Invoca la indemnidad, que efectivamente le permite apropiarse del bien siempre que no le cause daños físicos.",
+          "Invoca la ordenación, que faculta a cualquier particular a regular por sí mismo el uso del dominio público ante la inactividad administrativa.",
+          "Invoca la compatibilidad, que permite el uso exclusivo de un bien cuando este se ha utilizado de forma reiterada en el tiempo."
+        ],
+        "correcta": 0,
+        "explicacion": "La prioridad temporal respeta la preferencia del usuario anterior frente a otros usos simultáneos, pero no autoriza la apropiación excluyente y permanente del bien, lo que a su vez infringe el principio de compatibilidad (el uso de uno no debe impedir el de los demás). La indemnidad se refiere a no dañar el bien, no a apropiárselo, y la ordenación es una potestad administrativa, no particular.",
+        "nivel": "avanzado",
+        "id": "tema-30-q124"
+      },
+      {
+        "enunciado": "Un organismo público desea instalar, dentro de la sede de sus oficinas, un cajero automático anclado de forma fija a la pared para el servicio de su personal. ¿Qué título resulta adecuado conforme al régimen de ocupación de espacios en edificios administrativos?",
+        "opciones": [
+          "Una concesión, al tratarse de una instalación fija, sin perjuicio de que también pudiera formalizarse mediante un contrato ajustado a la legislación de contratos del sector público.",
+          "Necesariamente una autorización, pues los servicios bancarios destinados al personal se consideran siempre bienes muebles.",
+          "Una reserva demanial, dado que se trata de dar soporte a un servicio dirigido al personal destinado en el edificio.",
+          "El uso común, ya que la instalación no impide la utilización del edificio por los órganos alojados en él."
+        ],
+        "correcta": 0,
+        "explicacion": "La ocupación de espacios en edificios administrativos ha de estar amparada por autorización si se efectúa con bienes muebles o instalaciones desmontables, por concesión si se produce mediante instalaciones fijas, o por un contrato ajustado a la legislación de contratos públicos. Un cajero anclado de forma fija encaja en el supuesto de instalación fija, por lo que corresponde concesión o, alternativamente, contrato.",
+        "nivel": "avanzado",
+        "id": "tema-30-q125"
+      },
+      {
+        "enunciado": "Una autorización para prestar servicio en una parada de taxis se otorgó tras valorar las circunstancias personales y la aptitud profesional del solicitante. Años después, el titular desea transmitirla a un tercero junto con la venta de su negocio. ¿Es ello posible conforme al artículo 92 de la LPAP?",
+        "opciones": [
+          "Sí, siempre, porque todas las autorizaciones demaniales son transmisibles salvo prohibición expresa.",
+          "No, salvo que las condiciones por las que se rige la autorización admitan expresamente su transmisión, pues se otorgó en atención a circunstancias personales del autorizado.",
+          "Sí, pero únicamente si en su otorgamiento inicial medió un procedimiento de concurrencia.",
+          "No, en ningún caso, pues las autorizaciones demaniales son siempre intransmisibles por su propia naturaleza."
+        ],
+        "correcta": 1,
+        "explicacion": "No serán transmisibles las autorizaciones otorgadas en atención a circunstancias personales del autorizado o cuyo número se encuentre limitado, salvo que las condiciones por las que se rigen admitan expresamente su transmisión. No existe una regla absoluta de intransmisibilidad: la excepción pactada en las condiciones es posible.",
+        "nivel": "avanzado",
+        "id": "tema-30-q126"
+      },
+      {
+        "enunciado": "Se otorgó una autorización demanial por un plazo inicial de 3 años. Transcurrido este, el titular solicita una prórroga de 3 años adicionales. ¿Cuál es la respuesta correcta conforme a la LPAP?",
+        "opciones": [
+          "Puede concederse íntegramente, pues las prórrogas de las autorizaciones no están sujetas a límite temporal alguno.",
+          "Solo puede concederse una prórroga de hasta 1 año, ya que el plazo máximo de las autorizaciones, incluidas las prórrogas, es de 4 años.",
+          "Puede concederse hasta 75 años, límite aplicable también a las autorizaciones, igual que a las concesiones.",
+          "No cabe ninguna prórroga, pues las autorizaciones son siempre por plazo fijo e improrrogable."
+        ],
+        "correcta": 1,
+        "explicacion": "Las autorizaciones han de otorgarse por tiempo determinado, siendo su plazo máximo de duración, incluidas las prórrogas, de cuatro años. Como ya se consumieron 3 años, solo cabe una prórroga adicional de hasta 1 año para no superar ese tope, que no debe confundirse con el límite de 75 años propio de las concesiones.",
+        "nivel": "avanzado",
+        "id": "tema-30-q127"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes afirmaciones expresa correctamente la diferencia, en materia de indemnización, entre la extinción de una concesión demanial por rescate y la extinción de una autorización demanial por revocación unilateral?",
+        "opciones": [
+          "El rescate de la concesión exige indemnización previa al concesionario, mientras que la revocación unilateral de la autorización por razones de interés público no genera derecho a indemnización.",
+          "Ambas figuras generan siempre derecho a indemnización, al suponer la pérdida anticipada del título por decisión administrativa.",
+          "Ninguna de las dos genera derecho a indemnización, al tratarse de potestades exorbitantes de la Administración sobre el dominio público.",
+          "La revocación de la autorización exige indemnización previa, mientras que el rescate de la concesión nunca la genera, por tratarse de un bien de titularidad pública."
+        ],
+        "correcta": 0,
+        "explicacion": "La propia LPAP distingue ambas figuras al enumerar las causas de extinción: el rescate de la concesión se produce 'previa indemnización', mientras que la revocación unilateral de la autorización por razones de interés público se realiza expresamente 'sin generar derecho a indemnización'. Es un matiz muy fino que suele confundirse por tratarse ambas de decisiones unilaterales de la Administración.",
+        "nivel": "avanzado",
+        "id": "tema-30-q128"
+      },
+      {
+        "enunciado": "Una autorización para la instalación de una terraza se revoca unilateralmente por el Ayuntamiento al comprobarse que, aunque no causa daño físico alguno al pavimento, dificulta sensiblemente el paso de los peatones por la acera. ¿En cuál de las causas legales de revocación del artículo 92 LPAP encaja este supuesto?",
+        "opciones": [
+          "Producción de daños en el dominio público.",
+          "Incompatibilidad con condiciones generales aprobadas con posterioridad.",
+          "Menoscabo del uso general del bien.",
+          "Impedir la utilización del bien para actividades de mayor interés público."
+        ],
+        "correcta": 2,
+        "explicacion": "El supuesto descrito no implica daño físico al bien (lo que excluye la primera causa), ni deriva de un cambio normativo posterior ni de la necesidad de destinar el bien a otra actividad de mayor interés público, sino de la afectación al disfrute general del espacio por los demás ciudadanos, que es precisamente el menoscabo del uso general.",
+        "nivel": "avanzado",
+        "id": "tema-30-q129"
+      },
+      {
+        "enunciado": "Un particular obtiene una concesión demanial sin incurrir en ninguna prohibición de contratar. Tres años después resulta condenado por un delito que determina su inclusión sobrevenida en una de las prohibiciones de contratar del texto refundido de la Ley de Contratos de las Administraciones Públicas. ¿Qué efecto tiene esta circunstancia sobre la concesión ya otorgada?",
+        "opciones": [
+          "Ninguno, pues las prohibiciones de contratar solo operan como causa de denegación en el momento del otorgamiento, no afectan a concesiones ya vigentes.",
+          "Determina la extinción de la concesión, ya que la incursión sobrevenida en una prohibición de contratar es causa legal de extinción.",
+          "Determina únicamente la suspensión temporal de la concesión hasta que desaparezca la causa de prohibición.",
+          "Obliga a la Administración a transmitir la concesión a un tercero que no esté afectado por dicha prohibición."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP dispone expresamente que cuando, con posterioridad al otorgamiento de la concesión, el titular incurra en alguna de las prohibiciones de contratar, se producirá la extinción de la concesión. No se trata, por tanto, de un mero requisito inicial, sino de una causa de extinción sobrevenida.",
+        "nivel": "avanzado",
+        "id": "tema-30-q130"
+      },
+      {
+        "enunciado": "Respecto a la regla general de otorgamiento de autorizaciones y concesiones demaniales, señale la afirmación correcta:",
+        "opciones": [
+          "En ambos casos la regla general es la concurrencia, admitiéndose el otorgamiento directo solo excepcionalmente.",
+          "Las autorizaciones se otorgan, como regla general, directamente a quienes reúnan las condiciones exigidas (salvo limitación de número, en cuyo caso procede concurrencia o sorteo); las concesiones, en cambio, se otorgan como regla general en régimen de concurrencia, siendo el otorgamiento directo la excepción.",
+          "Las concesiones se otorgan siempre de forma directa, mientras que las autorizaciones exigen siempre concurrencia, al tratarse de un título de menor duración.",
+          "Tanto autorizaciones como concesiones se otorgan siempre mediante sorteo cuando concurra más de un solicitante."
+        ],
+        "correcta": 1,
+        "explicacion": "El esquema es inverso según el título: las autorizaciones se otorgan directamente a los peticionarios que reúnan las condiciones, recurriendo a la concurrencia (y, en su defecto, al sorteo) solo si su número está limitado; las concesiones, por el contrario, se otorgan en régimen de concurrencia como regla general, admitiéndose el otorgamiento directo únicamente en los supuestos tasados del artículo 137.4 u otros previstos legalmente.",
+        "nivel": "avanzado",
+        "id": "tema-30-q131"
+      },
+      {
+        "enunciado": "Una entidad sin ánimo de lucro obtiene una autorización para la ocupación privativa de un local de dominio público con el fin de desarrollar una actividad asistencial gratuita para colectivos vulnerables, sin obtener contraprestación económica alguna. ¿Está sujeta dicha ocupación a la tasa por utilización privativa o aprovechamiento especial de bienes de dominio público estatal?",
+        "opciones": [
+          "Sí, siempre, porque toda ocupación privativa de dominio público genera el hecho imponible de la tasa con independencia de la existencia de utilidad económica.",
+          "No, porque la utilización privativa no lleva aparejada utilidad económica alguna para la persona autorizada, lo que excluye la sujeción a la tasa.",
+          "Sí, pero con una reducción del 50% por tratarse de una entidad sin ánimo de lucro.",
+          "No, pero únicamente si la entidad autorizada es, a su vez, de titularidad pública."
+        ],
+        "correcta": 1,
+        "explicacion": "La Ley 25/1998 excluye de la sujeción a la tasa aquellos supuestos en que la utilización privativa o el aprovechamiento especial no lleven aparejada una utilidad económica para el autorizado. No existe reducción del 50% ni se exige que la entidad sea pública; basta con la ausencia de utilidad económica real.",
+        "nivel": "avanzado",
+        "id": "tema-30-q132"
+      },
+      {
+        "enunciado": "Una empresa obtiene una concesión para explotar un restaurante en un edificio público, obteniendo ingresos por ello, pero asume como contraprestación la obligación de sufragar íntegramente la restauración y mantenimiento del edificio histórico, de un coste equivalente o superior a los ingresos obtenidos. ¿Está sujeta esta concesión a la tasa correspondiente?",
+        "opciones": [
+          "Sí, porque existe utilidad económica derivada de la explotación del restaurante, sin que las obligaciones asumidas afecten a la sujeción a la tasa.",
+          "No necesariamente, pues aunque exista utilidad económica, si las contraprestaciones impuestas al beneficiario anulan o hacen irrelevante dicha utilidad, no existe sujeción a la tasa.",
+          "Sí, siempre, al tratarse de una concesión onerosa sujeta por definición a tasa.",
+          "No, porque las concesiones, a diferencia de las autorizaciones, nunca están sujetas a tasas."
+        ],
+        "correcta": 1,
+        "explicacion": "La norma contempla expresamente que no existe sujeción a la tasa no solo cuando falta utilidad económica, sino también cuando, aun existiendo esta, las condiciones o contraprestaciones impuestas al beneficiario anulen o hagan irrelevante dicha utilidad. El supuesto descrito encaja en este segundo matiz, mucho menos conocido que el primero.",
+        "nivel": "avanzado",
+        "id": "tema-30-q133"
+      },
+      {
+        "enunciado": "En un procedimiento de otorgamiento de una concesión demanial iniciado de oficio mediante convocatoria publicada en el BOE, los interesados disponen de un plazo de ___ para presentar sus peticiones, y la Administración debe resolver en un plazo máximo de ___, entendiéndose, de no hacerlo, ___.",
+        "opciones": [
+          "15 días; 3 meses; concedida la concesión por silencio administrativo positivo.",
+          "30 días; 6 meses; desestimada la solicitud por silencio administrativo negativo.",
+          "1 mes; 1 año; que debe reiniciarse de oficio el procedimiento.",
+          "30 días; 3 meses; concedida la concesión al primer solicitante en presentar su petición."
+        ],
+        "correcta": 1,
+        "explicacion": "Los interesados disponen de un plazo de treinta días para presentar sus peticiones tras la convocatoria, el plazo máximo para resolver el procedimiento es de seis meses, y la falta de notificación de resolución en ese plazo permite considerar desestimada la solicitud, es decir, silencio negativo.",
+        "nivel": "avanzado",
+        "id": "tema-30-q134"
+      },
+      {
+        "enunciado": "Un Ministerio distinto de Hacienda, titular de un bien demanial, pretende establecer las condiciones particulares para el otorgamiento de concesiones sobre dicho bien, al no existir condiciones generales aprobadas. ¿Qué trámite resulta imprescindible, y qué naturaleza tiene?",
+        "opciones": [
+          "El informe previo del Ministerio de Hacienda, que es meramente facultativo y no vinculante.",
+          "El informe previo favorable del Ministro de Hacienda, que tiene carácter preceptivo y vinculante.",
+          "La aprobación del Consejo de Ministros, al afectar a bienes de dominio público estatal.",
+          "Ningún trámite adicional, pues cada Ministerio es competente para fijar sus propias condiciones sin intervención de Hacienda."
+        ],
+        "correcta": 1,
+        "explicacion": "En defecto de condiciones generales, las concesiones y autorizaciones se ajustarán a las condiciones que establezca el Ministro titular del departamento al que se afecten los bienes, requiriéndose en todo caso informe previo favorable del Ministro de Hacienda, que es preceptivo y vinculante, no meramente facultativo.",
+        "nivel": "avanzado",
+        "id": "tema-30-q135"
+      },
+      {
+        "enunciado": "Entre las condiciones generales que puede aprobar el Ministro de Hacienda para el otorgamiento de categorías determinadas de concesiones y autorizaciones, la LPAP contempla expresamente la posibilidad de imponer al titular:",
+        "opciones": [
+          "La obligación de residir en el municipio donde se ubique el bien demanial.",
+          "Obligaciones accesorias, tales como la adquisición de valores.",
+          "La obligación de contratar un seguro de responsabilidad civil ilimitada.",
+          "La obligación de ceder gratuitamente a la Administración la mitad de los beneficios obtenidos."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP menciona de forma expresa, entre las condiciones generales aprobables, la posibilidad de imponer al titular obligaciones accesorias, citando como ejemplo la adquisición de valores. Las demás opciones son plausibles pero no figuran en el texto legal.",
+        "nivel": "avanzado",
+        "id": "tema-30-q136"
+      },
+      {
+        "enunciado": "Una sociedad concesionaria de un bien demanial es absorbida por otra sociedad, sin que se solicitara ni obtuviera autorización administrativa previa para dicha operación. ¿Qué consecuencia tiene esto sobre la concesión?",
+        "opciones": [
+          "Ninguna, pues las operaciones de reestructuración societaria no afectan a la titularidad de las concesiones demaniales.",
+          "Determina la extinción de la concesión, al constituir la falta de autorización previa en supuestos de fusión, absorción o escisión de la personalidad jurídica del concesionario una causa legal de extinción.",
+          "Determina automáticamente la caducidad de la concesión por vencimiento anticipado del plazo.",
+          "Obliga a la sociedad absorbente a solicitar una nueva concesión mediante concurrencia, manteniéndose vigente la anterior mientras tanto."
+        ],
+        "correcta": 1,
+        "explicacion": "Entre las causas de extinción de concesiones y autorizaciones demaniales figura expresamente la falta de autorización previa en los supuestos de transmisión o modificación, por fusión, absorción o escisión, de la personalidad jurídica del usuario o concesionario, distinta de la caducidad por vencimiento del plazo.",
+        "nivel": "avanzado",
+        "id": "tema-30-q137"
+      },
+      {
+        "enunciado": "Un organismo público autónomo es propietario (no mero adscriptario) de un inmueble patrimonial y decide explotarlo mediante arrendamiento durante 5 años. ¿A quién corresponde acordar la forma de explotación?",
+        "opciones": [
+          "Al Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado, por superar el plazo de un año.",
+          "Al presidente o director del propio organismo público, por tratarse de un bien de su propiedad, con independencia del plazo de explotación.",
+          "Al Director General del Patrimonio del Estado, por no alcanzar los 75 años de plazo máximo de las concesiones demaniales.",
+          "Al Consejo de Ministros, al tratarse de un acto de explotación patrimonial de especial relevancia."
+        ],
+        "correcta": 1,
+        "explicacion": "La regla que distribuye la competencia entre el Ministro de Hacienda (más de un año) y el Director General del Patrimonio del Estado (un año o menos) opera para los bienes patrimoniales de la Administración General del Estado; sin embargo, cuando el bien es propiedad de un organismo público, son sus propios presidentes o directores quienes determinan la forma de explotación, sin sujeción a ese criterio temporal.",
+        "nivel": "avanzado",
+        "id": "tema-30-q138"
+      },
+      {
+        "enunciado": "Un Ministerio cede el uso de un salón de actos de su patrimonio a una empresa para la celebración de un seminario de 3 días de duración. ¿Resulta exigible el procedimiento y los requisitos de competencia generales previstos para la explotación de bienes patrimoniales (Ministro de Hacienda o Director General del Patrimonio, según el plazo)?",
+        "opciones": [
+          "Sí, siempre que medie contraprestación económica por el uso del salón.",
+          "No, pues la atribución del uso de bienes o derechos patrimoniales por plazo inferior a 30 días, o para la organización de conferencias, seminarios, presentaciones u otros eventos, queda excluida de esos requisitos.",
+          "Sí, porque solo se exceptúan de dichos requisitos las cesiones gratuitas, no las onerosas.",
+          "No, pero únicamente si el seminario tiene carácter académico u oficial."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP excluye expresamente de los requisitos generales de competencia y procedimiento la atribución del uso de bienes o derechos patrimoniales por plazo inferior a 30 días o destinada a la organización de conferencias, seminarios, presentaciones u otros eventos, sin condicionar esta excepción a la gratuidad ni al carácter oficial del evento.",
+        "nivel": "avanzado",
+        "id": "tema-30-q139"
+      },
+      {
+        "enunciado": "Ordene correctamente, de menor a mayor, los plazos máximos de duración (incluidas las prórrogas) previstos con carácter general en la LPAP para: (I) las autorizaciones demaniales, (II) los contratos de explotación de bienes patrimoniales, y (III) las concesiones demaniales.",
+        "opciones": [
+          "I (4 años) < II (20 años) < III (75 años).",
+          "I (10 años) < II (20 años) < III (50 años).",
+          "II (4 años) < I (20 años) < III (75 años).",
+          "I (4 años) < III (20 años) < II (75 años)."
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP fija, salvo excepciones justificadas en algún caso, un máximo de 4 años para las autorizaciones demaniales, 75 años para las concesiones demaniales y 20 años para los contratos de explotación de bienes patrimoniales, todos ellos computados incluyendo las prórrogas.",
+        "nivel": "avanzado",
+        "id": "tema-30-q140"
+      },
+      {
+        "enunciado": "Una Administración plantea concertar un contrato de arrendamiento con opción de compra sobre un inmueble de su patrimonio con un tercero. ¿A qué régimen de competencia y procedimiento queda sujeta esta operación?",
+        "opciones": [
+          "Al régimen general de explotación de bienes patrimoniales, con el límite máximo de 20 años de duración.",
+          "Al mismo régimen de competencia y procedimiento aplicable a las enajenaciones de bienes patrimoniales, no al de su mera explotación.",
+          "Al régimen de las concesiones demaniales, con un plazo máximo de 75 años.",
+          "Queda excluida de cualquier régimen especial, rigiéndose exclusivamente por el Derecho civil común."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP contempla expresamente la posibilidad de concertar arrendamientos con opción de compra sobre inmuebles patrimoniales, pero precisa que quedan sujetos a las mismas normas de competencia y procedimiento aplicables a las enajenaciones, y no al régimen ordinario de explotación (concurso, límite de 20 años, etc.), por el efecto traslativo final que implica la opción de compra.",
+        "nivel": "avanzado",
+        "id": "tema-30-q141"
+      },
+      {
+        "enunciado": "La Administración necesita adjudicar con extrema urgencia la explotación temporal de un local patrimonial, inutilizable para los servicios administrativos a raíz de una inundación imprevista ocurrida la semana anterior, debiendo resolverse la situación de inmediato. ¿Cabe la adjudicación directa, y en virtud de qué causa legal?",
+        "opciones": [
+          "No cabe, pues el concurso es inexcusable para cualquier explotación de bienes patrimoniales.",
+          "Sí, por razón de la singularidad de la operación, al tratarse de un supuesto excepcional e irrepetible.",
+          "Sí, por la urgencia resultante de acontecimientos imprevisibles, una de las causas legales que permite excepcionar el concurso, debiendo justificarse suficientemente en el expediente.",
+          "Sí, pero únicamente si media autorización previa del Consejo de Ministros para cada caso de urgencia."
+        ],
+        "correcta": 2,
+        "explicacion": "Entre las causas que permiten excepcionar el concurso como regla general de adjudicación figura expresamente la urgencia resultante de acontecimientos imprevisibles, distinta de la singularidad de la operación (que alude más bien a características objetivas poco frecuentes del negocio, no a la premura temporal). En todo caso, las circunstancias deben justificarse suficientemente en el expediente.",
+        "nivel": "avanzado",
+        "id": "tema-30-q142"
+      },
+      {
+        "enunciado": "Un contrato de explotación de un bien patrimonial se adjudicó por un plazo inicial de 10 años. El adjudicatario solicita una prórroga, alegando que el resultado de la explotación la hace aconsejable. ¿Cuál es el plazo máximo de dicha prórroga, y quién puede instarla?",
+        "opciones": [
+          "Hasta 10 años más, pudiendo instarla de oficio la Administración o a petición del adjudicatario.",
+          "Hasta 5 años (la mitad del plazo inicial), y únicamente a petición del adjudicatario.",
+          "Hasta 20 años, límite absoluto de duración total del contrato incluidas las prórrogas, sin que importe el plazo inicial pactado.",
+          "No cabe prórroga alguna en los contratos de explotación de bienes patrimoniales, a diferencia de las concesiones demaniales."
+        ],
+        "correcta": 1,
+        "explicacion": "La prórroga de los contratos de explotación de bienes patrimoniales solo puede acordarse a petición del adjudicatario, y su plazo no puede exceder de la mitad del plazo inicial, siempre que el resultado de la explotación lo haga aconsejable; por tanto, con un plazo inicial de 10 años, el máximo de prórroga es de 5 años.",
+        "nivel": "avanzado",
+        "id": "tema-30-q143"
+      },
+      {
+        "enunciado": "El adjudicatario de un contrato de explotación de un bien patrimonial desea que un tercero se subrogue en sus derechos y obligaciones derivados del contrato. ¿Es esto posible, y bajo qué condición?",
+        "opciones": [
+          "No es posible en ningún caso, pues los contratos de explotación de bienes patrimoniales son intransmisibles por naturaleza.",
+          "Sí es posible, pero requiere la autorización expresa del órgano competente para adjudicar el contrato.",
+          "Sí es posible libremente, bastando la mera comunicación a la Administración sin necesidad de autorización.",
+          "Sí es posible, pero solo una vez transcurrida la mitad del plazo contractual inicial."
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP admite la subrogación de un tercero en los derechos y obligaciones del adjudicatario de un contrato de explotación de bienes patrimoniales, pero exige para ello la autorización expresa del órgano competente para adjudicar el contrato, sin que baste la simple comunicación ni dependa de que haya transcurrido un determinado plazo.",
+        "nivel": "avanzado",
+        "id": "tema-30-q144"
+      },
+      {
+        "enunciado": "En los contratos de arrendamiento con opción de compra sobre inmuebles del Patrimonio del Estado, ¿a qué régimen de competencia y procedimiento quedan sujetos?",
+        "opciones": [
+          "A las mismas normas de competencia y procedimiento aplicables a las enajenaciones de inmuebles",
+          "Al régimen general de arrendamientos ordinarios, sin ninguna particularidad",
+          "Exclusivamente al régimen de adjudicación directa, sin posibilidad de concurso",
+          "A la legislación de contratos de las Administraciones públicas en materia de obras"
+        ],
+        "correcta": 0,
+        "explicacion": "Al margen de la explotación ordinaria de bienes patrimoniales, la LPAP permite concertar arrendamientos con opción de compra sobre inmuebles del Patrimonio del Estado, pero con sujeción a las mismas normas de competencia y procedimiento que rigen las enajenaciones, no a las del arrendamiento común.",
+        "nivel": "avanzado",
+        "id": "tema-30-q145"
+      }
+    ]
+  },
+  {
+    "id": "tema-31",
+    "bloque": "Bloque II. Derecho Administrativo",
+    "titulo": "Tema 31. Gestión patrimonial.",
+    "preguntas": [
+      {
+        "enunciado": "¿Qué título de la LPAP regula la gestión patrimonial de los bienes y derechos patrimoniales, incluyendo los negocios jurídicos sobre ellos?",
+        "opciones": [
+          "Título III",
+          "Título IV",
+          "Título V",
+          "Título VI"
+        ],
+        "correcta": 2,
+        "explicacion": "Es el Título V de la LPAP, arts. 110 y siguientes, el que regula estos negocios jurídicos sobre bienes patrimoniales. Conviene fijar bien el número de título porque suele usarse como distractor numérico.",
+        "parte": 1,
+        "id": "tema-31-q1"
+      },
+      {
+        "enunciado": "Según el art. 110 LPAP, en lo no previsto por la propia ley y sus disposiciones de desarrollo, ¿qué normativa rige la preparación y adjudicación de los contratos y negocios jurídicos sobre bienes patrimoniales?",
+        "opciones": [
+          "El derecho privado",
+          "La legislación de contratos de las Administraciones públicas",
+          "El derecho mercantil",
+          "La legislación de patrimonio de las comunidades autónomas"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no hay que confundirlo: la preparación y adjudicación remite, con carácter supletorio, a la legislación de contratos públicos. Son los efectos y la extinción los que remiten al derecho privado.",
+        "parte": 1,
+        "id": "tema-31-q2"
+      },
+      {
+        "enunciado": "Los efectos y la extinción de los contratos y negocios jurídicos patrimoniales regulados en el Título V de la LPAP se rigen por...",
+        "opciones": [
+          "la legislación de contratos públicos",
+          "la propia LPAP y las normas de derecho privado",
+          "el Código de Comercio",
+          "la Ley de Procedimiento Administrativo Común"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que ocurre en preparación y adjudicación, en esta fase se aplica la LPAP y, supletoriamente, el derecho privado, no la legislación de contratos públicos.",
+        "parte": 1,
+        "id": "tema-31-q3"
+      },
+      {
+        "enunciado": "Trampa clásica: la remisión a la legislación de contratos de las Administraciones públicas que hace el art. 110 LPAP se aplica a...",
+        "opciones": [
+          "toda la vida del contrato patrimonial",
+          "únicamente a la preparación y adjudicación, en lo no previsto por la LPAP",
+          "únicamente a la extinción del contrato",
+          "a ningún aspecto, pues todo se rige por derecho privado"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa habitual: la remisión es parcial y supletoria, limitada a la fase de preparación y adjudicación, no a toda la vida del negocio jurídico.",
+        "parte": 1,
+        "id": "tema-31-q4"
+      },
+      {
+        "enunciado": "¿Por qué normativa se rigen, con carácter prioritario, los contratos, convenios y negocios jurídicos sobre bienes y derechos patrimoniales?",
+        "opciones": [
+          "Por la legislación de contratos públicos",
+          "Por la propia LPAP y sus disposiciones de desarrollo",
+          "Por el derecho civil común",
+          "Por el reglamento de bienes de las entidades locales"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP y su normativa de desarrollo constituyen la fuente principal; solo en su defecto se acude, según la fase, a la legislación de contratos o al derecho privado.",
+        "parte": 1,
+        "id": "tema-31-q5"
+      },
+      {
+        "enunciado": "En virtud del principio de libertad de pactos, la Administración puede concertar las cláusulas y condiciones que considere convenientes para el interés público, siempre que no sean contrarias a...",
+        "opciones": [
+          "la opinión de la Intervención General",
+          "el ordenamiento jurídico o a los principios de buena administración",
+          "los intereses del contratista",
+          "el criterio exclusivo del Ministro de Hacienda"
+        ],
+        "correcta": 1,
+        "explicacion": "El límite legal de la libertad de pactos son el ordenamiento jurídico y los principios de buena administración; no es, por tanto, una libertad absoluta.",
+        "parte": 1,
+        "id": "tema-31-q6"
+      },
+      {
+        "enunciado": "¿La libertad de pactos impide establecer prestaciones accesorias en los contratos patrimoniales?",
+        "opciones": [
+          "Sí, está siempre prohibido",
+          "No, se permite si están suficientemente garantizadas",
+          "Solo si lo autoriza el Consejo de Ministros",
+          "Solo en contratos de permuta"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que podría pensarse, la LPAP admite expresamente prestaciones accesorias, exigiendo únicamente que estén suficientemente garantizadas.",
+        "parte": 1,
+        "id": "tema-31-q7"
+      },
+      {
+        "enunciado": "Los pliegos generales para determinadas categorías de contratos patrimoniales deben ser informados, con carácter previo a su aprobación, por...",
+        "opciones": [
+          "la Intervención General del Estado",
+          "la Abogacía del Estado u órgano al que corresponda el asesoramiento jurídico",
+          "el Consejo de Estado",
+          "el Tribunal de Cuentas"
+        ],
+        "correcta": 1,
+        "explicacion": "Es la Abogacía del Estado, o el órgano equivalente de asesoramiento jurídico, quien informa los pliegos generales antes de su aprobación, no la Intervención General.",
+        "parte": 1,
+        "id": "tema-31-q8"
+      },
+      {
+        "enunciado": "¿Qué órgano debe emitir la fiscalización previa obligatoria en determinados procedimientos patrimoniales, mediante informe sobre sus implicaciones presupuestarias y económico-financieras?",
+        "opciones": [
+          "La Abogacía del Estado",
+          "La Dirección General del Patrimonio del Estado",
+          "La Intervención General de la Administración del Estado",
+          "El Consejo de Ministros"
+        ],
+        "correcta": 2,
+        "explicacion": "Trampa: no es la Abogacía del Estado, que informa jurídicamente los pliegos, sino la Intervención General, encargada de fiscalizar los aspectos económico-presupuestarios.",
+        "parte": 1,
+        "id": "tema-31-q9"
+      },
+      {
+        "enunciado": "¿En cuál de los siguientes supuestos NO es obligatorio el informe previo de fiscalización de la Intervención General?",
+        "opciones": [
+          "Enajenación directa de bienes por valor superior a 1.000.000 de euros",
+          "Explotación con renta anual superior a 1.000.000 de euros",
+          "Cesión gratuita que haya de ser autorizada por el Consejo de Ministros",
+          "Arrendamiento ordinario de un inmueble por un plazo de un año"
+        ],
+        "correcta": 3,
+        "explicacion": "Los tres primeros son justamente los supuestos tasados por la ley; un arrendamiento ordinario por un año, sin otras circunstancias, no exige ese informe previo de fiscalización.",
+        "parte": 1,
+        "id": "tema-31-q10"
+      },
+      {
+        "enunciado": "El informe previo de la Intervención General es obligatorio en la permuta de bienes o derechos cuando...",
+        "opciones": [
+          "su valor supere los 500.000 euros",
+          "su valor supere el 1.000.000 de euros",
+          "lo decida discrecionalmente el Ministro de Hacienda",
+          "siempre, sin excepción alguna"
+        ],
+        "correcta": 1,
+        "explicacion": "El umbral legal, igual que en la enajenación directa de bienes, es de 1.000.000 de euros; cuidado con la cifra, que suele rebajarse en los distractores.",
+        "parte": 1,
+        "id": "tema-31-q11"
+      },
+      {
+        "enunciado": "Respecto de la cesión gratuita, el informe previo de fiscalización de la Intervención General es exigible cuando...",
+        "opciones": [
+          "la cesión se realice a favor de una comunidad autónoma",
+          "la cesión haya de ser autorizada por el Consejo de Ministros",
+          "la cesión tenga por objeto bienes muebles",
+          "en ningún caso, pues las cesiones están exentas de fiscalización"
+        ],
+        "correcta": 1,
+        "explicacion": "El supuesto legal es precisamente que la cesión requiera autorización del Consejo de Ministros, no el tipo de cesionario que la recibe.",
+        "parte": 1,
+        "id": "tema-31-q12"
+      },
+      {
+        "enunciado": "Un expediente de enajenación de un bien afectado a un servicio público puede tramitarse durante su instrucción, aunque el bien siga afectado, siempre que...",
+        "opciones": [
+          "se obtenga previamente autorización del Consejo de Ministros",
+          "se proceda a la desafectación antes de dictar la resolución o acto aprobatorio",
+          "se indemnice previamente al servicio público afectado",
+          "se publique en el BOE con un año de antelación"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: la ley no exige autorización previa del Consejo de Ministros ni indemnización, sino que la desafectación se produzca antes de resolver, no antes de iniciar la tramitación.",
+        "parte": 1,
+        "id": "tema-31-q13"
+      },
+      {
+        "enunciado": "¿Es posible iniciar la tramitación de un expediente de permuta sobre un bien todavía afectado a un uso público?",
+        "opciones": [
+          "No, la desafectación es requisito previo al inicio del expediente",
+          "Sí, siempre que se desafecte antes de dictar la resolución aprobatoria",
+          "Sí, sin ningún requisito adicional en ningún momento",
+          "No, salvo autorización de las Cortes Generales"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP permite tramitar el expediente con el bien aún afectado; lo que exige es que la desafectación sea anterior a la resolución final, no al inicio del procedimiento.",
+        "parte": 1,
+        "id": "tema-31-q14"
+      },
+      {
+        "enunciado": "Cuando un contrato patrimonial origine gastos para la AGE o sus organismos autónomos, en el expediente debe constar...",
+        "opciones": [
+          "el informe de la Abogacía del Estado exclusivamente",
+          "el certificado de existencia de crédito o documento que legalmente lo sustituya",
+          "la autorización del Tribunal de Cuentas",
+          "un aval bancario del contratista"
+        ],
+        "correcta": 1,
+        "explicacion": "Es exigible el certificado de existencia de crédito, o el documento que legalmente lo sustituya, como garantía de que hay consignación presupuestaria suficiente.",
+        "parte": 1,
+        "id": "tema-31-q15"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo de validez de las tasaciones periciales requeridas para la adquisición o el arrendamiento de inmuebles?",
+        "opciones": [
+          "Seis meses desde su aprobación",
+          "Un año desde su aprobación",
+          "Dos años desde su aprobación",
+          "Cuatro años desde su aprobación"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo con los plazos: la validez de las tasaciones es de un año desde su aprobación; no confundirlo con el plazo de dos años de los edificios en construcción ni con los cuatro años de aplazamiento de pago.",
+        "parte": 1,
+        "id": "tema-31-q16"
+      },
+      {
+        "enunciado": "Las tasaciones periciales para la adquisición o el arrendamiento de inmuebles deben aportarse por...",
+        "opciones": [
+          "la Intervención General, de oficio",
+          "el departamento interesado, en la apertura del correspondiente procedimiento",
+          "la Dirección General del Patrimonio del Estado, tras la adjudicación",
+          "el vendedor o arrendador del inmueble"
+        ],
+        "correcta": 1,
+        "explicacion": "Es el departamento interesado quien debe aportar la tasación al abrir el procedimiento correspondiente, no la Dirección General ni la otra parte del negocio.",
+        "parte": 1,
+        "id": "tema-31-q17"
+      },
+      {
+        "enunciado": "Los negocios jurídicos de adquisición o enajenación de bienes inmuebles y derechos reales deben formalizarse en...",
+        "opciones": [
+          "documento privado con dos testigos",
+          "escritura pública",
+          "acta administrativa notificada al interesado",
+          "contrato verbal ratificado por el Ministro"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP exige escritura pública para estos negocios, exigencia que también se extiende a los arrendamientos inscribibles en el Registro de la Propiedad.",
+        "parte": 1,
+        "id": "tema-31-q18"
+      },
+      {
+        "enunciado": "¿Qué orden jurisdiccional es, con carácter general, el competente para resolver las controversias entre las partes de un contrato patrimonial de la LPAP?",
+        "opciones": [
+          "El orden contencioso-administrativo, en todo caso",
+          "El orden civil, salvo los actos jurídicos separables de preparación y adjudicación, impugnables en lo contencioso-administrativo",
+          "El orden social",
+          "El orden penal"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa habitual: aunque sea la Administración quien contrata, el orden civil es la regla general, por regirse estos negocios en sus efectos por el derecho privado; los actos separables de preparación y adjudicación sí van a lo contencioso-administrativo.",
+        "parte": 1,
+        "id": "tema-31-q19"
+      },
+      {
+        "enunciado": "¿Cuántos tipos de adquisición distingue la LPAP en el capítulo II de su Título V?",
+        "opciones": [
+          "Tres",
+          "Cuatro",
+          "Cinco",
+          "Seis"
+        ],
+        "correcta": 2,
+        "explicacion": "Son cinco: inmuebles o derechos, edificios en construcción, inmuebles en el extranjero, bienes muebles y derechos de propiedad incorporal.",
+        "parte": 1,
+        "id": "tema-31-q20"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es un tipo de adquisición regulado específicamente en la LPAP?",
+        "opciones": [
+          "Adquisición de edificios en construcción",
+          "Adquisición de bienes inmuebles en el extranjero",
+          "Adquisición de derechos de propiedad incorporal",
+          "Adquisición de valores mobiliarios cotizados en bolsa"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP regula cinco tipos de adquisición; los valores mobiliarios cotizados no figuran como categoría propia dentro de este capítulo.",
+        "parte": 1,
+        "id": "tema-31-q21"
+      },
+      {
+        "enunciado": "Para la adquisición de bienes o derechos, la Administración podrá concluir...",
+        "opciones": [
+          "solo contratos típicos regulados expresamente en la ley",
+          "cualesquiera contratos, típicos o atípicos",
+          "únicamente contratos de compraventa",
+          "solo negocios jurídicos gratuitos"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP permite expresamente recurrir tanto a contratos típicos como atípicos para adquirir bienes o derechos, sin limitarse a figuras tasadas.",
+        "parte": 1,
+        "id": "tema-31-q22"
+      },
+      {
+        "enunciado": "La competencia para adquirir a título oneroso bienes inmuebles o derechos en el ámbito de la AGE corresponde a...",
+        "opciones": [
+          "la Dirección General del Patrimonio del Estado",
+          "el Ministro de Hacienda",
+          "el Consejo de Ministros",
+          "el titular del departamento interesado"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: aunque la Dirección General del Patrimonio del Estado tramita el expediente, la competencia para acordar la adquisición es del Ministro de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q23"
+      },
+      {
+        "enunciado": "El Ministro de Hacienda puede ejercer la competencia para adquirir inmuebles o derechos...",
+        "opciones": [
+          "solo a petición razonada de otro departamento",
+          "por propia iniciativa o a petición razonada del departamento interesado",
+          "únicamente por delegación del Consejo de Ministros",
+          "solo cuando lo solicite la Dirección General del Patrimonio del Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Puede actuar de oficio, por propia iniciativa, o a instancia de un departamento, que en ese caso debe acompañar la correspondiente tasación.",
+        "parte": 1,
+        "id": "tema-31-q24"
+      },
+      {
+        "enunciado": "¿Qué órgano tramita el procedimiento de adquisición de inmuebles o derechos por la AGE?",
+        "opciones": [
+          "La Abogacía del Estado",
+          "La Intervención General",
+          "La Dirección General del Patrimonio del Estado",
+          "El Consejo de Ministros"
+        ],
+        "correcta": 2,
+        "explicacion": "La competencia para acordar la adquisición es del Ministro de Hacienda, pero la tramitación del procedimiento corresponde a la Dirección General del Patrimonio del Estado.",
+        "parte": 1,
+        "id": "tema-31-q25"
+      },
+      {
+        "enunciado": "Cuando un organismo público vinculado o dependiente de la AGE adquiere un inmueble, ¿quién acuerda la adquisición?",
+        "opciones": [
+          "El Ministro de Hacienda directamente",
+          "Su presidente o director, previo informe favorable del Ministro de Hacienda",
+          "La Dirección General del Patrimonio del Estado",
+          "El Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, la decisión recae en el presidente o director del organismo, pero necesita el informe favorable, no meramente consultivo, del Ministro de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q26"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes documentos NO es obligatorio incorporar al expediente de adquisición de un inmueble?",
+        "opciones": [
+          "Memoria justificativa de la necesidad o conveniencia de la adquisición",
+          "Informe de la Abogacía del Estado sobre las condiciones de la adquisición",
+          "Tasación del bien, con el correspondiente estudio de mercado",
+          "Certificado del Registro Mercantil del vendedor"
+        ],
+        "correcta": 3,
+        "explicacion": "Los tres primeros documentos son exigidos expresamente por la ley; el certificado del Registro Mercantil del vendedor no figura entre los documentos que la LPAP requiere.",
+        "parte": 1,
+        "id": "tema-31-q27"
+      },
+      {
+        "enunciado": "La memoria que debe incorporarse al expediente de adquisición de inmuebles debe justificar...",
+        "opciones": [
+          "solo el precio de la operación",
+          "la necesidad o conveniencia de la adquisición, su finalidad y el procedimiento de adjudicación propuesto",
+          "exclusivamente la urgencia de la operación",
+          "la solvencia económica del vendedor"
+        ],
+        "correcta": 1,
+        "explicacion": "La memoria debe cubrir estos tres aspectos: necesidad o conveniencia de la adquisición, destino del inmueble y procedimiento de adjudicación que se propone seguir.",
+        "parte": 1,
+        "id": "tema-31-q28"
+      },
+      {
+        "enunciado": "El procedimiento ordinario para la adquisición de inmuebles o derechos es...",
+        "opciones": [
+          "la subasta pública",
+          "el concurso público o la licitación de la disposición adicional decimoquinta",
+          "la adjudicación directa, como regla general",
+          "el concurso restringido únicamente"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: la subasta es el procedimiento típico de la enajenación, no de la adquisición; aquí la regla general es el concurso público o la licitación de la disposición adicional 15ª.",
+        "parte": 1,
+        "id": "tema-31-q29"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una causa legal para acordar la adquisición directa de un inmueble vinculada a peculiaridades, mercado, urgencia o idoneidad?",
+        "opciones": [
+          "Las peculiaridades de la necesidad a satisfacer",
+          "Las condiciones del mercado inmobiliario",
+          "La urgencia resultante de acontecimientos imprevisibles",
+          "Que el precio ofertado sea inferior al de tasación"
+        ],
+        "correcta": 3,
+        "explicacion": "Las tres primeras son causas legales tasadas por la LPAP; el que el precio ofertado sea inferior a tasación no figura entre los motivos habilitantes de adquisición directa.",
+        "parte": 1,
+        "id": "tema-31-q30"
+      },
+      {
+        "enunciado": "Además de las causas de peculiaridad, mercado, urgencia e idoneidad, ¿en cuál de estos supuestos cabe también la adquisición directa de un inmueble?",
+        "opciones": [
+          "Cuando el comprador sea un particular sin relación con la Administración",
+          "Cuando el vendedor sea otra Administración pública o persona jurídica del sector público",
+          "Cuando el precio supere los 20 millones de euros",
+          "Cuando el bien esté situado en el extranjero"
+        ],
+        "correcta": 1,
+        "explicacion": "Es uno de los cuatro supuestos adicionales de adjudicación directa; los otros tres son concurso desierto, copropietario en condominio y ejercicio de derecho de adquisición preferente.",
+        "parte": 1,
+        "id": "tema-31-q31"
+      },
+      {
+        "enunciado": "¿En cuál de estos casos NO cabe adjudicación directa en la adquisición de un inmueble?",
+        "opciones": [
+          "Cuando el concurso promovido para la adquisición haya sido declarado desierto",
+          "Cuando se adquiera a un copropietario una cuota del bien en condominio",
+          "Cuando la adquisición se ejerza en virtud de un derecho de adquisición preferente",
+          "Cuando el vendedor sea un particular corriente y no concurra ninguna otra causa legal"
+        ],
+        "correcta": 3,
+        "explicacion": "Los tres primeros son supuestos legales de adjudicación directa; un vendedor particular sin que concurra ninguna causa de las tasadas por la ley obliga a acudir al concurso o a la licitación.",
+        "parte": 1,
+        "id": "tema-31-q32"
+      },
+      {
+        "enunciado": "El importe de la adquisición de un inmueble puede ser objeto de un aplazamiento de pago por un plazo máximo de...",
+        "opciones": [
+          "Un año",
+          "Dos años",
+          "Cuatro años",
+          "Diez años"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo con los plazos: el aplazamiento en la adquisición es de hasta cuatro años; no confundirlo con los diez años del aplazamiento en la enajenación ni con los dos años de plazo de entrega de los edificios en construcción.",
+        "parte": 1,
+        "id": "tema-31-q33"
+      },
+      {
+        "enunciado": "¿Qué documento debe acompañar el departamento interesado cuando solicita, de forma razonada, al Ministro de Hacienda la adquisición de un inmueble?",
+        "opciones": [
+          "El informe previo de la Intervención General",
+          "La correspondiente tasación del bien",
+          "El certificado de empadronamiento del inmueble",
+          "El acuerdo previo del Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "La petición razonada del departamento debe ir acompañada de la tasación correspondiente del bien a adquirir.",
+        "parte": 1,
+        "id": "tema-31-q34"
+      },
+      {
+        "enunciado": "Para que proceda excepcionalmente la adquisición de un edificio en construcción, el valor del suelo y de la parte ya edificada debe ser...",
+        "opciones": [
+          "inferior al de la porción pendiente de construir",
+          "superior al de la porción pendiente de construir",
+          "igual al de la porción pendiente de construir",
+          "irrelevante, pues no se exige comparación alguna"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que podría pensarse, se exige que lo ya construido valga más que lo pendiente de construir, para minimizar el riesgo económico que asume la Administración.",
+        "parte": 1,
+        "id": "tema-31-q35"
+      },
+      {
+        "enunciado": "El precio en la adquisición de un edificio en construcción debe fijarse...",
+        "opciones": [
+          "libremente por el vendedor, sin más requisitos",
+          "de forma determinada o determinable según parámetros ciertos",
+          "exclusivamente mediante subasta pública",
+          "según el valor catastral del inmueble"
+        ],
+        "correcta": 1,
+        "explicacion": "La ley exige que el precio sea determinado o, al menos, determinable conforme a parámetros ciertos, para evitar la indeterminación del negocio jurídico.",
+        "parte": 1,
+        "id": "tema-31-q36"
+      },
+      {
+        "enunciado": "Según el principio de \"servicio hecho\", en el momento de la firma de la escritura de adquisición de un edificio en construcción, ¿qué importe puede abonarse?",
+        "opciones": [
+          "La totalidad del precio pactado",
+          "Únicamente el correspondiente al suelo y a la obra ya realizada",
+          "Solo el correspondiente al suelo",
+          "Nada, hasta la entrega total del edificio"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no puede pagarse la totalidad por adelantado; solo lo ya ejecutado, es decir, suelo más obra realizada, sin perjuicio de los aplazamientos que puedan concertarse para el resto.",
+        "parte": 1,
+        "id": "tema-31-q37"
+      },
+      {
+        "enunciado": "El resto del precio de un edificio en construcción, tras el pago inicial del suelo y la obra realizada, puede abonarse...",
+        "opciones": [
+          "solo mediante un pago único a la firma de la escritura",
+          "a la entrega del inmueble o contra las correspondientes certificaciones de obra",
+          "exclusivamente con cargo a los presupuestos del año siguiente",
+          "nunca, pues debe pagarse todo al inicio de la operación"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP permite dos vías para el resto del precio: el pago a la entrega del inmueble terminado o conforme avanzan las certificaciones de obra.",
+        "parte": 1,
+        "id": "tema-31-q38"
+      },
+      {
+        "enunciado": "¿Cuál es el plazo máximo previsto para la terminación y entrega del edificio en construcción a la Administración adquirente?",
+        "opciones": [
+          "Un año",
+          "Dos años",
+          "Tres años",
+          "Cuatro años"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo, no confundir con el plazo de un año de validez de las tasaciones ni con los cuatro años de aplazamiento de pago en la adquisición: aquí el límite legal son dos años.",
+        "parte": 1,
+        "id": "tema-31-q39"
+      },
+      {
+        "enunciado": "Entre las condiciones legales para adquirir un edificio en construcción, se exige que el vendedor...",
+        "opciones": [
+          "renuncie a cualquier tipo de garantía",
+          "garantice suficientemente la entrega del edificio terminado en plazo y condiciones pactados",
+          "asuma la titularidad definitiva del edificio hasta la entrega",
+          "pague un depósito a favor de la Administración"
+        ],
+        "correcta": 1,
+        "explicacion": "Se exige al vendedor una garantía suficiente de que el edificio se entregará terminado, en el plazo y conforme a las condiciones pactadas.",
+        "parte": 1,
+        "id": "tema-31-q40"
+      },
+      {
+        "enunciado": "El adquirente, en la compra de un edificio en construcción, debe establecer...",
+        "opciones": [
+          "un régimen de arrendamiento provisional",
+          "los mecanismos necesarios para asegurar que el inmueble se ajusta a las condiciones estipuladas",
+          "la cesión automática del contrato a un tercero",
+          "la subrogación automática en la obra pendiente"
+        ],
+        "correcta": 1,
+        "explicacion": "Es responsabilidad del adquirente disponer de medios de control y seguimiento que garanticen que la obra se ajusta a lo pactado.",
+        "parte": 1,
+        "id": "tema-31-q41"
+      },
+      {
+        "enunciado": "¿Quién acuerda, en el ámbito de la AGE, la adquisición de un edificio en construcción?",
+        "opciones": [
+          "La Dirección General del Patrimonio del Estado",
+          "El Ministro de Hacienda",
+          "El Consejo de Ministros",
+          "El propio organismo que lo necesite, sin más trámite"
+        ],
+        "correcta": 1,
+        "explicacion": "Al igual que en la adquisición de inmuebles ya terminados, la competencia para acordarla recae en el Ministro de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q42"
+      },
+      {
+        "enunciado": "Cuando un organismo público pretenda adquirir un edificio en construcción, dicha adquisición requerirá...",
+        "opciones": [
+          "autorización previa del Consejo de Ministros",
+          "el previo informe favorable del Ministro de Hacienda",
+          "solo la aprobación de su propio consejo rector",
+          "ningún trámite adicional por tratarse de un organismo público"
+        ],
+        "correcta": 1,
+        "explicacion": "Igual que sucede con los inmuebles ya terminados, es necesario el informe favorable previo del Ministro de Hacienda para que el organismo público pueda adquirirlo.",
+        "parte": 1,
+        "id": "tema-31-q43"
+      },
+      {
+        "enunciado": "La adquisición por la AGE de un inmueble situado en el extranjero puede ser acordada por...",
+        "opciones": [
+          "únicamente el Ministro de Hacienda",
+          "el Ministro de Hacienda o el Ministro de Asuntos Exteriores, previo informe favorable de aquél",
+          "el embajador correspondiente en el país de destino",
+          "el Consejo de Ministros, en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "La peculiaridad de este tipo de adquisición es que también puede acordarla el Ministro de Asuntos Exteriores, siempre con el informe favorable previo del Ministro de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q44"
+      },
+      {
+        "enunciado": "Si el Ministro de Asuntos Exteriores acuerda la adquisición de un inmueble en el extranjero, necesita previamente...",
+        "opciones": [
+          "la autorización del Parlamento",
+          "el informe favorable del Ministro de Hacienda",
+          "la tasación aprobada por la Dirección General del Patrimonio del Estado",
+          "el visto bueno de la embajada del país correspondiente"
+        ],
+        "correcta": 1,
+        "explicacion": "Trampa: no se requiere autorización parlamentaria ni consular; la ley exige el informe favorable del Ministro de Hacienda como condición habilitante.",
+        "parte": 1,
+        "id": "tema-31-q45"
+      },
+      {
+        "enunciado": "¿Qué particularidad existe en la competencia para adquirir un inmueble en el extranjero frente a la de un inmueble situado en España?",
+        "opciones": [
+          "Ninguna, es siempre competencia exclusiva del Ministro de Hacienda",
+          "En el extranjero también puede acordarla el Ministro de Asuntos Exteriores, con informe favorable de Hacienda",
+          "En el extranjero decide siempre el Consejo de Ministros",
+          "En el extranjero decide la embajada correspondiente"
+        ],
+        "correcta": 1,
+        "explicacion": "La particularidad de los inmuebles en el extranjero es la posible intervención del Ministro de Asuntos Exteriores, siempre condicionada al informe favorable de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q46"
+      },
+      {
+        "enunciado": "La adquisición de bienes muebles por la AGE o sus organismos autónomos se rige por...",
+        "opciones": [
+          "la LPAP en su totalidad, sin remisión alguna",
+          "la legislación que regula la contratación de las Administraciones públicas",
+          "el Código Civil",
+          "el derecho privado exclusivamente"
+        ],
+        "correcta": 1,
+        "explicacion": "A diferencia de los inmuebles, que tienen un régimen propio detallado en la LPAP, los bienes muebles se adquieren conforme a la legislación de contratos públicos.",
+        "parte": 1,
+        "id": "tema-31-q47"
+      },
+      {
+        "enunciado": "¿Es correcto afirmar que la adquisición de bienes muebles sigue condiciones sustancialmente distintas de las de los inmuebles?",
+        "opciones": [
+          "Sí, son regímenes completamente distintos e incompatibles",
+          "No, se aplican las mismas condiciones que para los inmuebles, remitiéndose a la legislación de contratos públicos",
+          "Sí, los bienes muebles no requieren ningún procedimiento",
+          "No, los bienes muebles requieren siempre un concurso específico propio de la LPAP"
+        ],
+        "correcta": 1,
+        "explicacion": "La propia LPAP señala que se aplican las mismas condiciones que para los inmuebles, si bien remitiendo su regulación a la legislación de contratos de las Administraciones públicas.",
+        "parte": 1,
+        "id": "tema-31-q48"
+      },
+      {
+        "enunciado": "El arrendamiento de inmuebles está regulado en...",
+        "opciones": [
+          "el capítulo II del Título V de la LPAP",
+          "el capítulo III del Título V de la LPAP",
+          "el capítulo IV del Título V de la LPAP",
+          "un título independiente dentro de la LPAP"
+        ],
+        "correcta": 1,
+        "explicacion": "Mientras que las adquisiciones se regulan en el capítulo II, el arrendamiento tiene su propio capítulo III dentro del Título V de la LPAP.",
+        "parte": 1,
+        "id": "tema-31-q49"
+      },
+      {
+        "enunciado": "En materia de competencia e instrucción del procedimiento, el arrendamiento de inmuebles sigue...",
+        "opciones": [
+          "un régimen completamente distinto al de la adquisición",
+          "las mismas pautas que la adquisición, aunque con posibilidades específicas como la prórroga o la novación",
+          "únicamente las normas de la legislación de contratos públicos",
+          "normas exclusivas dictadas por la Dirección General del Patrimonio del Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "El arrendamiento comparte el esquema competencial de la adquisición (Ministro de Hacienda, o director/presidente en organismos públicos), añadiendo posibilidades propias como prórroga, novación, resolución anticipada o cambio de órgano ocupante.",
+        "parte": 1,
+        "id": "tema-31-q50"
+      },
+      {
+        "enunciado": "¿Quién es competente, en el ámbito de los organismos públicos, para concertar arrendamientos de inmuebles?",
+        "opciones": [
+          "El Ministro de Hacienda, siempre y sin excepción",
+          "Su director o presidente",
+          "El Consejo de Ministros",
+          "La Intervención General"
+        ],
+        "correcta": 1,
+        "explicacion": "Al igual que en la adquisición, el competente dentro de los organismos públicos es su director o presidente, no directamente el Ministro de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q51"
+      },
+      {
+        "enunciado": "El procedimiento ordinario para concertar un arrendamiento de inmuebles es...",
+        "opciones": [
+          "la subasta pública",
+          "el concurso público o la licitación restringida de la disposición adicional decimoquinta",
+          "la adjudicación directa, como regla general",
+          "el concurso de ideas"
+        ],
+        "correcta": 1,
+        "explicacion": "Como en la adquisición, la regla general es el concurso público o la licitación restringida regulada en la disposición adicional 15ª, salvo concertación directa justificada.",
+        "parte": 1,
+        "id": "tema-31-q52"
+      },
+      {
+        "enunciado": "Los contratos de arrendamiento de inmuebles de la AGE deben concertarse con expresa mención de que...",
+        "opciones": [
+          "el inmueble solo podrá ser usado por el departamento arrendatario original",
+          "el inmueble arrendado podrá ser utilizado por cualquier órgano de la AGE o sus organismos públicos",
+          "el arrendador puede resolver el contrato unilateralmente en cualquier momento",
+          "el arrendamiento no admite prórroga alguna"
+        ],
+        "correcta": 1,
+        "explicacion": "Se exige esta mención expresa para permitir la movilidad de los órganos de la AGE dentro del inmueble arrendado, sin quedar limitado a un único departamento.",
+        "parte": 1,
+        "id": "tema-31-q53"
+      },
+      {
+        "enunciado": "Si un departamento ministerial prevé dejar libre un inmueble arrendado antes del término pactado, debe comunicarlo a la Dirección General del Patrimonio del Estado con una antelación mínima de...",
+        "opciones": [
+          "Un mes",
+          "Tres meses",
+          "Seis meses",
+          "Un año"
+        ],
+        "correcta": 1,
+        "explicacion": "Ojo con los plazos del arrendamiento: la comunicación de desalojo anticipado exige tres meses de antelación; no confundirlo con el plazo de un mes que luego tienen otros departamentos para solicitar el inmueble.",
+        "parte": 1,
+        "id": "tema-31-q54"
+      },
+      {
+        "enunciado": "Tras recibir la comunicación de desalojo anticipado, la Dirección General del Patrimonio del Estado puede trasladarla a otros departamentos ministeriales, que dispondrán de un plazo de... para solicitar la puesta a disposición del inmueble.",
+        "opciones": [
+          "Un mes",
+          "Dos meses",
+          "Tres meses",
+          "Seis meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Trampa frecuente: el plazo de tres meses es el de antelación de la comunicación de desalojo; el plazo para que otros departamentos soliciten el inmueble es de solo un mes.",
+        "parte": 1,
+        "id": "tema-31-q55"
+      },
+      {
+        "enunciado": "Cuando la Dirección General del Patrimonio del Estado resuelve sobre el nuevo órgano que ocupará un inmueble arrendado, dicha resolución se notifica al arrendador, para quien será obligatoria la novación contractual...",
+        "opciones": [
+          "con incremento proporcional de la renta",
+          "sin que proceda incremento de la renta",
+          "solo si el arrendador lo consiente expresamente",
+          "únicamente si el nuevo ocupante es un organismo público"
+        ],
+        "correcta": 1,
+        "explicacion": "Al revés de lo que el arrendador podría pretender, la novación le es obligatoria y no puede llevar aparejado ningún incremento de la renta pactada.",
+        "parte": 1,
+        "id": "tema-31-q56"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO es una posibilidad específica reconocida en el régimen de arrendamiento de inmuebles, a diferencia del régimen de adquisición?",
+        "opciones": [
+          "Prórroga",
+          "Novación",
+          "Resolución anticipada",
+          "Aplazamiento del pago hasta cuatro años"
+        ],
+        "correcta": 3,
+        "explicacion": "El aplazamiento hasta cuatro años es una figura propia de la adquisición onerosa de inmuebles, no una posibilidad específica del arrendamiento, que sí contempla prórroga, novación, resolución anticipada y cambio de órgano ocupante.",
+        "parte": 1,
+        "id": "tema-31-q57"
+      },
+      {
+        "enunciado": "La competencia para la conservación de un bien patrimonial corresponde, con carácter general, a...",
+        "opciones": [
+          "la Dirección General del Patrimonio del Estado, en todo caso",
+          "el ministerio u organismo al que se encuentre afectado o adscrito, o al que corresponda su administración",
+          "el Ministro de Hacienda, siempre de forma exclusiva",
+          "el Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "La regla general atribuye la conservación al ministerio u organismo afectado, adscrito o que administre el bien, no automáticamente al Ministerio de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q58"
+      },
+      {
+        "enunciado": "Cuando sobre un bien existen varias afectaciones concurrentes, la participación de los distintos departamentos en su conservación se determina, en defecto de acuerdo entre ellos, por...",
+        "opciones": [
+          "la Dirección General del Patrimonio del Estado",
+          "el Ministro de Hacienda",
+          "el Consejo de Ministros",
+          "sorteo entre los departamentos afectados"
+        ],
+        "correcta": 1,
+        "explicacion": "Primero se busca el acuerdo o protocolo entre los departamentos afectados; solo si no lo alcanzan, decide el Ministro de Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q59"
+      },
+      {
+        "enunciado": "La conservación de los bienes y derechos patrimoniales de la AGE compete a la Dirección General del Patrimonio del Estado, que la ejerce a través de...",
+        "opciones": [
+          "los ayuntamientos correspondientes",
+          "las Delegaciones de Economía y Hacienda",
+          "la Abogacía del Estado",
+          "los juzgados de lo contencioso-administrativo"
+        ],
+        "correcta": 1,
+        "explicacion": "La Dirección General del Patrimonio del Estado ejerce esta competencia de forma desconcentrada, a través de las Delegaciones de Economía y Hacienda.",
+        "parte": 1,
+        "id": "tema-31-q60"
+      },
+      {
+        "enunciado": "Según el art. 131 LPAP, ¿qué condición debe cumplir un bien del Patrimonio del Estado para poder ser enajenado?",
+        "opciones": [
+          "Que no sea necesario para el ejercicio de las competencias y funciones propias de la AGE o de sus organismos públicos",
+          "Que esté afectado a un servicio público en funcionamiento",
+          "Que haya sido adquirido hace más de diez años",
+          "Que su valor de tasación supere el millón de euros"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 131 y siguientes de la LPAP permiten enajenar los bienes y derechos patrimoniales que no sean necesarios para el ejercicio de las competencias y funciones propias de la AGE o sus organismos públicos. La afectación a un servicio público, en cambio, es precisamente lo que impediría la enajenación salvo previa desafectación.",
+        "parte": 2,
+        "id": "tema-31-q61"
+      },
+      {
+        "enunciado": "La enajenación con reserva de uso temporal (operación tipo \"leaseback\") prevista en la LPAP...",
+        "opciones": [
+          "Es la regla general de toda enajenación patrimonial",
+          "Está expresamente prohibida por el art. 131.1 LPAP",
+          "Solo cabe excepcionalmente, por razones de interés público, y debe convenir a la Administración",
+          "Únicamente puede utilizarse para bienes muebles obsoletos"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP admite, por razones de interés público, enajenar un bien reservando su uso temporal mediante arrendamiento u otro negocio simultáneo, pero esta figura solo cabe con carácter excepcional y debe resultar conveniente para la Administración. Convertirla en práctica habitual desvirtuaría la regla general del art. 131.1.",
+        "parte": 2,
+        "id": "tema-31-q62"
+      },
+      {
+        "enunciado": "En la enajenación con reserva de uso temporal (leaseback) de un inmueble administrativo, ¿qué ocurre tras la venta?",
+        "opciones": [
+          "El Estado puede seguir ocupando el inmueble como arrendatario mediante un contrato simultáneo a la enajenación",
+          "El inmueble debe quedar vacío al menos durante un año",
+          "El bien deja de pertenecer al Patrimonio del Estado a todos los efectos, incluso registrales, de forma irreversible",
+          "Se exige autorización previa de las Cortes Generales"
+        ],
+        "correcta": 0,
+        "explicacion": "El rasgo característico del leaseback administrativo es que, tras enajenar el inmueble, la Administración puede seguir ocupándolo como arrendataria u otra figura habilitante, mediante un negocio simultáneo a la propia enajenación. Es la misma lógica que usan muchas empresas privadas para obtener liquidez sin dejar de usar sus inmuebles.",
+        "parte": 2,
+        "id": "tema-31-q63"
+      },
+      {
+        "enunciado": "Si la enajenación con reserva de uso temporal se convirtiera en una práctica habitual de la Administración, ¿qué consecuencia señala el texto de la LPAP?",
+        "opciones": [
+          "Ninguna, porque es plenamente compatible con el régimen general",
+          "Desvirtuaría, e incluso infringiría, lo previsto en el art. 131.1 LPAP",
+          "Pasaría automáticamente a calificarse como cesión gratuita",
+          "Exigiría la intervención del Tribunal de Cuentas en cada operación"
+        ],
+        "correcta": 1,
+        "explicacion": "La enajenación con reserva de uso temporal es una excepción admitida por razones de interés público, no una alternativa de uso habitual. Generalizarla desvirtuaría, e incluso infringiría, la regla general contenida en el art. 131.1 LPAP sobre qué bienes pueden enajenarse.",
+        "parte": 2,
+        "id": "tema-31-q64"
+      },
+      {
+        "enunciado": "Como regla general, la enajenación de bienes y derechos del Patrimonio del Estado se realiza mediante negocios jurídicos de carácter...",
+        "opciones": [
+          "Gratuito",
+          "Oneroso",
+          "Mixto, obligatoriamente oneroso y gratuito a la vez",
+          "Exclusivamente administrativo, nunca de derecho privado"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP dispone que la enajenación podrá efectuarse mediante cualquier negocio jurídico traslativo, típico o atípico, de carácter oneroso. La enajenación gratuita es la excepción, reservada a los supuestos de cesión del art. 145.2.",
+        "parte": 2,
+        "id": "tema-31-q65"
+      },
+      {
+        "enunciado": "¿En qué supuesto admite la LPAP una enajenación a título gratuito de bienes patrimoniales?",
+        "opciones": [
+          "Cuando lo solicite un particular acreditando necesidad económica",
+          "Nunca; toda enajenación patrimonial debe ser onerosa sin excepción",
+          "Cuando, conforme al art. 145.2, se acuerde su cesión a favor de CCAA, EELL, Fundaciones Públicas o asociaciones de utilidad pública",
+          "Cuando el adquirente sea una empresa privada con fines sociales"
+        ],
+        "correcta": 2,
+        "explicacion": "La enajenación a título gratuito solo es admisible cuando, conforme a las normas de cesión, el bien se transmite a Comunidades Autónomas, Entidades Locales, Fundaciones Públicas o asociaciones declaradas de utilidad pública, según el art. 145.2 LPAP. Fuera de estos casos, la enajenación debe ser onerosa.",
+        "parte": 2,
+        "id": "tema-31-q66"
+      },
+      {
+        "enunciado": "El producto de la enajenación de bienes y derechos patrimoniales de la Administración General del Estado se ingresará en...",
+        "opciones": [
+          "El presupuesto propio del organismo que gestionó la venta",
+          "El Tesoro",
+          "Un fondo de reserva patrimonial de libre disposición del Ministro de Hacienda",
+          "La cuenta corriente de la Dirección General del Patrimonio del Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP establece de forma clara que el producto de la enajenación de bienes y derechos patrimoniales de la AGE se ingresará en el Tesoro, sin que quede a disposición directa del organismo gestor de la venta.",
+        "parte": 2,
+        "id": "tema-31-q67"
+      },
+      {
+        "enunciado": "El órgano competente para enajenar un bien puede admitir el pago aplazado del precio de venta. ¿Cuál es el plazo máximo y qué condición se exige sobre el interés aplicable?",
+        "opciones": [
+          "Hasta 5 años, sin devengo de interés alguno",
+          "Hasta 10 años, con un interés de aplazamiento no inferior al interés legal del dinero",
+          "Hasta 10 años, sin necesidad de constituir ninguna garantía",
+          "Hasta 4 años, igual que en las adquisiciones de inmuebles"
+        ],
+        "correcta": 1,
+        "explicacion": "El pago aplazado del precio de venta puede extenderse hasta 10 años, exigiéndose garantía suficiente y un interés de aplazamiento que no puede ser inferior al interés legal del dinero. No debe confundirse con el plazo de 4 años previsto para el aplazamiento en las adquisiciones.",
+        "parte": 2,
+        "id": "tema-31-q68"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes NO figura entre las garantías admitidas por la LPAP para asegurar el pago aplazado del precio de una enajenación?",
+        "opciones": [
+          "Condición resolutoria explícita",
+          "Hipoteca",
+          "Aval bancario o seguro de caución",
+          "Fianza personal prestada por un funcionario del departamento enajenante"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP admite como garantías la condición resolutoria explícita, la hipoteca, el aval bancario, el seguro de caución u otra garantía suficiente usual en el mercado. La fianza personal de un funcionario no es una de las garantías previstas por la norma.",
+        "parte": 2,
+        "id": "tema-31-q69"
+      },
+      {
+        "enunciado": "El órgano competente para enajenar bienes inmuebles de la Administración General del Estado es, con carácter general...",
+        "opciones": [
+          "El Consejo de Ministros",
+          "El Ministro de Hacienda",
+          "La Dirección General del Patrimonio del Estado",
+          "El titular del departamento que los tenga afectados"
+        ],
+        "correcta": 1,
+        "explicacion": "La competencia para enajenar inmuebles de la AGE corresponde al Ministro de Hacienda. La Dirección General del Patrimonio del Estado interviene en la incoación y tramitación del expediente, pero no decide la enajenación como órgano competente.",
+        "parte": 2,
+        "id": "tema-31-q70"
+      },
+      {
+        "enunciado": "¿En qué supuesto la enajenación de un inmueble de la AGE requiere la autorización del Consejo de Ministros?",
+        "opciones": [
+          "Siempre que el inmueble tenga valor histórico-artístico",
+          "Cuando el valor del bien, según tasación, exceda de 20 millones de euros",
+          "Cuando el procedimiento elegido sea la adjudicación directa",
+          "Cuando la enajenación se realice a título gratuito"
+        ],
+        "correcta": 1,
+        "explicacion": "Cuando el valor del inmueble, según tasación, exceda de 20 millones de euros, la enajenación deberá ser autorizada por el Consejo de Ministros, a propuesta del Ministro de Hacienda. Por debajo de ese umbral, la decisión corresponde únicamente al Ministro de Hacienda.",
+        "parte": 2,
+        "id": "tema-31-q71"
+      },
+      {
+        "enunciado": "La incoación y tramitación del expediente de enajenación de un inmueble de la AGE corresponden a...",
+        "opciones": [
+          "El Ministro de Hacienda, personalmente y sin delegación posible",
+          "La Abogacía del Estado",
+          "La Dirección General del Patrimonio del Estado",
+          "El Consejo de Ministros en todo caso"
+        ],
+        "correcta": 2,
+        "explicacion": "Aunque la decisión de enajenar corresponde al Ministro de Hacienda, la incoación y la tramitación del expediente de enajenación de inmuebles corresponden a la Dirección General del Patrimonio del Estado.",
+        "parte": 2,
+        "id": "tema-31-q72"
+      },
+      {
+        "enunciado": "La incoación del expediente de enajenación de un inmueble de la AGE puede iniciarse...",
+        "opciones": [
+          "Únicamente de oficio, nunca a instancia de un tercero interesado",
+          "De oficio, por iniciativa propia, o a solicitud de parte interesada en la adquisición, justificando que el bien no es necesario para el uso general o el servicio público",
+          "Solo mediante denuncia previa ante el Defensor del Pueblo",
+          "Únicamente tras sentencia judicial firme que declare el bien innecesario"
+        ],
+        "correcta": 1,
+        "explicacion": "La incoación puede producirse de oficio, por iniciativa propia, o a solicitud de parte interesada en la adquisición, debiendo justificarse en el expediente que el bien o derecho no es necesario para el uso general o el servicio público ni resulta conveniente su explotación.",
+        "parte": 2,
+        "id": "tema-31-q73"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO es uno de los tres procedimientos previstos en la LPAP para la enajenación de inmuebles?",
+        "opciones": [
+          "Subasta",
+          "Concurso",
+          "Adjudicación directa",
+          "Licitación restringida de la disposición adicional decimoquinta"
+        ],
+        "correcta": 3,
+        "explicacion": "La enajenación de inmuebles se realiza mediante subasta, concurso o adjudicación directa. La licitación restringida de la disposición adicional decimoquinta es, en cambio, un procedimiento previsto para la adquisición y el arrendamiento de inmuebles, no para su enajenación.",
+        "parte": 2,
+        "id": "tema-31-q74"
+      },
+      {
+        "enunciado": "Respecto de la subasta para enajenar inmuebles de la AGE, señale la afirmación correcta:",
+        "opciones": [
+          "Solo puede celebrarse al alza, nunca a la baja",
+          "Puede celebrarse al alza o a la baja, con posturas en sobre cerrado o mediante sistemas de subasta electrónica",
+          "Está reservada exclusivamente a bienes calificados por su conexión con políticas públicas",
+          "La adjudicación recae siempre en el primer licitador que se presente"
+        ],
+        "correcta": 1,
+        "explicacion": "La subasta puede celebrarse al alza o a la baja, admitiéndose la presentación de posturas en sobre cerrado o el recurso a sistemas de subasta electrónica. La adjudicación se efectúa a favor de quien presente la oferta económica más ventajosa.",
+        "parte": 2,
+        "id": "tema-31-q75"
+      },
+      {
+        "enunciado": "El procedimiento de concurso para la enajenación de inmuebles se reserva para aquellos bienes que...",
+        "opciones": [
+          "Hayan sido declarados en estado de ruina técnica",
+          "Hayan sido calificados como adecuados para enajenarse por su conexión con directrices de políticas públicas específicas, de modo que la venta coadyuve a su implementación",
+          "Tengan un valor de tasación superior a 20 millones de euros",
+          "Hayan resultado previamente desiertos en subasta"
+        ],
+        "correcta": 1,
+        "explicacion": "El concurso se sigue respecto de bienes expresamente calificados como adecuados para ser enajenados por su conexión con directrices de políticas públicas específicas, cuando la venta pueda coadyuvar sustantivamente a su implementación. Que una subasta resulte desierta conduce, en cambio, a la adjudicación directa, no al concurso.",
+        "parte": 2,
+        "id": "tema-31-q76"
+      },
+      {
+        "enunciado": "En el procedimiento de concurso para enajenar inmuebles vinculados a políticas públicas, ¿quién identifica los bienes a enajenar por esta vía y fija los criterios de ponderación?",
+        "opciones": [
+          "La Dirección General del Patrimonio del Estado, por sí sola",
+          "El Consejo de Ministros, a propuesta del Departamento responsable de la política pública considerada",
+          "El Ministro de Hacienda, sin necesidad de propuesta previa",
+          "Las Cortes Generales, mediante ley"
+        ],
+        "correcta": 1,
+        "explicacion": "Es el Consejo de Ministros, a propuesta del Departamento responsable de la política pública considerada, quien identifica los bienes que deben enajenarse por concurso y fija los criterios que deben valorarse, así como su ponderación.",
+        "parte": 2,
+        "id": "tema-31-q77"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes NO figura entre los supuestos legales de adjudicación directa en la enajenación de inmuebles de la AGE?",
+        "opciones": [
+          "Que el adquirente sea otra Administración pública o una entidad del sector público",
+          "Que el adquirente sea una entidad sin ánimo de lucro de utilidad pública o una confesión religiosa legalmente reconocida",
+          "Que el inmueble tenga un valor de tasación inferior a 50.000 euros",
+          "Que se trate de solares inedificables vendidos a un propietario colindante"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP no contempla ningún umbral de valor como supuesto de adjudicación directa de inmuebles; los siete supuestos legales se basan en la condición del adquirente, la finalidad del bien, el resultado fallido de subasta o concurso, la existencia de colindancia, copropiedad o derecho de adquisición preferente.",
+        "parte": 2,
+        "id": "tema-31-q78"
+      },
+      {
+        "enunciado": "Cuando la subasta o el concurso promovidos para enajenar un inmueble se declaran desiertos o resultan fallidos, la LPAP permite...",
+        "opciones": [
+          "Repetir obligatoriamente, sin variación alguna, el mismo procedimiento",
+          "Acudir a la adjudicación directa",
+          "Transformar automáticamente la operación en una cesión gratuita",
+          "Iniciar de oficio una permuta forzosa con el licitador que quedó más próximo al precio"
+        ],
+        "correcta": 1,
+        "explicacion": "Que la subasta o el concurso resulten desiertos o fallidos es, precisamente, uno de los siete supuestos legales que habilitan la adjudicación directa del inmueble.",
+        "parte": 2,
+        "id": "tema-31-q79"
+      },
+      {
+        "enunciado": "En la venta de solares inedificables mediante adjudicación directa, el adquirente debe ser...",
+        "opciones": [
+          "Cualquier persona interesada, sin requisito adicional",
+          "Un propietario colindante",
+          "Exclusivamente una Administración pública",
+          "Siempre una entidad financiera"
+        ],
+        "correcta": 1,
+        "explicacion": "Uno de los siete supuestos de adjudicación directa es precisamente que se trate de solares inedificables cuya venta se realice a un propietario colindante, lo que resuelve una situación de aprovechamiento urbanístico imposible de forma aislada.",
+        "parte": 2,
+        "id": "tema-31-q80"
+      },
+      {
+        "enunciado": "Cuando un inmueble pertenece a varios copropietarios y se vende a favor de uno o más de ellos, ¿qué procedimiento de enajenación corresponde aplicar?",
+        "opciones": [
+          "Subasta obligatoria, sin excepción",
+          "Concurso",
+          "Adjudicación directa",
+          "Permuta"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP contempla expresamente como supuesto de adjudicación directa el caso en que la titularidad del bien corresponda a dos o más propietarios y la venta se efectúe a favor de uno o más copropietarios, evitando así el procedimiento competitivo.",
+        "parte": 2,
+        "id": "tema-31-q81"
+      },
+      {
+        "enunciado": "La existencia de un derecho de adquisición preferente reconocido por disposición legal sobre un inmueble de la AGE tiene como consecuencia que...",
+        "opciones": [
+          "Su titular debe comprar obligatoriamente en subasta pública",
+          "Procede la adjudicación directa a favor de quien ostente ese derecho",
+          "El procedimiento se declara automáticamente desierto",
+          "Solo puede ejercerse respecto de bienes muebles"
+        ],
+        "correcta": 1,
+        "explicacion": "Cuando la venta se efectúa a favor de quien ostenta un derecho de adquisición preferente reconocido por disposición legal, la LPAP permite acordar directamente la adjudicación, sin necesidad de subasta ni concurso.",
+        "parte": 2,
+        "id": "tema-31-q82"
+      },
+      {
+        "enunciado": "La garantía exigida para participar en los procedimientos de adjudicación de inmuebles de la AGE es, con carácter general, de...",
+        "opciones": [
+          "Un 10 por 100 del valor de tasación",
+          "Un 5 por 100 del valor de tasación",
+          "Un 25 por 100 del valor de adquisición",
+          "Un 50 por 100 del valor de tasación"
+        ],
+        "correcta": 1,
+        "explicacion": "La participación en los procedimientos de adjudicación de inmuebles exige constituir una garantía del 5 por 100 del valor de tasación. No debe confundirse con el porcentaje del 25 por 100 que define cuándo un bien mueble se considera obsoleto.",
+        "parte": 2,
+        "id": "tema-31-q83"
+      },
+      {
+        "enunciado": "En casos especiales, atendidas las características del inmueble y las circunstancias de la enajenación, el órgano competente puede elevar la garantía de participación hasta...",
+        "opciones": [
+          "El 20 por 100 del valor de tasación",
+          "El 10 por 100 del valor de tasación",
+          "El 15 por 100 del valor de adquisición",
+          "El 50 por 100 del valor de tasación"
+        ],
+        "correcta": 1,
+        "explicacion": "Aunque la regla general fija la garantía en el 5 por 100 del valor de tasación, en casos especiales el órgano competente para la tramitación del expediente puede elevarla hasta el 10 por 100 de ese mismo valor.",
+        "parte": 2,
+        "id": "tema-31-q84"
+      },
+      {
+        "enunciado": "La convocatoria del procedimiento de enajenación de inmuebles de la AGE se publicará en el Boletín Oficial del Estado...",
+        "opciones": [
+          "Con el coste ordinario de publicación oficial, a cargo del órgano convocante",
+          "Gratuitamente",
+          "Solo si lo solicita expresamente algún interesado",
+          "Únicamente cuando el procedimiento sea de concurso"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP establece que la convocatoria del procedimiento de enajenación de inmuebles se publicará gratuitamente en el BOE, sin que ello excluya otros medios de publicidad que puedan emplearse.",
+        "parte": 2,
+        "id": "tema-31-q85"
+      },
+      {
+        "enunciado": "La propuesta de autorización al Consejo de Ministros para enajenar un inmueble de la AGE valorado en más de 20 millones de euros corresponde formularla a...",
+        "opciones": [
+          "La Abogacía del Estado",
+          "El Ministro de Hacienda",
+          "El Tribunal de Cuentas",
+          "La Dirección General del Patrimonio del Estado, directamente y sin intervención ministerial"
+        ],
+        "correcta": 1,
+        "explicacion": "Cuando el valor del inmueble supera los 20 millones de euros según tasación, la enajenación debe autorizarla el Consejo de Ministros, pero siempre a propuesta del Ministro de Hacienda, que conserva la competencia ordinaria sobre la enajenación de inmuebles.",
+        "parte": 2,
+        "id": "tema-31-q86"
+      },
+      {
+        "enunciado": "En la subasta de inmuebles de la AGE, la adjudicación se efectúa a favor de...",
+        "opciones": [
+          "Quien presente la primera oferta válida, por orden de registro",
+          "Quien presente la oferta económica más ventajosa",
+          "Quien resulte elegido por sorteo entre los que constituyan la garantía",
+          "El Estado, de forma automática, si ninguna oferta alcanza el valor de tasación"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP señala expresamente que la adjudicación en la subasta se efectuará a favor de quien presente la oferta económica más ventajosa, ya sea la subasta al alza, a la baja, con sobre cerrado o electrónica.",
+        "parte": 2,
+        "id": "tema-31-q87"
+      },
+      {
+        "enunciado": "La competencia para enajenar los bienes muebles del Patrimonio del Estado corresponde a...",
+        "opciones": [
+          "La Dirección General del Patrimonio del Estado, en todo caso",
+          "El titular del departamento o el presidente o director del organismo público que los tuviese afectados, adscritos o en uso",
+          "El Ministro de Hacienda, con carácter exclusivo",
+          "El Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "A diferencia de los inmuebles, cuya enajenación compete al Ministro de Hacienda, la de los bienes muebles corresponde al titular del departamento o al presidente o director del organismo público que los tenga afectados, adscritos o en uso.",
+        "parte": 2,
+        "id": "tema-31-q88"
+      },
+      {
+        "enunciado": "El acuerdo de enajenación de un bien mueble implica necesariamente...",
+        "opciones": [
+          "Su inscripción en el Registro de la Propiedad",
+          "Su desafectación y su baja en inventario",
+          "La apertura automática de un expediente de responsabilidad patrimonial",
+          "Un informe previo y preceptivo del Tribunal de Cuentas"
+        ],
+        "correcta": 1,
+        "explicacion": "El acuerdo de enajenación de bienes muebles implica la desafectación del bien y su correspondiente baja en el inventario, a diferencia de lo que ocurre con los negocios sobre inmuebles, que se formalizan en escritura pública.",
+        "parte": 2,
+        "id": "tema-31-q89"
+      },
+      {
+        "enunciado": "Como regla general, la enajenación de bienes muebles del Patrimonio del Estado tendrá lugar mediante...",
+        "opciones": [
+          "Adjudicación directa",
+          "Subasta pública, por bienes individualizados o por lotes",
+          "Concurso de méritos",
+          "Permuta obligatoria"
+        ],
+        "correcta": 1,
+        "explicacion": "La regla general para enajenar bienes muebles es la subasta pública, que puede referirse a bienes individualizados o agruparse por lotes. La adjudicación directa queda reservada a supuestos excepcionales tasados por la ley.",
+        "parte": 2,
+        "id": "tema-31-q90"
+      },
+      {
+        "enunciado": "A efectos de adjudicación directa de bienes muebles, se considera que un bien está obsoleto o deteriorado por el uso cuando su valor de tasación para la venta sea inferior a...",
+        "opciones": [
+          "El 50 por 100 del valor de adquisición",
+          "El 10 por 100 del valor de adquisición",
+          "El 25 por 100 del valor de adquisición",
+          "El 75 por 100 del valor de adquisición"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP fija el criterio del 25 por 100: se consideran obsoletos o deteriorados por el uso aquellos bienes cuyo valor de tasación para la venta sea inferior al 25 por ciento de su valor de adquisición, lo que habilita la adjudicación directa.",
+        "parte": 2,
+        "id": "tema-31-q91"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes bienes muebles puede enajenarse por adjudicación directa, sin necesidad de subasta?",
+        "opciones": [
+          "Un bien perecedero",
+          "Un bien de elevado valor histórico sin ninguna otra circunstancia",
+          "Un bien recién adquirido por la Administración y en perfecto estado",
+          "Un bien cuyo valor de tasación supere ampliamente al de adquisición"
+        ],
+        "correcta": 0,
+        "explicacion": "Junto a los bienes obsoletos o deteriorados por el uso, la ley permite la adjudicación directa de bienes perecederos, así como en los demás supuestos previstos en el art. 137.4 LPAP, sin que el mero valor histórico sea, por sí solo, una de esas causas.",
+        "parte": 2,
+        "id": "tema-31-q92"
+      },
+      {
+        "enunciado": "Respecto de la subasta por lotes para enajenar bienes muebles, señale la afirmación correcta:",
+        "opciones": [
+          "Está prohibida expresamente por la LPAP",
+          "Es una de las modalidades admitidas, junto a la subasta de bienes individualizados",
+          "Solo puede emplearse para vehículos oficiales",
+          "Requiere en todo caso autorización previa del Consejo de Ministros"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP admite expresamente que la subasta de bienes muebles se celebre por bienes individualizados o por lotes, sin restringir esta última modalidad a ningún tipo concreto de bien ni exigir autorización del Consejo de Ministros.",
+        "parte": 2,
+        "id": "tema-31-q93"
+      },
+      {
+        "enunciado": "Señale la afirmación INCORRECTA sobre la enajenación de bienes muebles del Patrimonio del Estado:",
+        "opciones": [
+          "Puede efectuarse de forma directa si concurre alguna circunstancia del art. 137.4",
+          "Compete decidirla al titular del departamento u organismo que los tenga afectados",
+          "Requiere siempre, cualquiera que sea su valor, autorización previa del Consejo de Ministros",
+          "Implica la baja en inventario del bien enajenado"
+        ],
+        "correcta": 2,
+        "explicacion": "A diferencia de lo que ocurre con los inmuebles de gran valor, la enajenación de bienes muebles nunca exige autorización del Consejo de Ministros por razón de su cuantía; la decisión corresponde al titular del departamento u organismo que los tenga afectados.",
+        "parte": 2,
+        "id": "tema-31-q94"
+      },
+      {
+        "enunciado": "La competencia para enajenar los derechos de propiedad incorporal de titularidad de la AGE corresponde a...",
+        "opciones": [
+          "El titular del departamento que los generó, sin intervención de Hacienda",
+          "El Ministro de Hacienda, a iniciativa, en su caso, del titular del departamento que los hubiese generado o que tuviese encomendada su administración y explotación",
+          "La Dirección General del Patrimonio del Estado, por delegación permanente",
+          "El Consejo de Ministros, en todo caso"
+        ],
+        "correcta": 1,
+        "explicacion": "A diferencia de los bienes muebles, cuya enajenación decide el propio departamento, los derechos de propiedad incorporal se enajenan por el Ministro de Hacienda, si bien a iniciativa, en su caso, del departamento que los generó o que tiene encomendada su administración y explotación.",
+        "parte": 2,
+        "id": "tema-31-q95"
+      },
+      {
+        "enunciado": "La enajenación de derechos de propiedad incorporal de la AGE se verifica, como regla general, mediante...",
+        "opciones": [
+          "Concurso público",
+          "Subasta pública",
+          "Adjudicación directa",
+          "Permuta"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP establece que la enajenación de derechos de propiedad incorporal se realizará mediante subasta pública, reservando la adjudicación directa a los supuestos tasados del art. 137.4.",
+        "parte": 2,
+        "id": "tema-31-q96"
+      },
+      {
+        "enunciado": "¿En qué caso puede efectuarse de forma directa, sin subasta, la enajenación de un derecho de propiedad incorporal de la AGE?",
+        "opciones": [
+          "Cuando el Ministro de Hacienda lo decida libremente, sin necesidad de motivación",
+          "Cuando concurra alguna de las circunstancias previstas en el art. 137.4 LPAP",
+          "Nunca; la subasta pública es siempre obligatoria sin excepción",
+          "Cuando el valor del derecho sea inferior a 1.000 euros"
+        ],
+        "correcta": 1,
+        "explicacion": "Igual que sucede con los bienes muebles, la enajenación directa de derechos de propiedad incorporal solo procede cuando concurra alguna de las circunstancias previstas en el art. 137.4 LPAP, sin que exista un umbral de valor específico para ello.",
+        "parte": 2,
+        "id": "tema-31-q97"
+      },
+      {
+        "enunciado": "La iniciativa para proponer la enajenación de un derecho de propiedad incorporal de la AGE corresponde, en su caso, a...",
+        "opciones": [
+          "Cualquier ciudadano interesado en su explotación",
+          "El titular del departamento que lo hubiese generado o que tuviese encomendada su administración y explotación",
+          "El Tribunal de Cuentas",
+          "Las Cortes Generales"
+        ],
+        "correcta": 1,
+        "explicacion": "Aunque la decisión última corresponde al Ministro de Hacienda, la iniciativa para proponer la enajenación la asume, en su caso, el departamento que generó el derecho de propiedad incorporal o que tiene encomendada su administración y explotación.",
+        "parte": 2,
+        "id": "tema-31-q98"
+      },
+      {
+        "enunciado": "Dentro del régimen de enajenación de derechos de propiedad incorporal, el órgano competente coincide con el que resulta competente para...",
+        "opciones": [
+          "Enajenar bienes muebles",
+          "Enajenar bienes inmuebles",
+          "Enajenar derechos de adquisición preferente de terceros",
+          "Acordar la conservación de los bienes patrimoniales"
+        ],
+        "correcta": 1,
+        "explicacion": "Tanto para enajenar inmuebles como para enajenar derechos de propiedad incorporal, la LPAP atribuye la competencia al Ministro de Hacienda, a diferencia de los bienes muebles, cuya enajenación corresponde al departamento u organismo que los tenga afectados.",
+        "parte": 2,
+        "id": "tema-31-q99"
+      },
+      {
+        "enunciado": "La cesión gratuita de bienes y derechos patrimoniales de la AGE procede cuando...",
+        "opciones": [
+          "Su afectación o explotación no se juzgue previsible y se destinen a fines de utilidad pública o interés social de la competencia del cesionario",
+          "El bien esté afectado a un servicio público en pleno funcionamiento",
+          "Lo solicite cualquier particular acreditando necesidad económica",
+          "El bien supere los 20 millones de euros de valor de tasación"
+        ],
+        "correcta": 0,
+        "explicacion": "La cesión gratuita se reserva a bienes y derechos cuya afectación o explotación no se juzgue previsible, y su finalidad debe ser la realización de fines de utilidad pública o interés social propios de la competencia del cesionario.",
+        "parte": 2,
+        "id": "tema-31-q100"
+      },
+      {
+        "enunciado": "Cuando la cesión gratuita tiene por objeto la propiedad del bien o derecho, ¿quiénes pueden ser cesionarios?",
+        "opciones": [
+          "Cualquier persona física o jurídica, pública o privada",
+          "Comunidades autónomas, entidades locales o fundaciones públicas",
+          "Exclusivamente organizaciones internacionales",
+          "Exclusivamente otros Estados"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP restringe los cesionarios de la propiedad a las comunidades autónomas, entidades locales o fundaciones públicas; cuando la cesión recae solo sobre el uso, el círculo de posibles cesionarios es más amplio.",
+        "parte": 2,
+        "id": "tema-31-q101"
+      },
+      {
+        "enunciado": "Además de a CCAA, EELL, fundaciones públicas y asociaciones de utilidad pública, la LPAP permite ceder gratuitamente bienes de la AGE a...",
+        "opciones": [
+          "Empresas privadas que acrediten fines sociales",
+          "Estados extranjeros y organizaciones internacionales, cuando la cesión se efectúe en el marco de operaciones de mantenimiento de la paz, cooperación policial o ayuda humanitaria",
+          "Partidos políticos con representación parlamentaria",
+          "Sindicatos y organizaciones empresariales"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP amplía el círculo de posibles cesionarios a Estados extranjeros y organizaciones internacionales, pero solo cuando la cesión se enmarque en operaciones de mantenimiento de la paz, cooperación policial o ayuda humanitaria.",
+        "parte": 2,
+        "id": "tema-31-q102"
+      },
+      {
+        "enunciado": "La cesión gratuita de un bien patrimonial de la AGE puede tener por objeto...",
+        "opciones": [
+          "Exclusivamente la propiedad del bien",
+          "Exclusivamente el uso del bien",
+          "La propiedad o solo el uso del bien o derecho",
+          "Nunca derechos, únicamente bienes materiales"
+        ],
+        "correcta": 2,
+        "explicacion": "La cesión puede recaer sobre la propiedad del bien o derecho, en cuyo caso los cesionarios se limitan a CCAA, EELL o fundaciones públicas, o bien limitarse solo a su uso, con un círculo de cesionarios más amplio.",
+        "parte": 2,
+        "id": "tema-31-q103"
+      },
+      {
+        "enunciado": "El cesionario de un bien cedido gratuitamente por la AGE queda obligado, en todo caso, a...",
+        "opciones": [
+          "Revenderlo transcurrido un año desde la cesión",
+          "Destinar el bien al fin expresado en el correspondiente acuerdo de cesión",
+          "Abonar un canon simbólico anual al Tesoro",
+          "Inscribirlo como bien de dominio público del Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Tanto si la cesión recae sobre la propiedad como sobre el uso, lleva aparejada para el cesionario la obligación de destinar el bien al fin expresado en el acuerdo de cesión, bajo pena de que esta se considere resuelta.",
+        "parte": 2,
+        "id": "tema-31-q104"
+      },
+      {
+        "enunciado": "La cesión gratuita de bienes de la AGE se acuerda, con carácter general, por...",
+        "opciones": [
+          "El Consejo de Ministros, en todo caso",
+          "El Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado y previo informe de la Abogacía del Estado",
+          "La Dirección General del Patrimonio del Estado, por sí sola",
+          "El titular del departamento que tenga el bien afectado"
+        ],
+        "correcta": 1,
+        "explicacion": "La regla general atribuye el acuerdo de cesión al Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado y previo informe de la Abogacía del Estado, reservándose al Consejo de Ministros solo determinados cesionarios.",
+        "parte": 2,
+        "id": "tema-31-q105"
+      },
+      {
+        "enunciado": "¿En qué supuesto corresponde al Consejo de Ministros, y no al Ministro de Hacienda, acordar la cesión gratuita de un bien?",
+        "opciones": [
+          "Cuando el valor del bien supere los 20 millones de euros",
+          "Cuando la cesión se efectúe a favor de fundaciones públicas o asociaciones declaradas de utilidad pública",
+          "Cuando el bien sea un inmueble catalogado como histórico",
+          "Cuando el cesionario sea una comunidad autónoma"
+        ],
+        "correcta": 1,
+        "explicacion": "La competencia se desplaza al Consejo de Ministros cuando la cesión se realiza a favor de fundaciones públicas o de asociaciones declaradas de utilidad pública; el umbral de 20 millones de euros, en cambio, opera para la enajenación de inmuebles, no para la cesión.",
+        "parte": 2,
+        "id": "tema-31-q106"
+      },
+      {
+        "enunciado": "El informe preceptivo previo al acuerdo de cesión gratuita de bienes de la AGE corresponde emitirlo a...",
+        "opciones": [
+          "La Intervención General de la Administración del Estado, en todo caso",
+          "La Abogacía del Estado",
+          "El Tribunal de Cuentas",
+          "El Consejo de Estado"
+        ],
+        "correcta": 1,
+        "explicacion": "Antes del acuerdo de cesión gratuita, la LPAP exige el informe previo de la Abogacía del Estado, sin perjuicio de la fiscalización presupuestaria que, en su caso, corresponda a la Intervención General en otros expedientes.",
+        "parte": 2,
+        "id": "tema-31-q107"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes circunstancias NO es, según la LPAP, causa de resolución de una cesión gratuita?",
+        "opciones": [
+          "No destinar los bienes al fin o uso previsto dentro del plazo señalado en el acuerdo",
+          "Incumplir las cargas o condiciones impuestas en el acuerdo de cesión",
+          "Llegar el término fijado en el acuerdo de cesión",
+          "Que el cesionario transmita el bien a un tercero con autorización expresa previa del cedente"
+        ],
+        "correcta": 3,
+        "explicacion": "La LPAP contempla como causas de resolución el no destinar el bien al fin previsto, dejar de destinarlo, incumplir las cargas o condiciones impuestas, o la llegada del término fijado; no menciona en ningún caso una transmisión autorizada por el propio cedente.",
+        "parte": 2,
+        "id": "tema-31-q108"
+      },
+      {
+        "enunciado": "¿Qué efecto produce la resolución de una cesión gratuita de bienes patrimoniales de la AGE?",
+        "opciones": [
+          "La extinción definitiva de todo derecho sobre el bien, que queda sin titular",
+          "La reversión de los bienes a la Administración cedente",
+          "La expropiación forzosa a favor del cesionario incumplidor",
+          "La conversión automática del bien en dominio público del cesionario"
+        ],
+        "correcta": 1,
+        "explicacion": "Resuelta la cesión por incumplimiento, falta de destino al fin previsto o llegada del término, los bienes revierten a la Administración cedente, recuperando ésta su titularidad plena.",
+        "parte": 2,
+        "id": "tema-31-q109"
+      },
+      {
+        "enunciado": "La cesión gratuita a Estados extranjeros u organizaciones internacionales debe enmarcarse en operaciones de...",
+        "opciones": [
+          "Promoción comercial exterior",
+          "Mantenimiento de la paz, cooperación policial o ayuda humanitaria",
+          "Cooperación universitaria exclusivamente",
+          "Intercambio cultural y turístico"
+        ],
+        "correcta": 1,
+        "explicacion": "La ley condiciona la cesión gratuita a sujetos internacionales a que se produzca en el marco de operaciones de mantenimiento de la paz, cooperación policial o ayuda humanitaria, sin extenderla a otros fines de cooperación.",
+        "parte": 2,
+        "id": "tema-31-q110"
+      },
+      {
+        "enunciado": "Señale la afirmación correcta sobre los bienes susceptibles de ser cedidos gratuitamente:",
+        "opciones": [
+          "Deben estar necesariamente afectados a un servicio público en el momento de la cesión",
+          "Son aquellos cuya afectación o explotación no se juzgue previsible",
+          "Deben haber sido previamente objeto de subasta declarada desierta",
+          "Solo pueden ser bienes muebles, nunca inmuebles"
+        ],
+        "correcta": 1,
+        "explicacion": "El presupuesto de la cesión gratuita es, precisamente, que no se prevea una afectación o explotación del bien, a diferencia de lo que ocurre con los bienes destinados a un uso o servicio público en funcionamiento.",
+        "parte": 2,
+        "id": "tema-31-q111"
+      },
+      {
+        "enunciado": "Sobre la posibilidad de imponer cargas o gravámenes sobre bienes y derechos del Patrimonio del Estado, la LPAP establece que...",
+        "opciones": [
+          "Pueden imponerse libremente por el titular del departamento que tenga el bien afectado",
+          "No podrán imponerse sino con los requisitos exigidos para su enajenación",
+          "Están prohibidas en todo caso, sin excepción posible",
+          "Solo pueden gravarse los bienes muebles, nunca los inmuebles"
+        ],
+        "correcta": 1,
+        "explicacion": "El régimen de gravamen se remite al de enajenación: no podrán imponerse cargas o gravámenes sobre los bienes o derechos del Patrimonio del Estado sino con los mismos requisitos exigidos para enajenarlos.",
+        "parte": 2,
+        "id": "tema-31-q112"
+      },
+      {
+        "enunciado": "Para constituir una hipoteca sobre un inmueble patrimonial de la AGE será necesario...",
+        "opciones": [
+          "Seguir un procedimiento específico, distinto por completo del de enajenación",
+          "Cumplir los mismos requisitos exigidos para la enajenación de ese bien",
+          "Solo el acuerdo del titular del departamento que lo tenga afectado",
+          "La autorización de las Cortes Generales mediante ley orgánica"
+        ],
+        "correcta": 1,
+        "explicacion": "Al remitirse el régimen de gravamen al de enajenación, constituir una hipoteca u otra carga sobre un inmueble patrimonial exige cumplir las mismas exigencias de competencia y procedimiento que si se tratara de enajenarlo.",
+        "parte": 2,
+        "id": "tema-31-q113"
+      },
+      {
+        "enunciado": "¿Cuál es la razón de que la LPAP equipare los requisitos del gravamen a los de la enajenación de bienes patrimoniales?",
+        "opciones": [
+          "Que ambos negocios suponen una disposición o limitación del bien que exige las mismas garantías y controles",
+          "Que el gravamen es, en realidad, una modalidad de cesión gratuita",
+          "Que el gravamen requiere siempre autorización del Consejo de Ministros, a diferencia de la enajenación",
+          "Que esta regla solo se aplica a los bienes de dominio público, no a los patrimoniales"
+        ],
+        "correcta": 0,
+        "explicacion": "Gravar un bien y enajenarlo son, en última instancia, actos de disposición que comprometen el patrimonio público de forma semejante, por lo que la ley exige para ambos los mismos requisitos de competencia y tramitación.",
+        "parte": 2,
+        "id": "tema-31-q114"
+      },
+      {
+        "enunciado": "Para que proceda la permuta de bienes y derechos del Patrimonio del Estado, la diferencia de valor entre los bienes permutados, según tasación, no debe ser superior a...",
+        "opciones": [
+          "El 25 por 100 del que tenga mayor valor",
+          "El 50 por 100 del que tenga mayor valor",
+          "El 10 por 100 del que tenga mayor valor",
+          "No existe límite legal si está justificado el interés público"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP exige que la diferencia de valor entre los bienes a permutar, según tasación, no supere el 50 por ciento del que tenga mayor valor; de superarse, el negocio deja de ser una permuta propiamente dicha.",
+        "parte": 2,
+        "id": "tema-31-q115"
+      },
+      {
+        "enunciado": "Si la diferencia de valor entre los bienes que se pretenden permutar supera el límite legal del 50 por ciento, el expediente...",
+        "opciones": [
+          "Se archiva automáticamente sin posibilidad de continuar la operación",
+          "Se tramita como enajenación, con pago de parte del precio en especie",
+          "Se convierte automáticamente en una cesión gratuita",
+          "Requiere autorización de las Cortes Generales mediante ley"
+        ],
+        "correcta": 1,
+        "explicacion": "Cuando la diferencia de valor entre los bienes supera el 50 por ciento del de mayor valor, la operación no puede articularse como permuta y se tramita como una enajenación, en la que parte del precio se abona en especie.",
+        "parte": 2,
+        "id": "tema-31-q116"
+      },
+      {
+        "enunciado": "Respecto del objeto de la permuta de bienes del Patrimonio del Estado, señale la afirmación correcta:",
+        "opciones": [
+          "Nunca puede tener por objeto edificios a construir",
+          "Puede tener por objeto edificios a construir",
+          "Solo puede recaer sobre bienes muebles",
+          "Está reservada exclusivamente a derechos de propiedad incorporal"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP admite expresamente que la permuta tenga por objeto edificios a construir, de forma similar a lo previsto para las adquisiciones de inmuebles en construcción.",
+        "parte": 2,
+        "id": "tema-31-q117"
+      },
+      {
+        "enunciado": "A la permuta de bienes patrimoniales le son de aplicación las normas previstas para la enajenación, salvo las relativas a...",
+        "opciones": [
+          "La competencia del Ministro de Hacienda sobre inmuebles",
+          "La necesidad de convocar concurso o subasta pública para la adjudicación",
+          "La garantía de participación del 5 por 100 del valor de tasación",
+          "La publicación gratuita de la convocatoria en el BOE"
+        ],
+        "correcta": 1,
+        "explicacion": "La permuta se rige por las normas de la enajenación, con la salvedad de que no es necesario convocar concurso o subasta pública para adjudicarla, lo que la distingue de la enajenación ordinaria de inmuebles.",
+        "parte": 2,
+        "id": "tema-31-q118"
+      },
+      {
+        "enunciado": "El órgano competente para tramitar una permuta puede instar la presentación de ofertas de inmuebles o derechos para permutar mediante...",
+        "opciones": [
+          "Un concurso público idéntico, en todo, al de la enajenación",
+          "Un acto de invitación al público, con difusión a través del BOE y de otros medios adecuados",
+          "Una subasta electrónica, como único medio posible",
+          "Su publicación exclusiva en un diario de tirada regional"
+        ],
+        "correcta": 1,
+        "explicacion": "Aunque la permuta no exige concurso o subasta para adjudicarse, el órgano competente puede instar la presentación de ofertas mediante un acto de invitación al público, dándole difusión a través del BOE y de cualesquiera otros medios que se consideren adecuados.",
+        "parte": 2,
+        "id": "tema-31-q119"
+      },
+      {
+        "enunciado": "Entre los requisitos exigidos por la LPAP para que proceda la permuta de bienes patrimoniales se encuentra que...",
+        "opciones": [
+          "Exista identidad de naturaleza jurídica entre los bienes permutados",
+          "Resulte conveniente para el interés público por razones debidamente justificadas en el expediente",
+          "Se obtenga previamente una declaración de utilidad pública del bien recibido",
+          "El bien recibido por la Administración sea siempre un inmueble urbano"
+        ],
+        "correcta": 1,
+        "explicacion": "La permuta solo procede cuando, por razones debidamente justificadas en el expediente, resulte conveniente para el interés público, además de respetar el límite de diferencia de valor del 50 por ciento entre los bienes permutados.",
+        "parte": 2,
+        "id": "tema-31-q120"
+      },
+      {
+        "enunciado": "Conforme a las reglas generales del Título V de la LPAP, ¿en cuáles de los siguientes supuestos es obligatoria la fiscalización previa (informe) de la Intervención General de la Administración del Estado?",
+        "opciones": [
+          "En todo negocio jurídico patrimonial cuyo importe supere los 500.000 euros, sin excepción",
+          "En la enajenación directa y la permuta de bienes o derechos cuyo valor supere 1.000.000 de euros, en los contratos de explotación cuya renta anual exceda dicha cuantía, y en las cesiones gratuitas que deban ser autorizadas por el Consejo de Ministros",
+          "Únicamente en los expedientes de adquisición de inmuebles, cualquiera que sea su cuantía",
+          "Solo cuando el procedimiento de enajenación se tramite mediante subasta electrónica"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP exige informe previo de fiscalización de la Intervención General precisamente en esos tres supuestos tasados: enajenación directa/permuta superior a 1.000.000€, explotación con renta anual superior a esa cifra, y cesión gratuita que requiera autorización del Consejo de Ministros. No existe un umbral genérico de 500.000€ ni se limita a la adquisición de inmuebles ni depende del tipo de subasta.",
+        "nivel": "avanzado",
+        "id": "tema-31-q121"
+      },
+      {
+        "enunciado": "Un departamento ministerial tramita la enajenación directa de un inmueble valorado, según tasación, en 1.200.000 euros. ¿Qué consecuencia procedimental específica se deriva de superar el umbral de 1.000.000 de euros?",
+        "opciones": [
+          "Será preceptivo el informe previo de fiscalización de la Intervención General de la Administración del Estado",
+          "La operación pasa automáticamente a tramitarse como permuta",
+          "Se exige necesariamente la autorización del Consejo de Ministros, al margen de cuál sea el valor de tasación",
+          "El plazo de validez de la tasación pericial se reduce a seis meses"
+        ],
+        "correcta": 0,
+        "explicacion": "Superar 1.000.000€ en una enajenación directa activa el informe previo preceptivo de la Intervención General; la autorización del Consejo de Ministros en enajenaciones de inmuebles se exige por un umbral distinto (20.000.000€), no por este. No se convierte en permuta ni se altera el plazo general de validez de la tasación (un año).",
+        "nivel": "avanzado",
+        "id": "tema-31-q122"
+      },
+      {
+        "enunciado": "Respecto de la formalización en escritura pública de los negocios jurídicos patrimoniales, señale la afirmación correcta",
+        "opciones": [
+          "Todos los negocios jurídicos regulados en el Título V, sin excepción, deben formalizarse en escritura pública",
+          "Los arrendamientos nunca pueden formalizarse en escritura pública, al tratarse de un negocio de mera explotación",
+          "Los negocios de adquisición o enajenación de inmuebles y derechos reales se formalizan siempre en escritura pública, mientras que los arrendamientos y demás negocios de explotación solo deben formalizarse en escritura pública cuando sean susceptibles de inscripción registral y para poder inscribirse",
+          "La escritura pública solo es necesaria cuando el valor del bien supere 1.000.000 de euros"
+        ],
+        "correcta": 2,
+        "explicacion": "La ley distingue: adquisición/enajenación de inmuebles y derechos reales exige siempre escritura pública; en cambio, para arrendamientos y demás negocios de explotación la escritura pública solo es necesaria cuando sean inscribibles en el Registro de la Propiedad y precisamente para posibilitar esa inscripción, no como requisito general de validez.",
+        "nivel": "avanzado",
+        "id": "tema-31-q123"
+      },
+      {
+        "enunciado": "Sobre el orden jurisdiccional competente en los contratos patrimoniales y el concepto de \"acto jurídico separable\", ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "Todas las controversias, incluidas las relativas a la preparación y adjudicación, corresponden siempre al orden civil",
+          "El orden contencioso-administrativo conoce de todo el contrato, incluidos sus efectos y extinción, por tratarse de bienes públicos",
+          "El orden civil es competente para las controversias entre las partes sobre efectos y extinción del contrato, pero los actos de preparación y adjudicación se consideran actos jurídicos separables impugnables ante el orden contencioso-administrativo",
+          "La separabilidad del acto jurídico depende de que el valor del bien supere los 20.000.000 de euros"
+        ],
+        "correcta": 2,
+        "explicacion": "El contrato patrimonial en sí (efectos y extinción) se somete al orden civil, pero los actos de preparación y adjudicación, por su naturaleza administrativa, se consideran separables y son recurribles ante el orden contencioso-administrativo. La separabilidad no depende de ningún umbral económico.",
+        "nivel": "avanzado",
+        "id": "tema-31-q124"
+      },
+      {
+        "enunciado": "En el denominado \"leaseback\" admitido por la LPAP (enajenación con reserva de uso temporal), ¿cuál de las siguientes afirmaciones describe correctamente su régimen?",
+        "opciones": [
+          "Es un procedimiento ordinario y habitual para financiar la Administración, sustituyendo progresivamente al arrendamiento convencional",
+          "Solo cabe con carácter excepcional, debe convenir a la Administración y consiste en enajenar el inmueble reservándose su uso temporal mediante arrendamiento u otro negocio simultáneo a la enajenación, sin que pueda convertirse en regla general",
+          "Implica necesariamente la cesión gratuita posterior del inmueble enajenado",
+          "Solo puede aplicarse a bienes muebles, nunca a inmuebles"
+        ],
+        "correcta": 1,
+        "explicacion": "La propia LPAP advierte que esta fórmula solo cabe excepcionalmente, no puede convertirse en regla general ni desvirtuar el artículo 131.1, y en todo caso debe convenir a la Administración; se aplica precisamente a inmuebles administrativos, no a muebles, y nada tiene que ver con la cesión gratuita.",
+        "nivel": "avanzado",
+        "id": "tema-31-q125"
+      },
+      {
+        "enunciado": "La AGE adquiere excepcionalmente un edificio en construcción. ¿Cuál de las siguientes condiciones NO se exige por la LPAP para este tipo de adquisición?",
+        "opciones": [
+          "Que el valor del suelo y de la parte ya edificada sea superior al de la porción pendiente de construcción",
+          "Que el plazo previsto para la terminación y entrega no exceda de dos años",
+          "Que en el momento de la escritura pública se abone la totalidad del precio pactado, incluida la obra no ejecutada",
+          "Que el vendedor garantice suficientemente la entrega del edificio terminado en plazo y condiciones"
+        ],
+        "correcta": 2,
+        "explicacion": "Rige el principio de servicio hecho: en el momento de la escritura solo puede abonarse el importe correspondiente al suelo y a la obra ya realizada, quedando el resto para la entrega o contra certificaciones de obra. Las demás opciones sí son requisitos exigidos expresamente por la ley.",
+        "nivel": "avanzado",
+        "id": "tema-31-q126"
+      },
+      {
+        "enunciado": "¿A quién corresponde acordar la adquisición de un edificio en construcción por parte de un organismo público vinculado a la AGE?",
+        "opciones": [
+          "Al presidente o director del organismo público, sin necesidad de ningún informe adicional",
+          "Al Ministro de Hacienda directamente, desplazando la competencia del organismo",
+          "Al presidente o director del organismo público, previo informe favorable del Ministro de Hacienda",
+          "Al Consejo de Ministros, por tratarse de una adquisición excepcional"
+        ],
+        "correcta": 2,
+        "explicacion": "Al igual que en la adquisición ordinaria de inmuebles por organismos públicos, la adquisición de edificios en construcción por estos requiere el previo informe favorable del Ministro de Hacienda, manteniendo la competencia decisoria en el presidente o director del organismo, no trasladándola al Ministro ni al Consejo de Ministros.",
+        "nivel": "avanzado",
+        "id": "tema-31-q127"
+      },
+      {
+        "enunciado": "La AGE desea adquirir un inmueble situado en el extranjero. ¿Cuál es el órgano competente para acordar dicha adquisición?",
+        "opciones": [
+          "El Ministro de Hacienda o el Ministro de Asuntos Exteriores, previo informe favorable de este último",
+          "El Ministro de Asuntos Exteriores o el Ministro de Hacienda, previo informe favorable de este último",
+          "Exclusivamente el Ministro de Asuntos Exteriores, sin intervención del Ministro de Hacienda",
+          "El Consejo de Ministros, en todo caso, por tratarse de bienes situados fuera del territorio nacional"
+        ],
+        "correcta": 1,
+        "explicacion": "La adquisición de inmuebles en el extranjero puede acordarla el Ministro de Hacienda o el Ministro de Asuntos Exteriores, pero en este último caso se requiere el informe favorable previo del Ministro de Hacienda (\"de aquél\" se refiere al primero citado). No se exige intervención del Consejo de Ministros por este solo hecho.",
+        "nivel": "avanzado",
+        "id": "tema-31-q128"
+      },
+      {
+        "enunciado": "Comparando los aplazamientos de pago previstos en la LPAP, ¿cuál de las siguientes combinaciones es correcta?",
+        "opciones": [
+          "El importe de la adquisición puede aplazarse hasta 10 años; el precio de venta, hasta 4 años",
+          "El importe de la adquisición puede aplazarse hasta 4 años; el precio de venta (enajenación), hasta 10 años, con interés no inferior al legal del dinero",
+          "Ambos aplazamientos, adquisición y venta, se limitan a un máximo de 4 años",
+          "Ambos aplazamientos, adquisición y venta, pueden extenderse hasta 20 años si medía garantía hipotecaria"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP distingue claramente: en la adquisición, el aplazamiento del importe puede llegar hasta 4 años; en la enajenación, el pago aplazado del precio de venta puede extenderse hasta 10 años, exigiéndose además que el interés de aplazamiento no sea inferior al interés legal del dinero y que se garantice suficientemente.",
+        "nivel": "avanzado",
+        "id": "tema-31-q129"
+      },
+      {
+        "enunciado": "En los procedimientos de adjudicación para la enajenación de inmuebles, ¿cuál es el régimen de garantías exigido a los participantes?",
+        "opciones": [
+          "Una garantía fija del 10 por 100 del valor de tasación, sin posibilidad de modificación",
+          "Una garantía del 5 por 100 del valor de tasación, que el órgano competente podrá elevar hasta el 10 por 100 en casos especiales según las características del bien o las circunstancias de la enajenación",
+          "No se exige garantía alguna cuando la enajenación se tramita por adjudicación directa, cualquiera que sea el supuesto",
+          "Una garantía del 25 por 100 del valor de tasación, equivalente al umbral que define los bienes obsoletos"
+        ],
+        "correcta": 1,
+        "explicacion": "La regla general es una garantía del 5% del valor de tasación, que puede elevarse hasta el 10% en casos especiales atendiendo a las características del inmueble o a las circunstancias de la enajenación. El 25% es un umbral distinto, el que define cuándo un bien mueble se considera obsoleto o deteriorado por el uso.",
+        "nivel": "avanzado",
+        "id": "tema-31-q130"
+      },
+      {
+        "enunciado": "Un bien mueble del Patrimonio del Estado fue adquirido por 10.000 euros y, en el momento de su tasación para la venta, su valor es de 2.000 euros. ¿Qué consecuencia tiene esto conforme a la LPAP?",
+        "opciones": [
+          "Ninguna; el bien debe enajenarse igualmente mediante subasta pública, individualizada o por lotes",
+          "Se considera un bien obsoleto o deteriorado por el uso, ya que su valor de tasación (20%) es inferior al 25 por ciento del valor de adquisición, lo que permite la enajenación directa",
+          "El bien debe destruirse, al no alcanzar el 50 por ciento de su valor de adquisición",
+          "Se le aplican automáticamente las normas de la permuta, al existir una diferencia de valor superior al 50 por ciento"
+        ],
+        "correcta": 1,
+        "explicacion": "El valor de tasación (2.000€) supone un 20% del valor de adquisición (10.000€), por debajo del umbral del 25% que la LPAP fija para calificar un bien mueble como obsoleto o deteriorado por el uso, lo que habilita la enajenación de forma directa en lugar de mediante subasta. No se contemplan ni la destrucción ni la aplicación de las normas de permuta.",
+        "nivel": "avanzado",
+        "id": "tema-31-q131"
+      },
+      {
+        "enunciado": "Se pretende permutar dos inmuebles del Patrimonio del Estado cuyas tasaciones arrojan valores de 100.000 euros y 300.000 euros respectivamente. ¿Qué debe ocurrir conforme a la LPAP?",
+        "opciones": [
+          "La permuta puede realizarse sin más trámite, pues toda diferencia de valor es admisible entre bienes patrimoniales",
+          "La permuta es inviable, ya que la LPAP prohíbe permutar bienes con distinto valor de tasación",
+          "Como la diferencia (200.000 euros) supera el 50 por ciento del valor del bien de mayor valor (300.000 euros), el expediente debe tramitarse como una enajenación con pago de parte del precio en especie, no como permuta",
+          "La permuta debe tramitarse igualmente, pero exige en todo caso autorización del Consejo de Ministros por superar los 20.000.000 de euros"
+        ],
+        "correcta": 2,
+        "explicacion": "La diferencia de 200.000€ representa un 66,7% del valor del bien de mayor valor (300.000€), superando el límite del 50% que fija la LPAP para poder permutar. Cuando se supera ese límite, el expediente ya no se tramita como permuta, sino como una enajenación con pago de parte del precio en especie, sin que la ley prohíba sin más la diferencia de valores ni exija aquí autorización del Consejo de Ministros por un umbral de valor distinto.",
+        "nivel": "avanzado",
+        "id": "tema-31-q132"
+      },
+      {
+        "enunciado": "Respecto del régimen jurídico de la permuta de bienes y derechos del Patrimonio del Estado, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "La permuta no puede tener nunca por objeto edificios a construir, al exigirse que los bienes existan y estén tasados en el momento del acuerdo",
+          "A la permuta le son aplicables las normas de la enajenación, salvo en lo relativo a la necesidad de convocar concurso o subasta pública, pudiendo el órgano competente invitar públicamente, a través del BOE y otros medios, a la presentación de ofertas de bienes o derechos para permutar",
+          "La permuta siempre debe adjudicarse mediante subasta pública, igual que la enajenación de bienes muebles",
+          "La permuta solo puede realizarse entre Administraciones públicas, nunca con particulares"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP remite a las normas de la enajenación para la permuta, exceptuando expresamente la exigencia de concurso o subasta pública para adjudicarla, y permite expresamente que el órgano competente invite al público a presentar ofertas de inmuebles o derechos mediante difusión en el BOE. También admite expresamente que la permuta tenga por objeto edificios a construir, y no se limita a Administraciones públicas.",
+        "nivel": "avanzado",
+        "id": "tema-31-q133"
+      },
+      {
+        "enunciado": "En relación con la cesión gratuita de bienes y derechos de la AGE, ¿cuál de las siguientes afirmaciones es correcta respecto a quiénes pueden ser cesionarios?",
+        "opciones": [
+          "Cualquier persona física o jurídica, pública o privada, puede ser cesionaria tanto de la propiedad como del uso del bien",
+          "Solo pueden ser cesionarios de la propiedad del bien o derecho las comunidades autónomas, las entidades locales o las fundaciones públicas; la cesión del mero uso admite un círculo de beneficiarios más amplio, incluidas asociaciones de utilidad pública",
+          "La cesión gratuita, tenga por objeto la propiedad o el uso, solo puede otorgarse a comunidades autónomas y entidades locales",
+          "Las fundaciones públicas solo pueden ser cesionarias del uso, nunca de la propiedad"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP distingue: si la cesión tiene por objeto la propiedad, solo pueden ser cesionarios CCAA, entidades locales o fundaciones públicas; si se cede solo el uso, el círculo de posibles cesionarios es más amplio, incluyendo asociaciones declaradas de utilidad pública, iglesias o confesiones reconocidas, entre otros sujetos previamente contemplados en la norma.",
+        "nivel": "avanzado",
+        "id": "tema-31-q134"
+      },
+      {
+        "enunciado": "Se pretende ceder gratuitamente un inmueble de la AGE a favor de una fundación pública. ¿Qué órgano resulta competente para acordar dicha cesión?",
+        "opciones": [
+          "El Ministro de Hacienda, a propuesta de la Dirección General del Patrimonio del Estado, igual que en cualquier otra cesión",
+          "El Consejo de Ministros, dado que cuando la cesión se efectúa a favor de fundaciones públicas o asociaciones declaradas de utilidad pública la competencia corresponde a este órgano",
+          "La Dirección General del Patrimonio del Estado, por delegación directa del Ministro de Hacienda",
+          "El propio departamento ministerial que tuviese el inmueble afectado, sin necesidad de informe previo"
+        ],
+        "correcta": 1,
+        "explicacion": "Aunque la regla general atribuye la competencia para acordar la cesión al Ministro de Hacienda (previo informe de la Abogacía del Estado y a propuesta de la DG del Patrimonio), la LPAP establece una excepción expresa: cuando la cesión se dirige a fundaciones públicas o asociaciones de utilidad pública, la competencia pasa al Consejo de Ministros.",
+        "nivel": "avanzado",
+        "id": "tema-31-q135"
+      },
+      {
+        "enunciado": "La AGE cede gratuitamente bienes a un Estado extranjero. ¿En qué contexto admite la LPAP expresamente este tipo de cesión?",
+        "opciones": [
+          "En cualquier circunstancia, siempre que medie reciprocidad diplomática",
+          "Solo cuando el Estado extranjero sea miembro de la Unión Europea",
+          "Cuando la cesión se efectúe en el marco de operaciones de mantenimiento de la paz, cooperación policial o ayuda humanitaria",
+          "Nunca; la LPAP prohíbe expresamente ceder bienes a sujetos de derecho internacional"
+        ],
+        "correcta": 2,
+        "explicacion": "La LPAP admite expresamente la cesión gratuita a Estados extranjeros y organizaciones internacionales, pero circunscrita a operaciones de mantenimiento de la paz, cooperación policial o ayuda humanitaria, no de forma genérica ni condicionada a la pertenencia a la Unión Europea.",
+        "nivel": "avanzado",
+        "id": "tema-31-q136"
+      },
+      {
+        "enunciado": "Un bien fue cedido gratuitamente a una entidad local para destinarlo a un centro social, pero transcurrido el plazo fijado en el acuerdo de cesión el bien no ha sido destinado a dicho fin. ¿Qué efecto produce esta circunstancia?",
+        "opciones": [
+          "Ninguno, salvo que la entidad local lo solicite expresamente a la Administración cedente",
+          "Se considerará resuelta la cesión y los bienes revertirán a la Administración cedente",
+          "La cesión se transforma automáticamente en una permuta a favor de la Administración cedente",
+          "La entidad local pasa a ser propietaria plena del bien, al haber transcurrido el plazo"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP prevé que si los bienes cedidos no se destinan al fin previsto dentro del plazo señalado, dejan de destinarse a él, se incumplen las cargas o condiciones impuestas, o llega el término fijado, la cesión se considera resuelta y los bienes revierten a la Administración cedente, sin que opere ninguna conversión automática en permuta ni consolidación de la propiedad en el cesionario.",
+        "nivel": "avanzado",
+        "id": "tema-31-q137"
+      },
+      {
+        "enunciado": "¿Qué requisitos exige la LPAP para poder imponer cargas o gravámenes sobre bienes o derechos del Patrimonio del Estado?",
+        "opciones": [
+          "Los mismos requisitos exigidos para su enajenación",
+          "Los mismos requisitos exigidos para su arrendamiento, al tratarse de una limitación temporal del dominio",
+          "Ningún requisito especial, al no estar expresamente regulado el gravamen en la LPAP",
+          "Exclusivamente la autorización del Consejo de Ministros, cualquiera que sea el valor del bien"
+        ],
+        "correcta": 0,
+        "explicacion": "La LPAP equipara el régimen del gravamen al de la enajenación: no podrán imponerse cargas o gravámenes sobre bienes o derechos del Patrimonio del Estado sino con los mismos requisitos exigidos para enajenarlos, sin que la ley remita a las reglas del arrendamiento ni exija en todo caso autorización del Consejo de Ministros.",
+        "nivel": "avanzado",
+        "id": "tema-31-q138"
+      },
+      {
+        "enunciado": "¿Quién es competente para acordar la enajenación de derechos de propiedad incorporal (como una patente o una marca) de titularidad de la AGE, y mediante qué procedimiento ordinario se verifica?",
+        "opciones": [
+          "El Ministro de Hacienda, a iniciativa en su caso del titular del departamento que los generó o tenga encomendada su administración y explotación, mediante subasta pública, salvo que concurran las circunstancias del art. 137.4, en cuyo caso cabe la forma directa",
+          "El Consejo de Ministros, a propuesta del departamento titular, mediante concurso público obligatorio",
+          "El titular del departamento que los generó, mediante adjudicación directa como regla general",
+          "La Dirección General del Patrimonio del Estado, mediante subasta electrónica exclusivamente"
+        ],
+        "correcta": 0,
+        "explicacion": "La competencia para enajenar derechos de propiedad incorporal corresponde al Ministro de Hacienda, pudiendo actuar a iniciativa del departamento que generó el derecho o lo administra; el procedimiento ordinario es la subasta pública, admitiéndose la enajenación directa únicamente cuando concurran las circunstancias previstas en el artículo 137.4, al igual que ocurre con los bienes muebles.",
+        "nivel": "avanzado",
+        "id": "tema-31-q139"
+      },
+      {
+        "enunciado": "Comparando la competencia para enajenar bienes inmuebles y bienes muebles del Patrimonio del Estado, ¿cuál de las siguientes afirmaciones es correcta?",
+        "opciones": [
+          "En ambos casos la competencia corresponde siempre al Ministro de Hacienda",
+          "La enajenación de inmuebles corresponde al Ministro de Hacienda (con intervención del Consejo de Ministros si el valor excede 20.000.000€), mientras que la de muebles corresponde al titular del departamento o al presidente/director del organismo público que los tuviera afectados, adscritos o en uso",
+          "La enajenación de muebles corresponde siempre al Consejo de Ministros, por ser bienes de menor valor pero mayor volumen",
+          "Ambas competencias corresponden a la Dirección General del Patrimonio del Estado, que se limita a ejecutar lo decidido por cada departamento"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP descentraliza la competencia para enajenar bienes muebles en el propio departamento u organismo que los tuviera afectados, adscritos o en uso, a diferencia de los inmuebles, cuya competencia recae en el Ministro de Hacienda y, por encima de 20.000.000€ de valor de tasación, requiere la autorización del Consejo de Ministros a propuesta de aquel.",
+        "nivel": "avanzado",
+        "id": "tema-31-q140"
+      },
+      {
+        "enunciado": "Sobre la competencia para la conservación de los bienes y derechos de la AGE, señale la afirmación correcta",
+        "opciones": [
+          "La conservación corresponde en todo caso a la Dirección General del Patrimonio del Estado, con independencia de si el bien está afectado a un servicio público",
+          "La conservación de los bienes afectados o adscritos compete al ministerio u organismo correspondiente (resolviéndose los conflictos entre afectaciones concurrentes mediante acuerdo o, en su defecto, por el Ministro de Hacienda), mientras que la de los bienes y derechos patrimoniales compete a la Dirección General del Patrimonio del Estado, a través de las Delegaciones de Economía y Hacienda",
+          "La conservación de los bienes patrimoniales (no afectados) corresponde a cada departamento ministerial que los hubiera adquirido originalmente",
+          "En caso de afectaciones concurrentes, la competencia para la conservación corresponde automáticamente al departamento de mayor antigüedad en la afectación"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP distingue dos regímenes: la conservación de bienes afectados o adscritos compete al ministerio u organismo correspondiente, resolviéndose la concurrencia de afectaciones por acuerdo entre departamentos o, en su defecto, por el Ministro de Hacienda; la conservación de los bienes y derechos patrimoniales (no afectados) corresponde a la Dirección General del Patrimonio del Estado, actuando a través de las Delegaciones de Economía y Hacienda.",
+        "nivel": "avanzado",
+        "id": "tema-31-q141"
+      },
+      {
+        "enunciado": "Un departamento ministerial que ocupa un inmueble arrendado por la AGE prevé dejarlo libre antes del término pactado. ¿Qué procedimiento establece la LPAP para este supuesto?",
+        "opciones": [
+          "Debe comunicarlo a la Dirección General del Patrimonio del Estado con una antelación mínima de tres meses; esta podrá dar traslado a otros departamentos, que dispondrán de un mes para solicitar la puesta a disposición del inmueble, resolviendo finalmente la Dirección General, sin que la novación contractual resultante permita al arrendador incrementar la renta",
+          "El departamento puede resolver el contrato unilateralmente sin comunicación previa, dado que es el ocupante directo del inmueble",
+          "Debe solicitar autorización del Consejo de Ministros, al tratarse de una modificación contractual sustancial",
+          "El arrendador puede incrementar la renta como contrapartida a la novación contractual derivada del cambio de órgano ocupante"
+        ],
+        "correcta": 0,
+        "explicacion": "La ley exige comunicación a la DG del Patrimonio del Estado con tres meses de antelación mínima; esta puede trasladarlo a otros departamentos, que tienen un mes para solicitar el inmueble, resolviendo la DG sobre el nuevo ocupante y notificándolo al arrendador, para quien la novación contractual es obligatoria sin que proceda incremento de renta, descartando así tanto la resolución unilateral como la intervención del Consejo de Ministros o el incremento de renta.",
+        "nivel": "avanzado",
+        "id": "tema-31-q142"
+      },
+      {
+        "enunciado": "Sobre el plazo de validez de las tasaciones periciales y los informes técnicos requeridos conforme a las reglas generales del Título V, señale la afirmación correcta",
+        "opciones": [
+          "Se exigen para la adquisición o el arrendamiento de inmuebles, deben aportarse por el departamento interesado al abrir el procedimiento, y tienen un plazo de validez de un año desde su aprobación",
+          "Se exigen para cualquier negocio jurídico patrimonial, incluida la cesión gratuita y la permuta, con validez de dos años desde su emisión",
+          "Solo se exigen en la enajenación de inmuebles, con validez indefinida mientras no varíen las condiciones del mercado",
+          "Deben renovarse cada seis meses en todo caso, al margen del tipo de negocio jurídico de que se trate"
+        ],
+        "correcta": 0,
+        "explicacion": "La norma general vincula expresamente estas tasaciones e informes técnicos a la adquisición o el arrendamiento de inmuebles, exige que las aporte el departamento interesado al abrirse el procedimiento, y fija su validez en un año desde la aprobación, no en dos años, ni de forma indefinida, ni limitada solo a la enajenación.",
+        "nivel": "avanzado",
+        "id": "tema-31-q143"
+      },
+      {
+        "enunciado": "La Dirección General del Patrimonio del Estado tramita la enajenación de un inmueble cuyo valor de tasación asciende a 25.000.000 de euros. ¿Qué trámite adicional exige la LPAP por razón de dicho importe?",
+        "opciones": [
+          "Ninguno adicional; basta la decisión del Ministro de Hacienda, como en cualquier enajenación de inmuebles",
+          "Debe ser autorizada por el Consejo de Ministros, a propuesta del Ministro de Hacienda, al superar los 20.000.000 de euros",
+          "Debe someterse a informe previo vinculante de la Abogacía del Estado y de la Intervención General, sin intervención del Consejo de Ministros",
+          "Debe tramitarse obligatoriamente como permuta, al superar dicho umbral"
+        ],
+        "correcta": 1,
+        "explicacion": "Cuando el valor del bien o derecho, según tasación, excede de 20.000.000 de euros, la LPAP exige que la enajenación, competencia ordinaria del Ministro de Hacienda, sea autorizada por el Consejo de Ministros a propuesta de este. No se trata de una permuta ni de un mero informe de otros órganos sin intervención del Consejo de Ministros.",
+        "nivel": "avanzado",
+        "id": "tema-31-q144"
+      },
+      {
+        "enunciado": "Un bien del Patrimonio del Estado se encuentra todavía afectado a un servicio público cuando se inicia la instrucción de su expediente de enajenación. ¿Es esto conforme a la LPAP?",
+        "opciones": [
+          "No, el bien debe estar previamente desafectado antes de iniciar la instrucción del expediente de enajenación, permuta o cesión gratuita",
+          "Sí, los expedientes de enajenación, permuta o cesión gratuita pueden tramitarse aunque el bien permanezca afectado durante la instrucción, siempre que se proceda a su desafectación antes de dictar la resolución o acto aprobatorio de la operación",
+          "Sí, pero únicamente si se trata de un expediente de arrendamiento, no de enajenación",
+          "No, la LPAP prohíbe en todo caso enajenar bienes que hayan estado afectados a un servicio público, aunque posteriormente se desafecten"
+        ],
+        "correcta": 1,
+        "explicacion": "La LPAP permite expresamente tramitar los expedientes de enajenación, permuta o cesión gratuita de bienes del Patrimonio del Estado aunque los bienes se mantengan afectados durante la instrucción, exigiendo solo que la desafectación se produzca antes de dictarse la resolución o el acto aprobatorio de la operación patrimonial; esta regla no se extiende al arrendamiento ni impide definitivamente la enajenación de bienes que hayan estado afectados.",
+        "nivel": "avanzado",
+        "id": "tema-31-q145"
+      }
+    ]
+  },
 ];
 
 const SIMULACROS = [
