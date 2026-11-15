@@ -92,6 +92,10 @@ function advancedQuestions(temaId) {
   return temaQuestions(temaId).filter(q => q.nivel === 'avanzado');
 }
 
+function repasoQuestions(temaId) {
+  return temaQuestions(temaId).filter(q => q.nivel === 'repaso');
+}
+
 function parteQuestions(temaId, parteNum) {
   return temaQuestions(temaId).filter(q => q.parte === parteNum);
 }
@@ -381,6 +385,14 @@ function renderTemaDetail(tema) {
     wrap.appendChild(btnAdvanced);
   }
 
+  const repasoCount = repasoQuestions(tema.id).length;
+  if (repasoCount) {
+    wrap.appendChild(el(`<div class="section-title">Repaso general</div>`));
+    const btnRepaso = el(`<button class="btn btn-repaso">🔄 Repaso general (${repasoCount} preguntas de todo el tema)</button>`);
+    btnRepaso.addEventListener('click', () => startQuiz('repaso', tema.id, repasoCount));
+    wrap.appendChild(btnRepaso);
+  }
+
   const btnFails = el(`<button class="btn ${failCount ? 'btn-outline-danger' : 'btn-secondary'}">Repasar solo falladas (${failCount})</button>`);
   btnFails.addEventListener('click', () => {
     if (!failCount) { showToast('Sin preguntas falladas en este tema 🎉'); return; }
@@ -398,6 +410,7 @@ function startQuiz(mode, temaId, count) {
   else if (mode === 'parte1') pool = parteQuestions(temaId, 1);
   else if (mode === 'parte2') pool = parteQuestions(temaId, 2);
   else if (mode === 'avanzado') pool = advancedQuestions(temaId);
+  else if (mode === 'repaso') pool = repasoQuestions(temaId);
   else if (mode === 'simulacro') pool = simulacroQuestions(temaId);
   else if (mode === 'fails') pool = failingQuestions(temaId);
   else pool = ALL_Q.filter(q => !DISCARDED.has(q.id));
