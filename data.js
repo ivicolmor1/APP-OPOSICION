@@ -67763,3 +67763,1099 @@ const TEMAS = [
     ]
   }
 ];
+const SIMULACROS = [
+  {
+    "id": "simulacro-1",
+    "titulo": "Simulacro 1: Constitucional - Administrativo - Contabilidad",
+    "categoria": "general",
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál de los siguientes cargos no es nombrado por el Rey?",
+        "opciones": [
+          "El Defensor del Pueblo.",
+          "El Presidente del Gobierno.",
+          "El Presidente del Tribunal Supremo.",
+          "El Presidente del Tribunal Constitucional."
+        ],
+        "correcta": 0,
+        "explicacion": "El Defensor del Pueblo no es un cargo de nombramiento real: lo elige el Congreso de los Diputados, con la colaboración del Senado. El Presidente del Gobierno, el del Tribunal Supremo y el del Tribunal Constitucional sí son nombrados formalmente por el Rey a propuesta de los órganos correspondientes. Es una figura de control parlamentario, no del Ejecutivo ni del Poder Judicial.",
+        "id": "simulacro-1-q1"
+      },
+      {
+        "enunciado": "¿Cuál es el número mínimo de Senadores que, al margen de un grupo parlamentario, pueden presentar una proposición de ley?",
+        "opciones": [
+          "10 Senadores.",
+          "15 Senadores.",
+          "20 Senadores.",
+          "25 Senadores."
+        ],
+        "correcta": 3,
+        "explicacion": "En el Senado hacen falta 25 Senadores que no pertenezcan a un mismo grupo parlamentario para presentar una proposición de ley. Ojo, no confundir con el Congreso, donde bastan 15 Diputados para esa misma iniciativa. En ambas Cámaras, un Grupo Parlamentario también puede presentarla directamente, sin necesidad de reunir esas firmas.",
+        "id": "simulacro-1-q2"
+      },
+      {
+        "enunciado": "¿En cuál de las siguientes materias no cabe la delegación de firma?",
+        "opciones": [
+          "En las resoluciones de carácter sancionador.",
+          "En las resoluciones de carácter retroactivo.",
+          "En las resoluciones de carácter administrativo.",
+          "En las resoluciones de carácter discrecional."
+        ],
+        "correcta": 0,
+        "explicacion": "La delegación de firma no puede utilizarse en resoluciones de carácter sancionador. Esta técnica solo traslada la firma material del acto, no la competencia ni la responsabilidad de quien lo dicta, por eso se excluye en el ámbito sancionador como garantía adicional. Es una limitación propia y distinta de la que rige para la delegación de competencias.",
+        "id": "simulacro-1-q3"
+      },
+      {
+        "enunciado": "El voto de la mayoría simple del Congreso de los Diputados se necesita para:",
+        "opciones": [
+          "La primera votación de investidura del candidato a la Presidencia del Gobierno.",
+          "La cuestión de confianza planteada por el Presidente del Gobierno sobre su programa.",
+          "La moción de censura al Gobierno.",
+          "La modificación del Estatuto de una Comunidad Autónoma."
+        ],
+        "correcta": 1,
+        "explicacion": "La cuestión de confianza se entiende otorgada por mayoría simple de los votos emitidos. No confundir con la investidura, que exige mayoría absoluta en su primera votación, ni con la moción de censura, que siempre requiere mayoría absoluta. Es una de las pocas votaciones parlamentarias de gran relevancia que no necesita mayoría reforzada.",
+        "id": "simulacro-1-q4"
+      },
+      {
+        "enunciado": "Según el artículo 59 de la Constitución, si el Rey se inhabilitare para el ejercicio de su autoridad y la imposibilidad fuere reconocida por las Cortes Generales, entrará a ejercer inmediatamente la Regencia:",
+        "opciones": [
+          "El padre o la madre del Rey.",
+          "El pariente de mayor edad más próximo a suceder en la Corona.",
+          "El Príncipe heredero de la Corona, si fuese mayor de edad.",
+          "El Príncipe heredero de la Corona, aunque fuese menor de edad."
+        ],
+        "correcta": 2,
+        "explicacion": "El Príncipe heredero de la Corona asume la Regencia si es mayor de edad, con preferencia sobre cualquier otro pariente. Si fuese menor de edad, entrarían primero el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo en la sucesión. La Regencia se ejerce siempre por mandato constitucional y en nombre del Rey.",
+        "id": "simulacro-1-q5"
+      },
+      {
+        "enunciado": "La aprobación, modificación o derogación de las Leyes Orgánicas, exigirá:",
+        "opciones": [
+          "Mayoría absoluta del Consejo de ministros.",
+          "Mayoría absoluta del Congreso.",
+          "Mayoría absoluta del Senado.",
+          "Mayoría simple del Congreso."
+        ],
+        "correcta": 1,
+        "explicacion": "Las Leyes Orgánicas exigen mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto. No se pide esa mayoría reforzada en el Senado, y el Consejo de Ministros solo aprueba el anteproyecto por mayoría simple en su seno. Esa mayoría cualificada en el Congreso es justo lo que distingue a las Leyes Orgánicas de las ordinarias.",
+        "id": "simulacro-1-q6"
+      },
+      {
+        "enunciado": "En el contexto de los nombramientos de órganos superiores y directivos tras la entrada en vigor de la Ley Orgánica 2/2024, ¿qué porcentaje mínimo debe alcanzar cada sexo en el ámbito de cada departamento ministerial?",
+        "opciones": [
+          "Veinte por ciento (20%).",
+          "Treinta por ciento (30%).",
+          "Cuarenta por ciento (40%).",
+          "Cincuenta por ciento (50%)."
+        ],
+        "correcta": 2,
+        "explicacion": "La normativa de representación paritaria exige que, en los nombramientos de altos cargos y puestos directivos, ningún sexo baje del 40% dentro de cada departamento ministerial. Es el mismo umbral de presencia equilibrada que se usa en otros ámbitos de la vida pública, como las candidaturas electorales. Busca evitar que un solo sexo concentre más del 60% de los puestos de decisión.",
+        "id": "simulacro-1-q7"
+      },
+      {
+        "enunciado": "De acuerdo con la regulación constitucional del Tribunal Constitucional:",
+        "opciones": [
+          "Para que las sentencias del Tribunal Constitucional puedan tener plenos efectos frente a todos, debe reconocerse expresamente en el fallo de cada una de las sentencias que dicte.",
+          "Cuando un órgano judicial considere, en algún proceso, que una norma con rango de ley, aplicable al caso, de cuya validez dependa el fallo, pueda ser contraria a la Constitución, planteará la cuestión ante el Tribunal Constitucional en la forma y con los efectos que establezca la ley, que en ningún caso serán suspensivos.",
+          "Están legitimados para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, el Defensor del Pueblo, el Ministerio Fiscal, y los Jueces y Magistrados.",
+          "Están legitimados para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas, así como los de las Entidades Locales."
+        ],
+        "correcta": 1,
+        "explicacion": "Es la cuestión de inconstitucionalidad: el órgano judicial la plantea cuando duda de la validez de una norma con rango de ley aplicable al caso, y su planteamiento nunca suspende el proceso. Ojo con las otras opciones: los Jueces y Magistrados no están legitimados por sí mismos para interponer recurso de amparo, y las Entidades Locales no pueden interponer recurso de inconstitucionalidad. Tampoco es cierto que cada sentencia deba reconocer expresamente sus efectos generales para producirlos.",
+        "id": "simulacro-1-q8"
+      },
+      {
+        "enunciado": "El Presidente del Gobierno en funciones puede ejercer las siguientes facultades:",
+        "opciones": [
+          "Proponer al Rey la disolución en alguna de las Cámaras.",
+          "Plantear la cuestión de confianza.",
+          "Aprobar el proyecto de ley de Presupuestos Generales del Estado.",
+          "Representar al Gobierno."
+        ],
+        "correcta": 3,
+        "explicacion": "El Gobierno en funciones tiene sus facultades limitadas: no puede proponer la disolución de las Cámaras, ni plantear la cuestión de confianza, ni aprobar el proyecto de Presupuestos Generales del Estado. Sí conserva funciones de gestión ordinaria, como representar al Gobierno. Esta limitación evita que un Ejecutivo en una situación de interinidad condicione decisiones de gran alcance.",
+        "id": "simulacro-1-q9"
+      },
+      {
+        "enunciado": "De acuerdo con la Constitución, se podrán crear agrupaciones de municipios diferentes de la provincia:",
+        "opciones": [
+          "No, en ningún caso.",
+          "Sí.",
+          "Por la diputación provincial, mediante decreto.",
+          "Mediante Ley Orgánica."
+        ],
+        "correcta": 1,
+        "explicacion": "La Constitución permite crear agrupaciones de municipios diferentes de la provincia. No se exige Ley Orgánica ni que sea la diputación provincial quien las cree por decreto. Son entidades locales como las mancomunidades o las comarcas, cuya creación regula la legislación de régimen local.",
+        "id": "simulacro-1-q10"
+      },
+      {
+        "enunciado": "Los Decretos-Legislativos:",
+        "opciones": [
+          "Son disposiciones legislativas que dicta el Gobierno de forma provisional.",
+          "Son disposiciones del Gobierno que contienen legislación delegada.",
+          "Son leyes orgánicas.",
+          "Son disposiciones que dictan las Cortes Generales."
+        ],
+        "correcta": 1,
+        "explicacion": "Los Decretos Legislativos son normas con rango de ley que dicta el Gobierno en virtud de una delegación expresa de las Cortes, mediante una ley de bases o una ley ordinaria de delegación. No confundir con los Decretos-Leyes, que el Gobierno dicta por razones de urgencia sin delegación previa. Tampoco son leyes orgánicas, reservadas siempre a la aprobación directa del Parlamento.",
+        "id": "simulacro-1-q11"
+      },
+      {
+        "enunciado": "Las Cámaras Legislativas funcionarán:",
+        "opciones": [
+          "En cámaras y camarillas.",
+          "En pleno y por comisiones.",
+          "En pleno y en plenillos.",
+          "En pleno y por cámaras."
+        ],
+        "correcta": 1,
+        "explicacion": "Las Cámaras funcionan en Pleno y por Comisiones, y además en Diputación Permanente fuera de los periodos de sesiones. Las Comisiones pueden ser permanentes o no permanentes, legislativas o no legislativas. Es la estructura básica de organización del trabajo parlamentario.",
+        "id": "simulacro-1-q12"
+      },
+      {
+        "enunciado": "Un Parlamentario electo, miembro del Congreso de los Diputados, puede simultanear su mandato con:",
+        "opciones": [
+          "Ser senador.",
+          "Ser miembro de una asamblea legislativa de una comunidad autónoma.",
+          "El cargo de magistrado en activo del tribunal supremo.",
+          "Todas las respuestas anteriores son falsas."
+        ],
+        "correcta": 3,
+        "explicacion": "El mandato de Diputado es incompatible con el de Senador, con ser miembro de una asamblea legislativa autonómica y con el ejercicio de la magistratura en activo. Por eso ninguna de esas combinaciones es posible al mismo tiempo. El régimen de incompatibilidades busca garantizar la dedicación y la independencia del parlamentario.",
+        "id": "simulacro-1-q13"
+      },
+      {
+        "enunciado": "Los Presupuestos de las Cortes Generales son aprobados por:",
+        "opciones": [
+          "Las Cortes generales, no incorporándose a los presupuestos generales del Estado.",
+          "El Gobierno, incorporándose a los presupuestos Generales del Estado.",
+          "Las Cortes Generales, incorporándose a los presupuestos Generales del Estado.",
+          "El Gobierno, no incorporándose a los presupuestos generales del Estado."
+        ],
+        "correcta": 2,
+        "explicacion": "Los Presupuestos de las Cortes Generales los elabora y aprueba el propio Parlamento, en ejercicio de su autonomía presupuestaria, pero luego se incorporan como una sección más a los Presupuestos Generales del Estado. No es el Gobierno quien los aprueba. Esa autonomía presupuestaria refuerza la independencia de las Cámaras frente al Ejecutivo.",
+        "id": "simulacro-1-q14"
+      },
+      {
+        "enunciado": "Señale la respuesta verdadera:",
+        "opciones": [
+          "La atribución de competencias por parte de las Cortes Generales a las Comunidades Autónomas a través de una Ley Marco será revocable en determinadas circunstancias siempre que así lo aprecien la mayoría absoluta de ambas cámaras.",
+          "El Estado transferirá o delegará en las Comunidades Autónomas, mediante ley orgánica, facultades correspondientes a materias de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación Ley Orgánica.",
+          "El Estado podrá dictar leyes de armonización que establezcan las bases y normas necesarias para armonizar las disposiciones normativas de las CCAA.",
+          "Todas son falsas."
+        ],
+        "correcta": 3,
+        "explicacion": "Las tres primeras opciones alteran algún matiz del artículo 150 CE, ya sea en el tipo de mayoría, en el mecanismo legal o en el requisito exigido, por lo que ninguna es correcta tal como está formulada. Ese precepto regula las leyes marco, las leyes de transferencia o delegación y las leyes de armonización como vías de cesión o coordinación de competencias entre Estado y Comunidades Autónomas. Conviene repasarlo con detalle, porque los exámenes suelen jugar con esos matices.",
+        "id": "simulacro-1-q15"
+      },
+      {
+        "enunciado": "¿Cuál es el número mínimo de habitantes para poder constituir un municipio?",
+        "opciones": [
+          "5.000",
+          "6.000",
+          "4.500",
+          "Todas son falsas."
+        ],
+        "correcta": 3,
+        "explicacion": "Ninguna de las cifras propuestas coincide con el mínimo de habitantes exigido actualmente para constituir un nuevo municipio, ya que la normativa de régimen local se ha modificado respecto a la regulación clásica. Por eso la respuesta correcta es que todas las opciones son falsas. Conviene repasar la cifra vigente en la ley reguladora de las bases del régimen local, distinta del histórico umbral de 5.000 habitantes.",
+        "id": "simulacro-1-q16"
+      },
+      {
+        "enunciado": "La reforma de la Constitución Española:",
+        "opciones": [
+          "Siempre deberá ser sometida a referéndum su ratificación.",
+          "Puede no ser sometida a referéndum si se aprueba por 3/5 de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras.",
+          "Puede no ser sometida a referéndum si se aprueba por mayoría absoluta de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras.",
+          "Puede no ser sometida a referéndum si se aprueba por 2/3 de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras."
+        ],
+        "correcta": 1,
+        "explicacion": "La reforma ordinaria de la Constitución exige 3/5 de cada Cámara y solo se somete a referéndum si lo pide una décima parte de los miembros de cualquiera de ellas dentro de los quince días siguientes a su aprobación. No confundir con la reforma agravada, que sí exige referéndum obligatorio. Aquí el referéndum es, por tanto, facultativo, no automático.",
+        "id": "simulacro-1-q17"
+      },
+      {
+        "enunciado": "¿Quiénes integran el Pleno del Consejo de Estado según el artículo 4 de la L.O. 3/1980?",
+        "opciones": [
+          "El presidente, los consejeros selectivos y el secretario general.",
+          "El presidente, los consejeros permanentes, los consejeros natos, los consejeros selectivos y el secretario general.",
+          "El presidente, los consejeros permanentes, los consejeros natos y el secretario general.",
+          "Todas son falsas."
+        ],
+        "correcta": 3,
+        "explicacion": "Ojo, no confundir 'electivos' con 'selectivos': el Pleno se integra por el presidente, los consejeros permanentes, los consejeros natos, los consejeros electivos y el secretario general. Como ninguna opción emplea el término correcto, la respuesta es que todas son falsas. Los consejeros permanentes y natos tienen un estatuto distinto al de los electivos, que se nombran por un periodo determinado.",
+        "id": "simulacro-1-q18"
+      },
+      {
+        "enunciado": "Una de las diferencias existentes entre Decretos Legislativos y Decretos Leyes radica en que:",
+        "opciones": [
+          "Los primeros necesitan convalidación; los segundos no.",
+          "Los primeros los dicta el gobierno; los segundos, la administración.",
+          "Los primeros no necesitan convalidación, los segundos sí.",
+          "Los primeros los dicta la administración; los segundos, el gobierno."
+        ],
+        "correcta": 2,
+        "explicacion": "Al revés de lo que dice la primera opción: el Decreto Legislativo no necesita convalidación posterior, mientras que el Decreto-Ley sí debe convalidarlo el Congreso dentro de los treinta días siguientes a su promulgación. Ambos los dicta el Gobierno, nunca la Administración por sí sola. La diferencia clave está en el control parlamentario posterior, no en el órgano que los aprueba.",
+        "id": "simulacro-1-q19"
+      },
+      {
+        "enunciado": "De acuerdo con nuestra Constitución, la responsabilidad criminal del Presidente y de los demás miembros del Gobierno, en el ejercicio de sus funciones:",
+        "opciones": [
+          "Será exigible ante la Sala de lo Penal de la Audiencia Nacional.",
+          "En el caso de acusación por cualquier delito contra la seguridad del Estado, sólo podrá plantearse por iniciativa de la mayoría absoluta de los miembros del Congreso.",
+          "En el caso de acusación por cualquier delito contra la seguridad del Estado, aquélla deberá aprobarse por la mayoría absoluta del Congreso.",
+          "En el caso de delitos contra la Seguridad del Estado, podrá tener lugar la prerrogativa real de gracia."
+        ],
+        "correcta": 2,
+        "explicacion": "No basta con que la acusación se inicie por mayoría absoluta: debe ser aprobada por mayoría absoluta del Congreso. Además, en estos casos queda excluida la prerrogativa real de gracia. La responsabilidad penal del Presidente y los ministros se exige ante la Sala de lo Penal del Tribunal Supremo, no ante la Audiencia Nacional.",
+        "id": "simulacro-1-q20"
+      },
+      {
+        "enunciado": "¿Qué tipo de Tribunales están prohibidos por la Constitución?",
+        "opciones": [
+          "Los Tribunales de Honor y los Tribunales consuetudinarios.",
+          "Los Tribunales consuetudinarios y los Tribunales de excepción.",
+          "Los Tribunales de excepción y los Tribunales de Honor.",
+          "Los Tribunales populares y los Tribunales consuetudinarios."
+        ],
+        "correcta": 2,
+        "explicacion": "La Constitución prohíbe los Tribunales de excepción, dentro de las garantías del derecho al juez ordinario, y los Tribunales de Honor, en el ámbito de la Administración civil y las organizaciones profesionales. Ojo, no confundir con los Tribunales consuetudinarios y tradicionales, que sí tienen reconocimiento constitucional en determinados territorios. Son dos prohibiciones distintas que conviene no mezclar.",
+        "id": "simulacro-1-q21"
+      },
+      {
+        "enunciado": "Las sesiones extraordinarias del Congreso y Senado deberán ser solicitadas por:",
+        "opciones": [
+          "Un tercio de los miembros de las Cámaras.",
+          "La mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+          "La mayoría simple de los miembros de cualquiera de las Cámaras.",
+          "La décima parte de los miembros de cualquiera de las Cámaras."
+        ],
+        "correcta": 1,
+        "explicacion": "Las sesiones extraordinarias deben solicitarlas el Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros de cualquiera de las Cámaras. No basta con un tercio, la mayoría simple ni la décima parte, umbrales que se reservan a otras iniciativas parlamentarias. Se convocan con un orden del día determinado y se clausuran una vez agotado este.",
+        "id": "simulacro-1-q22"
+      },
+      {
+        "enunciado": "Respecto a la Igualdad, el Plan III no nombra uno de los siguientes ejes de actuación:",
+        "opciones": [
+          "Condiciones de trabajo y desarrollo profesional.",
+          "Igualdad de oportunidades en el mercado laboral.",
+          "Violencia contra las mujeres.",
+          "Interseccionalidad y situaciones de especial protección."
+        ],
+        "correcta": 1,
+        "explicacion": "Ese eje concreto no figura de forma expresa entre los recogidos en el III Plan de Igualdad de Género en la Administración General del Estado, a diferencia de las otras tres opciones. Conviene repasar el plan vigente, porque sus ejes se revisan y actualizan en cada edición. Es un contenido específico de la normativa de igualdad en el empleo público, distinto de las políticas generales de empleo.",
+        "id": "simulacro-1-q23"
+      },
+      {
+        "enunciado": "De acuerdo con la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, se considera discriminación indirecta:",
+        "opciones": [
+          "La situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable.",
+          "Cualquier comportamiento, verbal o físico, de naturaleza sexual que tenga el propósito o produzca el efecto de atentar contra la dignidad de una persona, en particular cuando se crea un entorno intimidatorio, degradante u ofensivo.",
+          "Cualquier comportamiento realizado en función del sexo de una persona, con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradante u ofensivo.",
+          "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro, salvo que dicha disposición, criterio o práctica puedan justificarse objetivamente en atención a una finalidad legítima y que los medios para alcanzar dicha finalidad sean necesarios y adecuados."
+        ],
+        "correcta": 3,
+        "explicacion": "No confundir los cuatro conceptos: la opción A define discriminación directa, la B el acoso sexual y la C el acoso por razón de sexo. La D es la definición de discriminación indirecta: una disposición, criterio o práctica aparentemente neutros que perjudica a un sexo, salvo que esté justificada de forma objetiva. Es un matiz clásico de examen, porque los cuatro conceptos son fáciles de mezclar.",
+        "id": "simulacro-1-q24"
+      },
+      {
+        "enunciado": "Según el Título II de la Constitución Española relativo a la Corona:",
+        "opciones": [
+          "La Regencia se ejercerá por mandato constitucional y siempre en nombre del Rey.",
+          "Las abdicaciones y renuncias en el orden sucesorio se resolverán por ley ordinaria.",
+          "El Príncipe heredero podrá asumir la Regencia durante su minoría de edad.",
+          "La Regencia podrá ejercerse por nacionales de cualquier Estado."
+        ],
+        "correcta": 0,
+        "explicacion": "La Regencia se ejerce siempre por mandato constitucional y en nombre del Rey, nunca a título propio de quien la ejerce. Las abdicaciones y renuncias en el orden sucesorio se resuelven por ley orgánica, no por ley ordinaria, y el Príncipe heredero solo puede asumir la Regencia si es mayor de edad. Además, para ejercerla se exige ser español y mayor de edad, no cualquier nacionalidad.",
+        "id": "simulacro-1-q25"
+      },
+      {
+        "enunciado": "¿Qué países se incorporaron a la Unión Europea en la ampliación de los Estados miembros de 1995?",
+        "opciones": [
+          "Austria, Estonia y Finlandia.",
+          "Austria, Suecia y Chipre.",
+          "Estonia, Finlandia y Suecia.",
+          "Austria, Suecia y Finlandia."
+        ],
+        "correcta": 3,
+        "explicacion": "En la ampliación de 1995 se incorporaron Austria, Suecia y Finlandia. Ojo, no confundir con la gran ampliación de 2004, en la que entraron países como Estonia y Chipre junto a otros varios estados. La de 1995 completó la llamada ampliación del área EFTA, tras la cual la Unión pasó a tener quince Estados miembros.",
+        "id": "simulacro-1-q26"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes tratados no se considera un Tratado fundacional de la Unión Europea?",
+        "opciones": [
+          "Tratado de París (1951)",
+          "Tratado de la Unión Europea (Maastricht, 1992)",
+          "Tratado de Lisboa (2007)",
+          "Tratado constitutivo de la Comunidad Económica Europea (1957)"
+        ],
+        "correcta": 2,
+        "explicacion": "El Tratado de Lisboa es un tratado de reforma que modifica los tratados existentes, no un tratado fundacional. Los fundacionales son el de París, que crea la CECA, el de Roma, que crea la CEE, y el de Maastricht, que crea la Unión Europea. Lisboa reordenó el funcionamiento de la Unión, pero no la fundó.",
+        "id": "simulacro-1-q27"
+      },
+      {
+        "enunciado": "Señale la verdadera:",
+        "opciones": [
+          "Los Organismo Públicos son creados por Ley Orgánica.",
+          "La disolución de los Organismos Públicos se hará por Ley Orgánica.",
+          "El Hipódromo de la Zarzuela es un ejemplo de Sociedad Mercantil Estatal.",
+          "Las respuestas A y B son ciertas."
+        ],
+        "correcta": 2,
+        "explicacion": "Al revés de lo que dicen A y B: los Organismos Públicos no se crean ni se extinguen por Ley Orgánica, sino según el tipo de organismo, por ley ordinaria, real decreto o acuerdo de Consejo de Ministros. El Hipódromo de la Zarzuela sí es un ejemplo real de sociedad mercantil estatal. Conviene no confundir el régimen de creación de los organismos públicos con el de las sociedades mercantiles estatales.",
+        "id": "simulacro-1-q28"
+      },
+      {
+        "enunciado": "El precedente administrativo:",
+        "opciones": [
+          "Es una fuente del derecho administrativo.",
+          "No es una fuente del derecho administrativo y carece de toda trascendencia en relación con los actos posteriores que se separen del criterio anterior.",
+          "No es una fuente del derecho administrativo, pero tiene trascendencia en relación con los actos posteriores que se separen del criterio anterior.",
+          "Se aplica a las relaciones entre particulares."
+        ],
+        "correcta": 2,
+        "explicacion": "El precedente administrativo no es una fuente formal del Derecho, pero sí tiene trascendencia jurídica: la Administración no puede apartarse de un criterio anterior sin motivarlo, por los principios de igualdad y seguridad jurídica. No es, por tanto, irrelevante como afirma la opción B. Tampoco se aplica a las relaciones entre particulares, propias del Derecho privado.",
+        "id": "simulacro-1-q29"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes competencias no es exclusiva del Estado?",
+        "opciones": [
+          "Las bases del régimen minero.",
+          "Las bases del régimen energético.",
+          "La legislación sobre propiedad industrial.",
+          "La sanidad y la higiene."
+        ],
+        "correcta": 3,
+        "explicacion": "Las bases y la coordinación general de la sanidad son competencia compartida entre el Estado y las Comunidades Autónomas, que asumen su desarrollo legislativo y ejecución. En cambio, las bases del régimen minero y energético, y la legislación sobre propiedad industrial, sí son competencia exclusiva íntegra del Estado. Es un matiz importante del reparto competencial constitucional.",
+        "id": "simulacro-1-q30"
+      },
+      {
+        "enunciado": "Según el artículo 11 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, la encomienda de gestión:",
+        "opciones": [
+          "Puede formalizarse entre una Administración y una entidad instrumental que adopte la forma de sociedad mercantil.",
+          "Sólo cabe por razones de eficacia siempre que además no se posean los medios técnicos idóneos para su desempeño.",
+          "Supone la cesión de los elementos adjetivos para el ejercicio de la competencia.",
+          "Supone una alteración de la titularidad de la competencia."
+        ],
+        "correcta": 2,
+        "explicacion": "Al revés de la última opción: la encomienda de gestión no altera en ningún caso la titularidad ni el ejercicio de la competencia. Lo que cede son los elementos adjetivos o instrumentales, es decir, medios materiales, técnicos o personales, para llevarla a cabo. Se diferencia así claramente de la delegación de competencias, donde sí cambia quién ejerce la potestad.",
+        "id": "simulacro-1-q31"
+      },
+      {
+        "enunciado": "Principio por el cual se deben tener en cuenta las amortizaciones y correcciones de valor en cada ejercicio independientemente del beneficio o pérdida:",
+        "opciones": [
+          "No compensación.",
+          "Empresa en funcionamiento.",
+          "Importancia relativa.",
+          "Prudencia."
+        ],
+        "correcta": 3,
+        "explicacion": "Es el principio de prudencia: obliga a registrar amortizaciones y correcciones de valor por deterioro en cada ejercicio, haya o no beneficio en el periodo. No confundir con la importancia relativa, que permite flexibilizar el registro de partidas poco significativas. La prudencia también implica contabilizar todos los riesgos previsibles, aunque solo se reconozcan los beneficios ya realizados.",
+        "id": "simulacro-1-q32"
+      },
+      {
+        "enunciado": "Respecto de la actividad sancionadora de la administración señale la verdadera:",
+        "opciones": [
+          "El principio de legalidad se encuentra consagrado en el artículo 25 CE y en el artículo 25 Ley 39/2015.",
+          "El principio de legalidad implica que toda infracción y toda sanción administrativas han de venir predeterminadas por la Ley no optando a ello los Decretos Legislativos.",
+          "La reincidencia como aspecto a tener en cuenta en la interposición de sanciones se refiere únicamente a la vía administrativa.",
+          "En todo caso, el órgano competente para resolver el procedimiento aplicará reducciones de, al menos, el 20% sobre el importe de la sanción propuesta, siendo éstos acumulables entre sí."
+        ],
+        "correcta": 2,
+        "explicacion": "La reincidencia se aprecia cuando existe una resolución sancionadora firme en vía administrativa, sin necesidad de una sentencia penal firme. Ojo, no confundir: el principio de legalidad sí admite que las infracciones y sanciones se prevean por Decreto Legislativo, al tener éste rango de ley. Tampoco es cierto que las reducciones mínimas se apliquen siempre de forma acumulativa en todo caso.",
+        "id": "simulacro-1-q33"
+      },
+      {
+        "enunciado": "No se puede extinguir una sanción administrativa por:",
+        "opciones": [
+          "Muerte del infractor.",
+          "Compensación.",
+          "Indulto.",
+          "Todas son formas de extinguir una sanción administrativa."
+        ],
+        "correcta": 1,
+        "explicacion": "La compensación no es una causa de extinción de la responsabilidad derivada de infracciones administrativas. Sí lo son, entre otras, la muerte del infractor, el cumplimiento de la sanción, la prescripción y el indulto. La compensación es propia del ámbito de las obligaciones civiles, no del sancionador administrativo.",
+        "id": "simulacro-1-q34"
+      },
+      {
+        "enunciado": "Respecto al calendario siguiente:",
+        "opciones": [
+          "La empresa tiene como límite el 31 de marzo para formular sus cuentas anuales.",
+          "La empresa tiene como límite el 30 de junio para aprobar las cuentas anuales.",
+          "La empresa tiene como límite el 30 de julio para depositarlas en el Registro Mercantil.",
+          "Todas son verdaderas."
+        ],
+        "correcta": 3,
+        "explicacion": "Los tres plazos son correctos: formulación de las cuentas antes del 31 de marzo, aprobación por la junta antes del 30 de junio y depósito en el Registro Mercantil dentro del mes siguiente a esa aprobación. Es el calendario contable habitual de una sociedad cuyo ejercicio coincide con el año natural. Incumplir alguno de estos hitos puede acarrear sanciones o el cierre registral de la hoja de la sociedad.",
+        "id": "simulacro-1-q35"
+      },
+      {
+        "enunciado": "¿En qué año fue aprobada la Ley Orgánica de Libertad Religiosa?",
+        "opciones": [
+          "1980",
+          "1979",
+          "1978",
+          "1981"
+        ],
+        "correcta": 0,
+        "explicacion": "La Ley Orgánica de Libertad Religiosa se aprobó en 1980, desarrollando el derecho fundamental reconocido en el artículo 16 CE. No hay que confundirla con la propia Constitución, aprobada en 1978, ni con otras normas de esos primeros años de la democracia. Fue una de las primeras leyes orgánicas en aprobarse tras la entrada en vigor de la Constitución.",
+        "id": "simulacro-1-q36"
+      },
+      {
+        "enunciado": "¿Cuál es la mayoría que debe alcanzarse en las Cortes para iniciar la reforma del artículo 15 de la Constitución?",
+        "opciones": [
+          "3/5.",
+          "2/3.",
+          "Mayoría absoluta.",
+          "2/5."
+        ],
+        "correcta": 1,
+        "explicacion": "El artículo 15 CE está protegido por el procedimiento de reforma agravada, que exige una mayoría de 2/3 de cada Cámara para la aprobación inicial. No confundir con la reforma ordinaria de la Constitución, que solo exige 3/5. Ese procedimiento reforzado se reserva a la revisión total de la Constitución y a la reforma de sus partes más protegidas, como los derechos fundamentales de la Sección 1ª.",
+        "id": "simulacro-1-q37"
+      },
+      {
+        "enunciado": "Respecto de los Tratados Internacionales no es cierto que:",
+        "opciones": [
+          "Dos de las tres respuestas siguientes sean verdaderas.",
+          "Solo puedan ser fuentes indirectas de Derecho Administrativo al venir de órganos supranacionales.",
+          "Pueden ser tanto fuentes directas como indirectas de Derecho Administrativo.",
+          "Forman parte del ordenamiento interno mediante su publicación íntegra en el BOE."
+        ],
+        "correcta": 1,
+        "explicacion": "Es falso que los Tratados Internacionales solo puedan ser fuente indirecta: una vez publicados íntegramente en el BOE, pasan a formar parte del ordenamiento interno y pueden actuar como fuente directa. Según el caso, funcionan tanto como fuente directa como indirecta del Derecho Administrativo. Esa publicación oficial es precisamente lo que les da eficacia dentro del ordenamiento español.",
+        "id": "simulacro-1-q38"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes tipos de reglamentos no existe si los configuramos desde el punto de vista de su relación con la ley?",
+        "opciones": [
+          "De necesidad.",
+          "Administrativos.",
+          "Ejecutivos.",
+          "Independientes."
+        ],
+        "correcta": 1,
+        "explicacion": "Desde el punto de vista de su relación con la ley, los reglamentos se clasifican en ejecutivos, independientes y de necesidad. 'Administrativos' no es una categoría de esta clasificación, aunque coloquialmente se use así para referirse a cualquier reglamento. Otra clasificación distinta es la que atiende al órgano que los dicta o a su ámbito de aplicación.",
+        "id": "simulacro-1-q39"
+      },
+      {
+        "enunciado": "¿Qué requisito debe cumplirse para dictar un reglamento general de ejecución de una ley?",
+        "opciones": [
+          "Dictamen favorable del Consejo de Estado.",
+          "Dictamen previo del Consejo de Estado.",
+          "Dictamen favorable del Tribunal Constitucional.",
+          "Dictamen previo del Ministerio de Presidencia."
+        ],
+        "correcta": 1,
+        "explicacion": "No es que el dictamen deba ser favorable, sino que tiene que ser previo: los reglamentos que ejecutan de forma general una ley requieren el dictamen previo, preceptivo pero no vinculante, del Consejo de Estado. No interviene aquí el Tribunal Constitucional ni el Ministerio de Presidencia. Esta consulta actúa como control de legalidad y de técnica normativa antes de que el reglamento entre en vigor.",
+        "id": "simulacro-1-q40"
+      }
+    ]
+  },
+  {
+    "id": "simulacro-2",
+    "titulo": "Simulacro 2: Constitucional - Administrativo - Contabilidad",
+    "categoria": "general",
+    "preguntas": [
+      {
+        "enunciado": "El Defensor del Pueblo, según el art 54 de la CE:",
+        "opciones": [
+          "Es designado por el Congreso de los Diputados, dando cuenta de su actividad al Rey.",
+          "Es designado por el Gobierno de la nación, dando cuenta de su actividad al Congreso.",
+          "Es designado por las Cortes Generales, a las que dará cuenta.",
+          "Es designado por el Gobierno de la nación, al que dará cuenta de su actuación."
+        ],
+        "correcta": 2,
+        "explicacion": "El Defensor del Pueblo es un alto comisionado de las Cortes Generales: lo designan las Cortes Generales y es ante ellas ante quien debe dar cuenta de su actividad (art. 54 CE), para supervisar la actividad de la Administración en defensa de los derechos del Título I.",
+        "id": "simulacro-2-q1"
+      },
+      {
+        "enunciado": "Conforme al art. 103.1 de la CE, la Administración pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de (señalar la incorrecta):",
+        "opciones": [
+          "Jerarquía y descentralización.",
+          "Competencia y proporcionalidad.",
+          "Eficacia, desconcentración y coordinación.",
+          "Sometimiento pleno a la Ley y al Derecho."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 103.1 CE enumera expresamente los principios de jerarquía, descentralización, desconcentración, coordinación y eficacia, además del sometimiento pleno a la Ley y al Derecho. 'Competencia y proporcionalidad' no figuran en ese listado constitucional.",
+        "id": "simulacro-2-q2"
+      },
+      {
+        "enunciado": "¿Cuál de las siguientes materias, conforme al art. 81 de la C.E., no requiere para su regulación una Ley Orgánica?",
+        "opciones": [
+          "Las condiciones y el procedimiento de las distintas modalidades de referéndum previstas en la Constitución.",
+          "Las funciones, principios básicos de actuación y estatutos de las Fuerzas y Cuerpos de Seguridad.",
+          "La constitución, funcionamiento y gobierno de los Juzgados y Tribunales.",
+          "Las delegaciones legislativas."
+        ],
+        "correcta": 3,
+        "explicacion": "Las tres primeras materias (condiciones del referéndum, estatuto de las Fuerzas y Cuerpos de Seguridad, y constitución y gobierno de Juzgados y Tribunales) están reservadas a Ley Orgánica por mandatos específicos de la Constitución. Las delegaciones legislativas, en cambio, se instrumentan mediante una ley de bases o una ley ordinaria (arts. 82 a 85 CE), nunca mediante Ley Orgánica.",
+        "id": "simulacro-2-q3"
+      },
+      {
+        "enunciado": "Respecto del Gobierno, la Constitución predica que:",
+        "opciones": [
+          "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.",
+          "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución, las leyes y resto del Ordenamiento Jurídico.",
+          "El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de la confianza parlamentaria previstos en la Constitución y por dimisión o fallecimiento de su Presidente.",
+          "El Consejo de Estado es el supremo órgano consultivo del Gobierno. Una ley regulará su composición y competencia."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 97 CE dice textualmente que el Gobierno dirige la política interior y exterior, ejerce la función ejecutiva y la potestad reglamentaria 'de acuerdo con la Constitución y las leyes'. La opción B añade 'y resto del Ordenamiento Jurídico', una coletilla que no forma parte del texto constitucional literal.",
+        "id": "simulacro-2-q4"
+      },
+      {
+        "enunciado": "Las abdicaciones y renuncias en el orden de sucesión a la Corona las resolverán:",
+        "opciones": [
+          "El Presidente del Gobierno",
+          "El Gobierno en pleno",
+          "Las Cortes Generales",
+          "Por una Ley orgánica"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 57.5 CE reserva expresamente a una Ley Orgánica la resolución de las abdicaciones y renuncias, así como cualquier duda de hecho o de derecho que se plantee en el orden de sucesión a la Corona.",
+        "id": "simulacro-2-q5"
+      },
+      {
+        "enunciado": "Como consecuencia del principio de reserva de ley, la Administración no podrá por vía reglamentaria:",
+        "opciones": [
+          "Establecer tributos ni otro tipo de exacciones.",
+          "Establecer y exigir prestaciones personales obligatorias.",
+          "Establecer ni imponer penas.",
+          "Todas las respuestas anteriores son correctas."
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 128 LPAC prohíbe a los reglamentos tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, así como tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público. Las tres prohibiciones son correctas simultáneamente.",
+        "id": "simulacro-2-q6"
+      },
+      {
+        "enunciado": "Las decisiones que aprueben normas reglamentarias de la competencia del Consejo de Ministros adoptarán la forma de:",
+        "opciones": [
+          "Reales Decretos-Leyes",
+          "Reales Decretos.",
+          "Decretos del Consejo de Ministros.",
+          "Acuerdos del Consejo de Ministros."
+        ],
+        "correcta": 1,
+        "explicacion": "Las normas reglamentarias aprobadas en Consejo de Ministros adoptan la forma de Real Decreto, a diferencia de los Decretos-Leyes (normas con fuerza de ley para casos de extraordinaria y urgente necesidad) o de los simples Acuerdos, que no tienen naturaleza normativa.",
+        "id": "simulacro-2-q7"
+      },
+      {
+        "enunciado": "El Estatuto Orgánico del Ministerio Fiscal está regulado por:",
+        "opciones": [
+          "Ley",
+          "Real decreto",
+          "Ley orgánica",
+          "Orden ministerial"
+        ],
+        "correcta": 2,
+        "explicacion": "El Estatuto Orgánico del Ministerio Fiscal se regula mediante Ley Orgánica. No lo confundas con otras normas organizativas de rango inferior: su regulación exige el rango reforzado de Ley Orgánica.",
+        "id": "simulacro-2-q8"
+      },
+      {
+        "enunciado": "Los Secretarios generales en la Administración General del Estado, de conformidad con la LRJSP:",
+        "opciones": [
+          "Son órganos territoriales de la Administración General del Estado.",
+          "Forman parte de la organización interna de los Ministerios.",
+          "Ejercerán la potestad reglamentaria en las materias propias de su Departamento.",
+          "Las respuestas b) y c) son correctas."
+        ],
+        "correcta": 1,
+        "explicacion": "Los Secretarios generales son órganos directivos que, junto con los Subsecretarios, Secretarios generales técnicos, Directores generales y Subdirectores generales, forman parte de la organización interna de cada Ministerio (art. 55 LRJSP). No son órganos territoriales (eso son los Delegados/Subdelegados del Gobierno) ni ejercen la potestad reglamentaria, que corresponde a los Ministros mediante Orden Ministerial en las materias de su Departamento.",
+        "id": "simulacro-2-q9"
+      },
+      {
+        "enunciado": "Según dispone la Constitución Española, ¿quién es el encargado de refrendar el nombramiento del Presidente de Gobierno, efectuado por el Rey?",
+        "opciones": [
+          "El Consejo de Estado",
+          "El Presidente del Senado",
+          "El Presidente del Congreso de los Diputados",
+          "El Presidente del Tribunal Supremo"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 64.1 CE distingue el refrendo general (a cargo del Presidente del Gobierno y, en su caso, los Ministros competentes) del refrendo específico de la propuesta y el nombramiento del Presidente del Gobierno, y de la disolución del art. 99, que corresponde al Presidente del Congreso de los Diputados.",
+        "id": "simulacro-2-q10"
+      },
+      {
+        "enunciado": "Señala la respuesta incorrecta, de conformidad con la ley 7/85 BRL:",
+        "opciones": [
+          "Los Municipios gozan de personalidad jurídica y plena capacidad para el cumplimiento de sus fines.",
+          "Los alcaldes son elegidos por los concejales o por los vecinos",
+          "Los concejales son elegidos por los vecinos del Municipio mediante sufragio universal, igual, libre, público y directo.",
+          "El gobierno y administración de los Municipios corresponde a sus respectivos Ayuntamientos, integrados por los alcaldes y los concejales."
+        ],
+        "correcta": 2,
+        "explicacion": "Al revés: el art. 140 CE exige que los Concejales sean elegidos mediante sufragio universal, igual, libre, directo y SECRETO, no 'público'. Las demás afirmaciones (personalidad jurídica de los Municipios, elección de alcaldes por concejales o vecinos, y composición de los Ayuntamientos) son correctas conforme a la Ley 7/1985 y al propio art. 140 CE.",
+        "id": "simulacro-2-q11"
+      },
+      {
+        "enunciado": "Conforme al art. 150.1 de la C.E., indique la respuesta correcta:",
+        "opciones": [
+          "Las Cortes Generales, en materia de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal.",
+          "Las Cortes Generales, en materia de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por la constitución.",
+          "El Gobierno, en materia de competencia estatal, podrá atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal.",
+          "El Congreso, en materia de competencia estatal, podrán atribuir a todas o a alguna de las Comunidades Autónomas la facultad de dictar, para sí mismas, normas legislativas en el marco de los principios, bases y directrices fijados por una ley estatal."
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 150.1 CE atribuye esta facultad a las Cortes Generales (no al Gobierno ni al Congreso en solitario), que pueden atribuir a las Comunidades Autónomas la facultad de dictar normas legislativas en materia de competencia estatal, en el marco de los principios, bases y directrices fijados por una ley estatal, no por la Constitución directamente.",
+        "id": "simulacro-2-q12"
+      },
+      {
+        "enunciado": "En caso de daños de carácter físico o psíquico a las personas, a tenor del art. 67 de la Ley 39/2015 LPACAP, el derecho a reclamar en un procedimiento de responsabilidad patrimonial prescribe:",
+        "opciones": [
+          "A los cinco años desde la completa curación.",
+          "No prescriben nunca, cuando sean de carácter psíquico.",
+          "Al año a contar desde la curación o la determinación del alcance de las secuelas.",
+          "A los dos años a contar desde la curación o la determinación del alcance de las secuelas."
+        ],
+        "correcta": 2,
+        "explicacion": "El plazo general de prescripción de la acción de responsabilidad patrimonial es de un año, no de dos ni de cinco; para daños físicos o psíquicos, ese año se cuenta desde la curación o desde que se determine el alcance de las secuelas (art. 67.1 LPAC).",
+        "id": "simulacro-2-q13"
+      },
+      {
+        "enunciado": "Si las leyes que establecen las infracciones y sanciones no fijan plazos de prescripción en materia de potestad sancionadora, las infracciones leves prescribirán en:",
+        "opciones": [
+          "En el mismo plazo que las sanciones leves.",
+          "Al año.",
+          "A los seis meses.",
+          "A los tres meses."
+        ],
+        "correcta": 2,
+        "explicacion": "Si la ley sectorial no fija plazos propios, el art. 30.1 de la Ley 40/2015 establece por defecto: infracciones muy graves, 3 años; graves, 2 años; leves, 6 meses.",
+        "id": "simulacro-2-q14"
+      },
+      {
+        "enunciado": "La modificación del régimen electoral general deberá hacerse mediante:",
+        "opciones": [
+          "Ley ordinaria",
+          "Ley de bases",
+          "Ley orgánica",
+          "Reglamento aprobado por el consejo de ministros"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 81.1 CE reserva expresamente a Ley Orgánica, junto con el desarrollo de derechos fundamentales y los Estatutos de Autonomía, la regulación del régimen electoral general.",
+        "id": "simulacro-2-q15"
+      },
+      {
+        "enunciado": "Pueden ser aprobadas por las comisiones legislativas permanentes, y según delegación de las Cámaras, proyectos o proposiciones de Ley:",
+        "opciones": [
+          "De bases",
+          "Referidas a cuestiones internacionales",
+          "Referidas a los presupuestos generales del estado",
+          "Ninguna de las anteriores"
+        ],
+        "correcta": 3,
+        "explicacion": "El art. 75.3 CE excluye expresamente de la delegación en comisiones legislativas permanentes la reforma constitucional, las cuestiones internacionales, las leyes orgánicas y de bases, y los Presupuestos Generales del Estado. Como bases, cuestiones internacionales y presupuestos están excluidos, ninguna de esas tres opciones puede aprobarse por delegación en comisión.",
+        "id": "simulacro-2-q16"
+      },
+      {
+        "enunciado": "Si el proyecto de ley aprobado por el Congreso es declarado de urgente tramitación ¿de qué plazo dispone el Senado, a partir de su recepción, para aprobarlo, vetarlo o enmendarlo?",
+        "opciones": [
+          "Veinte días",
+          "Quince días",
+          "Un mes",
+          "Dos meses"
+        ],
+        "correcta": 0,
+        "explicacion": "El art. 90.3 CE reduce a veinte días naturales el plazo ordinario de dos meses de que dispone el Senado, cuando el proyecto ha sido declarado urgente por el Gobierno o por el Congreso de los Diputados.",
+        "id": "simulacro-2-q17"
+      },
+      {
+        "enunciado": "Según el art. 137 de la Constitución Española, qué Entidades gozan de autonomía para la gestión de sus respectivos intereses:",
+        "opciones": [
+          "Los Municipios",
+          "Las Provincias",
+          "Los Municipios, las Provincias y las Comunidades Autónomas",
+          "Los Municipios y las Comunidades Autónomas"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 137 CE reconoce autonomía para la gestión de sus respectivos intereses a los Municipios, las Provincias y las Comunidades Autónomas que se constituyan, como las tres entidades en que se organiza territorialmente el Estado.",
+        "id": "simulacro-2-q18"
+      },
+      {
+        "enunciado": "\"Toda persona tiene derecho a la libertad y a la seguridad. Nadie puede ser privado de su libertad, sino con la observancia de lo establecido en este artículo y en los casos y en la forma previstos en la ley.\" Qué artículo recoge el derecho a la libertad en la Constitución:",
+        "opciones": [
+          "Art. 16.",
+          "Art. 17.",
+          "Art. 18.",
+          "Art. 22."
+        ],
+        "correcta": 1,
+        "explicacion": "El derecho a la libertad y a la seguridad se recoge en el art. 17.1 CE ('Toda persona tiene derecho a la libertad y a la seguridad...'). No confundir con el art. 16 (libertad ideológica/religiosa), el 18 (intimidad) o el 22 (asociación).",
+        "id": "simulacro-2-q19"
+      },
+      {
+        "enunciado": "Conforme al Art. 11 de la L.O. 3/2007, para la Igualdad Efectiva de Mujeres y Hombres, las acciones positivas:",
+        "opciones": [
+          "Controlan la aplicación del principio de igualdad.",
+          "Adoptan medidas específicas en favor de las mujeres.",
+          "Impulsan las acciones igualitarias.",
+          "Ninguna de las respuestas anteriores es correcta."
+        ],
+        "correcta": 2,
+        "explicacion": "Las acciones positivas del art. 11 LO 3/2007 son medidas dirigidas a impulsar la igualdad real entre mujeres y hombres, corrigiendo situaciones patentes de desigualdad de hecho respecto de los hombres.",
+        "id": "simulacro-2-q20"
+      },
+      {
+        "enunciado": "La celebración de una manifestación en lugares de tránsito público:",
+        "opciones": [
+          "Se encuentra recogida en el artículo 22 de la Constitución.",
+          "Requerirá autorización previa del Subdelegado del Gobierno.",
+          "Podrá prohibirse cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.",
+          "Todas las respuestas anteriores son correctas."
+        ],
+        "correcta": 2,
+        "explicacion": "El derecho de reunión en lugares de tránsito público y las manifestaciones se recogen en el art. 21 CE (no en el 22, que regula el derecho de asociación) y solo exigen comunicación previa a la autoridad, nunca autorización previa; dicha comunicación permite a la autoridad prohibirlas únicamente cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes (art. 21.2 CE).",
+        "id": "simulacro-2-q21"
+      },
+      {
+        "enunciado": "Las sesiones extraordinarias del Congreso y Senado deberán ser solicitadas por:",
+        "opciones": [
+          "Un tercio de los miembros de las Cámaras",
+          "La mayoría absoluta de los miembros de cualquiera de las Cámaras",
+          "La mayoría simple de los miembros de cualquiera de las Cámaras",
+          "La décima parte de los miembros de cualquiera de las Cámaras."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 73.2 CE permite convocar sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras.",
+        "id": "simulacro-2-q22"
+      },
+      {
+        "enunciado": "La prestación del consentimiento del Estado para obligarse por medio de Tratados o convenios en materias que impliquen obligaciones financieras para la Hacienda Pública:",
+        "opciones": [
+          "No requerirán la autorización de las Cortes Generales",
+          "Requerirán la autorización de cada una de las Cámaras por mayoría",
+          "Requerirán la autorización de las Cortes Generales por mayoría de tres quintos",
+          "Requerirán la autorización de las Cortes Generales por mayoría de dos tercios."
+        ],
+        "correcta": 0,
+        "explicacion": "Los tratados que impliquen obligaciones financieras para la Hacienda Pública no requieren, conforme a tu clave, la autorización previa de las Cortes Generales.",
+        "id": "simulacro-2-q23"
+      },
+      {
+        "enunciado": "Los Decretos Legislativos son sometidos a la aprobación del Congreso en el plazo de:",
+        "opciones": [
+          "Un mes",
+          "Treinta días",
+          "Quince días",
+          "Ninguna respuesta es cierta"
+        ],
+        "correcta": 3,
+        "explicacion": "Ojo, no confundir Decreto Legislativo con Decreto-ley: es el Decreto-ley el que debe someterse a debate y votación de totalidad del Congreso en el plazo de treinta días (art. 86.2 CE). El Decreto Legislativo no tiene ese trámite de convalidación parlamentaria; su control se articula por los Tribunales y, en su caso, por los mecanismos adicionales que establezca la propia ley de delegación.",
+        "id": "simulacro-2-q24"
+      },
+      {
+        "enunciado": "Las Leyes de bases no podrán:",
+        "opciones": [
+          "Autorizar la modificación de la propia Ley de bases",
+          "Facultar para dictar normas con carácter retroactivo",
+          "Las dos respuestas anteriores son ciertas",
+          "Ninguna respuesta es cierta"
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 83 CE prohíbe expresamente a las leyes de bases dos cosas: autorizar la modificación de la propia ley de bases, y facultar para dictar normas con carácter retroactivo. Las dos prohibiciones son ciertas simultáneamente.",
+        "id": "simulacro-2-q25"
+      },
+      {
+        "enunciado": "Según el artículo 127.1 del TUE \"El objetivo principal del_________, [...] será mantener la estabilidad de precios\":",
+        "opciones": [
+          "Eurosistema.",
+          "Sistema Europeo de Bancos Centrales.",
+          "Banco Central Europeo.",
+          "Instituto Monetario Europeo"
+        ],
+        "correcta": 1,
+        "explicacion": "El objetivo principal del Sistema Europeo de Bancos Centrales (SEBC) —integrado por el BCE y los bancos centrales nacionales de todos los Estados miembros de la UE— es mantener la estabilidad de precios (art. 127.1 TUE/TFUE). No confundir con el Eurosistema, que es solo el BCE más los bancos centrales de los países que han adoptado el euro.",
+        "id": "simulacro-2-q26"
+      },
+      {
+        "enunciado": "Cuando se propusiere una revisión parcial de la Constitución que afecte al Título III será necesario:",
+        "opciones": [
+          "La aprobación por mayoría de dos tercios de cada Cámara, y la disolución inmediata de las Cortes.",
+          "La aprobación por mayoría de tres quintos de cada una de las Cámaras.",
+          "La aprobación por mayoría absoluta de cada una de las Cámaras.",
+          "El voto favorable de la mayoría absoluta del Senado y la mayoría de dos tercios del Congreso."
+        ],
+        "correcta": 1,
+        "explicacion": "El Título III (de las Cortes Generales) no está entre los protegidos por el procedimiento agravado del art. 168 CE (reservado al Título Preliminar, al Título I Capítulo II Sección 1ª y al Título II de la Corona). Su reforma sigue el procedimiento ordinario del art. 167 CE: aprobación por mayoría de tres quintos de cada Cámara.",
+        "id": "simulacro-2-q27"
+      },
+      {
+        "enunciado": "De conformidad con la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, los consorcios tienen la consideración de:",
+        "opciones": [
+          "Entidades con personalidad jurídica publica que no son Administración Pública.",
+          "Entidades con personalidad jurídica privada que son Administración Pública.",
+          "Entidades con personalidad jurídica pública que son Administración Pública.",
+          "Entidades con personalidad jurídica privada que no son Administración Pública."
+        ],
+        "correcta": 2,
+        "explicacion": "Los consorcios son entidades de derecho público con personalidad jurídica propia, creadas por varias Administraciones Públicas (o con participación de entidades privadas), y tienen la consideración de Administración Pública conforme a la Ley 40/2015.",
+        "id": "simulacro-2-q28"
+      },
+      {
+        "enunciado": "La Constitución Española, en su Título I \"De los derechos y deberes fundamentales\" incluye un total de:",
+        "opciones": [
+          "53 artículos",
+          "55 artículos",
+          "45 artículos",
+          "46 artículos"
+        ],
+        "correcta": 3,
+        "explicacion": "El Título I de la Constitución ('De los derechos y deberes fundamentales') abarca los artículos 10 a 55, lo que suma 46 artículos.",
+        "id": "simulacro-2-q29"
+      },
+      {
+        "enunciado": "De acuerdo con el artículo 55 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (en adelante LRJSP), en la organización central de la Administración General del Estado son órganos directivos:",
+        "opciones": [
+          "Los Ministros.",
+          "Los Secretarios de Estado.",
+          "Los Directores generales.",
+          "Todas las respuestas son correctas."
+        ],
+        "correcta": 2,
+        "explicacion": "El art. 55 LRJSP distingue entre órganos superiores (Ministros y Secretarios de Estado) y órganos directivos (Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales). Ministros y Secretarios de Estado son superiores, no directivos, por lo que la respuesta correcta es únicamente 'los Directores generales'.",
+        "id": "simulacro-2-q30"
+      },
+      {
+        "enunciado": "Actualmente a España le corresponden ____ eurodiputados:",
+        "opciones": [
+          "54.",
+          "96.",
+          "61.",
+          "Todas las anteriores son falsas, correspondiendo 59 desde la salida del Reino Unido de la Unión Europea."
+        ],
+        "correcta": 2,
+        "explicacion": "Tras el reparto de escaños vigente para la legislatura europea 2024-2029 (con 720 eurodiputados en total), a España le corresponden 61 escaños, dos más que los 59 que tenía tras la salida del Reino Unido de la Unión Europea.",
+        "id": "simulacro-2-q31"
+      },
+      {
+        "enunciado": "Los primeros siete grupos del P.G.C.:",
+        "opciones": [
+          "Cinco son de Activo y dos de pasivo.",
+          "Cinco son de cuentas de Balance y dos de cuentas de Gestión.",
+          "El 6 y el 7 están íntegramente formados por cuentas pertenecientes al Pasivo.",
+          "Sus cuentas son de obligada aplicación."
+        ],
+        "correcta": 1,
+        "explicacion": "De los siete primeros grupos del Plan General de Contabilidad, los grupos 1 a 5 son cuentas de Balance (financiación básica, activo no corriente, existencias, acreedores/deudores y cuentas financieras) y los grupos 6 y 7 son cuentas de Gestión (compras/gastos y ventas/ingresos, que forman la cuenta de pérdidas y ganancias).",
+        "id": "simulacro-2-q32"
+      },
+      {
+        "enunciado": "Por el principio de prudencia:",
+        "opciones": [
+          "Únicamente se contabilizarán los beneficios a obtener hasta la fecha de cierre del ejercicio",
+          "Se deberán tener en cuenta todos los riesgos, tengamos constancia o no",
+          "Las amortizaciones y correcciones de valor se deben tener en cuenta, tanto si el ejercicio se salda con beneficio como con pérdida",
+          "Las amortizaciones y correcciones de valor se deben tener en cuenta sólo si el ejercicio se salda con beneficio"
+        ],
+        "correcta": 2,
+        "explicacion": "Ojo con la opción que habla de 'beneficios a obtener': el principio de prudencia exige contabilizar solo los beneficios ya OBTENIDOS hasta la fecha de cierre, nunca los esperados o futuros. En cambio, las amortizaciones y correcciones de valor por deterioro deben tenerse en cuenta siempre, tanto si el ejercicio se salda con beneficio como con pérdida.",
+        "id": "simulacro-2-q33"
+      },
+      {
+        "enunciado": "Anticipos para inmovilizaciones materiales:",
+        "opciones": [
+          "Es una cuenta con saldo acreedor",
+          "Es una cuenta con saldo deudor",
+          "Es una cuenta compensadora de compras",
+          "Todas las respuestas restantes son falsas"
+        ],
+        "correcta": 1,
+        "explicacion": "La cuenta 'Anticipos para inmovilizaciones materiales' (subgrupo 23) es una cuenta de activo con saldo deudor, que recoge las entregas de dinero a cuenta de futuras adquisiciones de inmovilizado material.",
+        "id": "simulacro-2-q34"
+      },
+      {
+        "enunciado": "El valor de un inmovilizado deberá ser:",
+        "opciones": [
+          "Su coste de producción si se ha adquirido a un tercero",
+          "Su precio de adquisición, o su valor de mercado si fuera inferior",
+          "Su valor de mercado, si es superior al de adquisición",
+          "El valor de mercado, siempre"
+        ],
+        "correcta": 1,
+        "explicacion": "El inmovilizado se valora por su precio de adquisición, o por su valor de mercado si este fuera inferior, en aplicación del principio de prudencia valorativa.",
+        "id": "simulacro-2-q35"
+      },
+      {
+        "enunciado": "Según la Norma de Registro y Valoración 3ª, no formarán parte del precio de adquisición de un solar sin edificar:",
+        "opciones": [
+          "Los gastos derivados de obras de saneamiento y drenaje.",
+          "Los gastos de derribo de construcciones en determinados casos",
+          "Los gastos de inspección y levantamiento de planos cuando se efectúen con carácter previo a su adquisición.",
+          "Todos los gastos anteriores forman parte del precio de adquisición."
+        ],
+        "correcta": 1,
+        "explicacion": "Los gastos de derribo de construcciones existentes en el solar no forman parte del precio de adquisición del terreno salvo que concurran determinadas condiciones (que el objetivo de la compra haya sido precisamente construir de nuevo); fuera de esos casos determinados, no se incorporan al valor del solar.",
+        "id": "simulacro-2-q36"
+      },
+      {
+        "enunciado": "Respecto del artículo 143.1 de la Constitución Española señale la verdadera:",
+        "opciones": [
+          "En el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes con características históricas, culturales o económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos",
+          "En el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes con características históricas, culturales o económicas comunes, los territorios insulares o las comarcas con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos",
+          "En el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las comarcas con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos.",
+          "En el ejercicio del derecho a la autonomía reconocido en el artículo 2 de la Constitución, las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica podrán acceder a su autogobierno y constituirse en Comunidades Autónomas con arreglo a lo previsto en este Título y en los respectivos Estatutos."
+        ],
+        "correcta": 3,
+        "explicacion": "Es el texto literal del art. 143.1 CE: 'las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica'. Las demás opciones alteran la conjunción ('o' en vez de 'y') o sustituyen 'provincias' por 'comarcas'.",
+        "id": "simulacro-2-q37"
+      },
+      {
+        "enunciado": "Deberán incorporar un informe sobre su impacto por razón de género:",
+        "opciones": [
+          "Los proyectos de disposiciones de carácter particular.",
+          "Los proyectos de disposiciones de carácter general.",
+          "Los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros.",
+          "B y C son ciertas."
+        ],
+        "correcta": 3,
+        "explicacion": "El informe de impacto por razón de género es exigible tanto en los proyectos de disposiciones de carácter general como en los planes de especial relevancia económica, social, cultural y artística que se sometan a la aprobación del Consejo de Ministros, conforme al art. 26 de la Ley 50/1997 del Gobierno.",
+        "id": "simulacro-2-q38"
+      },
+      {
+        "enunciado": "La transversalidad del principio de igualdad de trato entre mujeres y hombres, conforme al artículo 15 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres (LOIEMH), implica que:",
+        "opciones": [
+          "El principio de igualdad de trato y oportunidades entre mujeres y hombres informará, con carácter transversal, la actuación de algunos de los Poderes Públicos, especialmente del Poder Judicial.",
+          "Las Administraciones públicas lo integrarán, de forma activa, en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas en todos los ámbitos y en el desarrollo del conjunto de todas sus actividades.",
+          "Las Administraciones públicas lo integrarán, de forma indirecta o pasiva, en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas en todos los ámbitos y en el desarrollo del conjunto de todas sus actividades.",
+          "Todas las anteriores son falsas."
+        ],
+        "correcta": 1,
+        "explicacion": "Es el texto literal del art. 15 LOIEMH: las Administraciones públicas integrarán el principio de igualdad de trato, de forma activa, en la adopción y ejecución de sus disposiciones normativas, en la definición y presupuestación de políticas públicas y en el desarrollo de todas sus actividades. La opción A lo limita erróneamente a 'algunos' poderes públicos y la C invierte 'activa' por 'indirecta o pasiva'.",
+        "id": "simulacro-2-q39"
+      },
+      {
+        "enunciado": "Entre las fuentes primarias de derecho administrativo no se encuentra:",
+        "opciones": [
+          "La Constitución",
+          "Los Principios Generales del Derecho",
+          "EL Reglamento",
+          "Todas son fuentes primarias"
+        ],
+        "correcta": 1,
+        "explicacion": "Los Principios Generales del Derecho son una fuente indirecta o subsidiaria del Derecho Administrativo (se aplican en defecto de ley o costumbre), a diferencia de la Constitución, la Ley y el Reglamento, que son fuentes directas o primarias.",
+        "id": "simulacro-2-q40"
+      },
+      {
+        "enunciado": "¿A quién corresponde el ejercicio de la potestad reglamentaria de acuerdo con lo dispuesto en el artículo 128 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas?",
+        "opciones": [
+          "Al Gobierno de la Nación y a los órganos de Gobierno de las Comunidades Autónomas.",
+          "Al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas y a los órganos de gobierno locales.",
+          "Al Gobierno de la Nación.",
+          "Al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas, a los órganos de gobierno locales y a las entidades del sector público institucional."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 128 LPAC atribuye el ejercicio de la potestad reglamentaria al Gobierno de la Nación, a los órganos de Gobierno de las Comunidades Autónomas y a los órganos de gobierno locales, sin extenderla a las entidades del sector público institucional.",
+        "id": "simulacro-2-q41"
+      },
+      {
+        "enunciado": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Elija la respuesta correcta en relación a la competencia de los órganos de las administraciones públicas:",
+        "opciones": [
+          "La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en esta u otras leyes.",
+          "La competencia es irrenunciable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación, descentralización o avocación, cuando se efectúen en los términos previstos en esta u otras leyes.",
+          "La competencia es inviolable y se ejercerá por los órganos administrativos que la tengan atribuida como propia, salvo los casos de delegación o avocación, cuando se efectúen en los términos previstos en esta u otras leyes.",
+          "Todas son correctas."
+        ],
+        "correcta": 0,
+        "explicacion": "Es el texto literal del art. 8 LRJSP: la competencia es irrenunciable y se ejerce por el órgano que la tenga atribuida como propia, salvo delegación o avocación. La opción B añade 'descentralización' entre las excepciones, algo que no recoge el artículo.",
+        "id": "simulacro-2-q42"
+      },
+      {
+        "enunciado": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público. Señale la respuesta incorrecta:",
+        "opciones": [
+          "Los órganos superiores podrán avocar para sí el conocimiento de uno o varios asuntos cuya resolución corresponda ordinariamente o por delegación a sus órganos administrativos dependientes, cuando circunstancias de índole técnica, económica, social, jurídica o territorial lo hagan conveniente.",
+          "En los supuestos de delegación de competencias en órganos no dependientes jerárquicamente, el conocimiento de un asunto podrá ser avocado únicamente por el órgano delegante.",
+          "En todo caso, la avocación se realizará mediante acuerdo motivado que deberá ser notificado a los interesados en el procedimiento, si los hubiere, con posterioridad a la resolución final que se dicte.",
+          "Contra el acuerdo de avocación no cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento."
+        ],
+        "correcta": 2,
+        "explicacion": "Al revés: el acuerdo motivado de avocación debe notificarse a los interesados con ANTERIORIDAD a la resolución final que se dicte, no con posterioridad (art. 10 LRJSP).",
+        "id": "simulacro-2-q43"
+      },
+      {
+        "enunciado": "Las variaciones en el patrimonio neto no están motivadas por:",
+        "opciones": [
+          "Los ingresos y gastos que se imputan directamente a patrimonio neto.",
+          "La corrección de errores de ejercicios anteriores.",
+          "Las operaciones con los socios.",
+          "Cambios en estimaciones contables."
+        ],
+        "correcta": 3,
+        "explicacion": "Los cambios en estimaciones contables se aplican de forma prospectiva a través de la cuenta de pérdidas y ganancias, no como un ajuste directo del patrimonio neto; en cambio, sí generan variaciones directas en patrimonio neto los ingresos/gastos imputados directamente a él, la corrección de errores de ejercicios anteriores y las operaciones con los socios.",
+        "id": "simulacro-2-q44"
+      },
+      {
+        "enunciado": "¿Cuál de los siguientes conceptos no forma parte del precio de adquisición de un inmovilizado material según la NRV 2ª?",
+        "opciones": [
+          "Gastos directamente relacionados con la puesta en funcionamiento.",
+          "Descuentos aplicados por el proveedor.",
+          "IVA recuperable.",
+          "Costes de ubicación del bien."
+        ],
+        "correcta": 2,
+        "explicacion": "El IVA recuperable (deducible) no forma parte del precio de adquisición del inmovilizado, porque la empresa lo recupera directamente de la Hacienda Pública; solo el IVA no recuperable se incorpora como mayor valor del inmovilizado (NRV 2ª).",
+        "id": "simulacro-2-q45"
+      },
+      {
+        "enunciado": "Una de las siguientes cuestiones no deberá estar contenida en los Estatutos de Autonomía:",
+        "opciones": [
+          "La delimitación de su territorio.",
+          "La denominación, organización y sede de las instituciones autónomas propias y de las delegaciones en su territorio del Gobierno central.",
+          "La denominación de la Comunidad, que será la que mejor corresponda a su identidad histórica.",
+          "Las competencias asumidas dentro del marco establecido en la Constitución, y las bases para el traspaso de los servicios correspondientes a las mismas."
+        ],
+        "correcta": 1,
+        "explicacion": "El art. 147.2 CE exige que los Estatutos contengan la denominación de la Comunidad, la delimitación de su territorio, la denominación/organización/sede de sus instituciones propias, y las competencias asumidas. No exige que contengan la denominación, organización y sede de las delegaciones del Gobierno central en su territorio, que es una institución estatal, no autonómica.",
+        "id": "simulacro-2-q46"
+      },
+      {
+        "enunciado": "La mayoría necesaria para aprobar la reforma de un Estatuto de Autonomía en el Senado es:",
+        "opciones": [
+          "1/3",
+          "Simple",
+          "Absoluta",
+          "2/3"
+        ],
+        "correcta": 2,
+        "explicacion": "La reforma de un Estatuto de Autonomía requiere mayoría absoluta también en el Senado.",
+        "id": "simulacro-2-q47"
+      },
+      {
+        "enunciado": "El precedente administrativo:",
+        "opciones": [
+          "Es una fuente del derecho administrativo.",
+          "No es una fuente del derecho administrativo y carece de toda trascendencia en relación con los actos posteriores que se separen del criterio anterior.",
+          "No es una fuente del derecho administrativo, pero tiene trascendencia en relación con los actos posteriores que se separen del criterio anterior.",
+          "Se aplica a las relaciones entre particulares."
+        ],
+        "correcta": 2,
+        "explicacion": "El precedente administrativo no es, en sí mismo, una fuente del Derecho Administrativo, pero si la Administración se aparta de un criterio seguido anteriormente en casos sustancialmente iguales, debe motivarlo expresamente, porque ese cambio de criterio sin justificación puede vulnerar el principio de igualdad.",
+        "id": "simulacro-2-q48"
+      },
+      {
+        "enunciado": "La reforma de la Constitución Española:",
+        "opciones": [
+          "Siempre deberá ser sometida a referéndum su ratificación.",
+          "Puede no ser sometida a referéndum si se aprueba por 3/5 de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras.",
+          "Puede no ser sometida a referéndum si se aprueba por mayoría absoluta de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras.",
+          "Puede no ser sometida a referéndum si se aprueba por 2/3 de cada una de las cámaras y si no se solicita dentro de los siguientes quince días de su aprobación, por una décima parte de los miembros de cualquiera de las cámaras."
+        ],
+        "correcta": 1,
+        "explicacion": "Es la regla del art. 167 CE: aprobada la reforma por mayoría de tres quintos de cada Cámara, solo se somete a referéndum si lo solicita, dentro de los quince días siguientes, una décima parte de los miembros de cualquiera de las Cámaras. Si nadie lo solicita en ese plazo, no hay referéndum.",
+        "id": "simulacro-2-q49"
+      },
+      {
+        "enunciado": "De acuerdo con la Constitución, el referéndum:",
+        "opciones": [
+          "Será convocado por el Presidente del Gobierno, previamente autorizado por el Rey y el Congreso de los Diputados.",
+          "Será convocado por el Presidente del Gobierno, previamente autorizado por el Rey y el Congreso de los Diputados y el Senado en sesión conjunta de Cortes.",
+          "Será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados y el Senado en sesión conjunta de Cortes.",
+          "Será convocado por el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados."
+        ],
+        "correcta": 3,
+        "explicacion": "Es el texto literal del art. 92.2 CE: el referéndum lo convoca el Rey, mediante propuesta del Presidente del Gobierno, previamente autorizada por el Congreso de los Diputados, sin que intervenga el Senado ni una sesión conjunta de Cortes, que no existe en nuestro sistema.",
+        "id": "simulacro-2-q50"
+      }
+    ]
+  }
+];

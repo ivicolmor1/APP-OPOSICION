@@ -244,6 +244,53 @@ main#app {
 .btn:active { transform: scale(0.98); }
 .btn:disabled { opacity: 0.45; }
 
+/* ---------------- Formularios (añadir/editar pregunta) ---------------- */
+.qform { display: flex; flex-direction: column; }
+.form-group { margin-bottom: 14px; }
+.form-label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-dim);
+  margin-bottom: 6px;
+}
+.form-input, .form-textarea, .form-select {
+  width: 100%;
+  background: var(--bg-elev);
+  border: 1.5px solid var(--border);
+  border-radius: 12px;
+  padding: 11px 12px;
+  font-size: 0.94rem;
+  color: var(--text);
+  font-family: inherit;
+}
+.form-textarea { resize: vertical; }
+.form-input:focus, .form-textarea:focus, .form-select:focus {
+  outline: none;
+  border-color: var(--accent);
+}
+.form-option-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+.form-radio {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  flex-shrink: 0;
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-dim);
+}
+.form-radio input[type="radio"] {
+  width: 18px;
+  height: 18px;
+  accent-color: var(--accent);
+}
+.form-option-row .form-input { flex: 1; }
+
 /* ---------- Quiz ---------- */
 .quiz-progress {
   font-size: 0.8rem;
